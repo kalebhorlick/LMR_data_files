@@ -1,0 +1,166 @@
+﻿# Flinders Reef Coral Isotope Data and pH Reconstruction
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http://ncdc.noaa.gov/paleo/study/1919
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/great_barrier/flinders2005.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date:  2005-10
+#--------------------
+# Title
+#	Study_Name: Flinders Reef Coral Isotope Data and pH Reconstruction
+#--------------------
+# Investigators
+#       Investigators: Pelejero, C.; Calvo, E.; McCulloch, M.T.; Marshall, J.F.; Gagan, M.K.; Lough, J.M.; Opdyke, B.N.
+#--------------------
+# Description_and_Notes
+#	Description: 5-Yr interval Flinders Reef Boron Isotope, pH, Aragonite Saturation State, Carbon Isotope, Extension Rate and Calcification Data for 1708 to 1988.
+#--------------------
+# Publication 
+#       Authors: Pelejero, C.; Calvo, E.; McCulloch, M.T.; Marshall, J.F.; Gagan, M.K.; Lough, J.M.; Opdyke, B.N.
+#       Published_Date_or_Year:  2005-09-30      
+#       Published_Title: Flinders Reef Coral Boron Isotope Data and pH Reconstruction
+#       Journal_Name: Science
+#       Volume: 309
+#       Edition: 
+#       Issue: 
+#       Pages: 2204-2207
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Pelejero, C., E. Calvo, M.T. McCulloch, J.F. Marshall, M.K. Gagan, J.M. Lough, and B.N. Opdyke.  2005. Preindustrial to modern interdecadal variability in coral reef pH. Science v. 309, pp. 2204-2207, 30 September 2005.
+#       Abstract: The oceans are becoming more acidic due to absorption of anthropogenic carbon dioxide from the atmosphere. The impact of ocean acidification on marine ecosystems is unclear, but it will likely depend on species adaptability and the rate of change of seawater pH relative to its natural variability. To constrain the natural variability in reef-water pH, we measured boron isotopic compositions in a ~300-year-old massive Porites coral from the southwestern Pacific. Large variations in pH are found over ~50-year cycles that covary with the Interdecadal Pacific Oscillation of ocean-atmosphere anomalies, suggesting that natural pH cycles can modulate the impact of ocean acidification on coral reef ecosystems.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Flinders Reef Australia
+#       Location: i.e Australia/New Zealand>Australia
+#	Country: Australia 
+#	Northernmost_Latitude: -17.73 
+# 	Southernmost_Latitude: -17.73  
+# 	Easternmost_Longitude: 148.43 
+# 	Westernmost_Longitude: 148.43 
+# 	Elevation: -5m
+#------------------
+# Data_Collection   
+#	Collection_Name: 05flin01a
+#	Earliest_Year: 1708 
+#	Most_Recent_Year: 1988 
+#	Time_Unit: AD 
+#	Core_Length: 4.2 m
+#	Notes: 5 year time step. previous name- Flinders2005Poritesisotopic
+#------------------
+# Species 
+#	Species_Name: Porites sp.
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 	Column 1:  Year  Average AD
+# 	Column 2:  d11B (per mil), average of 2, 3, or 4 runs.
+# 	Column 3:  pH
+# 	Column 4:  Omega Aragonite
+# 	Column 5:  d13C (per mil)
+# 	Column 6:  Extension Rate (cm/yr)
+# 	Column 7:  Calcification (g/cm2/yr)
+# 
+#
+# 
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	age, , , years AD, , , , ,N
+##del11b	delta 11B, Porites sp.,per mil SRM 951, ,Corals and Sclerosponges, average: 2 to 4 runs,stable isotope mass spectrometry,N
+##pH		pH, Porites sp., , unitless, ,Corals and Sclerosponges, , ,N
+##o_arag	Aragonite saturation state, Porites sp., , , ,Corals and Sclerosponges, , ,N
+##del13c	delta13C, Porites sp., , per mil, ,Corals and Sclerosponges, , ,N 
+##ext_rate	Extension Rate,	Porites sp., ,cm/yr, ,Corals and Sclerosponges, , ,N	
+##calc		Calcification, Porites sp., , g/cm2/yr, ,Corals and Sclerosponges, , ,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age_AD	del11b	pH	o_arag	del13c	ext_rate	calc
+1998	22.99	7.91	2.92	-1.06	1.46	1.76
+1983	24.17	8.07	3.82	-1.19	1.22	1.47
+1978	23.43	7.97	3.25	-0.67	0.9	1.1
+1973	23.64	8	3.29	-0.94	1.1	1.36
+1968	24.57	8.12	4.01	-0.23	1.32	1.66
+1963	24.83	8.15	4.27	-0.29	1.1	1.41
+1958	23.77	8.02	3.43	-0.54	1.17	1.44
+1953	24.89	8.16	4.34	-0.32	1.32	1.62
+1948	23.97	8.05	3.64	-0.46	1.41	1.71
+1943	23.51	7.98	3.22	-0.3	1.09	1.38
+1938	23.45	7.98	3.19	-0.42	1.1	1.37
+1933	23.53	7.99	3.29	-0.38	1.24	1.49
+1928	23.92	8.04	3.5	-0.25	1.45	1.81
+1923	23.95	8.04	3.46	-0.33	1.18	1.42
+1918	24.39	8.1	3.94	-0.26	1.3	1.57
+1913	23.66	8	3.31	-0.24	1.17	1.37
+1908	23.36	7.96	3.04	-0.23	1.12	1.38
+1903	23.92	8.04	3.6	-0.07	1.18	1.48
+1898	23.78	8.02	3.41	-0.12	1.45	1.84
+1893	23.2	7.94	2.93	-0.25	1.28	1.6
+1888	23.85	8.03	3.54	-0.13	1.76	2.2
+1883	23.4	7.97	3.06	-0.21	1.16	1.41
+1878	24.23	8.08	3.84	-0.33	1.17	1.49
+1873	23.88	8.03	3.5	-0.19	1.49	1.83
+1868	23.77	8.02	3.43	-0.11	0.99	1.22
+1863	24.05	8.06	3.63	-0.14	1.13	1.45
+1858	24.38	8.1	3.86	-0.03	1.1	1.4
+1853	23.79	8.02	3.31	-0.13	1.04	1.29
+1848	23.61	8	3.25	-0.19	1.17	1.43
+1843	23.36	7.96	2.9	-0.08	1.16	1.34
+1838	23.29	7.95	2.98	-0.08	1.56	1.86
+1833	23.35	7.96	2.98	-0.21	1.11	1.29
+1828	23.73	8.01	3.26	-0.1	1.52	1.83
+1823	24.44	8.1	3.83	0.11	1.52	1.82
+1818	24.21	8.08	3.78	-0.09	1.17	1.4
+1813	24.51	8.11	3.95	-0.09	1.26	1.49
+1808	24.28	8.09	3.72	0.01	1.05	1.27
+1803	23.67	8.01	3.34	-0.1	1.3	1.53
+1798	23.39	7.97	3.06	-0.26	1.35	1.69
+1793	23.94	8.04	3.47	-0.03	1.39	1.68
+1788	23.75	8.02	3.29	-0.26	1.16	1.44
+1783	23.84	8.03	3.46	-0.26	1.34	1.65
+1778	24.47	8.11	4.02	0	1.04	1.26
+1773	24.24	8.08	3.76	0.18	1.24	1.52
+1768	24.08	8.06	3.69	-0.1	1.43	1.78
+1763	24.06	8.06	3.7	-0.59	1.4	1.66
+1758	24.1	8.06	3.72	-0.01	1.08	1.25
+1753	23.78	8.02	3.46	-0.07	0.84	0.98
+1748	23.49	7.98	3.29	-0.25	1.04	1.25
+1743	23.77	8.02	3.45	-0.28	0.91	1.16
+1738	23.33	7.96	3.08	-0.21	1.02	1.25
+1733	24.2	8.08	3.67	0.09	1.18	1.4
+1728	24.08	8.06	3.7	0.09	1.14	1.3
+1723	23.82	8.03	3.46	-0.14	1.13	1.31
+1718	24.52	8.11	3.84	0.08	0.99	1.19
+1713	24.97	8.17	4.64	0.04	1.2	1.51
+1708	24.79	8.15	4.38	-0.07	0.9	1.13
+1703	NAN	NAN	NAN	NAN	1.23	1.58

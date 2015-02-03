@@ -1,0 +1,118 @@
+﻿# Flinders Reef Coral Isotope Data and pH Reconstruction
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http://ncdc.noaa.gov/paleo/study/1919
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/great_barrier/flinders2005.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date:  2005-10-01
+#--------------------
+# Title
+#	Study_Name: Flinders Reef Coral Isotope Data and pH Reconstruction
+#--------------------
+# Investigators
+#       Investigators: Pelejero, C.; Calvo, E.; McCulloch, M.T.; Marshall, J.F.; Gagan, M.K.; Lough, J.M.; Opdyke, B.N.
+#--------------------
+# Description_and_Notes
+#	Description: High resolution Flinders Reef Boron Isotope, pH data for April 1987 through April 1988. Scale in monthly intervals; Month 21 = July 1987 and Month 28 = February 1988. Note that each sample corresponds to 1mm but, since growth rate is variable, translation from mm to months is not constant with time.
+#--------------------
+# Publication 
+#       Authors: Pelejero, C.; Calvo, E.; McCulloch, M.T.; Marshall, J.F.; Gagan, M.K.; Lough, J.M.; Opdyke, B.N.
+#       Published_Date_or_Year:  2005-09-30      
+#       Published_Title: Flinders Reef Coral Boron Isotope Data and pH Reconstruction
+#       Journal_Name: Science
+#       Volume: 309
+#       Edition: 
+#       Issue: 
+#       Pages: 2204-2207
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Pelejero, C., E. Calvo, M.T. McCulloch, J.F. Marshall, M.K. Gagan, J.M. Lough, and B.N. Opdyke.  2005. Preindustrial to modern interdecadal variability in coral reef pH. Science v. 309, pp. 2204-2207, 30 September 2005.
+#       Abstract: The oceans are becoming more acidic due to absorption of anthropogenic carbon dioxide from the atmosphere. The impact of ocean acidification on marine ecosystems is unclear, but it will likely depend on species adaptability and the rate of change of seawater pH relative to its natural variability. To constrain the natural variability in reef-water pH, we measured boron isotopic compositions in a ~300-year-old massive Porites coral from the southwestern Pacific. Large variations in pH are found over ~50-year cycles that covary with the Interdecadal Pacific Oscillation of ocean-atmosphere anomalies, suggesting that natural pH cycles can modulate the impact of ocean acidification on coral reef ecosystems.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Flinders Reef Australia
+#       Location: i.e Australia/New Zealand>Australia
+#	Country: Australia 
+#	Northernmost_Latitude: -17.73 
+# 	Southernmost_Latitude: -17.73  
+# 	Easternmost_Longitude: 148.43 
+# 	Westernmost_Longitude: 148.43 
+# 	Elevation: -5m
+#------------------
+# Data_Collection   
+#	Collection_Name: 05flin01b
+#	Earliest_Year: 1708 
+#	Most_Recent_Year: 1988 
+#	Time_Unit: AD 
+#	Core_Length: 4.2 m
+#	Notes:# Scale in monthly intervals; Month 21 = July 1987 and Month 28 = February 1988. Note that each sample corresponds to 1mm but, since growth rate is variable, translation from mm to months is not constant with time. previous name- Flinders2005Porites_d11B_pH
+#------------------
+# Species 
+#	Species_Name: Porites sp.
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+#	Column 1:  Month 
+#	Column 2:  d11B (per mil SRM 951), average of 2, 3, or 4 runs
+#	Column 3:  pH
+# 
+#
+# 
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##month		age, , ,month, ,Corals and Sclerosponges, , ,N
+##del11b	delta 11B,Porites sp., ,per mil SRM 951, ,Corals and Sclerosponges, average:2 to 4 runs,stable isotope mass spectrometry,N
+##pH		pH, Porites sp., ,unitless, ,Reconstructions, , ,N
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+Month	del11b	pH
+30.6	22.81	7.87
+29.8	23.17	7.93
+28.9	23.06	7.92
+28	22.33	7.79
+27.1	22.47	7.82
+26.3	22.45	7.81
+25.4	22.4	7.8
+24.5	22.35	7.79
+23.6	22.26	7.78
+22.8	22.57	7.83
+21.9	22.39	7.8
+21	23.06	7.92
+20.5	22.93	7.9
+20.1	23.05	7.91
+19.6	22.84	7.88
+19.2	22.73	7.86
+18.7	23.07	7.92
+18.3	22.5	7.82
+17.8	22.8	7.87
