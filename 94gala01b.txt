@@ -1,0 +1,117 @@
+﻿# Urvina Bay Coral Stable Isotope Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:1850
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/east_pacific/urvcomp.txt
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/east_pacific/readme_urvina.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 1995-08
+#--------------------
+# Title
+#	Study_Name: Urvina Bay Coral Stable Isotope Data
+#--------------------
+# Investigators
+#       Investigators: Dunbar, R.B.; Wellington, G.M.; Colgan, M.W.; Glynn, P.W.
+#--------------------
+# Description_and_Notes
+#	Description: Urvina Bay, Galapagos Islands, 00 deg 24.52' S, 91 deg. 14.04'W.   Oxygen Isotopic time series averaged from 2 cores-UR-86 (Pavona clavus,  1607-1953)  and UR-87 (Pavona gigantea, 1962-1981).  This data was used  to construct figure 8 in the original reference.  Years with no value are  years for which no coral sample was available for analysis.  Both samples  are expressed in units of parts per mil relative to the PDB standard.   To construct a working composite of the two data sets, a correction must  be made for the species-specific offset between P. Clavus and P. Gigantea.  Based on our studies in Galapagos (e.g., Fig 6 in Dunbar, et al, 1994) and  multiple sites in the eastern Pacific (Wellington and Dunbar, Coral Reefs,  in press), P. Clavus produces aragonite about 0.40 parts per mil enriched  in O-18 relative to P. Gigantea.  This amount has been added to the UR-87  PDB values to produce Figure 8 in Dunbar, et al, 1994.
+#--------------------
+# Publication 
+#       Authors: Dunbar, R.B.; Wellington, G.M.; Colgan, M.W.; Glynn, P.W.
+#       Published_Date_or_Year: 1994-04     
+#       Published_Title: Eastern Pacific Sea Surface Temperature since  1600 A.D.: The d18O Record of Climate Variability in Galapagos Corals
+#       Journal_Name: Paleoceanography
+#       Volume: 9
+#       Edition: 
+#       Issue: 2
+#       Pages: 291-315
+#       DOI: 10.1029/93PA03501
+#       Online_Resource: http://onlinelibrary.wiley.com/doi/10.1029/93PA03501/abstract
+#       Full_Citation: Dunbar, R.B. Wellington, G.M., Colgan, M.W.,  and Glynn, P.W., 1994, Eastern Pacific Sea Surface Temperature since  1600 A.D.: The d18O Record of Climate Variability in Galapagos Corals, Paleoceanography, v.9, 291-315.
+#       Abstract: We measured stable oxygen isotope ratios and skeletal growth rates in the massive corals Pavona clavus and P. gigantea from the west coast of Isabela Island, Galápagos, to assess interannual to decadal climate variability in the eastern Pacific. Comparisons of instrumental data sets show that sea surface temperatures (SST) in the Galápagos region are representative of a broad portion of the eastern equatorial Pacific. The site is especially well-suited for long-term studies of the El Niño/Southern Oscillation (ENSO) phenomenon, as it lies within the eastern Pacific “center of action” for thermal anomalies associated with ENSO. The P. gigantea isotope record is nearly monthly in resolution, spans the period 1961–1982, and shows strong correlation with a Galápagos instrumental SST record (r = −0.90 for annual averages). Cross-spectral analysis shows that SST can explain greater than 80% of the variance in δ18O at both the annual cycle and within the high-frequency portion of the ENSO band (3-5 years). The P. clavus record is annual in resolution, extends from 1587 to 1953 A.D., and was obtained from a 10-m diameter colony preserved within the Urvina Bay uplift. Because seawater δ18O variations in the region are very small, we interpret the Urvina Bay coral δ18O record in terms of annual average SST. The isotopic record appears to be a very good, but not perfect, indicator of ENSO events and shows good correspondence with the historical ENSO reconstruction of Quinn et al. (1987). A number of low δ18O excursions that we observe during the 17th and 18th centuries very likely represent ENSO events that are missing from the historical tabulations. Most interannual δ18O variations between 1607 and 1953 A.D. represent annual average temperature excursions of 1° to 2.5°C. During the Little Ice Age, the annual δ18O series correlates well with many North American tree ring records and shows low temperatures during the early 1600s and early 1800s, and relatively warmer conditions during the 1700s. Unlike most northern hemisphere tree ring and instrumental records, we see no evidence at this site for warming between 1880 and 1940 but rather observe a slight cooling (28% of the total variance. The main ENSO mode is centered at 4.6 years and accounts for 12% of the total variance. Additional significant oscillations occur at periods of 3.3, 6, 8, 11, 17, 22, and 34 years. Both annual growth rate and δ18O show variance at periods equivalent to the solar and solar magnetic periods (e.g., 11 and 22 years, respectively). In addition, the amplitude of the 11-year δ18O cycle generally varies with the amplitude of the solar cycle, supporting previous suggestions that the solar cycle may modulate interannual to decadal climate variability in the tropics. The dominant oscillatory modes, both within the ENSO and interdecadal frequency bands, shift to shorter periods from the early to middle 1700s and again from the middle to late 1800s. This may reflect major reorganizations within the tropical ocean-atmosphere system and suggests that tropical Pacific climate variability is linked across timescales ranging from years to decades.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Urvina Bay, Galapagos Islands
+#       Location: Ocean>Pacific Ocean>Eastern Pacific Ocean>Galapagos Islands
+#	Country: Ecuador 
+#	Northernmost_Latitude: -.4 
+# 	Southernmost_Latitude: -.4 
+# 	Easternmost_Longitude: -91.23 
+# 	Westernmost_Longitude: -91.23 
+# 	Elevation:  
+#------------------
+# Data_Collection   
+#	Collection_Name: 94gala01a 
+#	Earliest_Year: 1607 
+#	Most_Recent_Year: 1953 
+#	Time_Unit: Years AD 
+#	Core_Length:
+#	Notes: Core name- UR-87 (Pavona gigantea, 1962-1981) P. Clavus produces aragonite about 0.40 parts per mil enriched  in O-18 relative to P. Gigantea.  This amount has been added to the UR-87  PDB values to produce Figure 8 in Dunbar, et al, 1994.
+#------------------
+# Species
+#	Species_Name: Pavona gigantea
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##d18o	delta 18 Oxygen, Pavona gigantea, , per mil VPDB, , Corals and Sclerosponges, correction: +0.4 per mil VPDB, ,N 				
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age_AD	d18o
+1981	-4.13
+1980	-4.26
+1979	-4.44
+1978	-4.15
+1977	-4.26
+1976	-4.48
+1975	-4.17
+1974	NAN
+1973	NAN
+1972	-4.65
+1971	-4.37
+1970	-4.35
+1969	-4.54
+1968	-4.35
+1967	-4.14
+1966	-4.23
+1965	-4.54
+1964	-4.31
+1963	-4.38
+1962	-4.44
