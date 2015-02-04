@@ -85,9 +85,9 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##depth_cm	depth, Porites lutea, ,cm, , Corals and Sclerosponges, , ,N
-##del13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
-##del18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N 		
-##date_ass	assigned date, , , years AD, , Corals and Sclerosponges, , ,N		
+##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
+##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N 		
+##age_AD_ass	assigned date, , , years AD, , Corals and Sclerosponges, , ,N		
 #
 #----------------
 # Data:
@@ -95,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-depth_cm	del13c	del18o	date_ass
+depth_cm	d13c	d18o	age_AD_ass
 143.95	-1.22	-4.34	NAN
 143.75	-0.75	-4.2	NAN
 143.55	-0.45	-4.11	1878.71
