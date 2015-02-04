@@ -1,0 +1,302 @@
+﻿# Caribbean Sclerosponge Oxygen Isotope and Sr/Ca Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1878
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/caribbean/montego_bay_2003.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2003-10
+#--------------------
+# Title
+#	Study_Name: Caribbean Sclerosponge Oxygen Isotope and Sr/Ca Data
+#--------------------
+# Investigators
+#       Investigators: Haase-Schramm, A.; Böhm, F.; Eisenhauer, A.; Dullo, W.C.; Joachimski, M.M.; Hansen, B.; Reitner, J.
+#--------------------
+# Description_and_Notes
+#	Description: Sr/Ca and oxygen isotope values (VPDB) were measured on aragonitic skeletons  of sclerosponges Ceratoporella nicholsoni. Sr/Ca values were measured with  ICP-AES with external reproducibility of 0.6% (2sem). External precision for  d18O is 0.07 permil (2sd). Age model is based on U/Th dating with average  error of 3%.  sample Pb19: Pedro Bank, 17�32�N, 78�57�W ; 125 mbsl
+#--------------------
+# Publication 
+#       Authors: Haase-Schramm, A.; Böhm, F.; Eisenhauer, A.; Dullo, W.C.; Joachimski, M.M.; Hansen, B.; Reitner, J.
+#       Published_Date_or_Year: 2003     
+#       Published_Title: Sr/Ca ratios and oxygen isotopes from sclerosponges:  Temperature history of the Caribbean mixed layer and  thermocline during the Little Ice Age
+#       Journal_Name: Paleoceanography
+#       Volume: 18
+#       Edition: 3
+#       Issue: 
+#       Pages: 1073
+#       DOI: 10.1029/2002PA000830
+#       Online_Resource: 
+#       Full_Citation: Haase-Schramm, A., F. B�hm, A. Eisenhauer,  W.-C. Dullo, M.M. Joachimski, B. Hansen, and J. Reitner, 2003,  Sr/Ca ratios and oxygen isotopes from sclerosponges:  Temperature history of the Caribbean mixed layer and  thermocline during the Little Ice Age, Paleoceanography, Vol. 18, No. 3, 1073, doi:10.1029/2002PA000830.
+#       Abstract: We investigate aragonitic skeletons of the Caribbean sclerosponge  Ceratoporella nicholsoni from Jamaica, 20 m below sea level (mbsl),  and Pedro Bank, 125 mbsl. We use d18O and Sr/Ca ratios as temperature  proxies to reconstruct the Caribbean mixed layer and thermocline  temperature history since 1400 A.D. with a decadal time resolution.  Our age models are based on U/Th dating and locating of the radiocarbon  bomb spike. The modern temperature difference between the two sites  is used to tentatively calibrate the C. nicholsoni Sr/Ca thermometer.  The resulting calibration points to a temperature sensitivity of  Sr/Ca in C. nicholsoni aragonite of about -0.1 mmol/mol/K. Our Sr/Ca  records reveal a pronounced warming from the early 19th to the  late 20th century, both at 20 and 125 mbsl. Two temperature minima  in the shallow water record during the late 17th and early 19th century  correspond to the Maunder and Dalton sunspot minima, respectively.  Another major cooling occurred in the late 16th century and is not  correlatable with a sunspot minimum. The temperature contrast between  the two sites decreased from the 14th century to a minimum in the  late 17th century and subsequently increased to modern values  in the early 19th century. This is interpreted as a long-term deepening  and subsequent shoaling of the Caribbean thermocline. The major trends  of the Sr/Ca records are reproduced in both specimens but hardly  reflected in the d18O records.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Montego Bay, Jamaica
+#       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Jamaica
+#	Country: Jamaica 
+#	Northernmost_Latitude: 18.47
+# 	Southernmost_Latitude: 18.47
+# 	Easternmost_Longitude: -77.95 
+# 	Westernmost_Longitude: -77.95 
+# 	Elevation: -20 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: 03jama02b  
+#	Earliest_Year: 1356
+#	Most_Recent_Year: 1991 
+#	Time_Unit: Years AD 
+#	Core_Length: 
+#	Notes: Core name- Sclerosponge Ce96
+#------------------
+# Species
+#	Species_Name: Ceratoporella nicholsoni
+#	Common_Name: 
+#------------------
+# Chronology: Age model is based on U/Th dating with average error of 3%. Our age models are based on U/Th dating and locating of the radiocarbon bomb spike.
+# 
+#
+# 
+#
+# 
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##Sr/Ca		Strontium/Calcium,Ceratoporella nicholsoni, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
+##err	error value per sample, , ,2 sem, , Corals and Sclerosponges, , ,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age_AD	Sr/Ca	err
+1356	9.744	0.016
+1361	9.661	0.029
+1365	9.639	0.032
+1369	9.672	0.046
+1372	9.675	0.074
+1377	9.615	0.034
+1380	9.681	0.025
+1383	9.683	0.088
+1386	9.686	0.048
+1390	9.556	0.089
+1393	9.723	0.05
+1395	9.673	0.021
+1399	9.621	0.022
+1402	9.682	0.043
+1405	9.728	0.067
+1409	9.741	0.042
+1412	9.72	0.246
+1416	9.698	0.089
+1418	9.765	0.12
+1421	9.701	0.04
+1425	9.599	0.118
+1427	9.638	0.032
+1430	9.754	0.038
+1433	9.625	0.078
+1436	9.673	0.059
+1438	9.67	0.051
+1441	9.699	0.036
+1445	9.684	0.076
+1447	9.687	0.041
+1451	9.699	0.026
+1454	9.688	0.033
+1457	9.625	0.046
+1460	9.642	0.051
+1466	9.606	0.031
+1469	9.672	0.036
+1472	9.577	0.021
+1475	9.638	0.042
+1477	9.669	0.023
+1480	9.568	0.059
+1483	9.569	0.048
+1486	9.597	0.034
+1490	9.785	0.016
+1491	9.642	0.045
+1493	9.65	0.064
+1496	9.698	0.046
+1500	9.658	0.046
+1503	9.589	0.054
+1508	9.669	0.045
+1508	9.664	0.036
+1510	9.758	0.003
+1514	9.646	0.05
+1517	9.642	0.084
+1520	9.683	0.035
+1524	9.626	0.014
+1527	9.594	0.035
+1529	9.691	0.034
+1532	9.595	0.037
+1535	9.667	0.095
+1537	9.602	0.035
+1539	9.683	0.05
+1542	9.68	0.067
+1545	9.701	0.048
+1547	9.611	0.025
+1551	9.65	0.028
+1555	9.592	0.039
+1559	9.624	0.041
+1562	9.646	0.058
+1565	9.74	0.036
+1567	9.698	0.012
+1570	9.784	0.055
+1572	9.789	0.012
+1575	9.761	0.017
+1577	9.787	0.085
+1580	9.74	0.022
+1582	9.73	0.06
+1585	9.738	0.01
+1589	9.77	0.051
+1591	9.666	0.012
+1594	9.703	0.025
+1597	9.742	0.046
+1600	9.762	0.044
+1603	9.787	0.024
+1605	9.751	0.028
+1610	9.805	0.053
+1614	9.756	0.021
+1616	9.828	0.116
+1616	9.798	0.03
+1616	9.557	0.075
+1618	9.851	0.055
+1618	9.724	0.054
+1618	9.668	0.063
+1621	9.753	0.021
+1622	9.624	0.06
+1622	9.539	0.095
+1624	9.792	0.018
+1624	9.741	0.051
+1624	9.737	0.041
+1627	9.807	0.039
+1627	9.722	0.055
+1627	9.724	0.079
+1630	9.701	0.038
+1631	9.731	0.04
+1631	9.722	0.044
+1633	9.672	0.078
+1634	9.797	0.066
+1634	9.67	0.071
+1636	9.731	0.025
+1636	9.682	0.04
+1636	9.677	0.055
+1639	9.78	0.051
+1639	9.739	0.055
+1639	9.757	0.056
+1642	9.758	0.009
+1642	9.756	0.073
+1643	9.782	0.027
+1646	9.778	0.074
+1650	9.824	0.117
+1650	9.77	0.065
+1654	9.656	0.057
+1656	9.845	0.049
+1656	9.735	0.062
+1660	9.773	0.07
+1660	9.681	0.082
+1663	9.75	0.068
+1663	9.769	0.017
+1667	9.529	0.04
+1667	9.608	0.092
+1671	9.792	0.024
+1671	9.704	0.074
+1674	9.902	0.064
+1674	9.75	0.016
+1677	9.861	0.133
+1677	9.732	0.054
+1682	9.836	0.05
+1682	9.687	0.075
+1686	9.792	0.11
+1686	9.758	0.076
+1690	9.98	0.072
+1690	9.82	0.046
+1690	9.759	0.026
+1694	9.826	0.128
+1694	9.789	0.039
+1698	9.798	0.026
+1701	9.832	0.178
+1705	9.767	0.201
+1709	9.827	0.118
+1714	9.704	0.026
+1718	9.704	0.077
+1722	9.769	0.027
+1726	9.806	0.117
+1730	9.65	0.093
+1735	9.811	0.17
+1739	9.779	0.075
+1739	9.662	0.034
+1744	9.735	0.148
+1747	9.564	0.047
+1754	9.751	0.059
+1756	9.763	0.172
+1765	9.702	0.097
+1780	9.62	0.102
+1780	9.787	0.046
+1784	9.706	0.03
+1784	9.84	0.048
+1795	9.797	0.233
+1800	9.827	0.081
+1805	9.878	0.082
+1808	9.887	0.067
+1813	9.874	0.065
+1817	9.902	0.039
+1821	9.685	0.078
+1830	9.82	0.082
+1834	9.761	0.021
+1840	9.849	0.057
+1845	9.727	0.057
+1850	9.81	0.076
+1855	9.63	0.041
+1860	9.729	0.044
+1864	9.64	0.034
+1869	9.712	0.051
+1873	9.702	0.03
+1878	9.668	0.071
+1883	9.541	0.054
+1888	9.755	0.041
+1893	9.665	0.054
+1899	9.658	0.02
+1904	9.774	0.054
+1909	9.728	0.068
+1915	9.603	0.006
+1921	9.604	0.03
+1926	9.696	0.063
+1932	9.435	0.053
+1940	9.618	0.017
+1947	9.468	0.059
+1954	9.267	0.03
+1957	9.536	0.056
+1960	9.584	0.079
+1962	9.483	0.028
+1967	9.518	0.042
+1967	9.5	0.039
+1971	9.518	0.051
+1971	9.431	0.044
+1975	9.54	0.034
+1982	9.52	0.053
+1986	9.494	0.072
+1991	9.525	0.068
