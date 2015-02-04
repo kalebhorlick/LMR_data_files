@@ -1,0 +1,305 @@
+﻿# Aqaba Jordan Coral Isotope Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:1854
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/red_sea/aq18-13c.txt
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/red_sea/readme_aqaba.txt
+# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/image/coral/aq18c13.gif
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 1995-08
+#--------------------
+# Title
+#	Study_Name: Aqaba Jordan Coral Isotope Data
+#--------------------
+# Investigators
+#       Investigators: Heiss, G. A.
+#--------------------
+# Description_and_Notes
+#	Description: Site: Aqaba, Jordan, Marine Science Station Reef, cores C18 and C19 (29 deg 26' N, 34 deg 58' E)  Water Depth 1m. collected  11/01/92 (upper 0-120cm), 11/01/93 (120-320cm) Coral species: Porites sp.  In fall 1992 and spring 1993 we drilled an unusual big colony of Porites sp. at the fore-reef at Aqaba.  The colony is situated in front of the reef edge of the fringing reef south of the Marine Science Station. The colony grows from a depth of ca 4.5 m, reaches a height of 3.5 m and a maximum diameter of approximately 5.5 m. We drilled with a hand held pneumatic drill powered by compressed air from a Scuba tank. We used a conventional 30cm diamond-tipped drill bit and in order to obtain longer cores we constructed extensions of 100cm each (3 in total). The extensions are made from a 17mm diameter steel rod with a screw thread attached either to the core barrel or another extension. Up to 320 cm long cores in 30cm lengths with 100% recovery were obtained. The core holes were filled with cement plugs after drilling to prevent bioerosion  (see Hudson 1981; Winter et al. 1991) . The cores were drilled parallel to the growth axis (perpendicular to the coral surface). Five cores were extracted from the "big" Porites sp. at different sides of the colony. Three cores (19, 20, 21) are of 130 cm length, core 24 (lying SE-side of the colony at an angle of 45�) reached 229 cm length, and core 18 (top of the colony) recovered coral skeleton to a total length of 312 cm.  For oxygen and carbon isotope analysis core 18 (top of colony) and core 19 (horizontal core from the southern side) were selected.  Samples for isotopic analyses were treated with 35% hydrogen peroxide for 24 hours to remove oxidizable organic material. In addition they were rinsed several times in demineralized water and dried in a stove at 40�C. Small samples to determine the average isotope composition of each year were cut with a hand held saw. They were taken along the edge of the coral slabs. The top of LD-bands was chosen as the end (respectively beginning) of an annual band. In all our samples this boundary is sharp and can be determined relatively precisely. Each chip was gently powdered in an agate mortar. The samples were reacted with 100% H3PO4 at 75�C in an online, automated carbonate reaction device (Kiel Device) connected to a Finnigan Mat 252 mass spectrometer. Isotopic ratios were corrected for 17-O contribution  (Craig 1957)  and are reported in permil relative to PDB. Average precision based on duplicate sample analysis and on multiple analysis of NBS 19 is �0.04 permil for d13C and �0.08 permil for d18O.
+#--------------------
+# Publication 
+#       Authors: Heiss, G. A.
+#       Published_Date_or_Year: 1994     
+#       Published_Title: Coral reefs in the Red Sea: Growth, production and stable isotopes
+#       Journal_Name: GEOMAR
+#       Volume: 32
+#       Edition: 
+#       Issue: 
+#       Pages: 1-141
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Heiss, G. A., 1994. Coral reefs in the Red Sea: Growth, production and stable isotopes, GEOMAR Report 32: 1-141.
+#       Abstract: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: c
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Gulf of Aqaba, Red Sea, Jordan
+#       Location: Ocean>Indian Ocean>Red Sea
+#	Country: Jordan 
+#	Northernmost_Latitude: 29.42 
+# 	Southernmost_Latitude: 29.42 
+# 	Easternmost_Longitude: 34.97 
+# 	Westernmost_Longitude: 34.97 
+# 	Elevation: -4.5 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: 94reds01a 
+#	Earliest_Year: 1788 
+#	Most_Recent_Year: 1992 
+#	Time_Unit: Years AD 
+#	Core_Length: 2.8 m
+#	Notes: Core name- aq18. Average precision based on duplicate sample analysis and on multiple analysis of NBS 19 is �0.04 permil for d13C and �0.08 permil for d18O
+#------------------
+# Species
+#	Species_Name: Porites sp.
+#	Common_Name: 
+#------------------
+# Chronology: year of deposition derived from density banding each year represents a high density/low density band
+# 
+#
+# 
+#
+# 
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##d13c	delta 13 Carbon, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan Mat 252 mass spectrometer,N				
+##std_dv	standard deviation, , , unitless, , Corals and Sclerosponges, , instrument: Finnigan Mat 252 mass spectrometer,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age_AD	d13c	std_dv
+1992	-3.18	0.02
+1991	-2.77	0.02
+1990	-2.7	0.01
+1989	-3.14	0.01
+1988	-2.72	0.02
+1987	-2.73	0.01
+1986	-2.64	0.02
+1985	-2.75	0.01
+1984	-2.2	0.02
+1983	-2.64	0.02
+1982	-2.29	0.02
+1981	-2.5	0.02
+1980	-2.4	0.01
+1979	-1.9	0.02
+1978	-2.13	0.02
+1977	-1.69	0.01
+1976	-1.51	0.01
+1975	-1.32	0.01
+1974	-1.66	0.01
+1973	-1.43	0.02
+1972	-1.29	0.01
+1971	-1.59	0.02
+1970	-1.71	0.02
+1969	-1.18	0.01
+1968	-1.39	0.01
+1967	-1.31	0.01
+1966	-1.38	0.02
+1965	-1.41	0.01
+1964	-1.55	0.01
+1963	-1.3	0.02
+1962	-1.44	0.02
+1961	-1.21	0.02
+1960	-1.31	0.01
+1959	-1.12	0.01
+1958	-1.01	0.01
+1957	-1.27	0.01
+1956	-1.15	0.02
+1955	-1.15	0.01
+1954	-1.25	0.01
+1953	-0.78	0.02
+1953	-0.92	0.01
+1952	-1.35	0.02
+1951	-1.24	0.01
+1950	-1.13	0.02
+1949	-1.32	0.02
+1948	-1.16	0.02
+1947	-1.16	0.02
+1946	-1.24	0.02
+1945	-1.29	0.02
+1944	-1.11	0.01
+1943	-1.46	0.02
+1942	-1.24	0.01
+1941	-1.33	0.01
+1940	-1.39	0.01
+1939	-1.22	0.01
+1938	-0.77	0.01
+1937	-0.82	0.03
+1936	-0.92	0.01
+1935	-1.12	0.01
+1934	-1.21	0.01
+1933	-1.25	0.02
+1932	-0.99	0.02
+1931	-0.79	0.02
+1930	-0.98	0.02
+1929	-1.03	0.01
+1928	-1.04	0.02
+1927	-1.18	0.02
+1926	-1.2	0.01
+1925	-1.37	0.02
+1924	-1.12	0.02
+1923	-1.25	0.02
+1922	-1.13	0.01
+1921	-1.12	0.01
+1920	-1.17	0.01
+1919	-1.1	0.01
+1918	-1.16	0.02
+1917	-1.11	0.02
+1916	-1.03	0.02
+1915	-0.94	0.02
+1914	-1.1	0.01
+1913	-1.08	0.01
+1912	-0.99	NAN
+1911	-0.98	0.02
+1910	-0.88	0.02
+1909	-1.12	0.01
+1908	-1.25	0.03
+1907	-1.2	0.02
+1906	-1.04	0.02
+1905	-0.91	0.01
+1904	-0.93	0.01
+1903	-1.27	0.01
+1902	-1.24	0.02
+1901	-0.79	0.03
+1900	-0.89	0.02
+1899	-0.98	0.01
+1898	-1.08	0.01
+1897	-1.16	0.01
+1896	-1.26	0.02
+1895	-1.07	NAN
+1894	-1.19	0.02
+1893	-0.96	0.01
+1892	-1.03	0.03
+1891	-0.89	0.01
+1890	-0.86	0.02
+1889	-1.06	0.02
+1888	-1.2	0.01
+1887	-1.06	0.02
+1886	-1.19	0.01
+1885	-0.87	0.02
+1884	-0.71	0.02
+1883	-0.59	0.01
+1882	-0.64	0.01
+1881	-0.65	0.02
+1880	-0.67	0.03
+1879	-0.78	0.02
+1878	-1.05	0.02
+1877	-1.03	0.02
+1876	-1.15	0.01
+1875	-0.99	0.01
+1874	-1.08	0.02
+1873	-1.1	0.01
+1872	-1.08	0.01
+1871	-1.03	0.02
+1870	-1.01	0.02
+1869	-1.11	0.02
+1868	-1.13	0.01
+1867	-1.16	0.02
+1866	-1.26	0.01
+1865	-1.2	0.01
+1864	-1.05	0.01
+1863	-1.05	0.01
+1862	-1.08	0.02
+1861	-1.11	0.01
+1860	-1.33	0.04
+1859	-1.58	0.01
+1858	-1.54	0.03
+1857	-1.52	0.01
+1856	-1.4	0.01
+1855	-1.21	0.01
+1854	-1.14	0.02
+1853	-1.54	0.02
+1852	-1.51	0.02
+1851	-1.45	0.01
+1850	-1.17	0.02
+1849	-1.42	0.01
+1848	-1.04	0.01
+1847	-1.19	0.01
+1846	-1.22	0.02
+1845	-1.03	0.02
+1844	-0.9	NAN
+1843	-1.08	0.02
+1842	-1.24	0.01
+1841	-1.41	NAN
+1840	-1.04	NAN
+1839	-1.12	NAN
+1838	-1.1	0.02
+1837	-1.24	0.01
+1836	-1.33	0.01
+1835	-1.39	0.02
+1834	-1.28	0.01
+1833	-2.15	0.01
+1832	-1.79	0.02
+1831	-1.31	0.01
+1830	-1.06	0.01
+1829	-1.42	0.01
+1828	-1.35	0.01
+1827	-1.34	0.01
+1826	-1.53	0.02
+1825	-1.32	0.02
+1824	-1.21	0.01
+1823	-1.56	0.01
+1822	-1.26	0.01
+1821	-1.24	0.01
+1820	-1.22	0.02
+1819	-1.36	0.01
+1818	-1.34	0.02
+1817	-1.08	0.02
+1816	-0.98	0.01
+1815	-1.08	0.01
+1814	-1.24	0.02
+1813	-0.96	0.03
+1812	-1.24	0.02
+1811	-1.23	0.02
+1810	-1.41	0.02
+1809	-1.29	0.02
+1808	-1.23	0.02
+1807	-1.04	0.04
+1806	-0.95	0.02
+1805	-0.98	0.02
+1804	-1.05	0.01
+1803	-1.51	0.02
+1802	-1.41	0.01
+1801	-1.1	0.02
+1800	-1.44	0.01
+1799	-1.23	0.01
+1798	-1.35	0.01
+1797	-1.3	0.02
+1796	-1.3	0.02
+1795	-1.26	0.02
+1794	-1.29	0.01
+1793	-1.28	0.02
+1792	-1.09	0.02
+1791	-1.37	0.03
+1790	-1.15	0.02
+1789	-1.48	0.02
+1788	-1.67	0.02
