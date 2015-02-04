@@ -117,8 +117,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##del13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N
-##del18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N 				
+##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N
+##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N 				
 #
 #----------------
 # Data:
@@ -126,7 +126,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	del13c	del18o
+age_AD	d13c	d18o
 1996.91	-2.82	-4.93
 1996.78	-2.91	-4.61
 1996.66	-3.01	-4.61

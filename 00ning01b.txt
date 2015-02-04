@@ -84,9 +84,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##date_int	interpolated date, , , years AD, , Corals and Sclerosponges, , ,N		
-##del13c_int	interpolated delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
-##del18o_int	interpolated delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N 		
+##age_AD_int	interpolated date, , , years AD, , Corals and Sclerosponges, , ,N		
+##d13c_int	interpolated delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
+##d18o_int	interpolated delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N 		
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-date_int	del13c_int	del18o_int
+age_AD_int	d13c_int	d18o_int
 1879.08	-0.32	-5.03
 1879.25	-0.58	-5.07
 1879.42	-1.36	-4.58
