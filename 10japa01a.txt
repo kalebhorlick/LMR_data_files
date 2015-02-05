@@ -1,0 +1,252 @@
+﻿# Ogasawara Coral Winter Sr/Ca and U/Ca Data and PDO Reconstruction
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:9954
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/ogasawara2010pdo.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2010-08
+#--------------------
+# Title
+#	Study_Name: Ogasawara Coral Winter Sr/Ca and U/Ca Data and PDO Reconstruction
+#--------------------
+# Investigators
+#       Investigators: Felis, T.; Suzuki, A.; Kuhnert, H.; Dima, M.; Lohmann, G.; Kawahata, H.
+#--------------------
+# Description_and_Notes
+#	Description: We generated an index of reconstructed Pacific Decadal  Oscillation (PDO) variability by combining the  November-December-January-February (NDJF) Sr/Ca and U/Ca  time series of the Ogasawara coral record (Felis et al., 2009)  with a growth index based on geoduck clams (Panopea abrupta)  from the Strait of Juan de Fuca (Strom et al., 2004),  a coastal site in the eastern  midlatitude North Pacific  (~48.12�N, 122.95�W, Washington State, northwest U.S.).  The NDJF coral Sr/Ca and U/Ca time series were calculated  from the bimonthly resolved coral record as the average of the  corresponding November-December (ND) and January-February (JF)  values. The NDJF value of a given year (e.g., 1901) includes  the ND value of the preceding year (1900). The ring-width  index is based on annual growth rings of 6 to 23 geoduck shells,  and has been reported to document local SST and PDO variability  (Strom et al., 2004). All three time series were detrended  and normalized to unit variance over their period of overlap  (1873-1994). Then, a coral index was calculated as the average  of the detrended and normalized NDJF Sr/Ca and U/Ca time series.  Consequently, the coral-geoduck index was derived as the average  of this coral index and the detrended and normalized geoduck  growth index (Felis et al., 2010).  Core OGA-02-1 was drilled vertically through a living Porites  coral at Miyanohama on the north coast of Chichijima in the  Ogasawara Islands (Japan).  The core is without gap over its  total length of 1.74 m.   Miyanohama (Chichijima) reef, Ogasawara Islands, Japan:  27�6.355'N, 142�11.645'E, 5.6m water depth. 
+#--------------------
+# Publication 
+#       Authors: Felis, T.; Suzuki, A.; Kuhnert, H.; Dima, M.; Lohmann, G.; Kawahata, H.c
+#       Published_Date_or_Year: 2010-08-29     
+#       Published_Title: Pacific Decadal Oscillation documented in a coral record of North Pacific winter temperature since 1873. 
+#       Journal_Name: Geophys. Res. Lett.
+#       Volume: 37
+#       Edition: 
+#       Issue: L14605
+#       Pages: 
+#       DOI: 10.1029/2010GL043572
+#       Online_Resource: http://onlinelibrary.wiley.com/doi/10.1029/2010GL043572/abstract
+#       Full_Citation: Felis, T., A. Suzuki, H. Kuhnert, N. Rimbu, and H. Kawahata. 2010.   Pacific Decadal Oscillation documented in a coral record of North  Pacific winter temperature since 1873.  Geophys. Res. Lett., 37, L14605, doi:10.1029/2010GL043572.
+#       Abstract: The Pacific Decadal Oscillation (PDO), the leading mode of sea surface temperature (SST) anomalies in the extratropical North Pacific Ocean, has widespread impacts on precipitation in the Americas and marine fisheries in the North Pacific. However, marine proxy records with a temporal resolution that resolves interannual to interdecadal SST variability in the extratropical North Pacific are extremely rare. Here we demonstrate that the winter Sr/Ca and U/Ca records of an annually-banded reef coral from the Ogasawara Islands in the western subtropical North Pacific are significantly correlated with the instrumental winter PDO index over the last century. The reconstruction of the PDO is further improved by combining the coral data with an existing eastern mid-latitude North Pacific growth ring record of geoduck clams. The spatial correlations of this combined index with global climate fields suggest that SST proxy records from these locations provide potential for PDO reconstructions further back in time.
+#--------------------
+# Publication 
+#       Authors: Felis, T.; Suzuki, A.; Kuhnert, H.; Dima, M.; Lohmann, G.; Kawahata, H.c
+#       Published_Date_or_Year: 2009     
+#       Published_Title: Subtropical coral reveals abrupt early-twentieth-century  freshening in the western North Pacific Ocean. 
+#       Journal_Name: Geology
+#       Volume: 37
+#       Edition: 
+#       Issue: 6
+#       Pages: 527-530
+#       DOI: 10.1130/G25581A.1
+#       Online_Resource:
+#       Full_Citation: Felis, T., A. Suzuki, H. Kuhnert, M. Dima, G. Lohmann,  and H. Kawahata. 2009.  Subtropical coral reveals abrupt early-twentieth-century  freshening in the western North Pacific Ocean.  Geology, Vol. 37, No. 6, pp. 527-530, June 2009.  doi:10.1130/G25581A.1   
+#       Abstract:
+#--------------------
+# Publication 
+#       Authors: Strom, A. S.; Francis, R. C.; Mantua, N. J.; Miles, E. L.; Peterson, D. L.
+#       Published_Date_or_Year: 2004-03-19     
+#       Published_Title: North Pacific climate recorded in growth rings of geoduck clams:  A new tool for paleoenvironmental reconstruction. 
+#       Journal_Name: Geophys. Res. Lett.
+#       Volume: 31
+#       Edition: 
+#       Issue: L06206
+#       Pages: 
+#       DOI: doi:10.1029/2004GL019440
+#       Online_Resource: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/strom2004/ 
+#       Full_Citation: Strom, A.S., R.C. Francis, N.J. Mantua, E.L. Miles and D.L. Peterson. 2004.  North Pacific climate recorded in growth rings of geoduck clams:  A new tool for paleoenvironmental reconstruction.  Geophys. Res. Lett. 31, L06206, 19 March 2004.  doi:10.1029/2004GL019440  ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/strom2004/
+#       Abstract:
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Deutsche Forschungsgemeinschaft DFG Research Center
+#       Grant: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Ministry of the Environment, Japan
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Miyanohama (Chichijima) Reef, Ogasawara Islands, Japan
+#       Location: Asia>Eastern Asia>Japan
+#	Country: Japan 
+#	Northernmost_Latitude: 27.1 
+# 	Southernmost_Latitude: 27.1 
+# 	Easternmost_Longitude: 142.2 
+# 	Westernmost_Longitude: 142.2 
+# 	Elevation: -5.6 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: 10japa01a 
+#	Earliest_Year: 1873 
+#	Most_Recent_Year: 1994
+#	Time_Unit: Years AD 
+#	Core_Length: 1.74 m
+#	Notes: All three time series were detrended and normalized to unit variance over their period of overlap (1873-1994).The November-December-January-February (NDJF) coral Sr/Ca and U/Ca  time series were calculated from the bimonthly resolved coral record  as the average of the corresponding November-December (ND) and  January-February (JF) values. The NDJF value of a given year (e.g., 1901)  includes the ND value of the preceding year (1900).
+#------------------
+# Species
+#	Species_Name: Porites
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	age, , ,years AD, Nov-Feb, Corals and Sclerosponges, , ,N
+##Sr/Ca		Strontium/Calcium, Porites, ,mmol/mol, Nov-Feb,Corals and Sclerosponges, , ,N 
+##U/Ca		Uranium/Calcium, Porites, ,µmol/mol, Nov-Feb, Corals and Sclerosponges, , ,N
+##PDO_index	Coral-Geoduck Index,  PDO, , unitless, , Reconstructions, , ,N 				
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+depth_mm	Sr/Ca	U/Ca	PDO_index
+1873	9.145	1.215	-0.076557
+1874	9.17	1.235	0.074775
+1875	9.205	1.28	0.149132
+1876	9.225	1.3	0.233489
+1877	9.265	1.365	0.568462
+1878	9.25	1.365	0.983642
+1879	9.085	1.245	-0.61428
+1880	9.25	1.305	-0.087019
+1881	9.225	1.285	-0.057226
+1882	9.325	1.355	0.20911
+1883	9.255	1.35	0.081862
+1884	9.2	1.33	0.432793
+1885	9.185	1.305	0.006185
+1886	9.255	1.335	0.300041
+1887	9.07	1.225	-1.225395
+1888	9.23	1.335	0.736612
+1889	9.145	1.275	-0.339851
+1890	8.97	1.17	-0.739643
+1891	9.145	1.26	0.176557
+1892	9.13	1.265	-0.282107
+1893	9.185	1.31	-0.275603
+1894	9.265	1.355	0.263754
+1895	9.305	1.385	0.509669
+1896	9.275	1.365	0.221099
+1897	9.125	1.29	-0.607386
+1898	9.065	1.335	-0.92137
+1899	9.12	1.285	-1.190008
+1900	9.11	1.27	-0.429886
+1901	9.11	1.305	0.027295
+1902	9.185	1.315	0.834299
+1903	9.015	1.285	-0.329997
+1904	9.12	1.28	-0.138381
+1905	9.11	1.23	-0.111947
+1906	9.075	1.275	0.110105
+1907	9.265	1.345	0.786411
+1908	9.235	1.335	0.808171
+1909	9.125	1.295	-0.82423
+1910	9.145	1.285	-1.167036
+1911	9.215	1.32	-0.55673
+1912	9.21	1.305	-0.353427
+1913	9.165	1.275	-0.597727
+1914	9.245	1.335	0.27611
+1915	9.22	1.31	-0.134648
+1916	9.2	1.32	-0.072154
+1917	9.18	1.305	-0.141072
+1918	9.21	1.325	0.121846
+1919	9.17	1.295	-0.61207
+1920	9.19	1.325	-0.757405
+1921	9.225	1.29	-0.071225
+1922	9.285	1.365	0.212613
+1923	9.25	1.35	0.315997
+1924	9.12	1.275	-0.693494
+1925	9.175	1.305	0.45838
+1926	9.205	1.335	1.247812
+1927	9.25	1.37	0.709715
+1928	9.225	1.34	1.008555
+1929	9.21	1.315	0.742728
+1930	9.04	1.26	-0.631587
+1931	9.195	1.31	1.246803
+1932	9.255	1.365	0.953122
+1933	9.245	1.385	0.397274
+1934	9.28	1.39	0.906613
+1935	9.325	1.425	1.310998
+1936	9.445	1.505	1.655613
+1937	9.23	1.34	0.419305
+1938	9.28	1.365	0.836833
+1939	9.27	1.395	0.442159
+1940	9.265	1.345	0.406927
+1941	9.26	1.355	0.284364
+1942	9.27	1.35	-0.02457
+1943	9.17	1.29	-0.731795
+1944	9.28	1.36	0.48125
+1945	9.325	1.375	0.637651
+1946	9.31	1.38	0.544871
+1947	9.23	1.325	0.670848
+1948	9.2	1.33	-0.028815
+1949	9.22	1.315	-0.398289
+1950	9.13	1.24	-0.353159
+1951	9.16	1.305	-0.015809
+1952	9.13	1.265	-1.250503
+1953	9.09	1.245	-1.398181
+1954	9.09	1.24	-1.274082
+1955	9.015	1.18	-2.147671
+1956	9.19	1.295	-0.489509
+1957	9.135	1.25	-0.703314
+1958	9.13	1.24	0.267938
+1959	9.205	1.28	0.345325
+1960	9.135	1.235	-0.512092
+1961	9.22	1.28	0.638614
+1962	9.08	1.21	-0.571182
+1963	9.255	1.335	-0.058085
+1964	9.15	1.255	-0.662724
+1965	9.22	1.31	-0.247025
+1966	9.2	1.31	-0.664523
+1967	9.245	1.39	0.117015
+1968	9.14	1.31	-0.264063
+1969	9.175	1.305	-0.694299
+1970	9.22	1.32	0.14831
+1971	9.06	1.245	-1.476155
+1972	9.225	1.335	-0.35418
+1973	9.125	1.28	-1.277239
+1974	9.035	1.22	-1.256423
+1975	9.185	1.28	-0.819924
+1976	9.255	1.33	-0.848661
+1977	9.2	1.315	-0.539779
+1978	9.14	1.285	-0.069841
+1979	9.18	1.265	0.756781
+1980	9.13	1.265	-0.808373
+1981	9.215	1.3	-0.300744
+1982	9.385	1.465	1.965684
+1983	9.345	1.42	1.43529
+1984	9.245	1.3	0.871502
+1985	9.39	1.445	1.397026
+1986	9.235	1.305	0.220601
+1987	9.225	1.325	0.610312
+1988	9.24	1.305	-0.124343
+1989	9.355	1.395	1.185942
+1990	9.235	1.37	0.021996
+1991	9.095	1.26	-0.426713
+1992	9.205	1.3	0.700701
+1993	9.075	1.24	0.089273
+1994	9.06	1.185	0.257358
