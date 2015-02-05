@@ -60,8 +60,8 @@
 #       Grant: 
 #------------------
 # Site_Information 
-#       Site_Name: Guam Coral
-#       Location: i.e Ocean>Pacific Ocean>Central Pacific Ocean>Guam
+# Site_Name: Guam Coral
+# Location: i.e Ocean>Pacific Ocean>Central Pacific Ocean>Guam
 #	Country: Guam 
 #	Northernmost_Latitude: 13.6 
 # 	Southernmost_Latitude: 13.6 
@@ -70,7 +70,7 @@
 # 	Elevation: -4.5 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 05Dou01a
+#	Collection_Name: 05guam01a
 #	Earliest_Year: 1790 
 #	Most_Recent_Year: 2000 
 #	Time_Unit: AD 
