@@ -108,8 +108,8 @@
 #       Grant: DP0663227
 #------------------
 # Site_Information 
-#       Site_Name: Mantawai Islands, West Sumatra, Indonesia
-#       Location: Ocean>Indian Ocean>Indonesia>Sumatra
+# Site_Name: Mantawai Islands, West Sumatra, Indonesia
+# Location: Ocean>Indian Ocean>Indonesia>Sumatra
 #	Country: Indonesia 
 #	Northernmost_Latitude: -.13
 # 	Southernmost_Latitude: -.13  
@@ -118,7 +118,7 @@
 # 	Elevation:  -6 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 08ment01a 
+#	Collection_Name: 08suma01a 
 #	Earliest_Year: 1858 
 #	Most_Recent_Year: 1998 
 #	Time_Unit: Years AD  
