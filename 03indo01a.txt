@@ -58,7 +58,7 @@
 # 	Elevation: -3 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 03lom01a 
+#	Collection_Name: 03indo01a 
 #	Earliest_Year: 1782  
 #	Most_Recent_Year: 1990
 #	Time_Unit:  
