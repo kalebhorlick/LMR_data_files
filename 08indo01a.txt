@@ -62,7 +62,7 @@
 # 	Elevation:  -4 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 08maka01a
+#	Collection_Name: 08indo01a
 #	Earliest_Year: 1870 
 #	Most_Recent_Year: 1990 
 #	Time_Unit: Years AD 
