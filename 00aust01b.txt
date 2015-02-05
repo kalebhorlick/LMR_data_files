@@ -58,7 +58,7 @@
 # 	Elevation: -3.0 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 00ning01b 
+#	Collection_Name: 00aust01b 
 #	Earliest_Year: 1878 
 #	Most_Recent_Year: 1994 
 #	Time_Unit: Year AD 
