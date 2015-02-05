@@ -72,9 +72,9 @@
 #       Grant: NA76GP0505
 #------------------
 # Site_Information 
-#       Site_Name: 
+#       Site_Name: Amedee Island, New Caledonia
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Melanesia>New Caledonia
-#	Country:  
+#	Country: New Caledonia 
 #	Northernmost_Latitude: -22.48 
 # 	Southernmost_Latitude: -22.48 
 # 	Easternmost_Longitude: 166.45 
@@ -82,7 +82,7 @@
 # 	Elevation:  -3m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 99amed01a 
+#	Collection_Name: 99newc01a 
 #	Earliest_Year: 1657 
 #	Most_Recent_Year: 1992 
 #	Time_Unit: Years AD 
