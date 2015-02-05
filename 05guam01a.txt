@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 
+#	Date: 2005-07
 #--------------------
 # Title
 #	Study_Name: Guam Porites Coral Isotope Data for 1790 to 2000
