@@ -90,7 +90,7 @@
 # 	Elevation:  -18.3 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 06raro01a 
+#	Collection_Name: 06cook01a 
 #	Earliest_Year: 1726 
 #	Most_Recent_Year: 1997 
 #	Time_Unit: Year AD 
