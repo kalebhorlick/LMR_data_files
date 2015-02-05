@@ -58,7 +58,7 @@
 # 	Elevation: -5m
 #------------------
 # Data_Collection   
-#	Collection_Name: 05flin01a
+#	Collection_Name: 05aust01a
 #	Earliest_Year: 1708 
 #	Most_Recent_Year: 1988 
 #	Time_Unit: AD 
