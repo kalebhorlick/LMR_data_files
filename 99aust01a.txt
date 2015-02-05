@@ -62,7 +62,7 @@
 # 	Elevation:  -5 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 99abro01a 
+#	Collection_Name: 99aust01a 
 #	Earliest_Year: 1795 
 #	Most_Recent_Year: 1994 
 #	Time_Unit: Years AD 
