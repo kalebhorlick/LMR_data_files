@@ -87,7 +87,7 @@
 ##depth_mm	depth of core, Diploastrea heliopora, , mm, , Corals and Sclerosponges, , ,N
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d13c	normalized delta Carbon 13, Diploastrea heliopora, , per mil VPDB, , Corals and Sclerosponges, average of the two cores both normalized to the 1970-1996 mean, ,N
-##d18o	normalized delta 18 Oxygen, Deploastrea heliopora, , per mil VPDB, , Corals and Sclerosponges, normalized to the 1970-1996 mean, ,N 				
+##d18o	normalized delta 18 Oxygen, Diploastrea heliopora, , per mil VPDB, , Corals and Sclerosponges, normalized to the 1970-1996 mean, ,N 				
 ##Sr/Ca	Strontium Calcium, Diploastrea heliopora, , mmol/mol, , Corals and Sclerosponges, normalized to the 1970-1996 mean, ,N
 #
 #----------------
