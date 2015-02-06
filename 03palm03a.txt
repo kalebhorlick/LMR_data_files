@@ -38,8 +38,8 @@
 #       Edition:
 #       Issue: 
 #       Pages: 271 - 276
-#       DOI: 
-#       Online_Resource: 
+#       DOI: 10.1038/nature01779
+#       Online_Resource: http://www.nature.com/nature/journal/v424/n6946/abs/nature01779.html
 #       Full_Citation: Cobb, K.M., D.E. Hunter, and C.D. Charles, 2001,  A central tropical Pacific coral demonstrates Pacific, Indian, and Atlantic  decadal climate connections, Geophys. Res. Lett., 28(11):  2209-2212.
 #       Abstract: Any assessment of future climate change requires knowledge of the full range of natural variability in the El Nin˜ o/Southern Oscillation (ENSO) phenomenon. Here we splice together fossil-coral oxygen isotopic records from Palmyra Island in the tropical Pacific Ocean to provide 30–150-year windows of tropical Pacific climate variability within the last 1,100 years. The records indicate mean climate conditions in the central tropical Pacific ranging from relatively cool and dry during the tenth century to increasingly warmer and wetter climate in the twentieth century. But the corals also document a broad range of ENSO behaviour that correlates poorly with these estimates of mean climate. The most intense ENSO activity within the reconstruction occurred during the mid-seventeenth century. Taken together, the coral data imply that the majority of ENSO variability over the last millennium may have arisen from dynamics internal to the ENSO system itself.
 #--------------------
@@ -54,7 +54,7 @@
 #       Pages: 2209-2212
 #       DOI: 
 #       Online_Resource: 
-#       Full_Citation: Cobb, K.M., C.D. Charles, H. Cheng, M.Kastner, and R.L. Edwards, 2003,  U/Th-dating modern and young fossil corals from the central tropical Pacific,  Earth and Planet. Sci. Lett. 210(1-2):  91-103.
+#       Full_Citation: Cobb, K.M., D.E. Hunter, and C.D. Charles, 2001,  A central tropical Pacific coral demonstrates Pacific, Indian, and Atlantic  decadal climate connections, Geophys. Res. Lett., 28(11):  2209-2212.
 #       Abstract: 
 #--------------------
 # Publication 
@@ -139,7 +139,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##del18o	delta 18 Oxygen, fossil Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##d18o	delta 18 Oxygen, fossil Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
 #
 #----------------
 # Data:
@@ -147,7 +147,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	del18o
+age_AD	d18o
 1149.13	-4.66
 1149.21	-4.71
 1149.29	-4.72
