@@ -139,7 +139,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##del18o	delta 18 Oxygen, fossil Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##d18o	delta 18 Oxygen, fossil Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
 #
 #----------------
 # Data:
@@ -147,7 +147,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	del18o
+age_AD	d18o
 1915.13	-4.81
 1915.21	-4.85
 1915.29	-4.89
