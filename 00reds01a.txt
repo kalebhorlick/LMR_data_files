@@ -109,7 +109,7 @@
 #	Notes: 
 #------------------
 # Species
-#	Species_Name: 
+#	Species_Name: Porites sp.
 #	Common_Name: 
 #------------------
 # Chronology: The coral chronology is constructed by setting the maximum d18O value in  a given year equal to mid-February (consistent with the climatological  minimum in sea surface temperature) and assuming a constant coral growth  rate between February of every year. Therefore we interpolated linearly  between these fixed points for further age assignments. The resulting values  were interpolated linearly to six equally spaced values per year, providing a  bimonthly resolution.
@@ -128,7 +128,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N 				
+##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N 				
 #
 #----------------
 # Data:
