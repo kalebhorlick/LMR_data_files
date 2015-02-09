@@ -8,9 +8,9 @@
 # If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
 #
 #
-# Online_Resource: http:
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:6087
 #
-# Original_Source_URL: ftp:
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/great_barrier/flinders2007.txt
 # 
 # Description/Documentation lines begin with #
 # Data lines have no #
