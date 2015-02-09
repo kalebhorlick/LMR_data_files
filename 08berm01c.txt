@@ -56,14 +56,14 @@
 #       Site_Name: Bermuda
 #       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Bermuda
 #	Country: Bermuda 
-#	Northernmost_Latitude: 32 
-# 	Southernmost_Latitude: 32
-# 	Easternmost_Longitude: -64 
-# 	Westernmost_Longitude: -64 
+#	Northernmost_Latitude:  30.65 
+# 	Southernmost_Latitude:  30.65
+# 	Easternmost_Longitude: -65 
+# 	Westernmost_Longitude: -65 
 # 	Elevation: -16 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 98Ber01c
+#	Collection_Name: 08berm01c
 #	Earliest_Year: 1781 
 #	Most_Recent_Year: 1998 
 #	Time_Unit:  
