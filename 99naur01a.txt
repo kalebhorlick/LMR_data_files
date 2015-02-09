@@ -70,15 +70,15 @@
 #       Site_Name: Nauru Island, Micronesia
 #       Location: Ocean>Pacific Ocean>Western Pacific Ocean>Micronesia>Nauru
 #	Country: Republic of Nauru 
-#	Northernmost_Latitude: -.5 
-# 	Southernmost_Latitude: -.5  
-# 	Easternmost_Longitude: 166 
-# 	Westernmost_Longitude: 166 
+#	Northernmost_Latitude: -.533 
+# 	Southernmost_Latitude: -.533 
+# 	Easternmost_Longitude: 166.93 
+# 	Westernmost_Longitude: 166.93
 # 	Elevation: -14 m  
 #------------------
 # Data_Collection   
 #	Collection_Name: 99naur01a  
-#	Earliest_Year: 1897 
+#	Earliest_Year: 1898 
 #	Most_Recent_Year: 1995 
 #	Time_Unit: Years AD 
 #	Core_Length: 1.61 m
