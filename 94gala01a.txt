@@ -61,7 +61,7 @@
 # Data_Collection   
 #	Collection_Name: 94gala01a 
 #	Earliest_Year: 1607 
-#	Most_Recent_Year: 1953 
+#	Most_Recent_Year: 1981 
 #	Time_Unit: Years AD 
 #	Core_Length:
 #	Notes: Core name- UR-86 (Pavona clavus, 1607-1953) 
@@ -95,6 +95,35 @@
 # Missing Values: NAN 
 #
 age_AD	d18o
+1981	-4.13
+1980	-4.26
+1979	-4.44
+1978	-4.15
+1977	-4.26
+1976	-4.48
+1975	-4.17
+1974	NAN
+1973	NAN
+1972	-4.65
+1971	-4.37
+1970	-4.35
+1969	-4.54
+1968	-4.35
+1967	-4.14
+1966	-4.23
+1965	-4.54
+1964	-4.31
+1963	-4.38
+1962	-4.44
+1961	NAN
+1960	NAN
+1959	NAN
+1958	NAN
+1957	NAN
+1956	NAN
+1955	NAN
+1954	NAN
+1953	NAN
 1953	-4.18
 1952	-3.94
 1951	-3.92
