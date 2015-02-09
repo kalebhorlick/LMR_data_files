@@ -53,14 +53,14 @@
 #	Country: Indonesia 
 #	Northernmost_Latitude: 1.63 
 # 	Southernmost_Latitude: 1.63 
-# 	Easternmost_Longitude: 124.77 
-# 	Westernmost_Longitude: 124.77 
+# 	Easternmost_Longitude: 124.833 
+# 	Westernmost_Longitude: 124.833 
 # 	Elevation: -3 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 03indo01a 
+#	Collection_Name: 03indo02a 
 #	Earliest_Year: 1860 
-#	Most_Recent_Year: 1990 
+#	Most_Recent_Year: 1991 
 #	Time_Unit: Years AD 
 #	Core_Length: 2.65 m
 #	Notes: 
