@@ -11,14 +11,15 @@
 # Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1867
 #
 # Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/indian_ocean/ningaloo.txt
-# 
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/indian_ocean/readme_ningaloo.txt
+#
 # Description/Documentation lines begin with #
 # Data lines have no #
 #
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2011-10
+#	Date: 2001-11
 #--------------------
 # Title
 #	Study_Name: Ningaloo Reef Coral Stable Isotope Data
