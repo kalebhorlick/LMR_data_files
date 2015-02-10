@@ -58,7 +58,7 @@
 # 	Elevation: -1.1  
 #------------------
 # Data_Collection   
-#	Collection_Name: 14aust02a 
+#	Collection_Name: 14mada02a 
 #	Earliest_Year: 1660 
 #	Most_Recent_Year: 1994
 #	Time_Unit: Years AD 
