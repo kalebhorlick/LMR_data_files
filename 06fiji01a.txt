@@ -59,27 +59,7 @@
 #-------------------------------------------------
 # Funding_Agency: 
 #    Funding_Agency_Name: National Science Foundation
-#    Grant: ATM-9901649
-#-------------------------------------------------
-# Funding_Agency: 
-#    Funding_Agency_Name: National Science Foundation
-#    Grant: ATM-9619035
-
-#-------------------------------------------------
-# Funding_Agency: 
-#    Funding_Agency_Name: National Science Foundation
-#    Grant: OCE-0318296
-
-#-------------------------------------------------
-# Funding_Agency: 
-#    Funding_Agency_Name: National Science Foundation
-#    Grant: OCE-0317941
-
-#-------------------------------------------------
-# Funding_Agency: 
-#    Funding_Agency_Name: National Oceanic and Atmospheric Administration
-#    Grant: NA96GP0470
-
+#    Grant: ATM-9901649, ATM-9619035, OCE-0318296, OCE-0317941
 #-------------------------------------------------
 # Funding_Agency: 
 #    Funding_Agency_Name: National Oceanic and Atmospheric Administration
