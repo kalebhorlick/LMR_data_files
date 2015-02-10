@@ -58,7 +58,7 @@
 # 	Elevation: -0.6 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 14aust03a 
+#	Collection_Name: 14mada03a 
 #	Earliest_Year: 1905
 #	Most_Recent_Year: 1994
 #	Time_Unit: Years AD 
