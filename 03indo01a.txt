@@ -48,7 +48,7 @@
 #       Grant: 
 #------------------
 # Site_Information 
-#       Site_Name: Lombok Strait
+#       Site_Name: Lombok Strait, Bali, Indonesia
 #       Location: Ocean>Indian Ocean>Indonesia
 #	Country: Indonesia 
 #	Northernmost_Latitude: -8.25 
@@ -85,9 +85,9 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##del18o	delta 18 Oxygen, Porites, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##d18o	delta 18 Oxygen, Porites, , per mil VPDB, , Corals and Sclerosponges, , ,N
 ##seas_avgd18o	seasonally averaged delta 18 Oxygen, Porites, , per mil VPDB, , Corals and Sclerosponges, average: seasonal, ,N 		
-##del18o_anom	delta 18 oxygen anomaly, Porites, , per mil VPDB, , Corals and Sclerosponges, , ,N		
+##d18o_anom	delta 18 oxygen anomaly, Porites, , per mil VPDB, , Corals and Sclerosponges, , ,N		
 #
 #----------------
 # Data:
@@ -95,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	del18o	seas_avgd18o	del18o_anom
+age_AD	d18o	seas_avgd18o	d18o_anom
 1782       -5.203     -5.2521      0.04911
 1782.08    -4.644     -5.1031      0.45906
 1782.17    -4.4       -4.9667      0.56669
