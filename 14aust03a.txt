@@ -10,7 +10,7 @@
 #
 # Online_Resource: http://www.hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:16438
 #
-# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/zinke2014-sr/zinke2014-sr-ifaty1.txt
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/indian_ocean/zinke2014-sr/zinke2014-sr-tulear3.txt
 # 
 # Description/Documentation lines begin with #
 # Data lines have no #
