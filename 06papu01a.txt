@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 
+#	Date: 2008-07
 #--------------------
 # Title
 #	Study_Name: Rabaul Coral Stable Isotope and Sr/Ca Data
