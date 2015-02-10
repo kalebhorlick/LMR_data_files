@@ -58,7 +58,7 @@
 # 	Elevation:  -10 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 04fuji01a
+#	Collection_Name: 04fiji01a
 #	Earliest_Year: 1940 
 #	Most_Recent_Year: 1997 
 #	Time_Unit: Year AD 
