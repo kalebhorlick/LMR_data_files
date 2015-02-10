@@ -1,0 +1,431 @@
+﻿# Southwest Madagascar Coral Oxygen Isotope Data and SST Reconstruction from 1660-1994
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http://www.hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:16438
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/zinke2014-sr/zinke2014-sr-ifaty1.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2014-05-08
+#--------------------
+# Title
+#	Study_Name: Southwest Madagascar Coral Oxygen Isotope Data and SST Reconstruction from 1660-1994
+#--------------------
+# Investigators
+#       Investigators: Zinke, J.; Loveday, B.; Reason, C.; Dullo, W.-C.; Kroon, D.
+#--------------------
+# Description_and_Notes
+#	Description: Oxygen isotope data from three cores of Porites sp. from SW Madagascar. 2 cores from Ifaty Reef 1 core from Tulear reef (Great Barrier Reef Tulear) Length: 1660-1994 Annual means March-February SST reconstruction coral composite of 3 cores: SST anomalies relative to 1961 to 1990 mean Coordinates GPS: Ifaty-4 23'08.578 S, 43'34.984 E (depth top colony at low tide 1.1m) Ifaty-1 23'09.435 S, 43'35.291 E (depth top colony at low tide 1.8m) Tulear-3 23'21.430 S, 43'37.169 E (depth top colony at low tide 0.6m)
+#--------------------
+# Publication 
+#       Authors: Zinke, J.; Loveday, B.; Reason, C.; Dullo, W.-C.; Kroon, D.
+#       Published_Date_or_Year: 2014     
+#       Published_Title: Madagascar corals track sea surface temperature variability in the Agulhas Current core region over the past 334 years
+#       Journal_Name: Scientific Reports
+#       Volume: 4
+#       Edition: 
+#       Issue: 4393
+#       Pages: 
+#       DOI: 10.1038/srep04393
+#       Online_Resource: 
+#       Full_Citation: 
+#       Abstract: The Agulhas Current (AC) is the strongest western boundary current in the Southern Hemisphere and is key for weather and climate patterns, both regionally and globally. Its heat transfer into both the midlatitude South Indian Ocean and South Atlantic is of global significance. A new composite coral record (Ifaty and Tulear massive Porites corals), is linked to historical AC sea surface temperature (SST) instrumental data, showing robust correlations. The composite coral SST data start in 1660 and comprise 200 years more than the AC instrumental record. Numerical modelling exhibits that this new coral derived SST record is representative for the wider core region of the AC. AC SSTs variabilities show distinct cooling through the Little Ice Age and warming during the late 18th, 19th and 20th century, with significant decadal variability superimposed. Furthermore, the AC SSTs are teleconnected with the broad southern Indian and Atlantic Oceans, showing that the AC system ! is pivotal for inter ocean heat exchange south of Africa.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Ifaty Reef, SW Madagascar
+#       Location: Ocean>Indian Ocean>Madagascar
+#	Country: Madagascar 
+#	Northernmost_Latitude: -23.142967 
+# 	Southernmost_Latitude: -23.142967
+# 	Easternmost_Longitude: 43.583067 
+# 	Westernmost_Longitude: 43.583067 
+# 	Elevation: -1.1  
+#------------------
+# Data_Collection   
+#	Collection_Name: 14aust02b 
+#	Earliest_Year: 1660 
+#	Most_Recent_Year: 1994
+#	Time_Unit: Years AD 
+#	Core_Length:  m
+#	Notes: Composite d18O SST anomaly record from Ifaty-1, Ifaty-4 and Tulear-3 cores vs. 1961-90.
+#------------------
+# Species
+#	Species_Name: Porites sp.
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##sst_d18o	sea surface temperature anomaly,delta 18O Porites sp.,,per mil VPDB,,Corals and Sclerosponges,relative to 1961-90,,N				
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age_AD	sst_d18o
+1660	-0.10141
+1661	-0.283006667
+1662	0.131576667
+1663	-0.288562917
+1664	-0.6962
+1665	-0.458006667
+1666	-1.1416875
+1667	-1.0066175
+1668	-0.127102083
+1669	0.735049583
+1670	-0.40210375
+1671	-0.784395833
+1672	-1.060089583
+1673	-0.44134
+1674	-0.856270417
+1675	0.185743333
+1676	0.01004875
+1677	0.02741
+1678	-0.127450833
+1679	-0.045854167
+1680	-0.36147875
+1681	-0.73057625
+1682	-0.610437083
+1683	-1.534048333
+1684	-1.797937083
+1685	-0.146548333
+1686	-1.454881667
+1687	-0.692729167
+1688	-0.54863125
+1689	-0.430922917
+1690	-0.298631667
+1691	-0.725020417
+1692	-1.931964167
+1693	-0.063215
+1694	-2.150715
+1695	-2.116339583
+1696	-0.934047083
+1697	-1.319465
+1698	-1.57675625
+1699	-1.398631667
+1700	-0.804882083
+1701	-1.72120125
+1702	-0.621895417
+1703	-0.640298333
+1704	-1.035437083
+1705	-0.98995125
+1706	-1.004881667
+1707	0.149285
+1708	-1.071548333
+1709	-2.155922917
+1710	-0.98509125
+1711	-0.4871725
+1712	-1.436130833
+1713	-1.77988125
+1714	-0.80279875
+1715	-2.336131667
+1716	-1.552800417
+1717	-2.087172083
+1718	-0.521894583
+1719	-0.652449167
+1720	-0.473977917
+1721	-0.53300625
+1722	-0.2128675
+1723	-0.226756667
+1724	-1.085089583
+1725	-1.869117917
+1726	-1.21113125
+1727	-0.788215
+1728	-1.038215
+1729	-1.619117917
+1730	-0.931270833
+1731	-1.084048333
+1732	-1.91738125
+1733	0.0058825
+1734	-0.161131667
+1735	-0.4066175
+1736	-0.425368333
+1737	-0.571547917
+1738	-0.6260625
+1739	-0.525715
+1740	-0.770506667
+1741	-0.578492917
+1742	-0.391339583
+1743	-0.919464583
+1744	-1.442381667
+1745	-0.66147875
+1746	-0.508354167
+1747	-0.5566175
+1748	-0.351409583
+1749	-0.844465
+1750	-0.716339583
+1751	0.479493333
+1752	-0.468770833
+1753	-0.352450833
+1754	-0.264256667
+1755	-0.881617917
+1756	-0.643422917
+1757	-0.50384
+1758	-0.24134
+1759	-1.240993333
+1760	-1.213215
+1761	-0.313909167
+1762	-0.6541875
+1763	-0.965992917
+1764	-0.620506667
+1765	-0.568423333
+1766	-0.55140875
+1767	0.02845125
+1768	0.472202083
+1769	0.7020625
+1770	0.53227125
+1771	-0.485784583
+1772	-0.02397875
+1773	0.212132083
+1774	0.006576667
+1775	0.15241
+1776	-0.123284167
+1777	0.087826667
+1778	-0.900715
+1779	-1.075367917
+1780	0.014563333
+1781	0.67602125
+1782	0.329840417
+1783	-0.411825833
+1784	-0.581964167
+1785	-0.311131667
+1786	-0.63404875
+1787	-0.49828375
+1788	-0.219810417
+1789	0.0027575
+1790	0.098937917
+1791	-0.047242083
+1792	0.036784167
+1793	0.37845125
+1794	-0.552798333
+1795	0.024287083
+1796	0.434702083
+1797	0.57879875
+1798	-0.119465
+1799	0.234702083
+1800	0.150674167
+1801	-0.32814625
+1802	-0.135437083
+1803	-0.063562083
+1804	0.134007083
+1805	0.144424167
+1806	-0.313215
+1807	0.63539625
+1808	1.106229167
+1809	0.411090417
+1810	0.4676875
+1811	0.172549167
+1812	-0.060784167
+1813	-0.3291875
+1814	-0.056270417
+1815	-0.213562083
+1816	-0.41182625
+1817	-0.315298333
+1818	-0.011825833
+1819	0.11491
+1820	-0.271548333
+1821	-0.418423333
+1822	-0.538560833
+1823	0.193382083
+1824	0.128451667
+1825	0.179840833
+1826	-0.450020417
+1827	-0.514256667
+1828	-0.99446375
+1829	0.093034167
+1830	-0.6809225
+1831	-0.6573125
+1832	-0.453493333
+1833	0.028451667
+1834	-0.514950833
+1835	-1.355229167
+1836	-0.3847425
+1837	-0.465992917
+1838	0.485049583
+1839	-0.47224125
+1840	-0.44238125
+1841	0.115952083
+1842	0.045119167
+1843	-0.07710375
+1844	-0.381270417
+1845	-0.921548333
+1846	-1.146547917
+1847	-0.331965833
+1848	-0.609047917
+1849	-0.964256667
+1850	-0.495506667
+1851	-0.511132083
+1852	-0.540645417
+1853	-0.331269583
+1854	0.288520833
+1855	0.82567375
+1856	0.61907875
+1857	0.374286667
+1858	0.156923333
+1859	0.00136875
+1860	-0.975715
+1861	-0.397590417
+1862	-0.181617917
+1863	-0.484395417
+1864	-0.366339583
+1865	-0.10140875
+1866	0.115604167
+1867	-0.323284583
+1868	-0.036130833
+1869	0.582618333
+1870	0.685742917
+1871	0.230187917
+1872	0.436785
+1873	0.868035417
+1874	0.4847
+1875	-0.242381667
+1876	-0.280923333
+1877	0.032965833
+1878	0.1152575
+1879	0.324285
+1880	0.005535
+1881	0.21595125
+1882	0.025117917
+1883	-1.007242083
+1884	-0.23641
+1885	0.2026175
+1886	0.0177575
+1887	-0.121548333
+1888	0.179979583
+1889	0.015396667
+1890	0.671923333
+1891	0.094007917
+1892	0.5058125
+1893	0.199562917
+1894	0.44761875
+1895	-1.146547917
+1896	-0.219048333
+1897	0.005951667
+1898	-0.4672425
+1899	-0.968075833
+1900	-0.266964583
+1901	-0.205715
+1902	-0.873770417
+1903	-0.675715
+1904	-0.147381667
+1905	-0.394048056
+1906	0.003821944
+1907	-0.864881667
+1908	-0.671085556
+1909	-0.710715
+1910	-0.712566667
+1911	-0.5708075
+1912	-0.363770556
+1913	-0.825715556
+1914	-0.5229375
+1915	-0.759048056
+1916	-1.144881667
+1917	-0.391640278
+1918	-0.939233333
+1919	-0.501455556
+1920	-0.634603611
+1921	-0.047195833
+1922	-0.547751944
+1923	-0.276084722
+1924	-0.779325556
+1925	-0.068677222
+1926	-0.515714444
+1927	-0.405159722
+1928	-0.508676667
+1929	-0.164510556
+1930	-1.079140833
+1931	-0.650159167
+1932	-0.700066389
+1933	-1.459326111
+1934	-0.735344444
+1935	-1.396270278
+1936	0.333636944
+1937	-0.740529722
+1938	-0.499973611
+1939	0.370395833
+1940	0.568358889
+1941	-0.063677778
+1942	-0.038214722
+1943	0.390674444
+1944	-0.220436667
+1945	-0.91627
+1946	-0.3758075
+1947	-0.220621944
+1948	0.189841667
+1949	0.16947
+1950	0.241321667
+1951	-0.508214444
+1952	0.443544167
+1953	0.277618333
+1954	-0.650251389
+1955	-0.2104375
+1956	-0.885714722
+1957	0.174378056
+1958	0.464933333
+1959	0.404285833
+1960	0.1716
+1961	-0.234140278
+1962	0.179562778
+1963	0.017896389
+1964	-0.472936944
+1965	0.042526111
+1966	0.032063333
+1967	0.188266944
+1968	-0.735158889
+1969	-0.283493333
+1970	-0.696825556
+1971	0.132618333
+1972	0.244191944
+1973	0.225396111
+1974	-0.214140278
+1975	-0.704140278
+1976	-1.021454444
+1977	-0.153954722
+1978	-0.021640278
+1979	0.004007778
+1980	0.487803333
+1981	-0.3981225
+1982	0.612247778
+1983	0.234099722
+1984	-0.094418611
+1985	0.476136944
+1986	0.601044444
+1987	0.225489444
+1988	0.647248333
+1989	0.510396111
+1990	0.16947
+1991	0.726507222
+1992	0.794378333
+1993	0.969285556
+1994	0.471785278
