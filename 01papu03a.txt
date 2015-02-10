@@ -87,7 +87,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	seasonal age, , ,years AD, , Corals and Sclerosponges, , ,N
-##del18o_avg	seasonally averaged delta 18 Oxygen, Porites, , per mil VPDB, , Corals and Sclerosponges, average: seasonal (midpoint), instrument: isotope ratio mass spectrometer,N	
+##d18o_avg	seasonally averaged delta 18 Oxygen, Porites, , per mil VPDB, , Corals and Sclerosponges, average: seasonal (midpoint), instrument: isotope ratio mass spectrometer,N	
 #
 #----------------
 # Data:
@@ -95,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	del18o_avg
+age_AD	d18o_avg
 1993.042	-4.827
 1992.792	-4.786
 1992.542	-4.693
