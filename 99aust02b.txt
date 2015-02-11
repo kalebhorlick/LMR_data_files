@@ -1,0 +1,471 @@
+﻿# Southern Great Barrier Reef Coral Radiocarbon Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1911
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/great_barrier/abraham1999iso.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2004-12
+#--------------------
+# Title
+#	Study_Name: Southern Great Barrier Reef Coral Radiocarbon Data
+#--------------------
+# Investigators
+#       Investigators: Druffel, E.R.M.; Griffin, S. 
+#--------------------
+# Description_and_Notes
+#	Description: Stable isotope (d18O and d13C) record from Abraham Reef (22� 6'S, 153� 0'E)  in the southern Great Barrier Reef, Australia.  This is a refinement of the  record available previously (Druffel and Griffin, JGR 1993) which showed  biennial d18O for the period 1635-1957.  A decrease in d18O of annual coral  bands from Abraham Reef is observed during the time period 1635-1983. 
+#--------------------
+# Publication 
+#       Authors: Druffel, E.R.M.; Griffin, S. 
+#       Published_Date_or_Year: 1999     
+#       Published_Title: Variability of surface ocean radiocarbon and stable isotopes  in the southwestern Pacific.
+#       Journal_Name: Journal of Geophysical Research - Ocean
+#       Volume: 104
+#       Edition: 
+#       Issue: C10
+#       Pages: 23, 607-613
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Druffel, E.R.M. and S. Griffin.  1999. Variability of surface ocean radiocarbon and stable isotopes  in the southwestern Pacific. Journal of Geophysical Research - Ocean v.104 (C10) pp. 23,607-613.
+#       Abstract: We present high-precision radiocarbon (D14C) results and stable isotope  (d18O and d13C) records for a coral from Heron Island (23�S, 152�E) and  new stable isotope (d18O and d13C) records for annual coral bands from  Abraham Reef (22�S, 153�E) in the southern Great Barrier Reef studied  earlier [Druffel and Griffin, 1993]. These tracers provide unique  information on the regional water mass history, and together these data  allow us to constrain the variability of circulation in the upper Pacific  over the past four centuries. First, we observe decreases in d18O of coral  from Abraham Reef and Heron Island, indicating an increase in sea surface  temperature and/or a decrease in surface salinity since 1850. Second, the  small Suess effect value (D14C decrease from 1880 to 1955, due mostly to  fossil fuel CO2) observed previously at Abraham Reef [Druffel and Griffin,  1993] is confirmed in the measurements reported here from the Heron Island  coral. This value is low compared to those observed in other areas of the  ocean [Druffel, 1997; Druffel and Linick, 1978; Nozaki et al., 1978]  between 1880 and 1955. Third, we report alterations in the correlation  between El Nino events and the occurrence of low D14C, which is indicative  of long-term change(s) in circulation in the SW Pacific. The D14C shifts  reported here are not large, but even small temporal changes in prebomb  D14C suggest that important changes in the large-scale state of the ocean  have occurred, such as a temporal change in circulation. 
+#--------------------
+# Publication 
+#       Authors: Druffel, E.R.M.; Griffin, S. 
+#       Published_Date_or_Year: 1995     
+#       Published_Title: Regional variability of surface ocean radiocarbon from southern great barrier reef corals.
+#       Journal_Name: Radiocarbon
+#       Volume: 37
+#       Edition: 
+#       Issue: 
+#       Pages: 517-524
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Druffel, E.R.M. and S. Griffin.  1995. Regional variability of surface ocean radiocarbon from southern great barrier reef corals. Radiocarbon 37:517-524.
+#       Abstract: 
+#--------------------
+# Publication 
+#       Authors: Druffel, E.R.M.; Griffin, S. 
+#       Published_Date_or_Year: 1993     
+#       Published_Title: Large Variations of Surface Ocean Radiocarbon: Evidence of Circulation  Changes in the Southwestern pacific.
+#       Journal_Name: Journal of Geophysical Research
+#       Volume: 98
+#       Edition: 
+#       Issue: C11
+#       Pages: 20, 249, 259
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Druffel, E.R.M. and S. Griffin. 1993.  Large Variations of Surface Ocean Radiocarbon: Evidence of Circulation  Changes in the Southwestern pacific. Journal of Geophysical Research, Vol.98, NO.C11, pg20,249-20,259.
+#       Abstract: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: National Science Foundation Chemical Oceanography Program
+#       Grant: OCE-8315260, OCE-868263, OCE-8915919, OCE-9314691, OCE-9711326
+#------------------
+# Site_Information 
+#       Site_Name: Abraham Reef, Great Barrier Reef, Australia
+#       Location: Australia/New Zealand>Australia
+#	Country: Australia 
+#	Northernmost_Latitude: -22.1 
+# 	Southernmost_Latitude: -22.1 
+# 	Easternmost_Longitude: 153 
+# 	Westernmost_Longitude: 153 
+# 	Elevation:   
+#------------------
+# Data_Collection   
+#	Collection_Name: 99aust02b 
+#	Earliest_Year: 1638 
+#	Most_Recent_Year: 1983
+#	Time_Unit: Years AD 
+#	Core_Length:
+#	Notes: 
+#------------------
+# Species
+#	Species_Name: Porites austraiensis
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##d13c	delta 13 Carbon, Porites austraiensis, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##d18o	delta 18 Oxygen, Porites austraiensis, , per mil VPDB, , Corals and Sclerosponges, , ,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age_AD	d13c	d18o
+1638.3	-1.766	-4.008
+1639.3	-1.044	-3.977
+1640.3	-1.531	-3.853
+1641.3	-1.690	-4.113
+1642.3	-1.473	-3.913
+1643.3	-1.693	-4.015
+1644.3	-1.771	-4.077
+1645.3	-1.827	-4.069
+1646.3	-1.634	-4.276
+1647.3	-1.487	-4.176
+1648.3	-1.707	-4.048
+1649.3	-1.450	-4.055
+1650.3	-1.263	-4.131
+1651.3	-1.411	-3.992
+1652.3	-1.537	-4.042
+1653.3	-1.776	-3.997
+1654.3	-2.197	-4.229
+1655.3	-2.015	-4.234
+1656.3	-2.081	-4.051
+1657.3	-1.949	-3.870
+1658.3	-1.929	-4.130
+1659.3	-0.888	-4.011
+1659.3	-1.819	-3.979
+1660.3	-1.187	-3.995
+1660.3	-1.804	-4.081
+1661.3	-1.265	-4.174
+1661.3	-1.537	-4.273
+1662.3	-1.370	-4.212
+1662.3	-1.088	-4.247
+1663.3	-1.313	-4.138
+1663.3	-1.077	-4.102
+1664.3	-1.374	-4.008
+1664.3	-0.832	-4.077
+1665.3	-0.935	-3.930
+1665.3	-0.760	-3.838
+1666.3	-1.234	-4.076
+1667.3	-0.875	-3.849
+1668.3	-1.414	-4.019
+1669.3	-0.651	-4.074
+1670.3	-1.135	-4.097
+1671.3	-1.245	-4.097
+1672.3	-1.197	-4.051
+1673.3	-1.245	-4.090
+1674.3	-0.989	-4.032
+1675.3	-1.292	-3.840
+1676.3	-0.714	-3.935
+1677.3	-0.604	-4.073
+1678.3	-1.275	-4.230
+1679.3	-1.221	-3.981
+1680.3	-1.067	-3.957
+1681.3	-0.956	-3.818
+1682.3	-0.954	-4.044
+1683.3	-0.354	-4.201
+1684.3	-0.977	-3.840
+1685.3	-1.404	-4.055
+1686.3	-1.675	-4.126
+1687.3	-1.096	-4.051
+1688.3	-0.298	-3.907
+1689.3	-0.245	-3.928
+1690.3	-0.459	-4.284
+1691.3	-0.885	-4.028
+1692.3	-0.502	-3.999
+1693.3	-0.845	-4.117
+1694.3	-0.670	-4.067
+1695.3	-0.427	-4.039
+1696.3	-0.904	-4.037
+1697.3	-0.705	-4.216
+1698.3	-0.690	-4.171
+1699.3	-0.068	-4.119
+1700.3	-0.186	-4.091
+1701.3	0.036	-4.134
+1702.3	-0.269	-4.075
+1703.3	-0.391	-3.968
+1704.3	-0.381	-4.071
+1705.3	-0.953	-4.228
+1706.3	-0.731	-4.123
+1707.3	-1.238	-4.163
+1708.3	-1.611	-4.181
+1709.3	-1.859	-4.288
+1710.3	-1.378	-4.367
+1714.3	-0.772	-4.114
+1715.3	-0.787	-4.135
+1716.3	-1.082	-4.149
+1717.3	-1.507	-4.015
+1718.3	-1.525	-3.854
+1719.3	-2.018	-4.133
+1720.3	-1.655	-4.255
+1721.3	-0.800	-4.240
+1722.3	-0.362	-4.076
+1723.3	-0.582	-4.217
+1724.3	-0.886	-4.388
+1725.3	-0.526	-4.195
+1726.3	-1.025	-4.203
+1727.3	-1.016	-4.246
+1728.3	-0.894	-4.143
+1729.3	-0.419	-4.088
+1730.3	-0.495	-3.689
+1731.3	-0.620	-4.219
+1732.3	-0.637	-4.084
+1733.3	-0.803	-4.084
+1734.3	-1.476	-4.281
+1735.3	-0.943	-3.930
+1736.3	-1.162	-4.221
+1737.3	-1.211	-4.171
+1738.3	-1.054	-4.204
+1739.3	-1.247	-4.248
+1740.3	-0.808	-4.202
+1741.3	-1.229	-4.225
+1742.3	-0.766	-4.141
+1744.3	-0.221	-4.165
+1745.3	-0.270	-4.065
+1746.3	-0.414	-4.223
+1747.3	-0.348	-4.098
+1748.3	-0.308	-4.145
+1749.3	-0.457	-4.155
+1750.3	-0.443	-4.178
+1751.3	-0.643	-4.056
+1752.3	-0.811	-4.153
+1753.3	-0.949	-3.978
+1754.3	-1.098	-4.313
+1755.3	-0.330	-4.241
+1756.3	-0.423	-4.262
+1758.3	-0.286	-4.217
+1759.3	-0.269	-4.089
+1760.3	-0.621	-4.253
+1761.3	-0.335	-4.051
+1762.3	-0.546	-4.167
+1763.3	-0.659	-4.417
+1764.3	-0.515	-4.273
+1765.3	-0.708	-4.164
+1766.3	-0.930	-4.094
+1767.3	-1.328	-4.170
+1768.3	-1.366	-3.996
+1769.3	-1.281	-4.076
+1770.3	-0.542	-4.140
+1771.3	-0.652	-3.996
+1772.3	-1.287	-4.101
+1773.3	-1.286	-4.170
+1774.3	-1.877	-4.262
+1775.3	-1.704	-4.294
+1776.3	-1.447	-4.191
+1777.3	-1.172	-4.232
+1778.3	-1.323	-4.151
+1779.3	-1.451	-4.091
+1780.3	-1.463	-4.107
+1781.3	-0.798	-4.272
+1782.3	-0.710	-4.344
+1783.3	-0.568	-4.270
+1784.3	-0.949	-4.275
+1785.3	-0.901	-4.144
+1786.3	-0.751	-4.222
+1787.3	-0.484	-4.186
+1788.3	-0.189	-4.135
+1789.3	0.067	-3.952
+1790.3	-0.327	-4.237
+1791.3	-0.455	-4.429
+1792.3	-0.490	-4.244
+1793.3	-0.954	-4.301
+1794.3	-0.849	-4.224
+1795.3	-1.315	-4.343
+1796.3	-1.216	-4.299
+1797.3	-1.179	-4.187
+1798.3	-1.415	-4.380
+1799.3	-1.394	-4.272
+1800.3	-1.498	-4.363
+1801.3	-1.560	-4.375
+1802.3	-1.263	-4.225
+1803.3	-1.355	-4.109
+1804.3	-1.112	-4.202
+1805.3	-0.960	-4.172
+1806.3	-0.818	-4.133
+1807.3	-0.670	-4.079
+1808.3	-0.505	-4.270
+1809.3	-0.773	-3.995
+1810.3	-0.812	-4.222
+1811.3	-0.857	-4.027
+1812.3	-0.842	-4.182
+1813.3	-0.314	-4.221
+1814.3	-0.336	-4.104
+1815.3	-0.178	-4.090
+1816.3	-0.032	-4.333
+1817.3	-0.178	-4.364
+1818.3	-0.375	-4.501
+1819.3	-0.368	-4.406
+1820.3	-0.365	-4.333
+1821.3	-0.499	-4.163
+1822.3	-0.644	-4.433
+1823.3	-0.545	-4.205
+1824.3	-0.603	-4.423
+1825.3	-0.468	-4.157
+1826.3	-0.395	-4.473
+1827.3	-0.587	-4.179
+1828.3	-0.481	-4.507
+1829.3	-0.242	-4.343
+1830.3	-0.332	-4.430
+1831.3	-0.542	-4.326
+1832.3	-0.580	-4.285
+1833.3	-0.202	-4.163
+1834.3	-0.142	-4.264
+1835.3	-0.398	-4.051
+1836.3	-0.282	-4.233
+1837.3	-0.353	-4.144
+1838.3	-0.487	-4.214
+1839.3	-0.475	-4.259
+1840.3	-0.524	-4.298
+1841.3	-0.468	-4.155
+1842.3	-0.532	-4.430
+1843.3	-0.420	-4.098
+1844.3	-0.703	-4.377
+1845.3	-0.799	-4.207
+1846.3	-0.792	-4.251
+1849.3	-0.587	-4.334
+1850.3	-0.706	-4.365
+1851.3	-0.730	-4.167
+1852.3	-0.575	-4.345
+1853.3	-0.667	-4.123
+1854.3	-0.361	-4.194
+1855.3	-0.448	-4.112
+1856.3	-0.311	-4.000
+1857.3	-0.282	-4.204
+1858.3	-0.210	-4.176
+1859.3	-0.216	-4.147
+1860.3	-0.327	-4.157
+1861.3	-0.015	-4.157
+1862.3	-0.047	-4.259
+1863.3	0.128	-4.206
+1864.3	-0.312	-4.133
+1865.3	-0.498	-4.121
+1866.3	-0.461	-3.980
+1867.3	-0.453	-4.165
+1868.3	-0.572	-4.272
+1869.3	-0.322	-4.226
+1870.3	-0.587	-4.381
+1871.3	-0.489	-4.331
+1872.3	-0.429	-4.305
+1873.3	-0.405	-4.420
+1874.3	-0.512	-4.256
+1875.3	-0.842	-4.494
+1876.3	-0.641	-4.290
+1877.3	-0.590	-4.350
+1878.3	-0.189	-4.176
+1879.3	-0.307	-4.359
+1881.3	-0.471	-4.254
+1882.3	-0.244	-4.322
+1883.3	-0.261	-4.058
+1884.3	-0.246	-4.356
+1885.3	-0.145	-4.187
+1886.3	-0.203	-4.197
+1887.3	-0.239	-4.288
+1888.3	-0.200	-4.330
+1889.3	-0.262	-4.303
+1890.3	-0.579	-4.258
+1891.3	-0.636	-4.238
+1892.3	-0.483	-4.371
+1893.3	-0.484	-4.345
+1894.3	-0.455	-4.463
+1895.3	-0.404	-4.316
+1896.3	-0.428	-4.338
+1897.3	-0.498	-4.188
+1898.3	-0.621	-4.348
+1899.3	-0.592	-4.260
+1900.3	-0.540	-4.343
+1901.3	-0.530	-4.044
+1902.3	-0.859	-4.423
+1903.3	-0.609	-4.234
+1904.3	-0.584	-4.283
+1905.3	-0.556	-4.075
+1906.3	-0.645	-4.376
+1907.3	-0.366	-4.217
+1908.3	-0.507	-4.421
+1909.3	-0.503	-4.333
+1910.3	-0.681	-4.611
+1911.3	-0.772	-4.349
+1912.3	-0.467	-4.467
+1913.3	-0.571	-4.296
+1914.3	-0.620	-4.263
+1915.3	-0.761	-4.264
+1916.3	-0.808	-4.250
+1917.3	-0.747	-4.358
+1918.3	-0.574	-4.328
+1919.3	-0.638	-4.392
+1920.3	-0.481	-4.184
+1921.3	-0.429	-4.245
+1922.3	-0.317	-4.325
+1923.3	-0.483	-4.631
+1924.3	-0.542	-4.368
+1925.3	-0.591	-4.519
+1926.3	-0.463	-4.315
+1927.3	-0.708	-4.612
+1928.3	-0.512	-4.400
+1929.3	-0.197	-4.320
+1930.3	-0.502	-4.399
+1931.3	-0.352	-4.428
+1932.3	-0.320	-4.401
+1933.3	-0.387	-4.347
+1934.3	-0.596	-4.359
+1935.3	-0.717	-4.428
+1936.3	-0.860	-4.269
+1937.3	-0.671	-4.138
+1939.3	-0.568	-4.178
+1940.3	-0.669	-4.348
+1941.3	-0.618	-4.104
+1942.3	-1.342	-4.221
+1943.3	-1.337	-4.344
+1944.3	-0.792	-4.191
+1945.3	-0.621	-4.408
+1946.3	-0.992	-4.521
+1947.3	-0.940	-4.509
+1948.3	-0.859	-4.355
+1949.3	-0.776	-4.172
+1950.3	-0.841	-4.299
+1951.3	-1.085	-4.496
+1952.3	-1.191	-4.450
+1953.3	-1.271	-4.450
+1954.3	-1.137	-4.375
+1955.3	-0.907	-4.308
+1956.3	-1.155	-4.600
+1956.3	-1.103	-4.446
+1957.3	-0.780	-4.479
+1958.3	-1.102	-4.634
+1959.3	-1.265	-4.387
+1959.3	-1.376	-4.301
+1959.6	-0.836	-4.402
+1960.6	-0.782	-4.267
+1960.6	-0.893	-4.281
+1961.6	-0.902	-4.416
+1962.6	-0.888	-4.413
+1963.6	-0.774	-4.460
+1964.6	-0.411	-4.405
+1965.6	-0.697	-4.495
+1965.6	-0.615	-4.383
+1966.6	-0.620	-4.241
+1967.6	-0.754	-4.481
+1968.6	-0.784	-4.518
+1969.6	-0.880	-4.400
+1970.6	-0.798	-4.277
+1971.6	-0.871	-4.485
+1972.6	-0.597	-4.303
+1974.3	-0.853	-4.551
+1976.3	-0.806	-4.533
+1977.3	-0.808	-4.615
+1978.3	-0.547	-4.524
+1979.3	-0.601	-4.663
+1981.3	-0.718	-4.525
+1982.3	-0.665	-4.610
+1983.3	-0.465	-4.273
