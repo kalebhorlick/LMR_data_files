@@ -5,3 +5,4 @@ This repository could house all of the coral data files, used in conjunction wit
 
 74 coral data files as of 4:28pm 2/5/15, All_173 and PAGES 2K S1 coral files complete, moving to other sources...
 89 coral data files as of 6:08pm 2/10/15, templating from NCDC archive list.
+1003 coral data files as of 4:38pm 2/11/15, templating from NCDC archive list.
