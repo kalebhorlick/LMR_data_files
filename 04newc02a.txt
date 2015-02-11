@@ -1,0 +1,406 @@
+﻿# New Caledonia Porites Coral Paleothermometry Assessment Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http:
+#
+# Original_Source_URL: ftp:
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 
+#--------------------
+# Title
+#	Study_Name: New Caledonia Porites Coral Paleothermometry Assessment Data
+#--------------------
+# Investigators
+#       Investigators: Stephans, C.; Quinn, T.M.; Taylor, F.W.; Correge, T.
+#--------------------
+# Description_and_Notes
+#	Description: Porites lutea cores were collected in 1992 by Fred Taylor, Jamie Austin, Yvan Join and  John Butscher.  The isotope data were analyzed at the University of South Florida  College of Marine Science, on a Finnigan Delta Plus XL mass spectrometer and attached  Kiel Carbonate Device with an analytical precision of 0.04 per mil for carbon and 0.08  per mil for oxygen (1 sigma) determined by repeated measurements of NBS 19 relative to VPDB.   The elemental data were analyzed on a Perkin Elmer Optima 4300DV ICP-OES following the  drift-correction methods of Schrag (1999).  Analytical precision (1 sigma) for the Sr/Ca  determinations is 0.2 % (0.018 mmol/mol), based on a laboratory standard solution of  dissolved Porites lutea. Depth series were converted to time series using AnalySeries  software (Paillard et al., 1996) to match Sr/Ca minima to SST maxima and vise versa.  Stable isotopic and Sr/Ca determinations on samples from Cores 99-PAA, 92-PAC and 92-PAD  were made at USF.  Stable isotopic determinations on samples from core 92-PAA made at the  University of Michigan.  Sr/Ca determinations on samples from core 92-PAA made at the  University of California-Santa Cruz. 
+#--------------------
+# Publication 
+#       Authors: Stephans, C.; Quinn, T.M.; Taylor, F.W.; Correge, T.
+#       Published_Date_or_Year: 2004     
+#       Published_Title: Assessing the Reproducibility of Coral-based Climate Records.
+#       Journal_Name: Geophysical Research Letters
+#       Volume: 31
+#       Edition: 
+#       Issue: L18210
+#       Pages: 
+#       DOI: 10.1029/2004GL020343
+#       Online_Resource: 
+#       Full_Citation: Stephans, C., T.M. Quinn, F. Taylor, and T. Correge. 2004. Assessing the Reproducibility of Coral-based Climate Records.  Geophysical Research Letters, 31,18, L18210, 10.1029/2004GL020343, 2004
+#       Abstract: We perform replication tests using monthly variations in Sr/Ca and d18O in  four cores from three Porites lutea coral heads from New Caledonia to assess  the reproducibility of coral-based climate records.  Coral Sr/Ca (d18O) records  are well correlated to each other and to the instrumental SST record (1967-1992),  especially in terms of differences in the mean values of 25-year SST records  (~0.2C, Sr/Ca-SST; 0.6C, d18O-SST).  The average error associated with the  coral Sr/Ca-SST (d18O-SST) of any particular month, season or year is ~0.8C  (1.1C), 0.6C (0.8C) and 0.5C (0.6C), respectively.  "Stacking" or averaging  the individual proxy records reduces the error between observed and predicted SST,  although the reduction is small for coral Sr/Ca.  Excellent reproducibility among  the coral proxies implies that reliable climate records can be generated from a  single coral core and that coral Sr/Ca-SST records are not compromised, beyond  the errors stated herein, by non-temperature-related biological effects.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Amedee Island, New Caledonia
+#       Location: Ocean>Pacific Ocean>South Pacific Ocean>Melanesia>New Caledonia
+#	Country: New Caledonia 
+#	Northernmost_Latitude: -22.48 
+# 	Southernmost_Latitude: -22.48 
+# 	Easternmost_Longitude: 166.47  
+# 	Westernmost_Longitude: 166.47  
+# 	Elevation: -3 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: 04newc02a 
+#	Earliest_Year: 1967 
+#	Most_Recent_Year: 1992 
+#	Time_Unit: Years AD 
+#	Core_Length:
+#	Notes: From core 92PAD. These data have been updated by DeLong et al. 2012. Please see file: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/amedee2012.txt 
+#------------------
+# Species
+#	Species_Name: Porites lutea
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##Sr/Ca		Strontium/Calcium, Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age_AD	d13c	d18o	Sr/Ca
+1967.042	-1.04	-4.14	9.224
+1967.125	-1.16	-4.39	9.150
+1967.208	-1.20	-4.67	9.101
+1967.292	-1.47	-4.66	9.107
+1967.375	-1.44	-4.45	9.165
+1967.458	-1.06	-4.09	9.246
+1967.542	-1.21	-3.84	9.323
+1967.625	-1.34	-3.88	9.384
+1967.708	-1.03	-3.75	9.405
+1967.792	-0.69	-3.81	9.368
+1967.875	-0.51	-3.98	9.241
+1967.958	-0.53	-4.07	9.176
+1968.042	-0.61	-4.15	9.130
+1968.125	-0.78	-4.33	9.098
+1968.208	-0.95	-4.48	9.076
+1968.292	-1.09	-4.43	9.117
+1968.375	-1.26	-4.23	9.181
+1968.458	-1.34	-4.14	9.231
+1968.542	-1.32	-3.96	9.274
+1968.625	-1.24	-3.72	9.324
+1968.708	-0.85	-3.91	9.255
+1968.792	-0.73	-4.12	9.184
+1968.875	-0.93	-4.28	9.125
+1968.958	-1.13	-4.44	9.054
+1969.042	-1.32	-4.51	9.018
+1969.125	-1.40	-4.53	9.056
+1969.208	-1.49	-4.38	9.122
+1969.292	-1.59	-4.21	9.180
+1969.375	-1.67	-4.14	9.208
+1969.458	-1.74	-4.16	9.225
+1969.542	-1.66	-4.11	9.267
+1969.625	-1.38	-4.11	9.309
+1969.708	-1.09	-4.19	9.312
+1969.792	-0.82	-4.27	9.265
+1969.875	-0.59	-4.35	9.206
+1969.958	-0.61	-4.43	9.138
+1970.042	-0.92	-4.55	9.093
+1970.125	-1.14	-4.70	9.093
+1970.208	-1.05	-4.65	9.080
+1970.292	-1.13	-4.56	9.131
+1970.375	-1.44	-4.40	9.180
+1970.458	-1.40	-4.14	9.295
+1970.542	-1.23	-3.87	9.413
+1970.625	-1.05	-3.86	9.440
+1970.708	-0.93	-3.94	9.387
+1970.792	-0.89	-4.07	9.309
+1970.875	-0.93	-4.19	9.211
+1970.958	-1.08	-4.30	9.146
+1971.042	-1.23	-4.42	9.137
+1971.125	-1.10	-4.50	9.137
+1971.208	-1.18	-4.55	9.135
+1971.292	-1.36	-4.43	9.140
+1971.375	-1.63	-4.31	9.184
+1971.458	-1.63	-4.11	9.242
+1971.542	-1.46	-3.94	9.316
+1971.625	-1.26	-3.94	9.346
+1971.708	-1.18	-4.03	9.313
+1971.792	-0.97	-4.15	9.161
+1971.875	-0.92	-4.24	9.105
+1971.958	-0.88	-4.29	9.082
+1972.042	-0.93	-4.36	9.073
+1972.125	-1.08	-4.45	9.077
+1972.208	-1.22	-4.53	9.079
+1972.292	-1.32	-4.56	9.072
+1972.375	-1.45	-4.53	9.106
+1972.458	-1.57	-4.34	9.153
+1972.542	-1.55	-4.17	9.225
+1972.625	-1.31	-3.99	9.288
+1972.708	-0.98	-3.87	9.328
+1972.792	-1.02	-3.99	9.305
+1972.875	-0.98	-4.20	9.218
+1972.958	-0.92	-4.43	9.123
+1973.042	-1.09	-4.71	9.048
+1973.125	-1.19	-4.77	9.028
+1973.208	-1.40	-4.68	9.053
+1973.292	-1.54	-4.46	9.117
+1973.375	-1.52	-4.41	9.148
+1973.458	-1.51	-4.26	9.211
+1973.542	-1.31	-3.93	9.303
+1973.625	-1.28	-3.84	9.351
+1973.708	-1.28	-4.04	9.295
+1973.792	-0.86	-4.18	9.215
+1973.875	-0.83	-4.46	9.145
+1973.958	-1.11	-4.66	9.112
+1974.042	-1.34	-4.74	9.108
+1974.125	-1.24	-4.85	9.085
+1974.208	-1.19	-4.71	9.098
+1974.292	-1.35	-4.50	9.158
+1974.375	-1.32	-4.31	9.232
+1974.458	-1.30	-4.07	9.291
+1974.542	-1.21	-4.03	9.361
+1974.625	-1.36	-4.11	9.413
+1974.708	-1.08	-4.12	9.366
+1974.792	-0.52	-3.95	9.221
+1974.875	-0.90	-4.44	9.112
+1974.958	-1.21	-4.78	9.047
+1975.042	-1.32	-4.93	9.039
+1975.125	-1.53	-4.85	9.063
+1975.208	-1.58	-4.69	9.108
+1975.292	-1.67	-4.49	9.142
+1975.375	-1.56	-4.35	9.172
+1975.458	-1.43	-4.20	9.231
+1975.542	-1.25	-4.18	9.262
+1975.625	-1.13	-4.27	9.238
+1975.708	-1.07	-4.37	9.202
+1975.792	-1.13	-4.49	9.158
+1975.875	-1.04	-4.59	9.114
+1975.958	-0.95	-4.69	9.073
+1976.042	-1.05	-4.81	9.036
+1976.125	-1.13	-4.95	9.029
+1976.208	-1.20	-5.03	9.040
+1976.292	-1.43	-4.80	9.061
+1976.375	-1.66	-4.53	9.165
+1976.458	-1.60	-4.28	9.256
+1976.542	-1.53	-4.08	9.305
+1976.625	-1.36	-4.11	9.298
+1976.708	-1.15	-4.18	9.275
+1976.792	-0.91	-4.27	9.235
+1976.875	-0.83	-4.40	9.166
+1976.958	-0.83	-4.50	9.109
+1977.042	-0.92	-4.56	9.080
+1977.125	-1.28	-4.67	9.095
+1977.208	-1.44	-4.60	9.134
+1977.292	-1.54	-4.53	9.173
+1977.375	-1.57	-4.37	9.223
+1977.458	-1.48	-4.17	9.292
+1977.542	-1.26	-4.18	9.331
+1977.625	-1.53	-4.38	9.354
+1977.708	-1.28	-4.24	9.296
+1977.792	-0.98	-4.24	9.224
+1977.875	-0.94	-4.50	9.135
+1977.958	-1.11	-4.74	9.075
+1978.042	-1.20	-4.74	9.066
+1978.125	-1.25	-4.80	9.065
+1978.208	-1.30	-4.85	9.073
+1978.292	-1.46	-4.77	9.113
+1978.375	-1.62	-4.68	9.159
+1978.458	-1.62	-4.44	9.236
+1978.542	-1.80	-4.31	9.300
+1978.625	-1.56	-4.20	9.306
+1978.708	-1.36	-4.22	9.260
+1978.792	-1.29	-4.31	9.200
+1978.875	-1.51	-4.45	9.134
+1978.958	-1.74	-4.56	9.104
+1979.042	-1.78	-4.62	9.104
+1979.125	-1.82	-4.72	9.080
+1979.208	-1.77	-4.77	9.068
+1979.292	-1.90	-4.78	9.111
+1979.375	-1.97	-4.63	9.167
+1979.458	-1.86	-4.39	9.230
+1979.542	-1.83	-4.21	9.279
+1979.625	-1.79	-4.10	9.323
+1979.708	-1.71	-4.11	9.317
+1979.792	-1.62	-4.20	9.257
+1979.875	-1.51	-4.41	9.157
+1979.958	-1.45	-4.58	9.061
+1980.042	-1.33	-4.84	9.000
+1980.125	-1.51	-4.94	8.998
+1980.208	-1.65	-4.86	9.085
+1980.292	-1.81	-4.72	9.152
+1980.375	-1.81	-4.63	9.187
+1980.458	-1.70	-4.52	9.249
+1980.542	-1.52	-4.37	9.303
+1980.625	-1.40	-4.23	9.375
+1980.708	-1.35	-4.14	9.368
+1980.792	-1.21	-4.21	9.359
+1980.875	-1.32	-4.46	9.264
+1980.958	-1.51	-4.57	9.204
+1981.042	-1.45	-4.78	9.092
+1981.125	-1.36	-4.97	9.039
+1981.208	-1.48	-4.84	9.074
+1981.292	-1.86	-4.63	9.114
+1981.375	-1.81	-4.35	9.197
+1981.458	-1.64	-4.10	9.311
+1981.542	-1.44	-4.15	9.353
+1981.625	-1.22	-4.25	9.316
+1981.708	-1.10	-4.37	9.274
+1981.792	-1.28	-4.51	9.238
+1981.875	-1.44	-4.66	9.182
+1981.958	-1.54	-4.82	9.109
+1982.042	-1.59	-4.90	9.009
+1982.125	-1.62	-4.94	8.937
+1982.208	-1.53	-4.89	9.042
+1982.292	-1.39	-4.71	9.120
+1982.375	-1.60	-4.56	9.163
+1982.458	-1.86	-4.32	9.254
+1982.542	-1.89	-4.19	9.338
+1982.625	-1.88	-4.13	9.375
+1982.708	-1.77	-4.21	9.360
+1982.792	-1.65	-4.50	9.310
+1982.875	-1.90	-4.64	9.231
+1982.958	-1.93	-4.82	9.120
+1983.042	-1.66	-4.96	9.064
+1983.125	-1.54	-5.02	9.055
+1983.208	-1.53	-4.94	9.061
+1983.292	-1.61	-4.80	9.134
+1983.375	-1.70	-4.52	9.242
+1983.458	-1.86	-4.31	9.288
+1983.542	-2.13	-4.18	9.312
+1983.625	-2.06	-4.20	9.330
+1983.708	-1.92	-4.37	9.267
+1983.792	-1.79	-4.49	9.175
+1983.875	-1.90	-4.61	9.163
+1983.958	-1.87	-4.70	9.132
+1984.042	-1.86	-4.74	9.121
+1984.125	-2.01	-4.71	9.121
+1984.208	-1.99	-4.62	9.119
+1984.292	-1.86	-4.49	9.162
+1984.375	-1.87	-4.33	9.221
+1984.458	-2.03	-4.21	9.300
+1984.542	-2.19	-4.20	9.313
+1984.625	-2.35	-4.18	9.337
+1984.708	-2.28	-4.14	9.322
+1984.792	-2.08	-4.22	9.327
+1984.875	-1.85	-4.35	9.275
+1984.958	-1.83	-4.70	9.115
+1985.042	-1.67	-4.93	9.025
+1985.125	-1.62	-5.05	9.011
+1985.208	-1.47	-4.97	9.062
+1985.292	-1.37	-4.86	9.079
+1985.375	-1.83	-4.63	9.134
+1985.458	-2.11	-4.37	9.262
+1985.542	-2.03	-4.16	9.326
+1985.625	-1.85	-4.15	9.366
+1985.708	-1.68	-4.45	9.265
+1985.792	-1.62	-4.62	9.146
+1985.875	-1.78	-4.75	9.061
+1985.958	-1.71	-4.95	9.018
+1986.042	-1.51	-4.97	8.998
+1986.125	-1.47	-4.96	9.045
+1986.208	-1.63	-4.86	9.092
+1986.292	-1.82	-4.82	9.134
+1986.375	-1.90	-4.65	9.146
+1986.458	-1.90	-4.47	9.207
+1986.542	-1.87	-4.25	9.281
+1986.625	-1.97	-4.13	9.308
+1986.708	-1.86	-4.17	9.314
+1986.792	-1.50	-4.32	9.267
+1986.875	-1.32	-4.42	9.221
+1986.958	-1.68	-4.73	9.153
+1987.042	-1.74	-4.68	9.097
+1987.125	-1.64	-4.70	9.083
+1987.208	-1.67	-4.68	9.063
+1987.292	-1.72	-4.59	9.113
+1987.375	-1.83	-4.40	9.160
+1987.458	-1.72	-4.33	9.213
+1987.542	-1.78	-4.21	9.245
+1987.625	-1.94	-4.20	9.282
+1987.708	-1.90	-4.20	9.285
+1987.792	-1.58	-4.25	9.277
+1987.875	-1.34	-4.37	9.240
+1987.958	-1.29	-4.49	9.173
+1988.042	-1.27	-4.56	9.103
+1988.125	-1.20	-4.71	9.067
+1988.208	-1.28	-4.73	9.089
+1988.292	-1.46	-4.60	9.116
+1988.375	-1.71	-4.57	9.168
+1988.458	-1.64	-4.41	9.209
+1988.542	-1.63	-4.31	9.250
+1988.625	-1.48	-4.22	9.272
+1988.708	-1.32	-4.29	9.231
+1988.792	-1.21	-4.42	9.171
+1988.875	-1.22	-4.59	9.096
+1988.958	-1.32	-4.76	9.031
+1989.042	-1.42	-4.84	9.017
+1989.125	-1.54	-4.98	9.035
+1989.208	-1.63	-4.88	9.091
+1989.292	-1.76	-4.75	9.146
+1989.375	-1.79	-4.59	9.160
+1989.458	-1.75	-4.47	9.183
+1989.542	-1.54	-4.39	9.232
+1989.625	-1.36	-4.38	9.254
+1989.708	-1.09	-4.38	9.230
+1989.792	-0.95	-4.47	9.171
+1989.875	-1.06	-4.66	9.112
+1989.958	-1.31	-4.86	9.063
+1990.042	-1.44	-4.97	9.019
+1990.125	-1.44	-5.10	8.980
+1990.208	-1.36	-5.00	9.011
+1990.292	-1.61	-4.78	9.094
+1990.375	-1.64	-4.47	9.173
+1990.458	-1.59	-4.42	9.200
+1990.542	-1.61	-4.44	9.215
+1990.625	-1.68	-4.46	9.236
+1990.708	-1.69	-4.44	9.254
+1990.792	-1.22	-4.19	9.249
+1990.875	-1.09	-4.27	9.214
+1990.958	-1.19	-4.53	9.111
+1991.042	-1.52	-4.67	9.035
+1991.125	-1.72	-4.83	9.000
+1991.208	-1.74	-4.69	9.040
+1991.292	-1.90	-4.47	9.125
+1991.375	-2.04	-4.35	9.182
+1991.458	-1.94	-4.29	9.223
+1991.542	-1.91	-4.23	9.243
+1991.625	-1.86	-4.16	9.284
+1991.708	-1.64	-4.23	9.268
+1991.792	-1.60	-4.35	9.208
+1991.875	-1.73	-4.51	9.104
+1991.958	-1.86	-4.75	9.035
+1992.042	-1.94	-4.77	9.033
+1992.125	-1.96	-4.78	9.016
+1992.208	-1.97	-4.75	9.013
+1992.292	-1.97	-4.73	9.016
+1992.375	-1.92	-4.74	9.037
+1992.458	-1.88	-4.75	9.063
+1992.542	-1.93	-4.69	9.098
+1992.625	-1.98	-4.62	9.135
