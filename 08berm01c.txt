@@ -76,13 +76,6 @@
 #------------------
 # Chronology: 
 # 
-# 	Column 1: Year 
-# 	Column 2: Sr/Ca (mmol/mol)
-# 	Column 3: 3 year Smoothed Growth (mm/yr)
-# 	Column 4: Reconstructed SST (deg C)
-# 	Column 5: del18O (per mil)
-# 
-#
 # 
 #
 #
@@ -95,9 +88,9 @@
 #
 ##age_AD	age, Diploria labyrinthiformis, ,years AD, , Corals and Sclerosponges, , ,N
 ##Sr/Ca		Strontium Calcium, Diploria labyrinthiformis, , mmol/mol, , Corals and Sclerosponges, ,instrument: inductively coupled plasma–atomic emission spectrometry,N
-##3yrgrowth	extension rate, Diploria labyrinthiformis, ,mm/yr, ,Corals and Sclerosponges, , smooth: 3 year running mean,N 
-##SST		sea surface temperature, , ,degrees Celcius, ,Reconstructions, , ,N
-##del18O	delta 18O,Diploria labyrinthiformis, ,per mil, ,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
+##ext_rt	extension rate, Diploria labyrinthiformis, ,mm/yr, ,Corals and Sclerosponges, , smooth: 3 year running mean,N 
+##sst		sea surface temperature, , ,degrees Celcius, ,Reconstructions, , ,N
+##d18o	delta 18O,Diploria labyrinthiformis, ,per mil, ,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
 #
 #----------------
 # Data:
@@ -105,7 +98,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	   Sr/Ca      3yrgrowth	SST	   del18O
+age_AD	Sr/Ca	ext_rt	sst	d18o
 1998       9.288      3.464     23.251     -3.619
 1997       9.280      3.333     23.413     -3.482
 1996       9.291      2.898     23.344     -3.405
