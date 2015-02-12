@@ -54,7 +54,7 @@
 #------------------
 # Site_Information 
 #       Site_Name: Palmyra Island
-#       Location: 
+#       Location: Ocean>Pacific Ocean>Central Pacific Ocean
 #	Country: United States
 #	Northernmost_Latitude: 5.87 
 # 	Southernmost_Latitude: 5.87 
@@ -63,7 +63,7 @@
 # 	Elevation: -9 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 01palm01a 
+#	Collection_Name: 01cpac01a 
 #	Earliest_Year:1886  
 #	Most_Recent_Year: 1998 
 #	Time_Unit: Years AD 
