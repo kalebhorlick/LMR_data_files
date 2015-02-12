@@ -69,12 +69,7 @@
 #	Species_Name: Porites sp.
 #	Common_Name: 
 #------------------
-# Chronology: 
-# 
-#
-#	Column 1:  Month 
-#	Column 2:  d11B (per mil SRM 951), average of 2, 3, or 4 runs
-#	Column 3:  pH
+# Chronology:
 # 
 #
 # 
@@ -88,7 +83,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##month		age, , ,month, ,Corals and Sclerosponges, , ,N
-##del11b	delta 11B,Porites sp., ,per mil SRM 951, ,Corals and Sclerosponges, average:2 to 4 runs,stable isotope mass spectrometry,N
+##d11b	delta 11B,Porites sp., ,per mil SRM 951, ,Corals and Sclerosponges, average:2 to 4 runs,stable isotope mass spectrometry,N
 ##pH		pH, Porites sp., ,unitless, ,Reconstructions, , ,N
 #----------------
 # Data:
@@ -96,7 +91,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-Month	del11b	pH
+Month	d11b	pH
 30.6	22.81	7.87
 29.8	23.17	7.93
 28.9	23.06	7.92
