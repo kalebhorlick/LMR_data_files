@@ -62,7 +62,7 @@
 #	Earliest_Year: 1905
 #	Most_Recent_Year: 1994
 #	Time_Unit: Years AD 
-#	Core_Length:  m
+#	Core_Length:
 #	Notes: From Tulear Core 3. Annual mean is from March-February. Previous name Tulear-3 d18O Z14
 #------------------
 # Species
@@ -177,7 +177,7 @@ age_AD	d18o
 1985	-4.635
 1986	-4.773
 1987	-4.534
-1988	-4.758333333
+1988	-4.7583
 1989	-4.72
 1990	-4.64
 1991	-4.694
