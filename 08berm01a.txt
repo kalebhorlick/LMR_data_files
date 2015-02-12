@@ -76,10 +76,6 @@
 #------------------
 # Chronology: 
 # 
-# 	Column 1: Year 
-# 	Column 2: Sr/Ca (mmol/mol)
-# 	Column 4: Reconstructed SST (deg C)
-# 
 #
 # 
 #
