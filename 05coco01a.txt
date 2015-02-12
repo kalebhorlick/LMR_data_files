@@ -62,7 +62,7 @@
 #	Earliest_Year: 1955 
 #	Most_Recent_Year: 1985
 #	Time_Unit: Years AD 
-#	Core_Length:  m
+#	Core_Length:
 #	Notes: 
 #------------------
 # Species
