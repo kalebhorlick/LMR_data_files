@@ -76,9 +76,6 @@
 #------------------
 # Chronology: 
 # 
-# 	Column 1: Year
-# 	Column 2: del 18O (per mil)
-# 
 #
 # 
 #
@@ -91,7 +88,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##del18Owint	delta 18O,Diploria labyrinthiformis, ,per mil,winter,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
+##d18o_wint	delta 18 Oxygen, Diploria labyrinthiformis, ,per mil,winter,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
 #
 #----------------
 # Data:
@@ -99,7 +96,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD      del18Owint 
+age_AD      d18o_wint 
 1999      -3.896
 1998      -3.296
 1997      -3.104
