@@ -112,7 +112,7 @@
 # 	Elevation:  +11 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 03palm03d 
+#	Collection_Name: 03cpac03d 
 #	Earliest_Year: 1412
 #	Most_Recent_Year: 1443 
 #	Time_Unit: Years AD 
