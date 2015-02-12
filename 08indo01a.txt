@@ -8,7 +8,7 @@
 # If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
 #
 #
-# Online_Resource: http://ncdc.noaa.gov/paleo/study/10272
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:10272
 #
 # Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/langkai2008.txt
 # 
@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date:  2010
+#	Date:  2011-01
 #--------------------
 # Title
 #	Study_Name: Pulau Langkai, Makassar Strait 120 Year Coral 14C Data
@@ -90,7 +90,7 @@
 #
 ##notes	Center for Accelerator Mass Spectrometry sample number, , , , , Corals and Sclerosponges, , ,N
 ##age_AD	age, Porites lutea, , years AD, , Corals and Sclerosponges, , ,N
-##acdel14c	delta 14C, Porites lutea, , per mil NBS oxalic acid, , Corals and Sclerosponges, d13C age correction, stable isotope mass spectrometry, N 
+##ac_d14c	delta age-corrected delta 14 Carbon, Porites lutea, , per mil NBS oxalic acid, , Corals and Sclerosponges, d13C age correction, stable isotope mass spectrometry, N 
 #
 #----------------
 # Data:
@@ -98,7 +98,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 
-notes	age_AD	acdel14c
+notes	age_AD	ac_d14c
 83778	1990.5	113
 83779	1990.35	102
 83780	1990.19	105
