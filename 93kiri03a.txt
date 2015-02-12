@@ -118,8 +118,8 @@
 #
 ##depth_mm	depth of sample, , , mm, , Corals and Sclerosponges, , ,N
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##del18o	raw delta 18 Oxygen, Hydnophora microconos, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT-251 mass spectrometer,N 				
-##del13c	delta 13 Carbon, Hydnophora microconos, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT-251 mass spectrometer,N
+##d18o	delta 18 Oxygen, Hydnophora microconos, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT-251 mass spectrometer,N 				
+##d13c	delta 13 Carbon, Hydnophora microconos, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT-251 mass spectrometer,N
 ##Mn/Ca	Manganese Calcium ratio, Hydnophora microconos, , nmol/mol, , Corals and Sclerosponges, , ,N
 #
 #----------------
@@ -128,7 +128,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-depth_mm	age_AD	del18o	del13c	Mn/Ca
+depth_mm	age_AD	d18o	del13c	Mn/Ca
 1	1977.50	-4.818	0.403	NAN
 2	1977.44	-4.983	-0.096	NAN
 3	1977.39	-4.709	-0.335	NAN
