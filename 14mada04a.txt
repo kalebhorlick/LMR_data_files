@@ -62,7 +62,7 @@
 #	Earliest_Year: 1660 
 #	Most_Recent_Year: 1994
 #	Time_Unit: Years AD 
-#	Core_Length:  m
+#	Core_Length:
 #	Notes: Composite d18O SST anomaly record from Ifaty-1, Ifaty-4 and Tulear-3 cores vs. 1961-90.
 #------------------
 # Species
@@ -85,7 +85,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##sst_d18o	sea surface temperature anomaly,delta 18O Porites sp.,,per mil VPDB,,Corals and Sclerosponges,relative to 1961-90,,N				
+##sst   delta 18o reconstructed sea surface temperature anomaly,delta 18O,, degrees C,,Corals and Sclerosponges, normalized to 1961-90,,N				
 #
 #----------------
 # Data:
