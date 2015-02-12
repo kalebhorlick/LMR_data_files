@@ -127,7 +127,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-depth_mm	Sr/Ca	U/Ca	PDO_index
+age_AD	Sr/Ca	U/Ca	PDO_index
 1873	9.145	1.215	-0.076557
 1874	9.17	1.235	0.074775
 1875	9.205	1.28	0.149132
