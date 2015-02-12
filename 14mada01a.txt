@@ -62,7 +62,7 @@
 #	Earliest_Year: 1882 
 #	Most_Recent_Year: 1994
 #	Time_Unit: Years AD 
-#	Core_Length:  m
+#	Core_Length:
 #	Notes: From Ifaty Core 1. Annual mean is from March-February. Previous name Ifaty-1 d18O Z14
 #------------------
 # Species
