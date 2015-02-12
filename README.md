@@ -8,3 +8,5 @@ This repository could house all of the coral data files, used in conjunction wit
 89 coral data files as of 6:08pm 2/10/15, templating from NCDC archive list.
 
 103 coral data files as of 4:38pm 2/11/15, templating from NCDC archive list.
+
+100 coral data files as of 3:30pm 2/12/15, deleted 6 short files after learning (after hangout) that temporal range needs to be ~50+ years to be considered. About to send email to PI group Re: github repository
