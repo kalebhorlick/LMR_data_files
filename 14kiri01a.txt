@@ -159,7 +159,7 @@
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d18o	delta 18O,Porites sp.,,per mil VPDB,,Corals and Sclerosponges,,analytical technique: isotope ratio mass spectrometry,N				
 ##Sr/Ca		Strontium/Calcium,Porites sp.,,mmol/mol,,Corals and Sclerosponges,,analytical technique: ICP-OES,N
-##sst_Sr/Ca	sea surface temperature,Porites sp. Sr/Ca ,,degrees Celsius,,Corals and Sclerosponges,,analytical technique: ICP-OES,N
+##sst   Sr/Ca reconstructedsea surface temperature,Porites sp. Sr/Ca ,,degrees Celsius,,Corals and Sclerosponges,,analytical technique: ICP-OES,N
 ##d18o_sw	delta 18O seawater,Porites sp.,,per mil VPDB,,Corals and Sclerosponges,,analytical technique: inductively coupled plasma atomic emission spectroscopy,N
 #
 #----------------
@@ -168,7 +168,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	Sr/Ca	sst_Sr/Ca	d18o_sw	
+age_AD	d18o	Sr/Ca	sst	d18o_sw	
 1959.374	-4.90	8.940	28.92	0.25
 1959.540	-4.95	8.934	28.98	0.21
 1959.706	-4.96	8.893	29.47	0.30
