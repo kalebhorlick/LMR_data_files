@@ -8,7 +8,7 @@
 # If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
 #
 #
-# Online_Resource: http://ncdc.noaa.gov/paleo/study/10373
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:10373
 #
 # Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/east_pacific/palmyra2011.txt
 # 
@@ -42,8 +42,6 @@
 #       Online_Resource: 
 #       Full_Citation: Nurhati, I.S., K.M. Cobb, and E. Di Lorenzo. 2011. Decadal-scale SST and Salinity Variations in the Central Tropical Pacific: Signatures of Natural and Anthropogenic Climate Change. Journal of Climate, Vol. 24, Issue 13, pp. 3294-3308, July 2011. doi: 10.1175/2011JCLI3852.1 
 #       Abstract: Accurate projections of future temperature and precipitation patterns in many regions of the world depend on quantifying anthropogenic signatures in tropical Pacific climate against its rich background of natural variability. However, the detection of anthropogenic signatures in the region is hampered by the lack of continuous, century-long instrumental climate records. This study presents coral-based sea-surface temperature (SST) and salinity proxy records from Palmyra Island in the central tropical Pacific over the 20th century, based on coral Sr/Ca and the oxygen isotopic composition of seawater (d18OSW), respectively. On interannual timescales, the Sr/Ca-based SST record captures both eastern- and central- Pacific warming "flavors" of El Nino-Southern Oscillation (ENSO) variability (R=0.65 and 0.67, respectively). On decadal timescales, the SST proxy record is highly correlated to the North Pacific Gyre Oscillation (NPGO; R=-0.85), reflecting strong dynamical links between the central Pacific warming mode and extratropical decadal climate variability. Decadal-scale salinity variations implied by the coral-based d18OSW record are significantly correlated with the Pacific Decadal Oscillation (PDO; R=0.54). The salinity proxy record is dominated by an unprecedented trend towards lighter d18OSW values since the mid-20th century, implying that a significant freshening has taken place in the region, in line with climate model projections showing enhanced hydrological patterns under greenhouse forcing. Taken together, the new coral records suggest that low-frequency SST and salinity variations in the central tropical Pacific are controlled by different sets of dynamics, and that recent hydrological trends in this region may be related to anthropogenic climate change. 
-
-
 #------------------
 # Funding_Agency 
 #       Funding_Agency_Name: 
@@ -60,7 +58,7 @@
 # 	Elevation: -10 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 11palm01a
+#	Collection_Name: 11cpac01a
 #	Earliest_Year: 1886 
 #	Most_Recent_Year: 1998 
 #	Time_Unit: AD 
@@ -73,11 +71,6 @@
 #------------------
 # Chronology: 
 # 
-#	Column 1: Date (Year AD) 
-# 	Column 2: d18O (per mil)
-#	Column 3: Sr/Ca(mmol/mol) 
-#	Column 4: Sr/Ca-derived SST (degrees C)
-#	Column 5: d18Osw (per mil)
 # 
 #
 # 
@@ -91,10 +84,10 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, Porites lutea, ,years AD, , Corals and Sclerosponges, , ,N
-##del18o	delta 18O,Porites lutea, ,per mil,,Corals and Sclerosponges, ,GV Isoprime-Multiprep mass spectrometer,N		
+##d18o	delta 18O,Porites lutea, ,per mil,,Corals and Sclerosponges, ,GV Isoprime-Multiprep mass spectrometer,N		
 ##Sr/Ca		Strontium/Calcium,Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, ,Jobin Yvon Ultima 2C Inductively Coupled Plasma-Optical Emission Spectrometer,N 
-##SSTreconst	sea surface temperature,, , degrees Celcius, ,Reconstructions, , ,N		
-##del18osw	delta 18O,sea water,per mil, ,Corals and Sclerosponges, ,GV Isoprime-Multiprep mass spectrometer,N
+##sst	reconstructed sea surface temperature,, , degrees Celcius, ,Reconstructions, , ,N		
+##d18o_sw	delta 18O,sea water,per mil, ,Corals and Sclerosponges, ,GV Isoprime-Multiprep mass spectrometer,N
 ##
 #----------------
 # Data:
@@ -102,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	del18o	Sr/Ca	SSTreconst	del18osw
+age_AD	d18o	Sr/Ca	sst	d18o_sw
 1998.29    -5.41       8.96      28.39	     NAN
 1998.21    -5.47       8.90      29.08       0.39
 1998.13    -5.49       8.91      28.94       0.35
