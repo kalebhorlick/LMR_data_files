@@ -56,11 +56,11 @@
 #   Pages: 1-11
 #   DOI: 10.1007/s00382-003-0364-y
 #  Abstract: In the Pacific Ocean, the coherent pattern of interdecadal variations in sea surface temperature (SST) over the last ∼100 years has been termed the Interdecadal Pacific Oscillation (IPO). To examine past variations in the IPO we have generated time series of Sr/Ca and oxygen isotopes (δ18O) from South Pacific Porites coral colonies growing at Rarotonga (1997 to 1726) and Fiji (1997 to 1780). At both sites skeletal Sr/Ca is highly correlated with instrumental SST at least back to ∼1970 and δ18O appears to reflect both SST and South Pacific Convergence Zone (SPCZ) effects on seawater δ18O. Comparison of our results to a New Caledonia coral δ18O record and to indices of interdecadal Pacific climate variability demonstrates that these South Pacific corals have accurately recorded twentieth century variations in the IPO and SPCZ. The coral records also indicate that higher amplitude and more spatially coherent IPO-related variability existed from 1880 to 1950 with notably poor between-site correlations in the mid-1800s. These observations suggest that the spatial IPO pattern in South Pacific SST was significantly more complex and/or poorly defined in the mid-1800s compared to that observed in the twentieth century. Comparison with North Pacific IPO indices also indicates that the degree of cross-hemispheric symmetry of interdecadal oceanographic variability has changed over time with a lower correlation between the North and South Pacific in the mid-1800s. This evidence suggests that the spatial pattern of the IPO at least in the South Pacific has varied over the last 300 years, with a major reorganization occurring after ∼1880 A.D.
-#-------------------------------------------------
+#--------------------------------
 # Funding_Agency: 
 #    Funding_Agency_Name: National Science Foundation
 #    Grant: ATM-9901649, ATM-9619035, OCE-0318296, OCE-0317941
-#-------------------------------------------------
+#--------------------------------
 # Funding_Agency: 
 #    Funding_Agency_Name: National Oceanic and Atmospheric Administration
 #    Grant: NA96GP0470
@@ -75,7 +75,7 @@
 # 	Westernmost_Longitude: 179.23
 # 	Elevation: -10 m
 #--------------------------------
-# Data Collection: 
+# Data Collection 
 # Collection_Name: 06fiji01a
 # Oldest_Year: 1781
 # Most_Recent_Year: 1997
