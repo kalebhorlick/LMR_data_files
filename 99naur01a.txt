@@ -11,7 +11,9 @@
 # Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1842
 #
 # Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/readme_nauru.txt
-# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/nauru1.txt
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/nauru2.txt
+# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/image/coral/nau1o18.gif
+# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/image/coral/nau1c13.gif
 # 
 # Description/Documentation lines begin with #
 # Data lines have no #
