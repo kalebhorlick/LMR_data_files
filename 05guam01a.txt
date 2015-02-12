@@ -97,7 +97,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##del18o	delta 18O, Porites lobata, ,per mil, ,Corals and Sclerosponges, 17o corrected,stable isotope mass spectrometry,N		
+##d18o	delta 18O, Porites lobata, ,per mil, ,Corals and Sclerosponges, 17o corrected,stable isotope mass spectrometry,N		
 #
 #----------------
 # Data:
@@ -106,7 +106,7 @@
 # Missing Values: NAN 
 #
 
-age_AD	del18o
+age_AD	d18o
 2000.21	-5.31
 2000.12	-5.18
 2000.04	-5.28
