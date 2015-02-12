@@ -91,8 +91,8 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 93kiri03a 
-#	Earliest_Year: 1894 
-#	Most_Recent_Year: 1990 
+#	Earliest_Year: 1960 
+#	Most_Recent_Year: 1977 
 #	Time_Unit: Year AD 
 #	Core_Length: .26 m
 #	Notes: Original core name- LDGO-44
