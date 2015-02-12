@@ -94,7 +94,7 @@
 #	Earliest_Year: 1894 
 #	Most_Recent_Year: 1990 
 #	Time_Unit: Year AD 
-#	Core_Length:  m
+#	Core_Length:
 #	Notes: 
 #------------------
 # Species
@@ -117,7 +117,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##del18o	raw delta 18 Oxygen, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT-251 mass spectrometer,N 				
+##d18o	delta 18 Oxygen, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT-251 mass spectrometer,N 				
 #
 #----------------
 # Data:
@@ -125,7 +125,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	del18o
+age_AD	d18o
 1990.000	-4.879
 1989.917        -4.891
 1989.833        -4.902
