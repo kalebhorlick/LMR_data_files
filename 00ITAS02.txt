@@ -1,0 +1,332 @@
+# Antarctic Ice Core 200 Year Temperature Reconstruction 
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:6290
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/antarctica-temp2006.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstruction
+# --------------------
+# Contribution_date
+#	Date: 2008
+# --------------------
+# Title 
+#	Study_Name: Antarctic Ice Core 200 Year Temperature Reconstruction 
+# --------------------
+# Investigators
+#	Investigators: Schneider, D.P.; Steig, E.J.; van Ommen, T.D.; Dixon, D.A.; Mayewski, P.A.; Jones, J.M.; Bitz, C.M.  
+# --------------------
+# Description_and_Notes
+# 	Description: Antarctic temperature reconstruction for the past two centuries based on 
+#	high resolution stable isotope data from ice cores.  Annually-resolved 
+#	d18O and dD ice core records from Law Dome [van Ommen et al., 2004], 
+#	Siple Station [Mosley-Thompson et al., 1990], Dronning Maud Land (DML) 
+#	[Graf et al., 2002], and two West Antarctic sites of the United States
+#	component of ITASE [Steig et al., 2006] were utilized in the reconstruction.
+#
+#	A8 calibration temperature derived from raw station data from READER 
+#	(Turner et al, 2004).  Data: http://www.antarctica.ac.uk/met/READER 
+#	Time series from eight stations on the coast and the continental interior 
+#	are included in the analysis.
+#
+#	Ice Core Data:						   
+#	The Law Dome 2000 record is a stack of several cores. The timeseries 
+#	provided here is that used for the reconstruction. 
+#	Law Dome data: http://data.aad.gov.au/aadc/portal/index.cfm?file_id=2462						   
+#						   
+#	The DML stack as used in the reconstruction is also provided. 
+#	The original data: 
+#	http://www.pangaea.de [search by "graf et al 2002" or by the core name].						   
+#						   
+#	The US-ITASE 2000-5 and 2000-1 records are contributed by Eric Steig 
+#	and David Schneider. 
+#	Additional details on US-ITASE data: http://nsidc.org/agdc/itase.html						   
+#						   
+#	The Siple Station record is available from Dr. Ellen Mosley-Thompson 
+#	of the Byrd Polar Research Center at The Ohio State University.						 
+#
+#
+#
+#	Table 1: Ice Core information 
+#	Law Dome 2000 (stack): 66.78°S, 112.82°E,  1370m elev., years 1800–1999, d18O
+#	Siple Station:         75.92°S,  84.10°W,  1054m elev., years 1800–1983, d18O
+#	Dronning Maud Land*:     ~75°S,      0°E, ~2900m elev., years 1800–1997, d18O
+#	US ITASE 2000-1:       79.38°S, 111.23°W,  1791m elev., years 1800–1999, d18O
+#	US ITASE 2000-5:       77.68°S, 123.99°W,  1828m elev., years 1800–1999, dD
+#
+#	*Dronning Maud Land DML stack, multiple cores, Graf et al. (2002): 
+#	DML18(FB9804); DML19(FB806); DML05(FB9807); DML20(FB9808); DML21(FB9810); 
+#	DML22(FB9811); DML16(FB9813); DML14(FB9815); DML13(FB9816); DML12(FB9817); 
+#	DML07(B31); DML05(B32); DML17(B33); DML03(FB9809).
+#
+# --------------------
+# Publication
+#	Authors: D.P Schneider, E.J. Steig, T.D. van Ommen, D.A. Dixon, P.A. Mayewski, J.M. Jones, C.M. Bitz
+#	Published_Date_or_Year: 2006
+#	Published_Title: Antarctic temperatures over the past two centuries from ice cores.
+#	Journal_Name: Geophysical Research Letters
+#	Volume: 33
+#	Edition: 	
+#	Issue: 
+#	Pages: 
+#	DOI:  10.1029/2006GL027057
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: We present a reconstruction of Antarctic mean surface temperatures over the past two centuries based on water stable isotope records 
+from high-resolution, precisely dated ice cores. Both instrumental and reconstructed temperatures indicate large interannual to decadal 
+scale variability, with the dominant pattern being anti-phase anomalies between the main Antarctic continent and the Antarctic Peninsula region. Comparative analysis of the instrumental Southern
+Hemisphere (SH) mean temperature record and the reconstruction suggests that at longer timescales, temperatures over the Antarctic continent 
+vary in phase with the SH mean. Our reconstruction suggests that Antarctic temperatures have increased by about 0.2°C since the late  nineteenth century. The variability and the long-term trends are 
+strongly modulated by the SH Annular Mode in the atmospheric circulation.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: United States National Science Foundation, Office of Polar Programs
+#	Grant: 0229416
+#	Funding_Agency_Name: United States National Science Foundation, Office of Polar Programs
+#	Grant: 0196105
+#	
+# --------------------
+# Site_Information
+#	Site_Name: US ITASE 2000-1
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: -79.380
+#	Southernmost_Latitude: -79.380 
+#	Easternmost_Longitude: -111.230
+#	Westernmost_Longitude: -111.230
+#	Elevation: 1791m
+# --------------------
+# Data_Collection
+#	Collection_Name: 00ITAS02
+#	Earliest_Year: 1800
+#	Most_Recent_Year: 1999
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1999.0000	-33.5868
+1998.0000	-30.6453
+1997.0000	-31.2793
+1996.0000	-31.0521
+1995.0000	-31.3029
+1994.0000	-33.2584
+1993.0000	-32.8371
+1992.0000	-31.4698
+1991.0000	-31.1730
+1990.0000	-32.1086
+1989.0000	-32.1808
+1988.0000	-33.3177
+1987.0000	-33.8687
+1986.0000	-35.1042
+1985.0000	-33.1259
+1984.0000	-31.4931
+1983.0000	-32.5974
+1982.0000	-33.0610
+1981.0000	-31.8057
+1980.0000	-31.1040
+1979.0000	-33.1066
+1978.0000	-32.9468
+1977.0000	-34.3130
+1976.0000	-32.3610
+1975.0000	-33.6475
+1974.0000	-32.8650
+1973.0000	-33.0514
+1972.0000	-32.9474
+1971.0000	-32.0973
+1970.0000	-33.1005
+1969.0000	-33.9943
+1968.0000	-33.7811
+1967.0000	-33.1987
+1966.0000	-33.3841
+1965.0000	-32.9087
+1964.0000	-31.4286
+1963.0000	-33.3139
+1962.0000	-34.1693
+1961.0000	-31.9214
+1960.0000	-32.9024
+1959.0000	-34.2157
+1958.0000	-32.7904
+1957.0000	-34.3593
+1956.0000	-33.1395
+1955.0000	-33.8396
+1954.0000	-33.5002
+1953.0000	-33.8156
+1952.0000	-31.6781
+1951.0000	-33.0277
+1950.0000	-33.0127
+1949.0000	-33.2809
+1948.0000	-33.9805
+1947.0000	-33.7230
+1946.0000	-31.4457
+1945.0000	-31.1592
+1944.0000	-33.5679
+1943.0000	-34.3566
+1942.0000	-32.8470
+1941.0000	-31.1523
+1940.0000	-31.4078
+1939.0000	-30.6466
+1938.0000	-31.3871
+1937.0000	-34.2585
+1936.0000	-34.2843
+1935.0000	-33.3829
+1934.0000	-33.0867
+1933.0000	-33.4639
+1932.0000	-33.7921
+1931.0000	-32.1694
+1930.0000	-32.3941
+1929.0000	-33.7224
+1928.0000	-33.2143
+1927.0000	-33.3224
+1926.0000	-31.9720
+1925.0000	-31.6029
+1924.0000	-32.4792
+1923.0000	-32.5525
+1922.0000	-31.9013
+1921.0000	-31.8710
+1920.0000	-33.0393
+1919.0000	-33.5836
+1918.0000	-32.4454
+1917.0000	-34.3744
+1916.0000	-31.5261
+1915.0000	-32.6555
+1914.0000	-33.1469
+1913.0000	-32.6041
+1912.0000	-31.6986
+1911.0000	-31.9650
+1910.0000	-34.2820
+1909.0000	-34.6195
+1908.0000	-33.2167
+1907.0000	-34.4266
+1906.0000	-34.0148
+1905.0000	-34.1296
+1904.0000	-32.6113
+1903.0000	-33.7208
+1902.0000	-33.0529
+1901.0000	-32.0256
+1900.0000	-32.9549
+1899.0000	-32.0985
+1898.0000	-32.0324
+1897.0000	-33.8114
+1896.0000	-33.1711
+1895.0000	-33.1194
+1894.0000	-32.7191
+1893.0000	-33.8013
+1892.0000	-32.6802
+1891.0000	-32.5572
+1890.0000	-33.8502
+1889.0000	-32.6419
+1888.0000	-31.8674
+1887.0000	-32.8470
+1886.0000	-32.3523
+1885.0000	-33.7812
+1884.0000	-32.6330
+1883.0000	-32.5883
+1882.0000	-32.1566
+1881.0000	-33.7086
+1880.0000	-34.2543
+1879.0000	-32.8872
+1878.0000	-32.0068
+1877.0000	-30.7822
+1876.0000	-31.8133
+1875.0000	-33.5915
+1874.0000	-32.7011
+1873.0000	-31.8790
+1872.0000	-33.2183
+1871.0000	-34.3593
+1870.0000	-34.1209
+1869.0000	-34.8264
+1868.0000	-33.2986
+1867.0000	-34.0458
+1866.0000	-34.1915
+1865.0000	-33.2381
+1864.0000	-33.1952
+1863.0000	-32.6203
+1862.0000	-32.7609
+1861.0000	-33.1682
+1860.0000	-34.5052
+1859.0000	-34.9760
+1858.0000	-33.7857
+1857.0000	-33.1263
+1856.0000	-31.4481
+1855.0000	-32.2145
+1854.0000	-33.2933
+1853.0000	-32.5242
+1852.0000	-33.1961
+1851.0000	-34.6524
+1850.0000	-33.6455
+1849.0000	-33.4597
+1848.0000	-34.0184
+1847.0000	-33.5780
+1846.0000	-32.6231
+1845.0000	-32.5189
+1844.0000	-33.8734
+1843.0000	-33.6582
+1842.0000	-34.1846
+1841.0000	-32.4144
+1840.0000	-31.7121
+1839.0000	-32.9329
+1838.0000	-33.1070
+1837.0000	-33.8006
+1836.0000	-31.7163
+1835.0000	-30.9486
+1834.0000	-33.5846
+1833.0000	-33.7471
+1832.0000	-33.5235
+1831.0000	-33.1284
+1830.0000	-32.0377
+1829.0000	-31.5492
+1828.0000	-31.4113
+1827.0000	-30.4548
+1826.0000	-32.4302
+1825.0000	-32.3960
+1824.0000	-33.8503
+1823.0000	-33.4686
+1822.0000	-32.7376
+1821.0000	-31.5288
+1820.0000	-33.5441
+1819.0000	-34.4695
+1818.0000	-33.4365
+1817.0000	-32.2346
+1816.0000	-32.2915
+1815.0000	-31.2323
+1814.0000	-33.7147
+1813.0000	-33.0025
+1812.0000	-32.2973
+1811.0000	-33.6728
+1810.0000	-34.5354
+1809.0000	-33.8443
+1808.0000	-33.0945
+1807.0000	-32.6685
+1806.0000	-32.6020
+1805.0000	-33.4344
+1804.0000	-32.0795
+1803.0000	-33.0819
+1802.0000	-32.6154
+1801.0000	-32.1056
+1800.0000	-33.0787

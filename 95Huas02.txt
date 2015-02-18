@@ -1,0 +1,239 @@
+# Huascarán Ice Core, Core 2 Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:2447
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/trop/huascaran/readme_huascaran.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2014
+# --------------------
+# Title 
+#	Study_Name: Huascarán Ice Core, Core 2 Data
+# --------------------
+# Investigators
+#	Investigators:  Thompson, L.G.; Mosley-Thompson, E.; Davis, M.E.; Lin, P-N.; Henderson, K.A.; Cole-Dai, J.; Bolzan, J.F.; Liu, K-b. 
+# --------------------
+# Description_and_Notes
+#	Description: Site Description and Analysis
+#	In July-August 1993, two ice cores to bedrock were recovered from the col 
+#	between the north and south peaks of Nevado Huascarán, Peru (9øS, 77ø30'W, col 
+#	elevation 6050 m) and were subsequently transported back to the cold room facility at the 
+#	Byrd Polar Research Center (BPRC).  Core 1 (HSC1, 160.40 m) was sectioned in the 
+#	field into 2677 samples decreasing in thickness from 13 cm at the top to 3 cm at the base, 
+#	which were then melted and poured into 2 or 4 oz. plastic (HDPE) bottles, and sealed 
+#	with wax.  Core 2 (HSC2, 166.08 m), drilled approximately 100 m from the HSC1 site, 
+#	was returned frozen in 1 m sections.  Ice motion vectors determined from stake 
+#	movements from 1991-93 indicate that the drill sites are proximal to the divide between 
+#	ice flow towards the east and west outlets of the col.  Visible observations and borehole 
+#	temperatures indicate that the glacier is 'polar' type, i.e., it remains frozen to the bed 
+#	(Thompson et al., Science, v.269, 1995, p. 46-50).
+#	Each ice sample from HSC2 was prepared in a Class 100 clean room 
+#	environment, and analyzed for major anion concentrations (Cl-, NO3-, and SO42-) on a 
+#	Dionex 2010i ion chromatograph, d18O on a Finnigan Mat mass spectrometer (Craig, 
+#	1957), and for particulate concentration and size distribution using a Coulter TA-II 
+#	particle counter (Thompson, OSU IPS Report 46, 1973).  A complete d18O profile was 
+#	also produced from the bottled samples from HSC1.  Contamination during field 
+#	preparation and transport of these samples precluded the development of a second 
+#	complete record of particles and anion concentrations.
+#	For display purposes, variable averaging on the core depth scale was utilized to 
+#	show the major large-scale events in the record without the confusion of the large annual 
+#	variations superimposed upon the upper portion.  Hence, for HSC2, 5-m integrated 
+#	averages were calculated for between the surface and 140 meters depth and then 50-cm 
+#	averages were generated between 140 and 160 meters.  Between 160 and 166 meters, 
+#	every sample value was plotted.  A similar scheme was used for HSC1 (all values plotted 
+#	for 155-160.4 m).  These data are included in hs12-5m.txt in this data archive, and the 
+#	graph can be seen in Thompson et al., 1995 (Fig. 3).
+#
+#	Development of the time/depth relationship
+#	Tropical South American climate is marked by annual dry seasons (July-October) 
+#	which were identifiable in the ice core record as elevated values in all relevant 
+#	measurements.  The nitrate (NO3-) record from the Huascarán ice core provided the most 
+#	definitive seasonal marker, but the final time scale was constructed from a comparison of 
+#	four major parameters (NO3-, d18O, dust and SO42-).  Each annual maximum corresponds 
+#	to the middle of the dry season, assumed to occur on the 1st of August.  The rapid layer-
+#	thinning below 120 m limited annual resolution to the most recent 270 years.  However, 
+#	the high accumulation and strong preservation of seasonal cycles also made possible the 
+#	subannual resolution of d18O variations for a period of at least 100 years (1894-1993).
+#	The accuracy of the time scale is of paramount importance in the development of 
+#	relationships between ice core proxy data and tropical climate conditions.  Several 
+#	horizons in recent times were useful for confirming the layer counting as a reliable 
+#	method, and indicate almost certain ages for the uppermost 50 years.  In 1980, during the 
+#	original reconnaissance expedition to Huascarán, a 10 m firn core was extracted and 
+#	analyzed for d18O at BPRC (Thompson et al., JGR, v. 89d3, 1984, p. 4638-4646). Aside 
+#	from minor accumulation variation and slight signal attenuation, the 1993 cores 
+#	duplicated the earlier stable isotope profile over the common portion, and confirmed the 
+#	layer counting to 1980 as absolute.  Additionally, a magnitude 7.7 earthquake struck 
+#	coastal Peru in May 1970, generating large mud flows following the collapse of a large 
+#	portion of the Huascarán glacier from the north peak. The event was recognized in the ice 
+#	core by a sharp two-year rise in particulates from the newly-created sediment source.  A 
+#	third time horizon was provided by the HSC2 36Cl profile (Synal et al., Glaciers From the 
+#	Alps, Paul Scherrer Inst., 1997, p. 99-102), a substance produced by neutron activation 
+#	during the explosion of atomic devices in the presence of a 35Cl source, such as sea water.  
+#	An abrupt >100-fold rise in 36Cl concentration occurred at ~54 m depth, which dates (by 
+#	layer counting) to 1951-53.  This was in direct response to the October 31, 1952 U.S. 
+#	'Ivy' surface test of an experimental nuclear device on the Eniwetok Atoll in the Pacific 
+#	Ocean (11N, 162E) (Carter and Moghissi, Health Physics, v. 33, 1977, p. 55-71).  
+#	Finally, in both HSC1 and HSC2, the 1883 eruption of Krakatau, Indonesia (6S, 
+#	10530'E) was identified by an anomalous sulfate concentration of ~400 ppb at 110 m 
+#	depth, more than twice the level of any other local (within 10 m) event.  A date of mid-
+#	year 1884 was thus considered to be an absolute time marker for both cores within the 
+#	error of the time lag (less than one year).
+#
+# --------------------
+# Publication
+#	Authors: L.G. Thompson, E. Mosley-Thompson, M.E. Davis, P-N. Lin, K.A. Henderson, J. Cole-Dai, J.F. Bolzan and K-b. Liu
+#	Published_Date_or_Year: 1995
+#	Published_Title:  Late Glacial Stage and Holocene tropical ice core records from Huascarán, Peru. 
+#	Journal_Name: Science
+#	Volume: 269
+#	Edition: 	
+#	Issue: 
+#	Pages: 46-50
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: Two ice cores from the col of Huascarán in the north-central Andes of Peru contain a paleoclimatic history extending well into the Wisconsinan (Würm) Glacial Stage and include evidence of the Younger Dryas cool phase. Glacial stage conditions at high elevations in the tropics appear to have been as much as 8 degrees to 12 degrees C cooler than today, the atmosphere contained about 200 times as much dust, and the Amazon Basin forest cover may have been much less extensive. Differences in both the oxygen isotope ratio zeta(18)O (8 per mil) and the deuterium excess (4.5 per mil) from the Late Glacial Stage to the Holocene are comparable with polar ice core records. These data imply that the tropical Atlantic was possibly 5 degrees to 6 degrees C cooler during the Late Glacial Stage, that the climate was warmest from 8400 to 5200 years before present, and that it cooled gradually, culminating with the Little Ice Age (200 to 500 years before present). A strong warming has dominated the last two centuries.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant: 
+# --------------------
+# Site_Information
+#	Site_Name: Huascaran glacier, Devon Island
+#	Location: South America>Peru
+#	Country:  Peru
+#	Northernmost_Latitude: -9
+#	Southernmost_Latitude: -9 
+#	Easternmost_Longitude: -77.5
+#	Westernmost_Longitude: -77.5
+#	Elevation:
+# --------------------
+# Data_Collection
+#	Collection_Name: 95Huas01
+#	Earliest_Year: 1900
+#	Most_Recent_Year: 1990
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		dO18,,,per mil SMOW,,ice cores,,,N
+#	
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1992.5000	-12.8100
+1991.5000	-16.8200
+1990.5000	-14.6300
+1989.5000	-18.0700
+1988.5000	-16.4700
+1987.5000	-16.2400
+1986.5000	-18.2200
+1985.5000	-16.5000
+1984.5000	-21.2000
+1983.5000	-14.6000
+1982.5000	-16.7800
+1981.5000	-18.1100
+1980.5000	-15.3700
+1979.5000	-17.2600
+1978.5000	-16.1400
+1977.5000	-16.9400
+1976.5000	-19.9100
+1975.5000	-18.6300
+1974.5000	-18.5200
+1973.5000	-19.7800
+1972.5000	-18.9000
+1971.5000	-17.8200
+1970.5000	-17.6700
+1969.5000	-13.7900
+1968.5000	-15.3700
+1967.5000	-17.7700
+1966.5000	-15.6900
+1965.5000	-16.2100
+1964.5000	-14.0200
+1963.5000	-14.9600
+1962.5000	-18.5500
+1961.5000	-18.8000
+1960.5000	-16.9100
+1959.5000	-16.8200
+1958.5000	-17.4900
+1957.5000	-15.0800
+1956.5000	-14.3800
+1955.5000	-19.7500
+1954.5000	-18.5600
+1953.5000	-18.5500
+1952.5000	-18.1900
+1951.5000	-18.8600
+1950.5000	-19.7600
+1949.5000	-19.0800
+1948.5000	-15.9300
+1947.5000	-15.9400
+1946.5000	-14.7300
+1945.5000	-18.4100
+1944.5000	-16.9400
+1943.5000	-17.3100
+1942.5000	-19.1700
+1941.5000	-15.7600
+1940.5000	-17.1800
+1939.5000	-15.7500
+1938.5000	-17.2300
+1937.5000	-15.5000
+1936.5000	-15.7100
+1935.5000	-14.8600
+1934.5000	-16.1500
+1933.5000	-19.2400
+1932.5000	-20.3000
+1931.5000	-16.3200
+1930.5000	-18.6700
+1929.5000	-17.0400
+1928.5000	-14.6500
+1927.5000	-15.3800
+1926.5000	-17.4800
+1925.5000	-16.6400
+1924.5000	-17.9900
+1923.5000	-16.5800
+1922.5000	-21.2800
+1921.5000	-18.3300
+1920.5000	-18.0200
+1919.5000	-18.4100
+1918.5000	-17.5700
+1917.5000	-18.9200
+1916.5000	-17.0700
+1915.5000	-18.4800
+1914.5000	-15.7900
+1913.5000	-17.9900
+1912.5000	-17.5900
+1911.5000	-18.3300
+1910.5000	-18.4100
+1909.5000	-15.8600
+1908.5000	-18.7700
+1907.5000	-21.3700
+1906.5000	-17.8300
+1905.5000	-17.5200
+1904.5000	-14.5300
+1903.5000	-15.9300
+1902.5000	-21.1700
+1901.5000	-15.0200
+1900.5000	-19.5400

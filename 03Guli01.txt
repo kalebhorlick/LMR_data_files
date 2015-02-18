@@ -1,0 +1,129 @@
+# Guliya, China Ice Core Oxygen Isotope Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:2480
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/trop/guliya/guliya-d18o.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2004
+# --------------------
+# Title 
+#	Study_Name: Guliya, China Ice Core Oxygen Isotope Data
+# --------------------
+# Investigators
+#	Investigators: Thompson, L.G., Mosley-Thompson, E.; Davis, M.E.; Lin, P.N.; Henderson, K.; Mashiotta, T.A. 
+# --------------------
+# Description_and_Notes
+#	Description: Decadally averaged d18O (1987 - 1000 A.D.) from figure 5 of Thompson et al. 2003.
+# --------------------
+# Publication
+#	Authors: L.G. Thompson, E. Mosley-Thompson, M.E. Davis, P.-N. Lin, K. Henderson, and T.A. Mashiotta
+#	Published_Date_or_Year: 2003
+#	Published_Title: Tropical glacier and ice core evidence of climate change on annual to millennial time scales. 
+#	Journal_Name: Climate Change
+#	Volume: 59
+#	Edition: 	
+#	Issue: 
+#	Pages: 137-155
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: This paper examines the potential of the stable isotopic ratios, 18O/16O 
+(d18Oice) and 2H/1H (dDice), preserved in mid to low latitude glaciers 
+as a tool for paleoclimate reconstruction. Ice cores are particularly valuable 
+as they contain additional data, such as dust concentrations, aerosol chemistry, 
+and accumulation rates, that can be combined with the isotopic information to 
+assist with inferences about the regional climate conditions prevailing at the 
+time of deposition. We use a collection of multi-proxy ice core histories to 
+explore the d18O-climate relationship over the last 25,000 years that includes 
+both Late Glacial Stage (LGS) and Holocene climate conditions. These results 
+suggest that on centennial to millennial time scales atmospheric temperature 
+is the principal control on the d18Oice of the snowfall that sustains these 
+high mountain ice fields. Decadally averaged d18Oice records from three Andean 
+and three Tibetan ice cores are composited to produce a low latitude d18Oice 
+history for the last millennium. Comparison of this ice core composite with 
+the Northern Hemisphere proxy record (1000–2000 A.D.) reconstructed by 
+Mann et al. (1999) and measured temperatures (1856–2000) reported by 
+Jones et al. (1999) suggests the ice cores have captured the decadal scale 
+variability in the global temperature trends. These ice cores show a 20th 
+century isotopic enrichment that suggests a large scale warming is underway 
+at low latitudes. The rate of this isotopically inferred warming is amplified 
+at higher elevations over the Tibetan Plateau while amplification in the Andes 
+is latitude dependent with enrichment (warming) increasing equatorward. 
+In concert with this apparent warming, in situ observations reveal that 
+tropical glaciers are currently disappearing. A brief overview of the loss 
+of these tropical data archives over the last 30 years is presented along 
+with evaluation of recent changes in mean d18Oice composition. The isotopic 
+composition of precipitation should be viewed not only as a powerful proxy 
+indicator of climate change, but also as an additional parameter to aid our 
+understanding of the linkages between changes in the hydrologic cycle and 
+global climate.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+# --------------------
+# Site_Information
+#	Site_Name: Guliya
+#	Location: Asia>China
+#	Country: China
+#	Northernmost_Latitude: 35.280
+#	Southernmost_Latitude: 35.280	 
+#	Easternmost_Longitude: 81.480
+#	Westernmost_Longitude: 81.480
+#	Elevation: 6710m
+# --------------------
+# Data_Collection
+#	Collection_Name: 03Guli01
+#	Earliest_Year: 1900
+#	Most_Recent_Year: 1999
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		dO18,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1987.0000	-13.9963
+1982.0000	-12.6245
+1977.0000	-13.5376
+1972.0000	-12.4390
+1967.0000	-13.5731
+1962.0000	-14.1469
+1957.0000	-14.4147
+1952.0000	-13.3204
+1947.0000	-12.9355
+1942.0000	-15.6982
+1937.0000	-14.7946
+1932.0000	-15.1698
+1927.0000	-14.7400
+1922.0000	-17.0646
+1917.0000	-14.4522
+1912.0000	-13.8829
+1907.0000	-14.8568
+1902.0000	-16.9760

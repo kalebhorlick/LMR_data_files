@@ -1,0 +1,373 @@
+# Mount Logan Ice Core Isotope and Accumulation Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:2436
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/trop/mtlogan/mtlogan.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2002-11
+# --------------------
+# Title 
+#	Study_Name: Mount Logan Ice Core Isotope and Accumulation Data
+# --------------------
+# Investigators
+#	Investigators: Holdsworth, G.; Krouse, H. R.; Nosa, M. 
+# --------------------
+# Description_and_Notes
+#	Description: 301-year snow accumulation record from from Mount Logan, Yukon, 60 Degrees 36.9' N; 140 Degrees 30.9' W; 5340 m. Accumulation in meters, water equivalent, Estimated error +/- 0.05 m (max)
+# Data have been updated from original 1980 core, in 1981, 1986, 1988 and 2000. Note: Year 1988: data not available as the 2001 core penetrated only partly into 1988
+# --------------------
+# Publication
+#	Authors: G. Holdsworth, H.R. Krouse, and M. Nosal
+#	Published_Date_or_Year: 1992
+#	Published_Title: Ice core climate signals from Mount Logan, Yukon, A. D. 1700– 1987, in Climate Since AD 1500
+#	Journal_Name: Climate Since A.D. 1500
+#	Volume: 
+#	Edition: 	
+#	Issue: 
+#	Pages: 483-604
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: The relatively short length of most instrumental climate records
+restricts the study of climate variability, and it is therefore
+essential to extend the record into the past with the help of proxy
+data. Only since the late 1940s have atmospheric data been available
+that are sufficient in quality and spatial resolution to identify the
+dominant patterns of climate variability, such as the Pacific North
+America pattern and the Pacific Decadal Oscillation. Here we present
+a 301-year snow accumulation record from an ice core at a height of
+5,340 m above sea level - from Mount Logan, in northwestern North
+America. This record shows features that are closely linked with the
+Pacific North America pattern for the period of instrumental data
+availability. Our record extends back in time to cover the period from
+the closing stages of the Little Ice Age to the warmest decade in the
+past millennium. We find a positive, accelerating trend in snow
+accumulation after the middle of the nineteenth century. This trend is
+paralleled by a warming over northwestern North America which has been
+associated with secular changes in both the Pacific North America
+pattern and the Pacific Decadal Oscillation. 
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name:International Arctic Research Center, Fairbanks
+# Funding_Agency
+#	Funding_Agency_Name: Geological Survey of Canada
+# Funding_Agency
+#	Funding_Agency_Name: National Institute of Polar Research, Tokyo
+# Funding_Agency
+#	Funding_Agency_Name: Natural Sciences and Engineering Research COuncil of Canada
+#	
+# --------------------
+# Site_Information
+#	Site_Name: Mount Logan
+#	Location:North America> Canada>Yukon
+#	Country: Canada 
+#	Northernmost_Latitude: 60.58
+#	Southernmost_Latitude: 60.85	 
+#	Easternmost_Longitude: -140.58
+#	Westernmost_Longitude: -140.58
+#	Elevation: 5340m
+# --------------------
+# Data_Collection
+#	Collection_Name: 92MtLo01
+#	Earliest_Year: 1736
+#	Most_Recent_Year: 1987
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##accum		accumulation,,,meters,,ice cores,,,N
+##d18O		Delta O18,,,per mil SMOW,,ice cores,,,N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	accum	d18O
+2000	0.7	NAN
+1999	0.73	NAN
+1998	0.58	NAN
+1997	0.59	NAN
+1996	0.56	NAN
+1995	0.45	NAN
+1994	0.69	NAN
+1993	0.54	NAN
+1992	0.37	NAN
+1991	0.48	NAN
+1990	0.6	NAN
+1989	0.36	NAN
+1988	NAN	NAN
+1987	0.51	-33.2
+1986	0.76	-31.1
+1985	0.49	-30.5
+1984	0.41	-33.5
+1983	0.32	-30.7
+1982	0.33	-31.2
+1981	0.68	-25.5
+1980	0.39	-31.3
+1979	0.38	-32.2
+1978	0.4	-31.3
+1977	0.21	-34.5
+1976	0.39	-34
+1975	0.27	-34.8
+1974	0.42	-35.8
+1973	0.52	-28.2
+1972	0.29	-32.9
+1971	0.2	-27.9
+1970	0.15	-26.3
+1969	0.41	-31.5
+1968	0.49	-34.6
+1967	0.24	-31.6
+1966	0.3	-35
+1965	0.46	-33.8
+1964	0.3	-34.3
+1963	0.55	-33
+1962	0.43	-36.1
+1961	0.57	-32.6
+1960	0.53	-31.8
+1959	0.45	-35.4
+1958	0.69	-33.4
+1957	0.37	-35.4
+1956	0.32	-31.9
+1955	0.38	-28.2
+1954	0.47	-33.5
+1953	0.38	-34.2
+1952	0.42	-29.7
+1951	0.3	-28
+1950	0.43	-34.5
+1949	0.5	-31.2
+1948	0.33	-33.9
+1947	0.3	-34.6
+1946	0.26	-31.8
+1945	0.4	-34.5
+1944	0.32	-34.1
+1943	0.37	-34.3
+1942	0.32	-33.1
+1941	0.35	-32.6
+1940	0.26	-35.9
+1939	0.3	-35.2
+1938	0.36	-33.5
+1937	0.34	-34.5
+1936	0.27	-38.2
+1935	0.47	-34.9
+1934	0.34	-34.2
+1933	0.23	-33.6
+1932	0.46	-29.1
+1931	0.26	-33.5
+1930	0.21	-35.5
+1929	0.31	-33.4
+1928	0.21	-33.5
+1927	0.47	-33.4
+1926	0.35	-32.6
+1925	0.27	-35.8
+1924	0.34	-37.6
+1923	0.39	-34.5
+1922	0.45	-33.6
+1921	0.63	-30.6
+1920	0.75	-33.4
+1919	0.33	-35.4
+1918	0.43	-35.6
+1917	0.54	-36.3
+1916	0.76	-33.3
+1915	0.42	-34.9
+1914	0.38	-34.5
+1913	0.46	-33.4
+1912	0.53	-32.8
+1911	0.43	-33.8
+1910	0.31	-32.1
+1909	0.29	-34.8
+1908	0.34	-32.6
+1907	0.39	-31.3
+1906	0.48	-32.3
+1905	0.35	-36.1
+1904	0.54	-31.6
+1903	0.6	-31.9
+1902	0.38	-33.1
+1901	0.52	-33.8
+1900	0.64	-32.7
+1899	0.4	-32.8
+1898	0.28	-33.5
+1897	0.49	-32.9
+1896	0.41	-33.1
+1895	0.2	-31.5
+1894	0.2	-27.7
+1893	0.53	-32.2
+1892	0.53	-35.3
+1891	0.42	-32.1
+1890	0.63	-32.5
+1889	0.41	-31.7
+1888	0.16	-37.5
+1887	0.25	-32.6
+1886	0.18	-31.2
+1885	0.15	-30.9
+1884	0.16	-32.3
+1883	0.38	-33.2
+1882	0.33	-33.5
+1881	0.46	-37.5
+1880	0.19	-31.6
+1879	0.27	-33.5
+1878	0.42	-33.1
+1877	0.24	-31.6
+1876	0.27	-33.4
+1875	0.42	-32.4
+1874	0.55	-32.4
+1873	0.27	-31.5
+1872	0.33	-33
+1871	0.56	-31.2
+1870	0.48	-34.4
+1869	0.65	-31.3
+1868	0.33	-36.1
+1867	0.2	-32.6
+1866	0.12	-33.3
+1865	0.25	-33.5
+1864	0.17	-35.1
+1863	0.36	-32.8
+1862	0.23	-33.9
+1861	0.25	-34.9
+1860	0.56	-31
+1859	0.51	-30.2
+1858	0.4	-28.3
+1857	0.59	-32.2
+1856	0.56	-32
+1855	0.3	-34.7
+1854	0.44	-34.3
+1853	0.44	-36.9
+1852	0.27	-32.8
+1851	0.24	-32.3
+1850	0.4	-32.7
+1849	0.23	-28.4
+1848	0.43	-30.7
+1847	0.37	-30.7
+1846	0.34	-30.5
+1845	0.26	-29.9
+1844	0.29	-29.8
+1843	0.24	-31.8
+1842	0.29	-32.1
+1841	0.4	-33.5
+1840	0.23	-29.8
+1839	0.35	-29.4
+1838	0.28	-31.1
+1837	0.48	-26.8
+1836	0.39	-30.6
+1835	0.33	-31.2
+1834	0.44	-33.4
+1833	0.44	-30.3
+1832	0.39	-31.5
+1831	0.24	-24.8
+1830	0.38	-30.7
+1829	0.38	-31.4
+1828	0.31	-32.8
+1827	0.58	-30.4
+1826	0.64	-31.5
+1825	0.4	-29.6
+1824	0.19	-31.3
+1823	0.23	-30.9
+1822	0.32	-30.4
+1821	0.28	-25.8
+1820	0.18	-31.7
+1819	0.27	-34.3
+1818	0.37	-32.8
+1817	0.22	-29.7
+1816	0.27	-33.2
+1815	0.47	-31.7
+1814	0.25	-31.6
+1813	0.26	-28.9
+1812	0.38	-31.8
+1811	0.16	-32.4
+1810	0.36	-31.6
+1809	0.26	-33
+1808	0.26	-25.8
+1807	0.26	-27.5
+1806	0.26	-27.6
+1805	0.27	-32.8
+1804	0.27	-30.6
+1803	0.27	-34.1
+1802	0.41	-30.3
+1801	0.41	-30.5
+1800	0.2	-31.1
+1799	0.46	-31.7
+1798	0.24	-29.4
+1797	0.35	-33.3
+1796	0.36	-28.6
+1795	0.43	-28.8
+1794	0.21	-28.8
+1793	0.29	-30.8
+1792	0.15	-33.9
+1791	0.29	-33.2
+1790	0.15	-34.1
+1789	0.29	-34.5
+1788	0.27	-34.5
+1787	0.18	-30.8
+1786	0.31	-29.5
+1785	0.31	-30.2
+1784	0.31	-29.9
+1783	0.39	-31.2
+1782	0.32	-31.8
+1781	0.32	-30.2
+1780	0.4	-27.2
+1779	0.32	-35.8
+1778	0.32	-33.2
+1777	0.49	-31.5
+1776	0.49	-32.5
+1775	0.25	-28.8
+1774	0.34	-32.1
+1773	0.39	-30.9
+1772	0.24	-31.8
+1771	0.31	-31.7
+1770	0.35	-32.4
+1769	0.49	-35.9
+1768	0.3	-33.1
+1767	0.26	-29.8
+1766	0.27	-28.1
+1765	0.27	-28.8
+1764	0.37	-32.2
+1763	0.27	-30
+1762	0.27	-30.5
+1761	0.18	-32.6
+1760	0.29	-32.1
+1759	0.19	-32.1
+1758	0.26	-30.7
+1757	0.21	-30.7
+1756	0.23	-32.1
+1755	0.34	-31.2
+1754	0.28	-32.2
+1753	0.22	-34.2
+1752	0.24	-33.5
+1751	0.2	-32.3
+1750	0.4	-28.6
+1749	0.3	-27.5
+1748	0.31	-24.6
+1747	0.41	-28.9
+1746	0.21	-29.9
+1745	0.21	-30.3
+1744	0.3	-34
+1743	0.33	-33.3
+1742	0.21	-28.8
+1741	0.38	-28.4
+1740	0.28	-31.8
+1739	0.42	-31.9
+1738	0.44	-32.4
+1737	0.34	-32.3
+1736	0.57	-28.2

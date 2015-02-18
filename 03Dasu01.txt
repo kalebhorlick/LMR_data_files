@@ -1,0 +1,658 @@
+# Dasuopo, China Ice Core Oxygen Isotope Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:11180
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/trop/dasuopu/dasuopu2000.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2004
+# --------------------
+# Title 
+#	Study_Name: Dasuopo, China Ice Core Oxygen Isotope Data
+# --------------------
+# Investigators
+#	Investigators: Thompson, L.G., Mosley-Thompson, E.; Davis, M.E.; Lin, P.N.; Henderson, K.; Mashiotta, T.A. 
+# --------------------
+# Description_and_Notes
+#	Description: Decadally averaged d18O (1987 - 1000 A.D.) from figure 5 of Thompson et al. 2003.
+# --------------------
+# Publication
+#	Authors: L.G. Thompson, E. Mosley-Thompson, M.E. Davis, P.-N. Lin, K. Henderson, and T.A. Mashiotta
+#	Published_Date_or_Year: 2003
+#	Published_Title: Tropical glacier and ice core evidence of climate change on annual to 
+millennial time scales. 
+#	Journal_Name: Climate Change
+#	Volume: 59
+#	Edition: 	
+#	Issue: 
+#	Pages: 137-155
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: This paper examines the potential of the stable isotopic ratios, 18O/16O 
+(d18Oice) and 2H/1H (dDice), preserved in mid to low latitude glaciers 
+as a tool for paleoclimate reconstruction. Ice cores are particularly valuable 
+as they contain additional data, such as dust concentrations, aerosol chemistry, 
+and accumulation rates, that can be combined with the isotopic information to 
+assist with inferences about the regional climate conditions prevailing at the 
+time of deposition. We use a collection of multi-proxy ice core histories to 
+explore the d18O-climate relationship over the last 25,000 years that includes 
+both Late Glacial Stage (LGS) and Holocene climate conditions. These results 
+suggest that on centennial to millennial time scales atmospheric temperature 
+is the principal control on the d18Oice of the snowfall that sustains these 
+high mountain ice fields. Decadally averaged d18Oice records from three Andean 
+and three Tibetan ice cores are composited to produce a low latitude d18Oice 
+history for the last millennium. Comparison of this ice core composite with 
+the Northern Hemisphere proxy record (1000–2000 A.D.) reconstructed by 
+Mann et al. (1999) and measured temperatures (1856–2000) reported by 
+Jones et al. (1999) suggests the ice cores have captured the decadal scale 
+variability in the global temperature trends. These ice cores show a 20th 
+century isotopic enrichment that suggests a large scale warming is underway 
+at low latitudes. The rate of this isotopically inferred warming is amplified 
+at higher elevations over the Tibetan Plateau while amplification in the Andes 
+is latitude dependent with enrichment (warming) increasing equatorward. 
+In concert with this apparent warming, in situ observations reveal that 
+tropical glaciers are currently disappearing. A brief overview of the loss 
+of these tropical data archives over the last 30 years is presented along 
+with evaluation of recent changes in mean d18Oice composition. The isotopic 
+composition of precipitation should be viewed not only as a powerful proxy 
+indicator of climate change, but also as an additional parameter to aid our 
+understanding of the linkages between changes in the hydrologic cycle and 
+global climate.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+# --------------------
+# Site_Information
+#	Site_Name: Guliya
+#	Location: Asia>China
+#	Country: China
+#	Northernmost_Latitude: 28.380
+#	Southernmost_Latitude: 28.380	 
+#	Easternmost_Longitude: 85.720
+#	Westernmost_Longitude: 85.720
+#	Elevation: 7000m
+# --------------------
+# Data_Collection
+#	Collection_Name: 03Dasu01
+#	Earliest_Year: 1900
+#	Most_Recent_Year: 1996
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		dO18,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD 	d18O
+1996	-17.8
+1995	-18.79
+1994	-16.49
+1993	-14.62
+1992	-16.99
+1991	-16.27
+1990	-18.94
+1989	-17.64
+1988	-20.78
+1987	-15.91
+1986	-20.15
+1985	-21.89
+1984	-19.7
+1983	-18.04
+1982	-14.74
+1981	-17.74
+1980	-19.18
+1979	-14.28
+1978	-20.2
+1977	-17.3
+1976	-15.38
+1975	-19.82
+1974	-18.61
+1973	-16.35
+1972	-17.58
+1971	-18.16
+1970	-18.97
+1969	-19.35
+1968	-17.84
+1967	-16.65
+1966	-17.06
+1965	-15.35
+1964	-20.55
+1963	-17.46
+1962	-18.49
+1961	-17.81
+1960	-19.12
+1959	-19.75
+1958	-19.59
+1957	-17.73
+1956	-17.14
+1955	-18.62
+1954	-17.51
+1953	-21.05
+1952	-17.13
+1951	-15.89
+1950	-14.72
+1949	-18
+1948	-17.18
+1947	-15.28
+1946	-16.86
+1945	-14.67
+1944	-17.04
+1943	-19.88
+1942	-17.64
+1941	-16.13
+1940	-18.68
+1939	-16.34
+1938	-20.95
+1937	-17.04
+1936	-18.59
+1935	-19.8
+1934	-19.89
+1933	-17.44
+1932	-16.6
+1931	-18.89
+1930	-18.54
+1929	-20.78
+1928	-19
+1927	-18.08
+1926	-19.92
+1925	-20.21
+1924	-18.79
+1923	-21.59
+1922	-19.79
+1921	-16.18
+1920	-15.78
+1919	-14.73
+1918	-18.49
+1917	-19.78
+1916	-19.25
+1915	-22
+1914	-21.65
+1913	-19.72
+1912	-19.46
+1911	-20.16
+1910	-22.56
+1909	-19.32
+1908	-18.08
+1907	-18.11
+1906	-19.36
+1905	-18.42
+1904	-18.37
+1903	-17.13
+1902	-18.2
+1901	-18.44
+1900	-20.42
+1899	-19.51
+1898	-20.79
+1897	-18.31
+1896	-18.56
+1895	-21.33
+1894	-18.06
+1893	-21.66
+1892	-21.46
+1891	-19.54
+1890	-23.15
+1889	-19.24
+1888	-17.96
+1887	-19.57
+1886	-19.48
+1885	-18.92
+1884	-17.34
+1883	-20.12
+1882	-15.72
+1881	-19.06
+1880	-19.07
+1879	-20.64
+1878	-15.92
+1877	-18.28
+1876	-18.93
+1875	-19.69
+1874	-21.31
+1873	-18.74
+1872	-15.56
+1871	-16.38
+1870	-21.04
+1869	-20.05
+1868	-16.55
+1867	-18.81
+1866	-21.55
+1865	-19.64
+1864	-17.02
+1863	-21.48
+1862	-23.14
+1861	-21.43
+1860	-22.34
+1859	-20.34
+1858	-19.64
+1857	-19.76
+1856	-18.77
+1855	-21.03
+1854	-20.42
+1853	-17.91
+1852	-16.27
+1851	-17.04
+1850	-18.61
+1849	-22.25
+1848	-21.81
+1847	-17.79
+1846	-16.05
+1845	-19.27
+1844	-20.62
+1843	-18.52
+1842	-20.47
+1841	-20.64
+1840	-19.73
+1839	-19.94
+1838	-21.39
+1837	-21.41
+1836	-20.14
+1835	-19.18
+1834	-20.93
+1833	-18.41
+1832	-17.34
+1831	-20.22
+1830	-20.78
+1829	-19.07
+1828	-20.03
+1827	-15.83
+1826	-17.67
+1825	-17.08
+1824	-19.94
+1823	-20.6
+1822	-22.91
+1821	-20.23
+1820	-20.2
+1819	-19.36
+1818	-20.48
+1817	-19
+1816	-24.74
+1815	-21.07
+1814	-20.49
+1813	-19.31
+1812	-21.03
+1811	-21.59
+1810	-19.64
+1809	-19.44
+1808	-18.78
+1807	-19.77
+1806	-19.43
+1805	-21.05
+1804	-19.62
+1803	-20.16
+1802	-20.32
+1801	-19.54
+1800	-18.18
+1799	-18.05
+1798	-17.82
+1797	-20.06
+1796	-17.53
+1795	-14.67
+1794	-19.14
+1793	-19.16
+1792	-17.96
+1791	-22.05
+1790	-20.25
+1789	-20.72
+1788	-21.29
+1787	-20.28
+1786	-21.23
+1785	-22.87
+1784	-18.53
+1783	-22.38
+1782	-23.18
+1781	-23.49
+1780	-21.2
+1779	-22.41
+1778	-21.47
+1777	-21.98
+1776	-21.8
+1775	-20.78
+1774	-21.21
+1773	-22.33
+1772	-21.26
+1771	-18.59
+1770	-18.54
+1769	-19.21
+1768	-19.91
+1767	-19.93
+1766	-21.68
+1765	-22.05
+1764	-18.78
+1763	-21.04
+1762	-22.94
+1761	-22.27
+1760	-23.03
+1759	-19.08
+1758	-18.91
+1757	-19.88
+1756	-16.6
+1755	-20.34
+1754	-23.44
+1753	-20.74
+1752	-18.63
+1751	-19.08
+1750	-19.63
+1749	-21.66
+1748	-19.3
+1747	-20.31
+1746	-18.94
+1745	-19.73
+1744	-20.16
+1743	-19.33
+1742	-18.5
+1741	-17.89
+1740	-17.12
+1739	-22.75
+1738	-21.31
+1737	-22.45
+1736	-22.78
+1735	-20.6
+1734	-22.37
+1733	-21.76
+1732	-22.15
+1731	-24.46
+1730	-19.26
+1729	-18.8
+1728	-20.36
+1727	-19.52
+1726	-19.24
+1725	-20.37
+1724	-20.48
+1723	-22.26
+1722	-20.97
+1721	-17.41
+1720	-18.24
+1719	-20.82
+1718	-20.57
+1717	-19.53
+1716	-20.35
+1715	-22.53
+1714	-19.66
+1713	-20.02
+1712	-21.76
+1711	-21.45
+1710	-20.1
+1709	-18.47
+1708	-20.51
+1707	-19.39
+1706	-20.27
+1705	-20.83
+1704	-18.51
+1703	-19.33
+1702	-20
+1701	-21.63
+1700	-20.38
+1699	-18.42
+1698	-20.46
+1697	-18.86
+1696	-17.65
+1695	-21.74
+1694	-19.05
+1693	-18.98
+1692	-19.46
+1691	-20.04
+1690	-19.58
+1689	-20.31
+1688	-18.02
+1687	-20.46
+1686	-21.61
+1685	-18.39
+1684	-17.38
+1683	-19.97
+1682	-20.03
+1681	-19.25
+1680	-20.42
+1679	-19.76
+1678	-20.22
+1677	-16.09
+1676	-19.25
+1675	-19.64
+1674	-21.13
+1673	-21.25
+1672	-18.87
+1671	-18.97
+1670	-17.65
+1669	-19.3
+1668	-22.16
+1667	-21.61
+1666	-20.43
+1665	-21.51
+1664	-19.26
+1663	-20.52
+1662	-19.16
+1661	-20.74
+1660	-21.58
+1659	-22.08
+1658	-20.51
+1657	-20.95
+1656	-18.96
+1655	-19.15
+1654	-21
+1653	-21.88
+1652	-22
+1651	-20.32
+1650	-20.38
+1649	-19.33
+1648	-20.34
+1647	-18.55
+1646	-20.44
+1645	-21.04
+1644	-22.82
+1643	-19.68
+1642	-18.36
+1641	-19.6
+1640	-19.34
+1639	-19.23
+1638	-20.22
+1637	-21.52
+1636	-18.59
+1635	-18.48
+1634	-20.88
+1633	-21.57
+1632	-20.5
+1631	-21.01
+1630	-18.36
+1629	-19.92
+1628	-21.02
+1627	-20.52
+1626	-20.46
+1625	-21.42
+1624	-20.25
+1623	-20.16
+1622	-21.67
+1621	-21.73
+1620	-21.27
+1619	-21.27
+1618	-21.92
+1617	-21.17
+1616	-21.15
+1615	-23.18
+1614	-20.74
+1613	-19.22
+1612	-21.87
+1611	-20.72
+1610	-21.69
+1609	-21.26
+1608	-20.14
+1607	-21.09
+1606	-19.85
+1605	-20.23
+1604	-19.26
+1603	-21.66
+1602	-22.05
+1601	-21.82
+1600	-20.39
+1599	-19.55
+1598	-19.43
+1597	-22.16
+1596	-24.13
+1595	-22.97
+1594	-21.43
+1593	-20.43
+1592	-20.88
+1591	-20.62
+1590	-19.43
+1589	-19.92
+1588	-21.34
+1587	-20.09
+1586	-20.59
+1585	-19.41
+1584	-21.18
+1583	-20.88
+1582	-21.71
+1581	-21.69
+1580	-21.49
+1579	-22.74
+1578	-21.82
+1577	-21.14
+1576	-20.17
+1575	-19.48
+1574	-21.16
+1573	-18.79
+1572	-20.01
+1571	-20.91
+1570	-19.03
+1569	-20.34
+1568	-22.25
+1567	-20.66
+1566	-19.64
+1565	-19.98
+1564	-19.53
+1563	-20.57
+1562	-21.13
+1561	-21.39
+1560	-21.65
+1559	-20.53
+1558	-19.71
+1557	-20.5
+1556	-20.92
+1555	-21.37
+1554	-21.34
+1553	-20.68
+1552	-20.39
+1551	-21.18
+1550	-20.3
+1549	-20.07
+1548	-21.14
+1547	-19.69
+1546	-19.03
+1545	-20.56
+1544	-19.33
+1543	-20.25
+1542	-20.36
+1541	-20.21
+1540	-19.14
+1539	-20.25
+1538	-20.44
+1537	-20.23
+1536	-21.6
+1535	-21.01
+1534	-20.9
+1533	-20.26
+1532	-19.9
+1531	-20.29
+1530	-20.75
+1529	-21.13
+1528	-20.87
+1527	-20.8
+1526	-19.51
+1525	-20.29
+1524	-19.97
+1523	-22.45
+1522	-20.71
+1521	-20.43
+1520	-20.96
+1519	-21.58
+1518	-21.66
+1517	-22.05
+1516	-21.38
+1515	-20.88
+1514	-21.23
+1513	-21.08
+1512	-21.74
+1511	-21.19
+1510	-20.48
+1509	-21.12
+1508	-20.8
+1507	-21.15
+1506	-20.74
+1505	-19.74
+1504	-20.59
+1503	-20.18
+1502	-20.53
+1501	-21.18
+1500	-19.55
+1499	-19.28
+1498	-20.1
+1497	-20.16
+1496	-19.78
+1495	-20.33
+1494	-20.16
+1493	-20.02
+1492	-20.1
+1491	-20.99
+1490	-18.34
+1489	-18.97
+1488	-19.63
+1487	-21.04
+1486	-20.72
+1485	-20.22
+1484	-20.66
+1483	-19.91
+1482	-20.09
+1481	-20.03
+1480	-22.12
+1479	-22.46
+1478	-21.48
+1477	-19.06
+1476	-19.12
+1475	-20.51
+1474	-21.4
+1473	-20.03
+1472	-21.64
+1471	-20.06
+1470	-20.06
+1469	-19.91
+1468	-20.47
+1467	-22.37
+1466	-19.57
+1465	-20.94
+1464	-21.39
+1463	-20.97
+1462	-20.26
+1461	-20.5
+1460	-21.3
+1459	-20.82
+1458	-20.25
+1457	-20.28
+1456	-20.63
+1455	-21.06
+1454	-20.28
+1453	-19.59
+1452	-18.79
+1451	-19.56

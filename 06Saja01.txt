@@ -1,0 +1,104 @@
+# Sajama Ice Core Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: http://ncdc.noaa.gov/paleo/study/
+#
+# Original_Source_URL: 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2014
+# --------------------
+# Title 
+#	Study_Name: Sajama Ice Core Data
+#
+# --------------------
+# Investigators
+#	Investigators:  Thompson, L.G.;Mosley-Thompson, E.; Brecher, H.; Davis, M.E.; Leon, B.; Les, D.; Lin, P.-N.; Mashiotta, T.; Mountain, K. 
+# --------------------
+# Description_and_Notes
+#	Description: 
+#
+# --------------------
+# Publication
+#	Authors: Lonnie G. Thompson, Elisabeth Mosley-Thomspon, Henry Brecher, Mary Davis, Blanca Leon, Don Les, Ping-Nan Lin, Tracy Mashiotta, Keith Mountain
+#	Published_Date_or_Year: 2006-05-12
+#	Published_Title:   Abrupt tropical climate change: Past and Present
+#	Journal_Name: Proceedings of the National Academy of Sciences of the United States of America
+#	Volume: 103
+#	Edition: 	
+#	Issue: 28 
+#	Pages: 10536–10543
+#	DOI: doi: 10.1073/pnas.0603900103
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: Three lines of evidence for abrupt tropical climate change, both past and present, are presented. First, annually and decadally averaged d18O and net mass-balance histories for the last 400 and 2,000 yr, respectively, demonstrate that the current warming at high elevations in the mid- to low latitudes is unprecedented for at least the last 2 millennia. Second, the continuing retreat of most mid- to low-latitude glaciers, many having persisted for thousands of years, signals a recent and abrupt change in the Earth’s climate system. Finally, rooted, soft-bodied wetland plants, now exposed along the margins as the Quelccaya ice cap (Peru) retreats, have been radiocarbon dated and, when coupled with other widespread proxy evidence, provide strong evidence for an abrupt mid-Holocene climate event that marked the transition from early Holocene (pre-5,000-yr-B.P.) conditions to cooler, late Holocene (post-5,000-yr-B.P.) conditions. This abrupt event, ~5,200 yr ago, was widespread and spatially coherent through much of the tropics and was coincident with structural changes in several civilizations. These three lines of evidence argue that the present warming and associated glacier retreat are unprecedented in some areas for at least 5,200 yr. The ongoing global-scale, rapid retreat of mountain glaciers is not only contributing to global sea-level rise but also threatening freshwater supplies in many of the world’s most populous regions.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant: 
+# --------------------
+# Site_Information
+#	Site_Name: Sajama
+#	Location: South America> Peru
+#	Country:  Peru
+#	Northernmost_Latitude: -18.00
+#	Southernmost_Latitude: -18.00	 
+#	Easternmost_Longitude: -69.00
+#	Westernmost_Longitude: -69.00
+#	Elevation:
+# --------------------
+# Data_Collection
+#	Collection_Name: 06Saja01
+#	Earliest_Year: 1902
+#	Most_Recent_Year: 1992
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing variables: NAN
+#
+age_AD	d18O
+1992.0000	-15.6021
+1987.0000	-17.6009
+1982.0000	-18.3016
+1977.0000	-18.4994
+1972.0000	-19.1680
+1967.0000	-15.8943
+1962.0000	-16.8438
+1957.0000	-16.5089
+1952.0000	-14.9783
+1947.0000	-15.9671
+1942.0000	-16.9806
+1937.0000	-17.6862
+1932.0000	-16.2709
+1927.0000	-18.1957
+1922.0000	-17.5813
+1917.0000	-17.2106
+1912.0000	-18.4335
+1907.0000	-15.1008
+1902.0000	-17.3858
+

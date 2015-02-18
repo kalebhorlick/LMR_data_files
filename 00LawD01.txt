@@ -1,0 +1,323 @@
+# Law Dome Antarctica Ice Core 
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:6290
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/antarctica-temp2006.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Core
+# --------------------
+# Contribution_date
+#	Date: 2008
+# --------------------
+# Title 
+#	Study_Name: Law Dome Antarctica Ice Core 
+# --------------------
+# Investigators
+#	Investigators: van Ommen, T.D.; Morgan, V.  
+# --------------------
+# Description_and_Notes
+# 	Description: Antarctic temperature reconstruction for the past two centuries based on 
+#	high resolution stable isotope data from ice cores.  Annually-resolved 
+#	d18O and dD ice core records from Law Dome [van Ommen et al., 2004], 
+#	Siple Station [Mosley-Thompson et al., 1990], Dronning Maud Land (DML) 
+#	[Graf et al., 2002], and two West Antarctic sites of the United States
+#	component of ITASE [Steig et al., 2006] were utilized in the reconstruction.
+#
+#	A8 calibration temperature derived from raw station data from READER 
+#	(Turner et al, 2004).  Data: http://www.antarctica.ac.uk/met/READER 
+#	Time series from eight stations on the coast and the continental interior 
+#	are included in the analysis.
+#
+#	Ice Core Data:						   
+#	The Law Dome 2000 record is a stack of several cores. The timeseries 
+#	provided here is that used for the reconstruction. 
+#	Law Dome data: http://data.aad.gov.au/aadc/portal/index.cfm?file_id=2462						   
+#						   
+#	The DML stack as used in the reconstruction is also provided. 
+#	The original data: 
+#	http://www.pangaea.de [search by "graf et al 2002" or by the core name].						   
+#						   
+#	The US-ITASE 2000-5 and 2000-1 records are contributed by Eric Steig 
+#	and David Schneider. 
+#	Additional details on US-ITASE data: http://nsidc.org/agdc/itase.html						   
+#						   
+#	The Siple Station record is available from Dr. Ellen Mosley-Thompson 
+#	of the Byrd Polar Research Center at The Ohio State University.						 
+#
+#
+#
+#	Table 1: Ice Core information 
+#	Law Dome 2000 (stack): 66.78°S, 112.82°E,  1370m elev., years 1800–1999, d18O
+#	Siple Station:         75.92°S,  84.10°W,  1054m elev., years 1800–1983, d18O
+#	Dronning Maud Land*:     ~75°S,      0°E, ~2900m elev., years 1800–1997, d18O
+#	US ITASE 2000-1:       79.38°S, 111.23°W,  1791m elev., years 1800–1999, d18O
+#	US ITASE 2000-5:       77.68°S, 123.99°W,  1828m elev., years 1800–1999, dD
+#
+#	*Dronning Maud Land DML stack, multiple cores, Graf et al. (2002): 
+#	DML18(FB9804); DML19(FB806); DML05(FB9807); DML20(FB9808); DML21(FB9810); 
+#	DML22(FB9811); DML16(FB9813); DML14(FB9815); DML13(FB9816); DML12(FB9817); 
+#	DML07(B31); DML05(B32); DML17(B33); DML03(FB9809).
+#
+# --------------------
+# Publication
+#	Authors: T.D. van Ommen, and V. Morgan
+#	Published_Date_or_Year: 1997-04-27
+#	Published_Title: Calibrating the ice core paleothermometer using seasonality
+#	Journal_Name: Journal of Geophysical Research
+#	Volume: 102
+#	Edition: 	
+#	Issue: D8
+#	Pages: 9351-9357 
+#	DOI:  
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: High-resolution oxygen isotope measurements on the Dome Summit South (DSS) ice core from Law Dome, Antarctica, provide a seasonal profile that is sufficiently stable and undistorted by biases in accumulation to permit comparison with measured temperature seasonality. This comparison yields an isotope-temperature relation with a gradient (ddelata/dT) of 0.44+/-0.02%/degrees C and provides a new method for exploring the isotope-temperature relationship at high-accumulation sites. If applied to the observed isotope record from the DSS core, which extends through the last glacial and beyond, this calibration suggests that at its coldest the last glaciation was ~13degrees C colder than present at this site (after correcting for elevation change). This finding compares with a temperature difference of ~8 degrees C computed by using the local spatially derived calibration.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: United States National Science Foundation
+# --------------------
+# Site_Information
+#	Site_Name: Law Dome
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: -66.780
+#	Southernmost_Latitude: -66.780 
+#	Easternmost_Longitude: -112.820
+#	Westernmost_Longitude: -112.820
+#	Elevation: 1828m
+# --------------------
+# Data_Collection
+#	Collection_Name: 00LawD01
+#	Earliest_Year: 1800
+#	Most_Recent_Year: 1999
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1999.0000	-23.8338
+1998.0000	-22.4601
+1997.0000	-23.1874
+1996.0000	-21.2777
+1995.0000	-22.3251
+1994.0000	-23.1217
+1993.0000	-22.7541
+1992.0000	-22.1638
+1991.0000	-22.2038
+1990.0000	-23.4321
+1989.0000	-21.9105
+1988.0000	-21.2233
+1987.0000	-23.0747
+1986.0000	-23.1174
+1985.0000	-22.5912
+1984.0000	-21.2915
+1983.0000	-21.6982
+1982.0000	-21.7452
+1981.0000	-21.9125
+1980.0000	-22.2687
+1979.0000	-22.5583
+1978.0000	-22.9449
+1977.0000	-21.1882
+1976.0000	-22.8407
+1975.0000	-20.6353
+1974.0000	-21.3997
+1973.0000	-22.7375
+1972.0000	-22.4106
+1971.0000	-22.4258
+1970.0000	-22.4158
+1969.0000	-23.2226
+1968.0000	-22.8577
+1967.0000	-22.2708
+1966.0000	-23.7278
+1965.0000	-22.0640
+1964.0000	-22.0831
+1963.0000	-22.0101
+1962.0000	-22.5920
+1961.0000	-22.7673
+1960.0000	-22.9944
+1959.0000	-23.1659
+1958.0000	-21.5289
+1957.0000	-23.0646
+1956.0000	-21.8099
+1955.0000	-22.3090
+1954.0000	-21.9265
+1953.0000	-21.5128
+1952.0000	-22.9906
+1951.0000	-22.1041
+1950.0000	-21.3597
+1949.0000	-22.2520
+1948.0000	-21.8949
+1947.0000	-22.6933
+1946.0000	-23.2407
+1945.0000	-22.8317
+1944.0000	-22.7046
+1943.0000	-22.0262
+1942.0000	-21.6228
+1941.0000	-22.3035
+1940.0000	-22.9746
+1939.0000	-21.7469
+1938.0000	-23.1844
+1937.0000	-21.9460
+1936.0000	-23.3035
+1935.0000	-22.5538
+1934.0000	-23.0833
+1933.0000	-22.5867
+1932.0000	-21.6193
+1931.0000	-21.1342
+1930.0000	-22.4982
+1929.0000	-22.5082
+1928.0000	-21.5651
+1927.0000	-22.8367
+1926.0000	-22.2605
+1925.0000	-22.8908
+1924.0000	-22.6067
+1923.0000	-22.2861
+1922.0000	-22.2194
+1921.0000	-23.0225
+1920.0000	-22.5877
+1919.0000	-21.8157
+1918.0000	-22.2586
+1917.0000	-21.0790
+1916.0000	-23.1988
+1915.0000	-21.5641
+1914.0000	-22.5154
+1913.0000	-22.4841
+1912.0000	-22.3485
+1911.0000	-22.2058
+1910.0000	-22.2982
+1909.0000	-21.7820
+1908.0000	-22.4768
+1907.0000	-21.9670
+1906.0000	-22.1024
+1905.0000	-21.9854
+1904.0000	-23.1576
+1903.0000	-22.9173
+1902.0000	-21.5404
+1901.0000	-22.3978
+1900.0000	-22.0785
+1899.0000	-22.2569
+1898.0000	-20.5565
+1897.0000	-22.7810
+1896.0000	-23.3497
+1895.0000	-22.8194
+1894.0000	-21.5042
+1893.0000	-21.6665
+1892.0000	-22.8659
+1891.0000	-22.5967
+1890.0000	-22.7649
+1889.0000	-22.8142
+1888.0000	-22.7198
+1887.0000	-22.7839
+1886.0000	-22.4356
+1885.0000	-21.6382
+1884.0000	-21.8528
+1883.0000	-23.5809
+1882.0000	-22.5051
+1881.0000	-23.7111
+1880.0000	-21.6596
+1879.0000	-21.8918
+1878.0000	-22.2973
+1877.0000	-23.2624
+1876.0000	-22.2756
+1875.0000	-23.4602
+1874.0000	-22.8618
+1873.0000	-23.9162
+1872.0000	-22.9937
+1871.0000	-21.4644
+1870.0000	-21.6633
+1869.0000	-22.8523
+1868.0000	-21.7032
+1867.0000	-22.1860
+1866.0000	-21.4544
+1865.0000	-23.9160
+1864.0000	-22.4108
+1863.0000	-22.2642
+1862.0000	-22.6739
+1861.0000	-20.6520
+1860.0000	-22.7527
+1859.0000	-21.5226
+1858.0000	-21.9672
+1857.0000	-22.0636
+1856.0000	-22.1562
+1855.0000	-22.5706
+1854.0000	-22.2123
+1853.0000	-21.8729
+1852.0000	-22.0688
+1851.0000	-21.0122
+1850.0000	-22.9017
+1849.0000	-21.9661
+1848.0000	-20.6483
+1847.0000	-21.1923
+1846.0000	-22.3591
+1845.0000	-22.3537
+1844.0000	-21.0635
+1843.0000	-21.3967
+1842.0000	-23.1600
+1841.0000	-24.1516
+1840.0000	-22.6622
+1839.0000	-22.6816
+1838.0000	-23.0275
+1837.0000	-22.6874
+1836.0000	-22.8891
+1835.0000	-22.7248
+1834.0000	-21.7493
+1833.0000	-21.8306
+1832.0000	-21.4168
+1831.0000	-21.3957
+1830.0000	-22.9196
+1829.0000	-21.0543
+1828.0000	-21.8853
+1827.0000	-22.0181
+1826.0000	-21.9115
+1825.0000	-22.2651
+1824.0000	-21.7781
+1823.0000	-22.8112
+1822.0000	-22.9072
+1821.0000	-22.2601
+1820.0000	-23.3027
+1819.0000	-21.9834
+1818.0000	-22.8373
+1817.0000	-23.3461
+1816.0000	-22.8121
+1815.0000	-22.3417
+1814.0000	-21.9451
+1813.0000	-21.7902
+1812.0000	-21.7067
+1811.0000	-22.6419
+1810.0000	-21.9860
+1809.0000	-22.6351
+1808.0000	-23.4284
+1807.0000	-23.3892
+1806.0000	-22.1541
+1805.0000	-22.2808
+1804.0000	-24.1500
+1803.0000	-22.0810
+1802.0000	-22.7182
+1801.0000	-21.9264
+1800.0000	-22.2359

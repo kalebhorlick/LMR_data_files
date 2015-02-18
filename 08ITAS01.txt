@@ -1,0 +1,205 @@
+# West Antarctic Ice Core 01-5 ITASE 20th Century Stable Isotope Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:6182
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/west-antarctic-iso2008.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2008
+# --------------------
+# Title 
+#	Study_Name: West Antarctic Ice Core 01-5 ITASE 20th Century Stable Isotope Data
+# --------------------
+# Investigators
+#	Investigators: Schneider, D.P; Steig, E.J.  
+# --------------------
+# Description_and_Notes
+#	Description: Water stable isotope data from high-resolution ice cores from the West Antarctic Ice Sheet. The record is representative 
+#	of West Antarctic surface temperature.  
+#
+#	Table 1. Summary information for ice core sites.
+#
+#	Site Name       Lat(°N)   Lon(°E)  Elev(m)     Type    End yr
+#	Dyer Plateau     -70.66    -64.5      2002     d18O    1989
+#	Siple Station    -75.92    -84.15     1054     d18O    1983
+#	01-5 ITASE       -77.06    -89.14     1239     d18O    1999
+#	00-5 ITASE       -77.68    -123.99    1828     dD      1999
+#	01-2 ITASE       -77.84    -102.91    1336     d18O    1999
+#	01-3 ITASE       -78.12    -95.65     1620     dD      1999
+#	00-1 ITASE       -79.38    -111.23    1791     dD      1999
+#	Siple Dome A     -81.65    -148.81     615     dD      1993
+# --------------------
+# Publication
+#	Authors: D.P Schneider and E.J. Steig
+#	Published_Date_or_Year: 2008-08-12
+#	Published_Title: Ice cores record significant 1940s Antarctic warmth related to tropical climate variability
+#	Journal_Name: Proceedings of the National Academy of Sciences
+#	Volume: 
+#	Edition: 	
+#	Issue: 
+#	Pages: 
+#	DOI: 10.1073/pnas.0803627105
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: Although the 20th Century warming of global climate is well known, climate change in the high-latitude Southern Hemisphere (SH), 
+especially in the first half of the century, remains poorly documented. We present a composite of water stable isotope data from high-resolution 
+ice cores from the West Antarctic Ice Sheet. This record, representative of West Antarctic surface temperature, shows extreme positive anomalies in the 1936–45 decade that are significant in the context of the 
+background 20th Century warming trend. We interpret these anomalies - previously undocumented in the high-latitude SH - as indicative of 
+strong teleconnections in part driven by the major 1939–42 El Niño. These anomalies are coherent with tropical sea-surface temperature, 
+mean SH air temperature, and North Pacific sea-level pressure, underscoring the sensitivity of West Antarctica's climate, 
+and potentially its ice sheet, to large-scale changes in the global climate.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: United States National Science Foundation, Office of Polar Programs 
+# Funding_Agency
+#	Funding_Agency_Name: National Center for Atmospheric Research
+#	
+# --------------------
+# Site_Information
+#	Site_Name: 01-5 ITASE
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: -77.060
+#	Southernmost_Latitude: -77.060	 
+#	Easternmost_Longitude: -82.5
+#	Westernmost_Longitude: -82.5
+#	Elevation: 1239m
+# --------------------
+# Data_Collection
+#	Collection_Name: 08ITAS01
+#	Earliest_Year: 1900
+#	Most_Recent_Year: 1999
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		dO18,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1999.0000	-30.3800
+1998.0000	-30.6810
+1997.0000	-32.5020
+1996.0000	-32.7630
+1995.0000	-32.2640
+1994.0000	-31.7510
+1993.0000	-31.0340
+1992.0000	-30.1730
+1991.0000	-31.1090
+1990.0000	-31.0380
+1989.0000	-31.3630
+1988.0000	-30.8210
+1987.0000	-31.4700
+1986.0000	-30.3750
+1985.0000	-30.1850
+1984.0000	-31.7640
+1983.0000	-32.3200
+1982.0000	-33.7510
+1981.0000	-30.3890
+1980.0000	-31.0560
+1979.0000	-31.0850
+1978.0000	-30.9540
+1977.0000	-32.3960
+1976.0000	-31.8910
+1975.0000	-30.5010
+1974.0000	-30.1130
+1973.0000	-29.6460
+1972.0000	-31.9260
+1971.0000	-30.7640
+1970.0000	-31.9170
+1969.0000	-32.9890
+1968.0000	-33.0530
+1967.0000	-31.1280
+1966.0000	-30.6410
+1965.0000	-31.8390
+1964.0000	-31.9860
+1963.0000	-31.9930
+1962.0000	-31.8650
+1961.0000	-32.5950
+1960.0000	-31.3050
+1959.0000	-32.3540
+1958.0000	-31.2750
+1957.0000	-32.0860
+1956.0000	-32.6080
+1955.0000	-33.2620
+1954.0000	-32.7050
+1953.0000	-31.4510
+1952.0000	-31.8660
+1951.0000	-30.7040
+1950.0000	-31.1380
+1949.0000	-31.3270
+1948.0000	-32.1660
+1947.0000	-32.1170
+1946.0000	-31.3750
+1945.0000	-29.5740
+1944.0000	-30.9570
+1943.0000	-34.0470
+1942.0000	-32.1670
+1941.0000	-29.2130
+1940.0000	-31.2940
+1939.0000	-30.6140
+1938.0000	-31.0170
+1937.0000	-32.6940
+1936.0000	-30.9780
+1935.0000	-31.1290
+1934.0000	-31.6760
+1933.0000	-31.0110
+1932.0000	-32.2660
+1931.0000	-32.5260
+1930.0000	-32.2190
+1929.0000	-33.7500
+1928.0000	-32.1780
+1927.0000	-32.6350
+1926.0000	-30.6870
+1925.0000	-31.6500
+1924.0000	-30.9240
+1923.0000	-30.5260
+1922.0000	-30.2650
+1921.0000	-32.2570
+1920.0000	-31.7410
+1919.0000	-32.1260
+1918.0000	-31.6110
+1917.0000	-31.1150
+1916.0000	-31.7220
+1915.0000	-32.1690
+1914.0000	-33.9260
+1913.0000	-31.8550
+1912.0000	-30.8260
+1911.0000	-32.0910
+1910.0000	-32.1070
+1909.0000	-31.8800
+1908.0000	-32.9820
+1907.0000	-34.1250
+1906.0000	-34.0490
+1905.0000	-31.9070
+1904.0000	-30.1630
+1903.0000	-34.1750
+1902.0000	-32.7210
+1901.0000	-31.3680
+1900.0000	-32.7050
+
