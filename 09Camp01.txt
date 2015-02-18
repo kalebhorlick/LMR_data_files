@@ -1,0 +1,697 @@
+# Greenland Ice Sheet Holocene d18O, Temperature, and Surface Elevation 
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:11148
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/vinther2009greenland.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2011
+# --------------------
+# Title 
+#	Study_Name: Greenland Ice Sheet Holocene d18O, Temperature, and Surface Elevation  
+# --------------------
+# Investigators
+#	Investigators: Vinther, B.m.; Buchardt, S.L.; Clausen, H.B.; Dahl-Jensen, D.; Johnsen, S.J.; Fisher, D.A.; Joerner, R.M.; Raynaud, D.; Lipenkov, V.; Andersen, K.K.; Blunier, T.; Rasmussen, S.O.; Steffensen, J.P.; Svensson, A.M. 
+# --------------------
+# Description_and_Notes
+# 	Description: Oxygen isotope data and uplift correction plus surface temperature reconstruction and elevation calculations for 6 Greenland ice cores over the Holocene. 
+#
+#	Site locations: 
+#	A84/A87 ice cores, Canada:     80.7°N,  73.1°W, 1730m elev.  
+#	Camp Century core, Greenland: 77°10'N, 61°08'W, 1890m elev.  
+#	NGRIP ice core, Greenland:     75.1°N,  42.3°W, 2920m elev.  
+#	GRIP ice core, Greenland:     72°35'N, 37°38'W, 3230m elev.  
+#	Renland ice core, Greenland:  71.27°N, 26.73°W, 2350m elev.  
+#	DYE-3 ice core, Greenland:    65°11'N, 43°49'W, 2490m elev.  
+#
+#
+# --------------------
+# Publication
+#	Authors: B.M. Vinther, S.L. Buchardt, H.B. Clausen, D. Dahl-Jensen, S.J. Johnsen, D.A. Fisher, R.M. Koerner, D. Raynaud, V. Lipenkov, K.K. Andersen, T. Blunier, S.O. Rasmussen, J.P. Steffensen, and A.M. Svensson
+#	Published_Date_or_Year: 2009-09-17
+#	Published_Title: Holocene thinning of the Greenland ice sheet
+#	Journal_Name: Nature
+#	Volume: 36			
+#	Edition: 	
+#	Issue: L20704
+#	Pages: 
+#	DOI: doi:10.1029/2009GL040104
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: On entering an era of global warming, the stability of the Greenland 
+ice sheet (GIS) is an important concern, especially in the light of 
+new evidence of rapidly changing flow and melt conditions at the GIS 
+margins. Studying the response of the GIS to past climatic change may 
+help to advance our understanding of GIS dynamics. The previous 
+interpretation of evidence from stable isotopes (d18O) in water from 
+GIS ice cores was that Holocene climate variability on the GIS differed 
+spatially and that a consistent Holocene climate optimum - the unusually 
+warm period from about 9,000 to 6,000 years ago found in many northern 
+latitude palaeoclimate records - did not exist. Here we extract both 
+the Greenland Holocene temperature history and the evolution of GIS 
+surface elevation at four GIS locations. We achieve this by comparing 
+d18O from GIS ice cores with d18O from ice cores from small marginal 
+icecaps. Contrary to the earlier interpretation of d18O evidence from 
+ice cores, our new temperature history reveals a pronounced Holocene 
+climatic optimum in Greenland coinciding with maximum thinning near 
+the GIS margins. Our d18O-based results are corroborated by the air 
+content of ice cores, a proxy for surface elevation. State-of-the-art 
+ice sheet models are generally found to be underestimating the extent 
+and changes in GIS elevation and area; our findings may help to improve 
+the ability of models to reproduce the GIS response to Holocene climate.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: Camp Century
+#	Location: North America>Greenland
+#	Country: 
+#	Northernmost_Latitude: 77.1667
+#	Southernmost_Latitude: 77.1667
+#	Easternmost_Longitude: 61.133
+#	Westernmost_Longitude: 61.133
+#	Elevation: 1890m
+# --------------------
+# Data_Collection
+#	Collection_Name: 09Camp01
+#	Earliest_Year: 11700
+#	Most_Recent_Year: 100
+#	Time Unit: yrs b2k
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+
+40	NaN
+60	NaN
+80	NaN
+100	-28.84
+120	-29.01
+140	-29.6
+160	-29.58
+180	-29.61
+200	NaN
+220	NaN
+240	-29.02
+260	NaN
+280	-29.52
+300	-29.27
+320	-30.41
+340	-29.54
+360	-29.77
+380	-29.87
+400	-29.64
+420	-29.3
+440	-29.08
+460	-29.55
+480	-29.49
+500	-28.59
+520	-29.67
+540	-29.24
+560	-29.06
+580	-28.81
+600	-29.58
+620	-29.31
+640	-29.12
+660	-29.6
+680	-30.32
+700	-29.23
+720	-29.23
+740	-29.23
+760	-29.24
+780	NaN
+800	NaN
+820	NaN
+840	NaN
+860	-29.44
+880	-28.77
+900	-29.44
+920	-28.81
+940	-29.29
+960	-28.53
+980	-28.4
+1000	-28.77
+1020	-29.05
+1040	-29.88
+1060	-29.42
+1080	-28.34
+1100	-29.3
+1120	-28.69
+1140	-29.13
+1160	-29.95
+1180	-28.86
+1200	-29.17
+1220	-28.58
+1240	-28.96
+1260	-29.06
+1280	-28.59
+1300	-28.45
+1320	-28.21
+1340	-29.04
+1360	-28.82
+1380	-28.58
+1400	-28.68
+1420	-29.42
+1440	-28.56
+1460	-28.77
+1480	-29.02
+1500	-28.97
+1520	-29.06
+1540	-29.21
+1560	-28.48
+1580	-28.46
+1600	-28.99
+1620	-28.39
+1640	-28.94
+1660	-28.56
+1680	-29.12
+1700	-29.2
+1720	-28.96
+1740	-29.01
+1760	-28.71
+1780	-29.2
+1800	-28.65
+1820	-28.79
+1840	-29.23
+1860	-28.82
+1880	-29
+1900	-28.71
+1920	-28.42
+1940	-28.78
+1960	-28.48
+1980	-28.4
+2000	-28.65
+2020	-28.81
+2040	-29.34
+2060	-29.33
+2080	-29.47
+2100	-29.14
+2120	-29.76
+2140	-29.23
+2160	-29.12
+2180	-28.42
+2200	-29.62
+2220	-28.67
+2240	-28.94
+2260	-28.64
+2280	-29.45
+2300	-28.78
+2320	-29.1
+2340	-29.48
+2360	-28.69
+2380	-29.3
+2400	-29.49
+2420	-29.18
+2440	-28.78
+2460	-28.96
+2480	-28.78
+2500	-28.81
+2520	-28.81
+2540	-28.55
+2560	-28.35
+2580	-27.96
+2600	-29.31
+2620	-29.12
+2640	-29.62
+2660	-29.14
+2680	-28.81
+2700	-28.8
+2720	-29.57
+2740	-28.74
+2760	-29.14
+2780	-29.05
+2800	-28.91
+2820	-28.95
+2840	-28.83
+2860	-29.25
+2880	-28.74
+2900	-29.17
+2920	-29.31
+2940	-29.24
+2960	-29.06
+2980	-29.21
+3000	-28.53
+3020	-28.29
+3040	-28.75
+3060	-28.5
+3080	-29.54
+3100	-29.06
+3120	-28.6
+3140	-28.85
+3160	-28.68
+3180	-29.28
+3200	-28.34
+3220	-28.51
+3240	-29.8
+3260	-29.27
+3280	-28.96
+3300	-28.5
+3320	-29.19
+3340	-28.62
+3360	-28.89
+3380	-28.36
+3400	-28.62
+3420	-28.34
+3440	-28.71
+3460	-29.39
+3480	-28.35
+3500	-28.79
+3520	-28.29
+3540	-28.27
+3560	-28.58
+3580	-29.57
+3600	-28.79
+3620	-28.3
+3640	-28.48
+3660	-28.83
+3680	-29.19
+3700	-28.61
+3720	-29.05
+3740	-28.92
+3760	-28.56
+3780	-27.59
+3800	-28.1
+3820	-28.98
+3840	-27.99
+3860	-28.24
+3880	-28.42
+3900	-28.61
+3920	-28.78
+3940	-28.57
+3960	-29
+3980	-28.94
+4000	-27.96
+4020	-27.82
+4040	-27.33
+4060	-28.73
+4080	-27.86
+4100	-27.55
+4120	-28.4
+4140	-27.64
+4160	-28.22
+4180	-28.44
+4200	-28.54
+4220	-28.31
+4240	-28.58
+4260	-28.27
+4280	-28.87
+4300	-28.31
+4320	-28.98
+4340	-28.44
+4360	-28.38
+4380	-28.06
+4400	-28.3
+4420	-28.2
+4440	-28.5
+4460	-28.63
+4480	-28.51
+4500	-28.06
+4520	-28.37
+4540	-27.73
+4560	-27.55
+4580	-27.72
+4600	-28.06
+4620	-27.85
+4640	-27.82
+4660	-27.65
+4680	-28.17
+4700	-28.63
+4720	-28.15
+4740	-28.81
+4760	-28.68
+4780	-27.75
+4800	-28.91
+4820	-28.66
+4840	-28.53
+4860	-27.99
+4880	-27.79
+4900	-28.44
+4920	-28.55
+4940	-28.97
+4960	-28.63
+4980	-28.17
+5000	-28.73
+5020	-28.17
+5040	-28.18
+5060	-28.87
+5080	-28.85
+5100	-28.77
+5120	-28.27
+5140	-28.67
+5160	-28.55
+5180	-28.76
+5200	-28.65
+5220	-28.04
+5240	-27.81
+5260	-28.79
+5280	-27.65
+5300	-29.17
+5320	-28.9
+5340	-28.16
+5360	-28.23
+5380	-28.66
+5400	-28.48
+5420	-28.2
+5440	-28.11
+5460	-28.41
+5480	-28.36
+5500	-28.11
+5520	-28.27
+5540	-28.27
+5560	-28.67
+5580	-28.16
+5600	-28.21
+5620	-28.35
+5640	-27.93
+5660	-28.47
+5680	-27.93
+5700	-28.17
+5720	-28.97
+5740	-27.77
+5760	-29.72
+5780	-28.88
+5800	-28.64
+5820	-29.62
+5840	-28.77
+5860	-28.65
+5880	-28.98
+5900	-29.71
+5920	-28.02
+5940	-28.06
+5960	-28.67
+5980	-28.41
+6000	-28.63
+6020	-28.45
+6040	-26.66
+6060	-28.85
+6080	-28.91
+6100	-28.85
+6120	-28.35
+6140	-28.6
+6160	-28.5
+6180	-28.66
+6200	-29.18
+6220	-28.05
+6240	-29.09
+6260	-28.48
+6280	-28.62
+6300	-28.92
+6320	-28.46
+6340	-27.94
+6360	-28.02
+6380	-28.26
+6400	-28.9
+6420	-28.57
+6440	-27.85
+6460	-28.82
+6480	-28.59
+6500	-27.74
+6520	-28.81
+6540	-28.81
+6560	-28.83
+6580	-28.71
+6600	-29.08
+6620	-28.79
+6640	-28.95
+6660	-28.81
+6680	-28.16
+6700	-28.37
+6720	-28.43
+6740	-27.44
+6760	-28.57
+6780	-28.89
+6800	-29
+6820	-28.76
+6840	-28.36
+6860	-28.71
+6880	-28.85
+6900	-29
+6920	-28.7
+6940	-28.75
+6960	-28.72
+6980	-28.62
+7000	-28.47
+7020	-28.76
+7040	-29.26
+7060	-29.08
+7080	-28.83
+7100	-28.55
+7120	-28.67
+7140	-28.73
+7160	-28.44
+7180	-29
+7200	-29.61
+7220	-28.89
+7240	-28.95
+7260	-29.04
+7280	-29.21
+7300	-29.13
+7320	-29.25
+7340	-29.49
+7360	-29.76
+7380	-29.51
+7400	-29.14
+7420	-29.43
+7440	-29.28
+7460	-29.67
+7480	-30.19
+7500	-30.13
+7520	-28.85
+7540	-29.39
+7560	-30.01
+7580	-30
+7600	-29.33
+7620	-29.79
+7640	-29.98
+7660	-29.99
+7680	-30.26
+7700	-29.97
+7720	-30.03
+7740	-29.72
+7760	-29.86
+7780	-29.65
+7800	-29.38
+7820	-29.49
+7840	-29.76
+7860	NaN
+7880	NaN
+7900	NaN
+7920	-29.44
+7940	-29.14
+7960	-29.13
+7980	-29.14
+8000	-29.69
+8020	-29.58
+8040	-29.45
+8060	-28.95
+8080	-29.58
+8100	-29.33
+8120	-29.44
+8140	-30.24
+8160	-30.56
+8180	-30.35
+8200	-30.69
+8220	-30.85
+8240	-31.36
+8260	-31.21
+8280	-30.61
+8300	-30.97
+8320	-30.73
+8340	-30.12
+8360	-30.12
+8380	-30.46
+8400	-30.19
+8420	-29.87
+8440	-30.69
+8460	-30.84
+8480	-30.04
+8500	-28.73
+8520	-30.78
+8540	-30.53
+8560	-30.67
+8580	-30.41
+8600	-30.18
+8620	-30.71
+8640	-30.52
+8660	-30.36
+8680	-30.92
+8700	-30.81
+8720	-30.86
+8740	-30.53
+8760	-30.79
+8780	-30.79
+8800	-30.57
+8820	-31.14
+8840	-30.63
+8860	-30.36
+8880	-29.73
+8900	-30.25
+8920	-30.32
+8940	-30.72
+8960	-30.37
+8980	-29.5
+9000	-29.66
+9020	-30.09
+9040	-30.27
+9060	-30.38
+9080	-30.69
+9100	-30.49
+9120	-30.34
+9140	-29.82
+9160	-30.66
+9180	-30.28
+9200	-30.52
+9220	-30.82
+9240	-30.93
+9260	-31.09
+9280	-31.17
+9300	-31.51
+9320	-30.66
+9340	-30.86
+9360	-30.41
+9380	-30.39
+9400	-30.95
+9420	-30.93
+9440	-30.72
+9460	-30.68
+9480	-31.22
+9500	-31.18
+9520	-30.52
+9540	-31.16
+9560	-30.43
+9580	-30.77
+9600	-30.51
+9620	-30.99
+9640	-30.61
+9660	-30.57
+9680	-30.92
+9700	-31.02
+9720	-31.09
+9740	-31.48
+9760	-31.32
+9780	-30.99
+9800	-30.89
+9820	-30.97
+9840	-31.19
+9860	-31.67
+9880	-31.21
+9900	-30.92
+9920	-31.77
+9940	-31.55
+9960	-31.54
+9980	-31.66
+10000	-31.76
+10020	-31.56
+10040	-31.37
+10060	-31.42
+10080	-31.69
+10100	-31.86
+10120	-31.95
+10140	-31.58
+10160	-31.66
+10180	-31.78
+10200	-31.83
+10220	-32.3
+10240	-32.25
+10260	-32.12
+10280	-32.37
+10300	-32.32
+10320	-32.21
+10340	-32.19
+10360	-32.37
+10380	-31.72
+10400	-32.17
+10420	-32.62
+10440	-32.96
+10460	-32.31
+10480	-32.91
+10500	-32.81
+10520	-32.48
+10540	-32.71
+10560	-32.99
+10580	-33.31
+10600	-32.78
+10620	-32.66
+10640	-32.54
+10660	-32.3
+10680	-32.19
+10700	-32.94
+10720	-32.96
+10740	-32.96
+10760	-32.69
+10780	-32.31
+10800	-33.17
+10820	-33.84
+10840	-33.44
+10860	-33.31
+10880	-32.94
+10900	-32.9
+10920	-33.14
+10940	-33.2
+10960	-34.08
+10980	-33.95
+11000	-32.54
+11020	-33.12
+11040	-33.79
+11060	-33.74
+11080	-33.76
+11100	-33.9
+11120	-33.6
+11140	-33.26
+11160	-33.84
+11180	-34.02
+11200	-34.82
+11220	-34.87
+11240	-33.61
+11260	-33.66
+11280	-33.96
+11300	-33.99
+11320	-34.08
+11340	-34.06
+11360	-34.02
+11380	-34.43
+11400	-34.91
+11420	-35.01
+11440	-35.09
+11460	-35.6
+11480	-35.91
+11500	-34.53
+11520	-34.02
+11540	-34.78
+11560	-34.91
+11580	-34.14
+11600	-34.01
+11620	-33.43
+11640	-34.05
+11660	-35.03
+11680	-34.43
+11700	-34.08

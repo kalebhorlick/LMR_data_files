@@ -1,0 +1,176 @@
+# Altai, Siberia 750 Year Ice Core d18O and Temperature Reconstruction  
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:12885
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/trop/belukha/belukha2009.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2012
+# --------------------
+# Title 
+#	Study_Name: Altai, Siberia 750 Year Ice Core d18O and Temperature Reconstruction 
+# --------------------
+# Investigators
+#	Investigators: Eichler, A.; Oliviver, S.; Henderson, K.; Laube, A.; Beer. J.; Papina, T.; Gaggeler, H.W.; Schwikowski, M. 
+# --------------------
+# Description_and_Notes
+# 	Description: Ice core oxygen isotope data (d18O) and March-November temperature reconstruction for the Altai region of Siberia over the past 750 years. 
+#
+#	March-November temperatures in the Altai region were reconstructed using d18O measurements from a Belukha ice core in the Siberian Altai. Dating uncertainties are <3 years (AD 1815-1980), <5 years (AD 1400-1815), and <10 years (AD 1250-1400). 
+#
+#	Calibration was performed for the period 1850-1980 based on 10-year means, using temperature data from the weather station Barnaul. 
+#
+#	Belukha ice core: 49°48'26"N, 86°34'43"E, elevation 4062 m a.s.l. 
+#
+# --------------------
+# Publication
+#	Authors: A. Eichler, S. Olivier, K. Henderson, A. Laube, J. Beer, T. Papina, H. W. Gäggeler, and M. Schwikowsk 
+#	Published_Date_or_Year: 2009
+#	Published_Title: Temperature response in the Altai region lags solar forcing
+#	Journal_Name: Geophysical Research Letters
+#	Volume: 36			
+#	Edition: 	
+#	Issue: L01808
+#	Pages: 
+#	DOI: 10.1029/2008GL035930
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: The role of the sun on Earth's climate variability is still 
+much debated. Here we present an ice core oxygen isotope 
+record from the continental Siberian Altai, serving as a 
+high-resolution temperature proxy for the last 750 years. 
+The strong correlation between reconstructed temperature 
+and solar activity suggests solar forcing as a main driver 
+for temperature variations during the period 1250-1850 
+in this region. The precisely dated record allowed for 
+the identification of a 10-30 year lag between solar forcing 
+and temperature response, underlining the importance of 
+indirect sun-climate mechanisms involving ocean-induced 
+changes in atmospheric circulation. Solar contribution 
+to temperature change became less important during 
+industrial period 1850-2000 in the Altai region.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation (SNSF), Marie-Heim Vögtlin program
+#	Grant: PMPD2-110174
+# --------------------
+# Site_Information
+#	Site_Name: Gomez, Antarctic Peninsula
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: 49.8072 
+#	Southernmost_Latitude: 49.8072
+#	Easternmost_Longitude: 86.5786
+#	Westernmost_Longitude: 86.5786
+#	Elevation: 4062m
+# --------------------
+# Data_Collection
+#	Collection_Name: 09Alta01
+#	Earliest_Year: 1975
+#	Most_Recent_Year: 1255
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1975	-11.95
+1965	-12.6
+1955	-12.69
+1945	-12.43
+1935	-13.58
+1925	-13.56
+1915	-13.42
+1905	-12.98
+1895	-12.38
+1885	-13.21
+1875	-13.67
+1865	-13.39
+1855	-14.67
+1845	-14.02
+1835	-14.15
+1825	-14.89
+1815	-13.97
+1805	-13.59
+1795	-13.23
+1785	-13.8
+1775	-13.95
+1765	-14.99
+1755	-15.15
+1745	-16.3
+1735	-15.19
+1725	-14.74
+1715	-15.64
+1705	-15.38
+1695	-15.54
+1685	-14.57
+1675	-15.06
+1665	-15.14
+1655	-14.49
+1645	-13.99
+1635	-13.95
+1625	-14.15
+1615	-14.44
+1605	-13.73
+1595	-14.65
+1585	-13.76
+1575	-14.26
+1565	-14.2
+1555	-15.36
+1545	-14.51
+1535	-15.1
+1525	-16.22
+1515	-15.31
+1505	-13.71
+1495	-13.74
+1485	-14.58
+1475	-16.58
+1465	-14.18
+1455	-16.98
+1445	-15.11
+1435	-13.78
+1425	-14.46
+1415	-15.21
+1405	-13.84
+1395	-13.05
+1385	-15.52
+1375	-14.19
+1365	-15.14
+1355	-14.88
+1345	-13.35
+1335	-14.4
+1325	-15.72
+1315	-15.48
+1305	-14.02
+1295	-15.12
+1285	-13.89
+1275	-14.06
+1265	-14.29
+1255	-14.62

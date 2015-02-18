@@ -1,0 +1,741 @@
+# Antarctic Ice Core Deglacial Water Isotope Data on GICC05 Timescale 
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:11748
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/antarctica2011iso.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2011
+# --------------------
+# Title 
+#	Study_Name: Antarctic Ice Core Deglacial Water Isotope Data on GICC05 Timescale 
+# --------------------
+# Investigators
+#	Investigators: Pedro, J.B.; van Ommen, T.D.; Rasmussen, S.O.; Morgan, V.I.; Chappellaz, J.; Moy, A.D.; Masson-Delmotte, V.; Delmotte, M. 
+# --------------------
+# Description_and_Notes
+# 	Description: Stable water isotope data from five high-resolution Antarctic ice 
+#	cores spanning the last deglaciation, methane synchronized to the 
+#	Greenland Ice Core 2005 Chronology (GICC05), plus a composite 
+#	(or weighted average) of the five cores. 
+#
+#	The five cores used in the Antarctic deglacial water isotope 
+#	composite are: Law Dome, Byrd, EPICA Dronning Maud Land (EDML), 
+#	Siple Dome, and Talos Dome. The data for each core is interpolated 
+#	to 20 year time steps and standardised with respect to its own mean 
+#	and standard deviation over the interval 9000 to 21000 years before 
+#	1950 AD (9-21 ka BP 1950).  Estimated dating uncertainty in the 
+#	composite (relative to GICC05) is ± 220 y during the interval 
+#	10-13 ka BP, ± 200 y during the interval 13- 15 ka BP, 
+#	and ± 380 y during the interval i.e. 15-18 ka BP. 
+#	Refer to Pedro et al., (2011) (Table 2) and original references 
+#	for dating uncertainties in the individual cores. 
+#
+#	Ice core locations: 
+#	Law Dome: 66°46’S 112°48’E, 1370 masl 
+#	Byrd: 80°01’S 119°31’W, 1530 masl 
+#	Siple Dome:  81° 40'S 148° 49'W, 621 masl 
+#	Talos Dome: 72°49’S 159°11’E, 2315 masl 
+#	EDML: 75°00'S 00°04'E, 2892 masl 
+#
+#	Talos Dome
+#	Location: 72°49’S 159°11’E
+#	Elevation: 2315 m asl
+#	Reference for transfer to GICC05 timescale: Buiron, D., Chappellaz, J.,Stenni, B., Frezzotti, M., Baumgartner, M.,Capron, E., Landais, A., Lemieux-Dudon, B., Masson-Delmotte, V., Montagnat, M., Parrenin, F., and Schilt, A.: TALDICE-1 age scale of the Talos Dome deep ice core, East Ant arctica, Clim. Past, 7, 1--16, doi:10.5194/cp-7-1-2011,2011.
+# --------------------
+# Publication
+#	Authors: Pedro, J.B., T.D. van Ommen, S.O Rasmussen, V.I. Morgan, J. Chappellaz, A.D. Moy, V. Masson-Delmotte, and M. Delmotte
+#	Published_Date_or_Year: 2011
+#	Published_Title: The last deglaciation: timing the bipolar seesaw
+#	Journal_Name: Climate of the Past
+#	Volume: 7		
+#	Edition: 	
+#	Issue: 
+#	Pages: 671-683
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: Precise information on the relative timing of north-south climate 
+variations is a key to resolving questions concerning the mechanisms 
+that force and couple climate changes between the hemispheres. 
+We present a new composite record made from five well-resolved 
+Antarctic ice core records that robustly represents the timing 
+of regional Antarctic climate change during the last deglaciation. 
+Using fast variations in global methane gas concentrations as time 
+markers, the Antarctic composite is directly compared to Greenland 
+ice core records, allowing a detailed mapping of the inter-
+hemispheric sequence of climate changes. Consistent with prior 
+studies the synchronized records show that warming (and cooling) 
+trends in Antarctica closely match cold (and warm) periods in 
+Greenland on millennial timescales. For the first time, we also 
+identify a sub-millennial component to the interhemispheric coupling. 
+Within the Antarctic Cold Reversal the strongest Antarctic cooling 
+occurs during the pronounced northern warmth of the Bølling. 
+Warming then resumes in Antarctica, potentially as early as 
+the Intra-Allerød Cold Period, but with dating uncertainty that 
+could place it as late as the onset of the Younger Dryas stadial. 
+There is little-to-no time lag between climate transitions in 
+Greenland and opposing changes in Antarctica. Our results lend 
+support to fast acting inter-hemispheric coupling mechanisms, 
+including recently proposed bipolar atmospheric teleconnections 
+and/or rapid bipolar ocean teleconnections. 
+# -------------------- 
+# Funding_Agency
+#	Funding_Agency_Name: LEFE programme
+#	Grant:
+# ---------------------
+# Funding_Agency
+#	Funding_Agency_Name: Institut National des Sciences de l'Univers (INSU)
+#	Grant:
+# ---------------------
+# Funding_Agency
+#	Funding_Agency_Name: Agence Nationale de la Recherche project
+#	Grant: ANR-07-BLAN-0125
+# --------------------
+# Site_Information
+#	Site_Name: EDML
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: 72.816
+#	Southernmost_Latitude: 72.816
+#	Easternmost_Longitude: 159.183
+#	Westernmost_Longitude: 159.183
+#	Elevation: 2315m
+# --------------------
+# Data_Collection
+#	Collection_Name: 11EDML01
+#	Earliest_Year: 21000
+#	Most_Recent_Year: 9000
+#	Time Unit: yb 1950
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_GICC05	Age,,,years before 1950,,,,,N 
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_GICC05	d18O
+9000	-36.41
+9020	-36.71
+9040	-37.33
+9060	-36.76
+9080	-36.19
+9100	-36.41
+9120	-36.77
+9140	-36.52
+9160	-37.33
+9180	-37.02
+9200	-36.91
+9220	-36.42
+9240	-36.62
+9260	-36.51
+9280	-36.38
+9300	-36.59
+9320	-36.58
+9340	-36.77
+9360	-36.68
+9380	-35.5
+9400	-35.48
+9420	-36.18
+9440	-36.81
+9460	-36.27
+9480	-37.29
+9500	-36.83
+9520	-37.36
+9540	-36.29
+9560	-36.13
+9580	-36.63
+9600	-36.58
+9620	-36.62
+9640	-37.28
+9660	-36.04
+9680	-36.68
+9700	-37
+9720	-36.3
+9740	-36.61
+9760	-36.49
+9780	-36.3
+9800	-36.77
+9820	-37.19
+9840	-36.62
+9860	-37.31
+9880	-37.27
+9900	-36.74
+9920	-36
+9940	-36.33
+9960	-36.83
+9980	-36.68
+10000	-36.85
+10020	-36.81
+10040	-35.88
+10060	-36.52
+10080	-36.43
+10100	-37.2
+10120	-37.19
+10140	-36.4
+10160	-36.43
+10180	-37.11
+10200	-36.86
+10220	-37.68
+10240	-36.56
+10260	-36.39
+10280	-36.73
+10300	-37.13
+10320	-36.99
+10340	-36.59
+10360	-36.72
+10380	-36.69
+10400	-36.67
+10420	-36.94
+10440	-36.77
+10460	-36.49
+10480	-36.71
+10500	-37.29
+10520	-37.17
+10540	-36.73
+10560	-36.77
+10580	-36.86
+10600	-36.76
+10620	-36.57
+10640	-36.55
+10660	-36.38
+10680	-35.4
+10700	-36.29
+10720	-36.67
+10740	-37.07
+10760	-37.63
+10780	-37.88
+10800	-37.75
+10820	-36.64
+10840	-36.6
+10860	-36.56
+10880	-36.68
+10900	-36.89
+10920	-36.29
+10940	-36.46
+10960	-36.64
+10980	-37.01
+11000	-37.59
+11020	-37.18
+11040	-36.26
+11060	-35.93
+11080	-36.35
+11100	-36.78
+11120	-36.31
+11140	-36.8
+11160	-36.93
+11180	-36.94
+11200	-37.29
+11220	-37.13
+11240	-36.45
+11260	-36.31
+11280	-36.63
+11300	-37.16
+11320	-37.28
+11340	-37.46
+11360	-37.38
+11380	-36.94
+11400	-36.51
+11420	-36.46
+11440	-37.15
+11460	-36.07
+11480	-36.61
+11500	-36.78
+11520	-36.41
+11540	-36.21
+11560	-36.28
+11580	-36.89
+11600	-36.46
+11620	-36.78
+11640	-36.78
+11660	-36.46
+11680	-36.2
+11700	-35.62
+11720	-37.08
+11740	-36.68
+11760	-36.21
+11780	-36.46
+11800	-36.77
+11820	-36.31
+11840	-37.33
+11860	-36.72
+11880	-36.03
+11900	-35.99
+11920	-36.81
+11940	-36.79
+11960	-36.7
+11980	-37.16
+12000	-37.36
+12020	-37.21
+12040	-37.64
+12060	-37.54
+12080	-37.26
+12100	-37.28
+12120	-37.17
+12140	-36.89
+12160	-36.38
+12180	-36.98
+12200	-37.79
+12220	-37.58
+12240	-37.74
+12260	-37.61
+12280	-36.73
+12300	-37.01
+12320	-37.45
+12340	-37.31
+12360	-37.51
+12380	-37.87
+12400	-37.85
+12420	-38.01
+12440	-38.24
+12460	-38.37
+12480	-38.59
+12500	-38.69
+12520	-37.97
+12540	-37.93
+12560	-38.1
+12580	-37.61
+12600	-37.76
+12620	-38.49
+12640	-38.58
+12660	-38.51
+12680	-38.41
+12700	-38.38
+12720	-38.38
+12740	-38.61
+12760	-38.76
+12780	-38.82
+12800	-38.39
+12820	-38.29
+12840	-38.63
+12860	-38.9
+12880	-39.13
+12900	-39.1
+12920	-38.94
+12940	-38.44
+12960	-38.23
+12980	-38.4
+13000	-38.61
+13020	-38.83
+13040	-39.09
+13060	-39.25
+13080	-38.99
+13100	-38.72
+13120	-38.45
+13140	-38.43
+13160	-38.57
+13180	-38.61
+13200	-38.58
+13220	-38.26
+13240	-38.32
+13260	-38.96
+13280	-38.49
+13300	-38.16
+13320	-38.19
+13340	-38.52
+13360	-39.2
+13380	-38.89
+13400	-38.25
+13420	-38.6
+13440	-39.08
+13460	-38.8
+13480	-38.64
+13500	-38.87
+13520	-38.95
+13540	-38.82
+13560	-38.51
+13580	-38.14
+13600	-38.44
+13620	-38.94
+13640	-38.55
+13660	-38.26
+13680	-38.51
+13700	-38.79
+13720	-39.17
+13740	-39.09
+13760	-38.6
+13780	-38.46
+13800	-38.44
+13820	-38.59
+13840	-38.78
+13860	-38.47
+13880	-38.19
+13900	-38.68
+13920	-38.98
+13940	-38.62
+13960	-38.44
+13980	-38.62
+14000	-38.79
+14020	-38.95
+14040	-38.99
+14060	-38.67
+14080	-38.44
+14100	-38.38
+14120	-38.36
+14140	-38.45
+14160	-38.45
+14180	-38.16
+14200	-37.98
+14220	-38.24
+14240	-38.46
+14260	-38.52
+14280	-38.58
+14300	-38.68
+14320	-38.7
+14340	-38.43
+14360	-38.24
+14380	-38.28
+14400	-38.28
+14420	-38.18
+14440	-38.07
+14460	-37.96
+14480	-37.83
+14500	-37.64
+14520	-37.56
+14540	-37.65
+14560	-37.7
+14580	-37.68
+14600	-37.77
+14620	-37.96
+14640	-37.99
+14660	-37.95
+14680	-37.73
+14700	-37.49
+14720	-37.58
+14740	-37.56
+14760	-36.93
+14780	-36.63
+14800	-37.3
+14820	-37.71
+14840	-37.57
+14860	-37.52
+14880	-37.53
+14900	-37.62
+14920	-37.75
+14940	-37.68
+14960	-37.59
+14980	-37.72
+15000	-37.86
+15020	-38.32
+15040	-38.88
+15060	-38.94
+15080	-38.8
+15100	-38.37
+15120	-37.97
+15140	-37.94
+15160	-37.91
+15180	-38.32
+15200	-38.78
+15220	-38.42
+15240	-37.98
+15260	-38.23
+15280	-38.63
+15300	-38.59
+15320	-38.36
+15340	-38.43
+15360	-38.73
+15380	-38.8
+15400	-38.45
+15420	-38.19
+15440	-38.11
+15460	-38.04
+15480	-38
+15500	-38
+15520	-38.07
+15540	-38.16
+15560	-38.39
+15580	-38.62
+15600	-38.65
+15620	-38.67
+15640	-38.83
+15660	-39.11
+15680	-39.3
+15700	-39.06
+15720	-38.82
+15740	-38.79
+15760	-38.91
+15780	-39.01
+15800	-38.84
+15820	-38.67
+15840	-38.61
+15860	-38.64
+15880	-38.68
+15900	-38.72
+15920	-38.76
+15940	-38.79
+15960	-38.78
+15980	-38.77
+16000	-38.76
+16020	-38.75
+16040	-38.78
+16060	-38.88
+16080	-38.99
+16100	-38.94
+16120	-38.87
+16140	-38.73
+16160	-38.49
+16180	-38.26
+16200	-38.39
+16220	-38.63
+16240	-38.84
+16260	-38.93
+16280	-39.02
+16300	-39.14
+16320	-39.26
+16340	-39.32
+16360	-39.17
+16380	-39.02
+16400	-39.03
+16420	-39.12
+16440	-39.2
+16460	-39.33
+16480	-39.47
+16500	-39.58
+16520	-39.54
+16540	-39.5
+16560	-39.47
+16580	-39.46
+16600	-39.46
+16620	-39.52
+16640	-39.66
+16660	-39.8
+16680	-39.83
+16700	-39.78
+16720	-39.72
+16740	-39.76
+16760	-39.83
+16780	-39.88
+16800	-39.57
+16820	-39.26
+16840	-39.03
+16860	-39.1
+16880	-39.17
+16900	-39.26
+16920	-39.48
+16940	-39.7
+16960	-39.82
+16980	-39.74
+17000	-39.67
+17020	-39.69
+17040	-40
+17060	-40.3
+17080	-40.58
+17100	-40.41
+17120	-40.25
+17140	-40.09
+17160	-40.24
+17180	-40.47
+17200	-40.7
+17220	-40.67
+17240	-40.38
+17260	-40.1
+17280	-39.88
+17300	-40.08
+17320	-40.29
+17340	-40.49
+17360	-40.6
+17380	-40.63
+17400	-40.65
+17420	-40.67
+17440	-40.63
+17460	-40.6
+17480	-40.56
+17500	-40.46
+17520	-40.31
+17540	-40.17
+17560	-40.03
+17580	-40.32
+17600	-40.74
+17620	-41.15
+17640	-41.47
+17660	-41.13
+17680	-40.78
+17700	-40.44
+17720	-40.29
+17740	-40.31
+17760	-40.33
+17780	-40.35
+17800	-40.54
+17820	-40.79
+17840	-41.04
+17860	-41.11
+17880	-41.01
+17900	-40.91
+17920	-40.86
+17940	-40.94
+17960	-41.01
+17980	-41.09
+18000	-41.06
+18020	-41.01
+18040	-40.97
+18060	-40.96
+18080	-40.96
+18100	-40.97
+18120	-40.99
+18140	-41.08
+18160	-41.17
+18180	-41.25
+18200	-41.34
+18220	-41.43
+18240	-41.52
+18260	-41.55
+18280	-41.47
+18300	-41.4
+18320	-41.32
+18340	-41.32
+18360	-41.32
+18380	-41.32
+18400	-41.3
+18420	-41.25
+18440	-41.21
+18460	-41.15
+18480	-41.08
+18500	-41
+18520	-40.92
+18540	-41.1
+18560	-41.34
+18580	-41.58
+18600	-41.71
+18620	-41.68
+18640	-41.65
+18660	-41.43
+18680	-41.01
+18700	-40.59
+18720	-40.17
+18740	-40.57
+18760	-40.99
+18780	-41.41
+18800	-41.61
+18820	-41.58
+18840	-41.55
+18860	-41.53
+18880	-41.55
+18900	-41.56
+18920	-41.58
+18940	-41.54
+18960	-41.49
+18980	-41.44
+19000	-41.32
+19020	-41.16
+19040	-41.01
+19060	-40.98
+19080	-41.18
+19100	-41.38
+19120	-41.58
+19140	-41.47
+19160	-41.34
+19180	-41.22
+19200	-41.18
+19220	-41.18
+19240	-41.19
+19260	-41.18
+19280	-41.14
+19300	-41.1
+19320	-41.07
+19340	-41.15
+19360	-41.23
+19380	-41.31
+19400	-41.38
+19420	-41.38
+19440	-41.37
+19460	-41.37
+19480	-41.37
+19500	-41.32
+19520	-41.24
+19540	-41.16
+19560	-41.08
+19580	-41.01
+19600	-41.05
+19620	-41.09
+19640	-41.13
+19660	-41.17
+19680	-41.23
+19700	-41.31
+19720	-41.4
+19740	-41.48
+19760	-41.57
+19780	-41.62
+19800	-41.66
+19820	-41.69
+19840	-41.72
+19860	-41.76
+19880	-41.62
+19900	-41.46
+19920	-41.3
+19940	-41.14
+19960	-40.98
+19980	-41.07
+20000	-41.26
+20020	-41.46
+20040	-41.66
+20060	-41.85
+20080	-41.7
+20100	-41.49
+20120	-41.28
+20140	-41.07
+20160	-40.92
+20180	-41.02
+20200	-41.13
+20220	-41.23
+20240	-41.33
+20260	-41.41
+20280	-41.38
+20300	-41.36
+20320	-41.33
+20340	-41.3
+20360	-41.27
+20380	-41.24
+20400	-41.22
+20420	-41.19
+20440	-41.16
+20460	-41.15
+20480	-41.16
+20500	-41.16
+20520	-41.17
+20540	-41.17
+20560	-41.12
+20580	-41.06
+20600	-41.01
+20620	-40.95
+20640	-40.91
+20660	-41.03
+20680	-41.14
+20700	-41.26
+20720	-41.38
+20740	-41.5
+20760	-41.56
+20780	-41.63
+20800	-41.7
+20820	-41.76
+20840	-41.82
+20860	-41.74
+20880	-41.67
+20900	-41.59
+20920	-41.52
+20940	-41.44
+20960	-41.45
+20980	-41.46
+21000	-41.47

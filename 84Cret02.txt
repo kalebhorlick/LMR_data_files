@@ -1,0 +1,305 @@
+# Crete, Milcent - Oxygen Isotope and Accumulation Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2428
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/gisp/crete/ct85h-1y.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 1988
+# --------------------
+# Title 
+#	Study_Name: Crete, Milcent - Oxygen Isotope and Accumulation Dataa
+# --------------------
+# Investigators
+#	Investigators:  Clausen, H.B.;Gundestrup, N.;Johnsen, S.J.;Bindschadler, R.;Zwally, J. 
+# --------------------
+# Description_and_Notes
+# 	Description: 
+#
+# --------------------
+# Publication
+#	Authors: H.B. Clausen, N.S. Gundestrup, S.J. Johnsen, R. Bindschadler, and J. Zwalley
+#	Published_Date_or_Year: 1988
+#	Published_Title:  Glaciological Investigations in the Crete area, central Greenland: A search for a new deep-drilling site.
+#	Journal_Name: Annals of Glaciology
+#	Volume: 10
+#	Edition: 	
+#	Issue: 
+#	Pages: 10-15
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: The results of the 1984-85 post-GISP campaigns incentral Greenland are presented. Eight ice cores were obtained, some spanning up to 360 years. We present:
+I. Geographical positions and elevations at the drill sites, Il. Density and temperature in the bore holes, Ill. Filtered 6180 profiles and accumulation-rate
+variations along the ice cores.The 6180 and accumulation profiles, along with those from the 400 m Crete ice core obtained in 1974, are compared.
+The accumulation-rate series over a large region have a very high coherence. This indicates that a single bore hole in this region would give a representative accumulation time
+series over a long period. Further, it appears that for this region there is a linear relation between the measured annual accumulation rate and the mean annual 6 180 values. Thus the area between Crete and Summit, just west of the ice divide, seems to be favorable for a deep-drilling operation. 
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+#	Grant: 
+# --------------------
+# Site_Information
+#	Site_Name: Crete
+#	Location: North America>Greenland
+#	Country: 
+#	Northernmost_Latitude: 71.12
+#	Southernmost_Latitude: 71.12
+#	Easternmost_Longitude: -44.58
+#	Westernmost_Longitude: -44.58
+#	Elevation: 2410m
+# --------------------
+# Data_Collection
+#	Collection_Name: 84Cret02
+#	Earliest_Year: 1766
+#	Most_Recent_Year: 1983
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,years AD,,,,,N
+##d18O		del18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1983	-35.65
+1982	-31.4
+1981	-32.18
+1980	-34.48
+1979	-33.07
+1978	-31.42
+1977	-28.95
+1976	-31.7
+1975	-32.87
+1974	-31.31
+1973	-32.59
+1972	-32.24
+1971	-33.39
+1970	-32.79
+1969	-32.75
+1968	-31.13
+1967	-31.61
+1966	-32.64
+1965	-31.36
+1964	-31.59
+1963	-31.96
+1962	-32.38
+1961	-31.9
+1960	-33.54
+1959	-32.21
+1958	-32.6
+1957	-34.18
+1956	-33.96
+1955	-34.13
+1954	-34.33
+1953	-32.6
+1952	-30.61
+1951	-32.59
+1950	-33.59
+1949	-35.56
+1948	-34.38
+1947	-33.44
+1946	-31.43
+1945	-31.14
+1944	-33.82
+1943	-34.9
+1942	-32.81
+1941	-33.34
+1940	-33.02
+1939	-30.7
+1938	-32.51
+1937	-33.66
+1936	-31.67
+1935	-33.55
+1934	-32.1
+1933	-31.12
+1932	-30.24
+1931	-30.25
+1930	-32.42
+1929	-32.66
+1928	-32.99
+1927	-32.82
+1926	-33.49
+1925	-33.86
+1924	-35.3
+1923	-33.7
+1922	-33.06
+1921	-34.64
+1920	-32.99
+1919	-32.35
+1918	-34.27
+1917	-33.9
+1916	-30.71
+1915	-32.64
+1914	-34.91
+1913	-34.71
+1912	-32.34
+1911	-34.21
+1910	-33.67
+1909	-31.78
+1908	-30.81
+1907	-34.32
+1906	-33.84
+1905	-32.69
+1904	-32.72
+1903	-33.16
+1902	-31.17
+1901	-31.14
+1900	-33.34
+1899	-34.55
+1898	-31.7
+1897	-32.91
+1896	-32.7
+1895	-32.19
+1894	-31.55
+1893	-32.8
+1892	-33.42
+1891	-32.78
+1890	-33.79
+1889	-32.7
+1888	-32.23
+1887	-33.03
+1886	-33.7
+1885	-34.09
+1884	-32.88
+1883	-34.17
+1882	-35.16
+1881	-33.06
+1880	-31.91
+1879	-31.77
+1878	-33.08
+1877	-32.49
+1876	-31.79
+1875	-32.75
+1874	-34.78
+1873	-33.45
+1872	-31.13
+1871	-31.11
+1870	-32.56
+1869	-33.27
+1868	-35.01
+1867	-33.63
+1866	-35.68
+1865	-34.51
+1864	-33.28
+1863	-35.04
+1862	-34
+1861	-32.59
+1860	-34.67
+1859	-33.9
+1858	-33.85
+1857	-31.82
+1856	-32.29
+1855	-33.9
+1854	-32.36
+1853	-31.23
+1852	-31.18
+1851	-31.64
+1850	-33.32
+1849	-33.78
+1848	-33.23
+1847	-31.94
+1846	-33.38
+1845	-33.41
+1844	-33.69
+1843	-33.18
+1842	-31.85
+1841	-31.13
+1840	-32.21
+1839	-33.45
+1838	-31.41
+1837	-32.07
+1836	-34.41
+1835	-35.4
+1834	-33.22
+1833	-32.41
+1832	-32.62
+1831	-32.04
+1830	-32.18
+1829	-31.46
+1828	-31.68
+1827	-31.95
+1826	-33.26
+1825	-32.42
+1824	-34
+1823	-32.38
+1822	-31.68
+1821	-33.7
+1820	-32.14
+1819	-31.95
+1818	-33.78
+1817	-34.46
+1816	-33.78
+1815	-31.73
+1814	-32.75
+1813	-33.91
+1812	-33.6
+1811	-33.79
+1810	-33.77
+1809	-34.07
+1808	-32.73
+1807	-32.23
+1806	-31.99
+1805	-31.96
+1804	-33.35
+1803	-33.72
+1802	-36.2
+1801	-32.1
+1800	-32.25
+1799	-32.63
+1798	-33.61
+1797	-32.52
+1796	-33.08
+1795	-35.02
+1794	-33.07
+1793	-34.31
+1792	-32.39
+1791	-31.95
+1790	-34.28
+1789	-33.27
+1788	-33.32
+1787	-32.26
+1786	-30.92
+1785	-31.34
+1784	-32.34
+1783	-32.02
+1782	-33.01
+1781	-32.51
+1780	-33.14
+1779	-34.38
+1778	-34.01
+1777	-34.29
+1776	-32.21
+1775	-32.54
+1774	-33.12
+1773	-33.52
+1772	-31.37
+1771	-31.6
+1770	-33.35
+1769	-32.66
+1768	-32.73
+1767	-33.32
+1766	-32.49

@@ -1,0 +1,152 @@
+# Dye 3, Dye 2, Summit - Oxygen Isotope and Accumulation Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2430
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/gisp/dye2/dye2ad77.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 1985
+# --------------------
+# Title 
+#	Study_Name: Dye 3, Dye 2, Summit - Oxygen Isotope and Accumulation Data
+# --------------------
+# Investigators
+#	Investigators:  Langway, Jr., C.C.; Oeschger, H.; Dansgaard, W 
+# --------------------
+# Description_and_Notes
+# 	Description: 
+# --------------------
+# Publication
+#	Authors: C.C. Langway, Jr., H. Oeschger, and W. Dansgaard
+#	Published_Date_or_Year: 1985
+#	Published_Title: Greenland ice core: Geophysics, geochemistry and environment
+#	Journal_Name: Geophysical Monographs
+#	Volume: 33
+#	Edition: 	
+#	Issue: 
+#	Pages: 
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: 
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+# --------------------
+# Site_Information
+#	Site_Name: DYE 2
+#	Location: North America>Greenland
+#	Country: 
+#	Northernmost_Latitude: 71.283
+#	Southernmost_Latitude: 71.283
+#	Easternmost_Longitude: 37.93
+#	Westernmost_Longitude: 37.93
+#	Elevation: 3212m
+# --------------------
+# Data_Collection
+#	Collection_Name: 77Summ02
+#	Earliest_Year: 1903
+#	Most_Recent_Year: 1972
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,years AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1972	-38.02
+1971	-33.98
+1970	-34.58
+1969	-36.9
+1968	-34.74
+1967	-36.68
+1966	-35.73
+1965	-33.33
+1964	-34.79
+1963	-34.22
+1962	-33.98
+1961	-34.14
+1960	-35.38
+1959	-35.66
+1958	-34.78
+1957	-34.31
+1956	-35.34
+1955	-36.36
+1954	-34.07
+1953	-35.13
+1952	-35.28
+1951	-35.84
+1950	-35.49
+1949	-35.99
+1948	-35.51
+1947	-33.19
+1946	-33.27
+1945	-33.91
+1944	-35.17
+1943	-36.64
+1942	-34.31
+1941	-35.15
+1940	-35.5
+1939	-35.16
+1938	-36.18
+1937	-37.63
+1936	-35.22
+1935	-36.24
+1934	-34.69
+1933	-34.11
+1932	-32.5
+1931	-33.12
+1930	-34.67
+1929	-33.53
+1928	-34.7
+1927	-35.98
+1926	-36.07
+1925	-36.02
+1924	-36.7
+1923	-34.64
+1922	-35.34
+1921	-35.43
+1920	-35.41
+1919	-34.75
+1918	-36.19
+1917	-37.84
+1916	-33.67
+1915	-35.89
+1914	-36.25
+1913	-35.68
+1912	-35.19
+1911	-35.73
+1910	-34.9
+1909	-33.8
+1908	-34.02
+1907	-34.48
+1906	-35.39
+1905	-35.38
+1904	-36.07
+1903	-36.96

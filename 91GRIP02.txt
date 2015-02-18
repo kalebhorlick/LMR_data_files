@@ -1,0 +1,301 @@
+# GISP2/GRIP Stable Isotopes Stacked Record
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# 
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/stacked.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2011
+# --------------------
+# Title 
+#	Study_Name: GISP2/GRIP Stable Isotopes Stacked Record 
+# --------------------
+# Investigators
+#	Investigators: White, J.W.C.; Barlow, L.K.; Fisher, D.; Grootes, P.M.; Jouzel, J.; Johnsen, S.J.; Stuiver, M.; Clausen, H.B. 
+# --------------------
+# Description_and_Notes
+# 	Description: This file contains stable isotope (delta 18O) data from six ice cores five from the area surrounding the GRIP deep ice core, and one from GISP2
+#	(the "B" core).  Dating control was achieved as described in White et al., (1997).  For the GISP2 core, the timescale given here is NOT identical tothe official GISP2 timescale in the file gisp2age.dat.
+#
+#	GRIP893
+# --------------------
+# Publication
+#	Authors: J.W.C. White, L.K. Barlow, D. Fisher, P.M. Grooes, J. Jouzel, S.J. Johnsen, M. Stuiver, H.B. Clausen
+#	Published_Date_or_Year: 1997
+#	Published_Title: The climate signal in the stable isotopes of snow from Summit, Greenland
+#	Journal_Name: Journal of Geophysical Research
+#	Volume: 102		
+#	Edition: 	
+#	Issue: 
+#	Pages: 26425-26439
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: The winter d18O signal is extracted from 7 Greenland ice cores covering the past -700 years. To filter out noise and local variations in the 7 isotope records a principal component analysis is carried out on the ice core data. A comparison between the time series of the first principal component (PC1) with 67 years of winter (December to March) temperature measurements from 3 southern Greenland synoptic stations shows highly significant correlations. Southern Greenland winter temperatures are known to be greatly influenced by the North Atlantic Oscillation (NAO). A good proxy for southern Greenland temperatures is therefore expected to reveal at least parts of the NAO signal. It is shown that the PC1 time series indeed is significantly correlated to the NAO during the winter months. The inclusion of ice core winter season d18O time series in future multiproxy NAO reconstructions is therefore recommended.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant:
+# --------------------
+ Site_Information
+#	Site_Name: GRIP
+#	Location: North America>Greenland
+#	Country: 
+#	Northernmost_Latitude: 72.58
+#	Southernmost_Latitude: 72.58
+#	Easternmost_Longitude: 37.63
+#	Westernmost_Longitude: 37.63
+#	Elevation: 3028m
+# --------------------
+# Data_Collection
+#	Collection_Name: 91GRIP02
+#	Earliest_Year: 1772
+#	Most_Recent_Year: 1986
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1986	NAN
+1985	NAN
+1984	NAN
+1983	NAN
+1982	NAN
+1981	NAN
+1980	NAN
+1979	-36.43
+1978	-35.83
+1977	-33.35
+1976	-34.02
+1975	-36.74
+1974	-35.26
+1973	-36.21
+1972	-33.56
+1971	-32.43
+1970	-34.45
+1969	-33.96
+1968	-35.12
+1967	-35.37
+1966	-33.79
+1965	-34.1
+1964	-34.81
+1963	-35.88
+1962	-36.43
+1961	-35.82
+1960	-34.74
+1959	-34.12
+1958	-36.26
+1957	-37.24
+1956	-35.16
+1955	-36.87
+1954	-35.44
+1953	-34.07
+1952	-35.53
+1951	-34.55
+1950	-35.78
+1949	-37.94
+1948	-36.52
+1947	-34.1
+1946	-33.88
+1945	-34.24
+1944	-34.9
+1943	-36.99
+1942	-34.86
+1941	-33.21
+1940	-34.81
+1939	-34.89
+1938	-37.57
+1937	-36.53
+1936	-36.42
+1935	-34.36
+1934	-34.07
+1933	-34
+1932	-33.08
+1931	-34.54
+1930	-34.99
+1929	-33.5
+1928	-33.46
+1927	-35.73
+1926	-37.09
+1925	-34.81
+1924	-37.03
+1923	-34.34
+1922	-36.43
+1921	-37.18
+1920	-34.97
+1919	-36.66
+1918	-36.82
+1917	-37.17
+1916	-32.81
+1915	-35.86
+1914	-35.98
+1913	-34.42
+1912	-34.5
+1911	-36.26
+1910	-36.97
+1909	-34.51
+1908	-33.29
+1907	-36.27
+1906	-36.27
+1905	-38.87
+1904	-38.23
+1903	-37.76
+1902	-35.13
+1901	-35.64
+1900	-35.81
+1899	-36.87
+1898	-35.8
+1897	-36.72
+1896	-35.01
+1895	-35.08
+1894	-34.07
+1893	-35.54
+1892	-35.16
+1891	-35.22
+1890	-35.09
+1889	-33.95
+1888	-32.94
+1887	-35.48
+1886	-36.28
+1885	-37.11
+1884	-37.11
+1883	-34.95
+1882	-35.49
+1881	-34.82
+1880	-34.57
+1879	-34.95
+1878	-33.88
+1877	-33.19
+1876	-32.6
+1875	-33.28
+1874	-35.4
+1873	-35.85
+1872	-34.31
+1871	-33.11
+1870	-36.03
+1869	-35.67
+1868	-35.14
+1867	-35.66
+1866	-38.07
+1865	-36.99
+1864	-35.22
+1863	-34.98
+1862	-34.84
+1861	-36.39
+1860	-34.64
+1859	-34.07
+1858	-35.04
+1857	-35.68
+1856	-35.42
+1855	-34.99
+1854	-35.45
+1853	-34.27
+1852	-32.92
+1851	-33.54
+1850	-34.26
+1849	-35.61
+1848	-35.29
+1847	-34.98
+1846	-35.68
+1845	-34.61
+1844	-36.77
+1843	-36.14
+1842	-35.86
+1841	-35.58
+1840	-33.68
+1839	-35.85
+1838	-35.01
+1837	-35.74
+1836	-37.33
+1835	-36.79
+1834	-37.47
+1833	-37.17
+1832	-35.92
+1831	-33.13
+1830	-34.89
+1829	-35.21
+1828	-34.4
+1827	-34.95
+1826	-36.05
+1825	-34.73
+1824	-35.75
+1823	-35.29
+1822	-34.36
+1821	-34.23
+1820	-34.59
+1819	-34.55
+1818	-34.83
+1817	-37.12
+1816	-36.38
+1815	-35.72
+1814	-35.74
+1813	-36.84
+1812	-36.07
+1811	-35.05
+1810	-34.85
+1809	-34.34
+1808	-33.91
+1807	-33.67
+1806	-35.46
+1805	-33.75
+1804	-34.76
+1803	-33.45
+1802	-36.9
+1801	-35.45
+1800	-33.42
+1799	-34.57
+1798	-37.07
+1797	-37.36
+1796	-35.37
+1795	-34.91
+1794	-35.49
+1793	-36.85
+1792	-34.89
+1791	-34.25
+1790	-36.18
+1789	-35.04
+1788	-35.38
+1787	-35.33
+1786	-32.47
+1785	-34.58
+1784	-35.3
+1783	-36.19
+1782	-34.19
+1781	-32.43
+1780	-35.66
+1779	-36.88
+1778	-37.3
+1777	-37.94
+1776	-34.47
+1775	-32.86
+1774	-33.68
+1773	-34.65
+1772	-34.37

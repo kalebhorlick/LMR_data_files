@@ -1,0 +1,140 @@
+# Crete, Milcent - Oxygen Isotope and Accumulation Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2428
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/gisp/crete/ct85h-1y.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 1988
+# --------------------
+# Title 
+#	Study_Name: Crete, Milcent - Oxygen Isotope and Accumulation Dataa
+# --------------------
+# Investigators
+#	Investigators:  Clausen, H.B.;Gundestrup, N.;Johnsen, S.J.;Bindschadler, R.;Zwally, J. 
+# --------------------
+# Description_and_Notes
+# 	Description: 
+#
+# --------------------
+# Publication
+#	Authors: H.B. Clausen, N.S. Gundestrup, S.J. Johnsen, R. Bindschadler, and J. Zwalley
+#	Published_Date_or_Year: 1988
+#	Published_Title:  Glaciological Investigations in the Crete area, central Greenland: A search for a new deep-drilling site.
+#	Journal_Name: Annals of Glaciology
+#	Volume: 10
+#	Edition: 	
+#	Issue: 
+#	Pages: 10-15
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: The results of the 1984-85 post-GISP campaigns incentral Greenland are presented. Eight ice cores were obtained, some spanning up to 360 years. We present:
+I. Geographical positions and elevations at the drill sites, Il. Density and temperature in the bore holes, Ill. Filtered 6180 profiles and accumulation-rate
+variations along the ice cores.The 6180 and accumulation profiles, along with those from the 400 m Crete ice core obtained in 1974, are compared.
+The accumulation-rate series over a large region have a very high coherence. This indicates that a single bore hole in this region would give a representative accumulation time
+series over a long period. Further, it appears that for this region there is a linear relation between the measured annual accumulation rate and the mean annual 6 180 values. Thus the area between Crete and Summit, just west of the ice divide, seems to be favorable for a deep-drilling operation. 
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+#	Grant: 
+# --------------------
+# Site_Information
+#	Site_Name: Crete
+#	Location: North America>Greenland
+#	Country: 
+#	Northernmost_Latitude: 71.12
+#	Southernmost_Latitude: 71.12
+#	Easternmost_Longitude: -44.58
+#	Westernmost_Longitude: -44.58
+#	Elevation: 2410m
+# --------------------
+# Data_Collection
+#	Collection_Name: 84Cret01
+#	Earliest_Year: 1932
+#	Most_Recent_Year: 1984
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,years AD,,,,,N
+##d18O		del18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1984	-42.07
+1983	-34.58
+1982	-34.26
+1981	-35.29
+1980	-33.5
+1979	-35.89
+1978	-31.59
+1977	-32.8
+1976	-32.76
+1975	-33.56
+1974	-33.53
+1973	-32.87
+1972	-33.64
+1971	-34.84
+1970	-34.7
+1969	-34.12
+1968	-34.24
+1967	-36.46
+1966	-35.68
+1965	-34.42
+1964	-32.41
+1963	-32.8
+1962	-34.5
+1961	-34.27
+1960	-35.1
+1959	-33.92
+1958	-34.63
+1957	-36.12
+1956	-35.26
+1955	-34.1
+1954	-33.93
+1953	-32.74
+1952	-33.5
+1951	-35.17
+1950	-33.46
+1949	-36.99
+1948	-35.67
+1947	-31.34
+1946	-32.12
+1945	-32.24
+1944	-35.11
+1943	-34.3
+1942	-32.12
+1941	-32.04
+1940	-33.89
+1939	-32.19
+1938	-33.39
+1937	-35.08
+1936	-33.82
+1935	-33.9
+1934	-32.89
+1933	-32.78
+1932	-31.84

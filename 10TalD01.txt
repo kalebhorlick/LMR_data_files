@@ -1,0 +1,493 @@
+# TALDICE Ice Core 8-25KYrBP Oxygen Isotope Data 
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:9891
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/talos/taldice2010d18o-8-25k.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2010
+# --------------------
+# Title 
+#	Study_Name: TALDICE Ice Core 8-25KYrBP Oxygen Isotope Data 
+# --------------------
+# Investigators
+#	Investigators: 
+# --------------------
+# Description_and_Notes
+# 	Description: Oxygen isotope profile from 512m to 898m in the TALDICE Project Talos Dome Ice Core.  Optimal accuracy of ± 0.05‰ (1 sigma). 
+#	TD is a peripheral dome of East Antarctica, located in the Ross Sea sector about 250 km from the Southern Ocean, 550 km north of 
+#	Taylor Dome and 1100 km east of EDC. The TALDICE coring site (159°11'E 72°49'S; 2315 m a.s.l.; annual mean temperature -41°C) is located near the dome summit and is characterised by a snow accumulation rate of 80 mm water equivalent per year (average 2004-1259 AD). 
+#
+# --------------------
+# Publication
+#	Authors: B. Stenni, Stenni, B., D. Buiron, M. Frezzotti, S. Albani, C. Barbante, E. Bard, J.M. Barnola, M. Baroni, M. Baumgartner, M. Bonazza, E. Capron, E. Castellano, J. Chappellaz, B. Delmonte, S. Falourd, L. Genoni, P. Iacumin, J. Jouzel, S. Kipfstuhl, A. Landais, B. Lemieux-Dudon, V. Maggi, V. Masson-Delmotte, C. Mazzola, B. Minster, M. Montagnat, R. Mulvaney, B. Narcisi, H. Oerter, F. Parrenin, J.R. Petit, C. Ritz, C. Scarchilli, A. Schilt, S. Schüpbach, J. Schwander, E. Selmo, M. Severi, T.F. Stocker, and R. Udisti
+#	Published_Date_or_Year: 2010
+#	Published_Title: 
+#	Journal_Name: Nature Geoscience
+#	Volume: 4
+#	Edition: 	
+#	Issue: 1
+#	Pages: 46-49
+#	DOI: 10.1038/NGEO1026 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: Ice-core records of climate from Greenland and Antarctica show 
+asynchronous temperature variations on millennial timescales 
+during the last glacial period. The warming during the transition 
+from glacial to interglacial conditions was markedly different 
+between the hemispheres, a pattern attributed to the thermal 
+bipolar see-saw. However, a record from the Ross Sea sector 
+of East Antarctica has been suggested to be synchronous with 
+Northern Hemisphere climate change.  Here we present a temperature 
+record from the Talos Dome ice core, also located in the Ross Sea 
+sector. We compare our record with ice-core analyses from Greenland, 
+based on methane synchronization, and find clearly asynchronous 
+temperature changes during the deglaciation. We also find distinct 
+differences in Antarctic records, pointing to differences in the 
+climate evolution of the Indo-Pacific and Atlantic sectors of 
+Antarctica. In the Atlantic sector, we find that the rate of 
+warming slowed between 16,000 and 14,500 years ago, parallel 
+with the deceleration of the rise in atmospheric carbon dioxide 
+concentrations and with a slight cooling over Greenland. 
+In addition, our chronology supports the hypothesis that the 
+cooling of the Antarctic Cold Reversal is synchronous with the 
+Bølling-Allerød warming in the northern hemisphere 14,700 years ago.
+
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Talos Dome Ice Core Project (TALDICE)
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: Siple Dome 
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: -72.8166
+#	Southernmost_Latitude: -72.1866
+#	Easternmost_Longitude: 159.133
+#	Westernmost_Longitude: 159.133
+#	Elevation: 2315m
+# --------------------
+# Data_Collection
+#	Collection_Name: 10TalD01
+#	Earliest_Year: 25107 cal yr BP
+#	Most_Recent_Year: 8023 cal yr BP
+#	Time Unit: cal yr BP
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N        age scale B.P. (1950 A.D.)
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+8023	-37.97
+8035	-36.25
+8069	-37.2
+8086	-36.42
+8118	-37.81
+8135	-37.34
+8165	-38.01
+8188	-37.91
+8211	-37.26
+8239	-37.38
+8263	-37.78
+8280	-36.62
+8308	-36.71
+8334	-37.17
+8354	-37.02
+8378	-36.85
+8405	-37.84
+8421	-36.7
+8450	-36.91
+8469	-36.32
+8502	-37.88
+8517	-37.22
+8545	-37.57
+8566	-37.23
+8590	-37.28
+8608	-36.17
+8640	-36.82
+8661	-36.8
+8683	-36.56
+8709	-37.03
+8738	-38.28
+8750	-37.04
+8774	-36.04
+8806	-36.71
+8832	-37.63
+8851	-37
+8878	-37.19
+8903	-37.2
+8921	-36.17
+8950	-36.51
+8975	-37.43
+8988	-36.21
+9019	-37.01
+9041	-37.58
+9055	-36.15
+9083	-36.25
+9106	-36.85
+9124	-36.46
+9153	-37.39
+9170	-36.98
+9194	-36.9
+9213	-36.24
+9239	-36.81
+9255	-36.35
+9278	-36.39
+9300	-36.77
+9319	-36.34
+9347	-37.51
+9357	-35.56
+9385	-35.39
+9410	-36.16
+9429	-36.88
+9446	-36.23
+9477	-37.52
+9491	-36.58
+9521	-37.67
+9530	-35.62
+9564	-36.64
+9582	-36.6
+9604	-36.5
+9631	-37.45
+9644	-36.01
+9674	-36.79
+9693	-37.02
+9711	-36.06
+9741	-36.94
+9756	-36.13
+9782	-36.52
+9807	-37.42
+9822	-36.5
+9851	-37.34
+9871	-37.27
+9892	-36.68
+9912	-35.73
+9942	-36.82
+9959	-36.84
+9979	-36.5
+10005	-37.37
+10019	-35.73
+10052	-36.57
+10071	-36.39
+10098	-37.53
+10115	-37.06
+10135	-35.93
+10166	-37.21
+10184	-36.78
+10212	-37.7
+10229	-36.47
+10254	-36.36
+10281	-37.06
+10302	-37.22
+10322	-36.56
+10348	-36.72
+10369	-36.68
+10395	-36.67
+10419	-37.12
+10438	-36.44
+10464	-36.6
+10489	-37.3
+10508	-37.19
+10530	-36.66
+10556	-36.82
+10579	-36.9
+10601	-36.58
+10624	-36.55
+10647	-36.55
+10666	-35.33
+10697	-36.62
+10716	-36.69
+10742	-37.53
+10765	-37.89
+10789	-37.81
+10809	-36.41
+10839	-36.71
+10859	-36.4
+10885	-37.14
+10902	-36.26
+10930	-36.47
+10952	-36.68
+10976	-37.19
+11001	-37.9
+11017	-36.56
+11042	-35.83
+11069	-36.35
+11091	-36.79
+11110	-36.21
+11138	-37.1
+11158	-36.76
+11186	-37.3
+11208	-37.2
+11228	-36.4
+11255	-36.26
+11283	-37.14
+11308	-37.29
+11336	-37.53
+11359	-37.26
+11380	-36.6
+11402	-36.33
+11431	-37.18
+11448	-35.85
+11480	-37.03
+11498	-36.56
+11522	-36.2
+11548	-36.29
+11574	-36.99
+11592	-36.28
+11619	-37.08
+11638	-36.52
+11663	-36.37
+11685	-35.52
+11722	-37.74
+11732	-36.15
+11761	-36.28
+11786	-36.87
+11805	-36.27
+11838	-37.65
+11853	-36.27
+11881	-35.76
+11909	-36.81
+11927	-36.8
+11950	-36.68
+11979	-37.48
+12001	-37.15
+12033	-37.78
+12060	-37.26
+12091	-37.29
+12120	-37.07
+12146	-36.24
+12185	-37.82
+12208	-37.53
+12241	-37.91
+12265	-36.56
+12303	-37.47
+12330	-37.26
+12365	-37.88
+12391	-37.84
+12421	-38.21
+12451	-38.43
+12484	-38.82
+12509	-37.74
+12544	-38.17
+12570	-37.38
+12609	-38.61
+12638	-38.55
+12669	-38.39
+12702	-38.37
+12735	-38.73
+12766	-38.83
+12793	-38.15
+12830	-38.77
+12866	-39.17
+12900	-39.03
+12933	-38.15
+12970	-38.46
+13004	-38.85
+13039	-39.3
+13072	NAN
+13108	-38.34
+13148	-38.61
+13182	-38.62
+13213	-38.07
+13251	-39.02
+13273	-38.14
+13311	-38.21
+13351	-39.37
+13379	-38.17
+13426	-39.09
+13455	-38.58
+13495	-39.01
+13529	-38.77
+13563	-38.05
+13606	-38.95
+13635	-38.22
+13678	-38.72
+13715	-39.35
+13744	-38.47
+13786	-38.44
+13824	-38.79
+13857	-38.16
+13900	-39.06
+13931	-38.38
+13976	-38.76
+14017	-39.06
+14053	-38.46
+14094	-38.33
+14137	-38.53
+14173	-37.93
+14218	-38.46
+14257	-38.57
+14298	-38.75
+14334	-38.23
+14376	-38.3
+14414	-38.1
+14455	-37.89
+14492	-37.52
+14533	-37.71
+14572	-37.67
+14608	-38.02
+14643	-37.94
+14681	-37.47
+14722	-37.67
+14751	-36.46
+14799	-37.76
+14828	-37.51
+14866	-37.53
+14904	-37.77
+14940	-37.58
+14979	-37.89
+15030	-39.03
+15061	-38.82
+15097	-37.97
+15140	-37.91
+15185	-38.82
+15218	-37.91
+15269	-38.75
+15303	-38.26
+15354	-38.92
+15392	-38.21
+15435	-38.05
+15474	-37.98
+15515	-38.13
+15560	-38.63
+15603	-38.67
+15654	-39.34
+15700	-38.72
+15755	-39.01
+15804	-38.59
+15858	NAN
+15909	-38.79
+15959	NAN
+16008	-38.74
+16057	-39
+16107	-38.83
+16157	-38.2
+16212	-38.81
+16259	-39.05
+16312	-39.36
+16359	-38.98
+16414	-39.21
+16471	-39.59
+16525	-39.47
+16582	-39.46
+16641	-39.86
+16696	-39.71
+16754	-39.89
+16805	-39.02
+16866	-39.22
+16926	-39.84
+16980	-39.61
+17050	-40.59
+17107	-40.05
+17181	-40.81
+17239	-39.85
+17316	-40.58
+17382	-40.68
+17453	-40.54
+17522	-40
+17607	-41.51
+17668	-40.28
+17751	-40.35
+17820	-41.16
+17879	-40.84
+17950	-41.09
+18014	-40.95
+18081	-40.97
+18151	-41.28
+18220	-41.57
+18286	-41.32
+18357	-41.32
+18421	-41.18
+18487	-40.9
+18561	-41.73
+18623	-41.63
+18678	-40.16
+18763	-41.63
+18818	-41.52
+18889	-41.58
+18954	-41.42
+19017	-40.91
+19090	-41.59
+19152	-41.17
+19221	-41.19
+19284	-41.07
+19354	-41.38
+19442	-41.37
+19531	-41
+19627	-41.2
+19719	-41.6
+19816	-41.76
+19909	-40.93
+20023	-41.88
+20103	-40.9
+20210	-41.42
+20302	-41.28
+20402	-41.15
+20492	-41.18
+20585	-40.9
+20692	-41.5
+20790	-41.82
+20888	-41.44
+20992	-41.49
+21093	-41.5
+21193	-41.64
+21291	-41.27
+21399	-41.54
+21499	-41.84
+21601	-41.7
+21713	-41.54
+21827	-41.8
+21934	NAN
+22046	-41.03
+22169	-41.95
+22269	-41.13
+22385	-41.19
+22482	-40.83
+22592	-41.24
+22699	-41.11
+22814	-41.3
+22922	-41.34
+23029	-41.19
+23141	-41.28
+23257	-41.55
+23368	-41.25
+23490	NAN
+23612	-41.35
+23737	-41.17
+23861	-41.25
+23977	-40.53
+24114	-41.41
+24233	-41.4
+24354	-40.94
+24489	-41.81
+24610	-41.92
+24732	-41.37
+24855	-41.07
+24982	-41.22
+25107	-41.65

@@ -1,0 +1,319 @@
+# East Rongbuk Glacier - 1,000 Year Geochemical Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:6180
+#
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/trop/everest/rongbuk2007.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2008
+# --------------------
+# Title 
+#	Study_Name: East Rongbuk Glacier - 1,000 Year Geochemical Data
+# --------------------
+# Investigators
+#	Investigators: Kaspari, S.; Mayewski, P.; Kang, S.; Sneed, S.; Hou S.; Hooke, R.; Kreutz, K.; Inrone, D.; Handley, M.; Maasch, K.; Qin, D.; Ren, J.
+# --------------------
+# Description_and_Notes
+#	Description: High resolution (5 year) Ca, Cl and dD data from the 2002 Mt. Everest 
+#	East Rongbuk Glacier col ice core.  
+# 
+#	East Rongbuk Glacier col ice core, Mt. Everest northeast ridge:
+#	28.03°N, 86.96°E; 6518 m elev., 108m long 
+#
+# --------------------
+# Publication
+#	Authors: Kaspari, S., P. Mayewski, S. Kang, S. Sneed, S. Hou, R. Hooke, K. Kreutz, D. Introne, M. Handley, K. Maasch, D. Qin, and J. Ren
+#	Published_Date_or_Year: 2007
+#	Published_Title: Reduction in northward incursions of the South Asian monsoon since ~1400 AD inferred from a Mt. Everest ice core
+#	Journal_Name: Geophysical Research Letters
+#	Volume: 34
+#	Edition: 	
+#	Issue: L16701
+#	Pages: 
+#	DOI: 10.1029/2007GL030440
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: A highly resolved Mt. Everest ice core reveals a decrease in marine 
+and increase in continental air masses related to relatively high 
+summer surface pressure over Mongolia, and reduction in northward 
+incursions of the summer South Asian monsoon since ~1400 AD. 
+Previously published proxy records from lower sites south of the
+Himalayas indicate strengthening of the monsoon since this time. 
+These regional differences are consistent with a south–north seesaw 
+in convective activity in the Asian monsoon region, and reflect a 
+southward shift in the mean summer position of the monsoon trough 
+since~1400 AD. The change in monsoonal circulation at 1400 AD is 
+synchronous with a reduction in solar irradiance and the onset 
+of the LIA. This demonstrates a hemispheric scale circulation 
+reorganization at this time, and the potential for future large 
+shifts in monsoonal circulation.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: United States National Science Foundation
+#	Grant: ATM 0139491
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: US National Oceanic and Atmospheric Administration
+#	Grant: NOAA NA05OAR4311109
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: National Natural Science Foundation of China
+#	Grant: 90411003
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: National Natural Science Foundation of China
+#	Grant: 40401054
+# ---------------------
+#Funding_Agency
+#	Funding_Agency_Name: Chinese Academy of Sciences
+#	Grant: KZCX3-SW-339/344
+#	
+# --------------------
+# Site_Information
+#	Site_Name: East Rongbuk Glacier
+#	Location: Asia>China
+#	Country: China
+#	Northernmost_Latitude: 27.98
+#	Southernmost_Latitude: 27.98
+#	Easternmost_Longitude: 86.92
+#	Westernmost_Longitude: 86.92
+#	Elevation: 6500m
+# --------------------
+# Data_Collection
+#	Collection_Name: 07Rong01
+#	Earliest_Year: 997.5
+#	Most_Recent_Year: 1997.5
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		dO18,,,per mil SMOW,,ice cores,,,N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1997.5	-120.4
+1992.5	-120.67
+1987.5	-143.54
+1982.5	-135.16
+1977.5	-118.04
+1972.5	-124.04
+1967.5	-125.69
+1962.5	-112.68
+1957.5	-128.87
+1952.5	-125.5
+1947.5	-117.4
+1942.5	-120.19
+1937.5	-104.35
+1932.5	-112.83
+1927.5	-116.26
+1922.5	-124.62
+1917.5	-131.87
+1912.5	-130.87
+1907.5	-131.84
+1902.5	-114.78
+1897.5	-136.36
+1892.5	-137.58
+1887.5	-114.7
+1882.5	-117
+1877.5	-124.39
+1872.5	-122.59
+1867.5	-124.19
+1862.5	-134.18
+1857.5	-145.86
+1852.5	-131.43
+1847.5	-143.63
+1842.5	-127.13
+1837.5	-126.41
+1832.5	-126.37
+1827.5	-138.22
+1822.5	-139.48
+1817.5	-137.65
+1812.5	-144.91
+1807.5	-154.4
+1802.5	-146.49
+1797.5	-165.72
+1792.5	-140.46
+1787.5	-146.01
+1782.5	-148.43
+1777.5	-154.12
+1772.5	-134.41
+1767.5	-129.69
+1762.5	-129.84
+1757.5	-147.18
+1752.5	-145.36
+1747.5	-134.27
+1742.5	-146.85
+1737.5	-141.05
+1732.5	-137.53
+1727.5	-133.67
+1722.5	-141.29
+1717.5	-133.8
+1712.5	-147.72
+1707.5	-137.34
+1702.5	-131.03
+1697.5	-140.12
+1692.5	-143.3
+1687.5	-146.99
+1682.5	-150.88
+1677.5	-145.32
+1672.5	-146.88
+1667.5	-137.81
+1662.5	-137.76
+1657.5	-143.62
+1652.5	-133.04
+1647.5	-126.33
+1642.5	-137.51
+1637.5	-131.65
+1632.5	-139.1
+1627.5	-129.64
+1622.5	-138.1
+1617.5	-132.48
+1612.5	-130.37
+1607.5	-131.44
+1602.5	-126.05
+1597.5	-147.79
+1592.5	-126.95
+1587.5	-133.76
+1582.5	-133.51
+1577.5	-127.86
+1572.5	-129.02
+1567.5	-125.01
+1562.5	-116.61
+1557.5	-124.29
+1552.5	-128.59
+1547.5	-134.87
+1542.5	-124.56
+1537.5	-123.32
+1532.5	-131.66
+1527.5	-141.31
+1522.5	-129.7
+1517.5	-132.27
+1512.5	-137.5
+1507.5	-133.17
+1502.5	-129.7
+1497.5	-129.03
+1492.5	-128.6
+1487.5	-130.82
+1482.5	-119.96
+1477.5	-126.52
+1472.5	-144.7
+1467.5	-132.28
+1462.5	-134.83
+1457.5	-138.49
+1452.5	-130.69
+1447.5	-113.1
+1442.5	-130.64
+1437.5	-133.19
+1432.5	-137.68
+1427.5	-135.75
+1422.5	-125.6
+1417.5	-142.17
+1412.5	-131.51
+1407.5	-137.58
+1402.5	-138.66
+1397.5	-132.55
+1392.5	-133.55
+1387.5	-138.92
+1382.5	-129.5
+1377.5	-134.07
+1372.5	-132.55
+1367.5	-137.89
+1362.5	-132.52
+1357.5	-136.86
+1352.5	-130.86
+1347.5	-125.11
+1342.5	-129.2
+1337.5	-141.09
+1332.5	-138.39
+1327.5	-127.74
+1322.5	-133.71
+1317.5	-138.06
+1312.5	-136.19
+1307.5	-137.41
+1302.5	-136.26
+1297.5	-139.11
+1292.5	-139.78
+1287.5	-137.57
+1282.5	-134.31
+1277.5	-139.81
+1272.5	-138.16
+1267.5	-135.29
+1262.5	-133.86
+1257.5	-140.2
+1252.5	-136.3
+1247.5	-140.17
+1242.5	-141.43
+1237.5	-140.94
+1232.5	-137.17
+1227.5	-137.34
+1222.5	-143.85
+1217.5	-144.54
+1212.5	-143.06
+1207.5	-146.47
+1202.5	-139.66
+1197.5	-143.39
+1192.5	-141.36
+1187.5	-149.31
+1182.5	-141.91
+1177.5	-139.03
+1172.5	-139.54
+1167.5	-139.35
+1162.5	-139.85
+1157.5	-140.84
+1152.5	-140.12
+1147.5	-139.02
+1142.5	-136.71
+1137.5	-136.47
+1132.5	-141.04
+1127.5	-141.04
+1122.5	-136.23
+1117.5	-135.33
+1112.5	-136.29
+1107.5	-133.19
+1102.5	-135.46
+1097.5	-138.46
+1092.5	-138.28
+1087.5	-138.46
+1082.5	-139.69
+1077.5	-140.77
+1072.5	-141.4
+1067.5	-138.57
+1062.5	-140.41
+1057.5	-143.12
+1052.5	-140.3
+1047.5	-138.61
+1042.5	-139.82
+1037.5	-140.8
+1032.5	-139.74
+1027.5	-138.95
+1022.5	-137.25
+1017.5	-136.09
+1012.5	-137.1
+1007.5	-139.85
+1002.5	-139.72
+997.5	-136.26

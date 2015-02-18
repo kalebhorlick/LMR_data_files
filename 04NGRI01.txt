@@ -1,0 +1,168 @@
+# North Greenland Ice Core Project Oxygen Isotope Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_study_id:2481
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/ngrip/isotopes/ngrip-d18o-50yr.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2004
+# --------------------
+# Title 
+#	Study_Name: North Greenland Ice Core Project Oxygen Isotope Data
+# --------------------
+# Investigators
+#	Investigators:  North Greenland Ice Core Project members
+# --------------------
+# Description_and_Notes
+# 	Description: High resolution Climate Record of the Northern Hemisphere back into the last Interglacial Period.  North Greenland Ice-Core Project (NorthGRIP) Members.
+#
+#	The North Greenland Ice Core Project (NGRIP) site is located at 75.10 °N and 42.32 °W, elevation of 2,917 m, ice thickness of 3,085 m.  The NGRIP drilling started in 1996, and bedrock was reached in July 2003.
+#
+#	In this text file we list the NGRIP oxygen 18 values as 50 year mean values
+#	using the same preliminary age scale as in Figure 2c of the accompanying paper.
+#	Data was measured against VSMOW at the Niels Bohr Institute for Astronomy,
+#	Physics and Geophysics, Department of Geophysics, University of Copenhagen.
+#	Accuracy of individual measurements is 0.07 permille.
+#	The initial isotope data series is based on 5 cm continuous sampling from
+#	surface to bottom of the core, or 61100 individual measurements.
+#
+#	Improved dating of the NGRIP core and additional data will be posted on our web site http://www.glaciology.gfy.ku.dk/ngrip/index_eng.htm when it becomes available.
+#	
+# --------------------
+# Publication
+#	Authors: North Greenland Ice Core Project Members
+#	Published_Date_or_Year: 2004-09-09
+#	Published_Title: High-resolution record of Northern Hempisphere climate extending into the last interglacial period
+#	Journal_Name: Nature
+#	Volume: 431			
+#	Edition: 	
+#	Issue: 7005
+#	Pages: 147-151
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: Two deep ice cores from central Greenland, drilled in the 1990s, have 
+played a key role in climate reconstructions of the Northern Hemisphere, 
+but the oldest sections of the cores were disturbed in chronology owing to 
+ice folding near the bedrock. Here we present an undisturbed climate record 
+from a North Greenland ice core, which extends back to 123,000 years before 
+the present, within the last interglacial period. The oxygen isotopes in 
+the ice imply that climate was stable during the last interglacial period, 
+with temperatures 5C warmer than today. We find unexpectedly large temperature 
+differences between our new record from northern Greenland and the undisturbed 
+sections of the cores from central Greenland, suggesting that the extent of 
+ice in the Northern Hemisphere modulated the latitudinal temperature gradients 
+in Greenland. This record shows a slow decline in temperatures that marked the 
+initiation of the last glacial period. Our record reveals a hitherto unrecognized 
+warm period initiated by an abrupt climate warming about 115,000 years ago, 
+before glacial conditions were fully developed. This event does not appear 
+to have an immediate Antarctic counterpart, suggesting that the climate 
+see-saw between the hemispheres (which dominated the last glacial period) 
+was not operating at this time.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: 
+#	Location: North America>Greenland
+#	Country: 
+#	Northernmost_Latitude: 70.166 
+#	Southernmost_Latitude: 70.166
+#	Easternmost_Longitude: 42.533
+#	Westernmost_Longitude: 42.533
+#	Elevation: 3085m
+# --------------------
+# Data_Collection
+#	Collection_Name: 04NGRI01
+#	Earliest_Year: 1222950
+#	Most_Recent_Year: 0
+#	Time Unit: years before 2000 AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N ****age before 1950
+##d18o		d18o,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	d18O
+121,550     -32.64
+121,600     -32.64
+121,600     -32.39
+121,650     -32.39
+121,650     -32.43
+121,700     -32.43
+121,700     -32.33
+121,750     -32.33
+121,750     -32.46
+121,800     -32.46
+121,800     -32.45
+121,850     -32.45
+121,850     -32.35
+121,900     -32.35
+121,900     -32.39
+121,950     -32.39
+121,950     -32.37
+122,000     -32.37
+122,000     -32.34
+122,050     -32.34
+122,050     -32.26
+122,100     -32.26
+122,100     -32.27
+122,150     -32.27
+122,150     -32.15
+122,200     -32.15
+122,200     -32.32
+122,250     -32.32
+122,250     -32.34
+122,300     -32.34
+122,300     -32.33
+122,350     -32.33
+122,350     -32.30
+122,400     -32.30
+122,400     -32.33
+122,450     -32.33
+122,450     -32.36
+122,500     -32.36
+122,500     -32.49
+122,550     -32.49
+122,550     -32.59
+122,600     -32.59
+122,600     -32.58
+122,650     -32.58
+122,650     -32.64
+122,700     -32.64
+122,700     -32.64
+122,750     -32.64
+122,750     -32.49
+122,800     -32.49
+122,800     -32.47
+122,850     -32.47
+122,850     -32.68
+122,900     -32.68
+122,900     -32.62
+122,950     -32.62

@@ -1,0 +1,83 @@
+# Devon Ice Cap - Oxygen Isotope, Particle, Conductivity and Chemistry Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2437
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/polar/devon/d73del_1yr.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 1976
+# --------------------
+# Title 
+#	Study_Name: Devon Ice Cap - Oxygen Isotope, Particle, Conductivity and Chemistry Dataa
+# --------------------
+# Investigators
+#	Investigators:  Fisher, D.A. 
+# --------------------
+# Description_and_Notes
+# 	Description: 
+#
+# --------------------
+# Publication
+#	Authors: D.A. Fisher
+#	Published_Date_or_Year: 1988
+#	Published_Title:  A study of two O-18 records from Devon Ice cap, Canada, and comparison of them to Camp Century O-18 record, Greenland
+#	Journal_Name: PhD Thesis, University of Copenhagen
+#	Volume: 
+#	Edition: 	
+#	Issue: 
+#	Pages: 
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: 
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+#	Grant: 
+# --------------------
+# Site_Information
+#	Site_Name: Devon Ice Cap
+#	Location: North America>Canada
+#	Country: 
+#	Northernmost_Latitude: 75.3
+#	Southernmost_Latitude: 75.3
+#	Easternmost_Longitude: -82.166
+#	Westernmost_Longitude: -82.166
+#	Elevation: 1920m
+# --------------------
+# Data_Collection
+#	Collection_Name: 73Devo01
+#	Earliest_Year: -131027
+#	Most_Recent_Year: 1973
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,years AD,,,,,N
+##d18O		del18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O

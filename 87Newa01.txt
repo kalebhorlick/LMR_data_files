@@ -1,0 +1,86 @@
+# GISP2/GRIP Stable Isotopes Stacked Record
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# 
+# Online_resource:https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2427
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/stacked.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2011
+# --------------------
+# Title 
+#	Study_Name: GISP2/GRIP Stable Isotopes Stacked Record 
+# --------------------
+# Investigators
+#	Investigators: White, J.W.C.; Barlow, L.K.; Fisher, D.; Grootes, P.M.; Jouzel, J.; Johnsen, S.J.; Stuiver, M.; Clausen, H.B. 
+# --------------------
+# Description_and_Notes
+# 	Description: This file contains stable isotope (delta 18O) data from six ice cores five from the area surrounding the GRIP deep ice core, and one from GISP2
+#	(the "B" core).  Dating control was achieved as described in White et al., (1997).  For the GISP2 core, the timescale given here is NOT identical tothe official GISP2 timescale in the file gisp2age.dat.
+#
+#	GRIP892
+# --------------------
+# Publication
+#	Authors: J.W.C. White, L.K. Barlow, D. Fisher, P.M. Grooes, J. Jouzel, S.J. Johnsen, M. Stuiver, H.B. Clausen
+#	Published_Date_or_Year: 1997
+#	Published_Title: The climate signal in the stable isotopes of snow from Summit, Greenland
+#	Journal_Name: Journal of Geophysical Research
+#	Volume: 102		
+#	Edition: 	
+#	Issue: 
+#	Pages: 26425-26439
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: The winter d18O signal is extracted from 7 Greenland ice cores covering the past -700 years. To filter out noise and local variations in the 7 isotope records a principal component analysis is carried out on the ice core data. A comparison between the time series of the first principal component (PC1) with 67 years of winter (December to March) temperature measurements from 3 southern Greenland synoptic stations shows highly significant correlations. Southern Greenland winter temperatures are known to be greatly influenced by the North Atlantic Oscillation (NAO). A good proxy for southern Greenland temperatures is therefore expected to reveal at least parts of the NAO signal. It is shown that the PC1 time series indeed is significantly correlated to the NAO during the winter months. The inclusion of ice core winter season d18O time series in future multiproxy NAO reconstructions is therefore recommended.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: GRIP
+#	Location: North America>Greenland
+#	Country: 
+#	Northernmost_Latitude: 
+#	Southernmost_Latitude: 
+#	Easternmost_Longitude: 
+#	Westernmost_Longitude: 
+#	Elevation: 
+# --------------------
+# Data_Collection
+#	Collection_Name: 89GRIP02
+#	Earliest_Year: 1772
+#	Most_Recent_Year: 1986
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O

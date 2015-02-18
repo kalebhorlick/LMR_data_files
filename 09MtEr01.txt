@@ -1,0 +1,332 @@
+# Mt. Erebus Saddle, Antarctica 04/05 Snowpit d18O and Chemical Data 
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:13176
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/erebus/erebus2009.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2012
+# --------------------
+# Title 
+#	Study_Name: Mt. Erebus Saddle, Antarctica 04/05 Snowpit d18O and Chemical Data
+# --------------------
+# Investigators
+#	Investigators: Rhodes, R.H.; Bertler, N.A.N.; Baker, J.A.; Sneed, S.B.; Oerter, H.; Arrigo, K.R. 
+# --------------------
+# Description_and_Notes
+# 	Description: Stable water isotope data from five high-resolution Antarctic ice 
+#	cores spanning the last deglaciation, methane synchronized to the 
+#	Greenland Ice Core 2005 Chronology (GICC05), plus a composite 
+#	(or weighted average) of the five cores. 
+#
+#	The five cores used in the Antarctic deglacial water isotope 
+#	composite are: Law Dome, Byrd, EPICA Dronning Maud Land (EDML), 
+#	Siple Dome, and Talos Dome. The data for each core is interpolated 
+#	to 20 year time steps and standardised with respect to its own mean 
+#	and standard deviation over the interval 9000 to 21000 years before 
+#	1950 AD (9-21 ka BP 1950).  Estimated dating uncertainty in the 
+#	composite (relative to GICC05) is ± 220 y during the interval 
+#	10-13 ka BP, ± 200 y during the interval 13- 15 ka BP, 
+#	and ± 380 y during the interval i.e. 15-18 ka BP. 
+#	Refer to Pedro et al., (2011) (Table 2) and original references 
+#	for dating uncertainties in the individual cores. 
+#
+#	Ice core locations: 
+#	Law Dome: 66°46’S 112°48’E, 1370 masl 
+#	Byrd: 80°01’S 119°31’W, 1530 masl 
+#	Siple Dome:  81° 40'S 148° 49'W, 621 masl 
+#	Talos Dome: 72°49’S 159°11’E, 2315 masl 
+#	EDML: 75°00'S 00°04'E, 2892 masl 
+#
+#	Talos Dome
+#	Location: 72°49’S 159°11’E
+#	Elevation: 2315 m asl
+#	Reference for transfer to GICC05 timescale: Buiron, D., Chappellaz, J.,Stenni, B., Frezzotti, M., Baumgartner, M.,Capron, E., Landais, A., Lemieux-Dudon, B., Masson-Delmotte, V., Montagnat, M., Parrenin, F., and Schilt, A.: TALDICE-1 age scale of the Talos Dome deep ice core, East Ant arctica, Clim. Past, 7, 1--16, doi:10.5194/cp-7-1-2011,2011.
+# --------------------
+# Publication
+#	Authors: R.H. Rhodes, N.A.N. Bertler, J.A. Baker, S.B. Sneed, H. Oerter, and K.R. Arrigo
+#	Published_Date_or_Year: 2009
+#	Published_Title: Sea ice variability and primary productivity in the Ross Sea, Antarctica, from methylsulphonate snow recor
+#	Journal_Name: Geophysical Research Letters
+#	Volume: 36		
+#	Edition: 	
+#	Issue: L10704
+#	Pages:
+#	DOI:10.1029/2009GL037311 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: The Ross Sea contains the most biologically productive 
+continental shelf in Antarctica and is a region where 
+the annual formation of sea ice drives substantial amounts 
+of bottom water formation.  We present snow pit chemistry 
+data from Mt Erebus Saddle that provide a quantitative 
+proxy to reconstruct summer sea ice conditions and rates 
+of marine primary production. The methylsulphonate (MS) record 
+is strongly correlated with changes in the area of open water 
+(R2 = 0.903, p < 0.05) caused by differences in atmospheric 
+circulation and the sea-ice-damming effect of large icebergs, 
+B-15 and C-19, which calved from the Ross Ice Shelf in 2000 
+and 2002 respectively. Furthermore, MS and phytoplankton 
+net primary production correlate significantly (R2 = 0.927, 
+p < 0.01). Our results demonstrate the potential of the Mt 
+Erebus Saddle ice core to reconstruct sea ice and primary 
+productivity variability in the Ross Sea beyond the 
+observational record. 
+# -------------------- 
+# Funding_Agency
+#	Funding_Agency_Name: Ministry for Science and Innovation and the Marsden Fund, New Zealand
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: EDML
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: -77.515
+#	Southernmost_Latitude: -77.515
+#	Easternmost_Longitude: 167.6765
+#	Westernmost_Longitude: 167.6765
+#	Elevation: 1600m
+# --------------------
+# Data_Collection
+#	Collection_Name: 09MtEr01
+#	Earliest_Year: 1999.58
+#	Most_Recent_Year: 2004.94
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N 
+##d18O		d18O,,,parts per billion,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+1999.58	-32.78
+1999.61	-32.84
+1999.63	-32.81
+1999.64	-32.75
+1999.66	-32.74
+1999.67	-32.46
+1999.69	-32.55
+1999.7	-32.29
+1999.72	-32.11
+1999.74	-31.95
+1999.75	-31.91
+1999.77	-31.44
+1999.78	-31.5
+1999.8	-31.28
+1999.81	-31.17
+1999.83	-30.78
+1999.84	-30.63
+1999.86	-30.62
+1999.88	-30.29
+1999.89	-29.99
+1999.91	-29.89
+1999.92	-29.74
+1999.94	-29.5
+1999.95	-29.22
+1999.97	-28.99
+1999.98	-29.01
+2000	-28.67
+2000.08	-28.59
+2000.17	-28.97
+2000.17	-29.02
+2000.25	-29.33
+2000.33	-29.79
+2000.41	-30.06
+2000.5	-30.63
+2000.58	-30.28
+2000.6	-30.63
+2000.61	-30.47
+2000.63	-29.74
+2000.64	-28.72
+2000.66	-28.51
+2000.68	-28.36
+2000.69	-28.08
+2000.71	-28.25
+2000.73	-28.03
+2000.74	-28.18
+2000.76	-28.03
+2000.77	-27.76
+2000.79	-27.88
+2000.81	-27.85
+2000.82	-27.69
+2000.84	-27.29
+2000.85	-27.42
+2000.87	-27.03
+2000.89	-26.92
+2000.9	-26.62
+2000.92	-26.45
+2000.94	-26.4
+2000.95	-26.17
+2000.97	-26.05
+2000.98	-25.72
+2001	-25.93
+2001.03	-25.79
+2001.06	-25.76
+2001.09	-26.01
+2001.12	-26.06
+2001.15	-25.92
+2001.18	-26.57
+2001.21	-27.03
+2001.24	-26.62
+2001.27	-26.71
+2001.31	-26.59
+2001.34	-26.77
+2001.37	-27.45
+2001.4	-26.72
+2001.43	-27.26
+2001.46	-28
+2001.49	-28.47
+2001.52	-28.99
+2001.55	-28.85
+2001.58	-29.44
+2001.64	-29.25
+2001.7	-29.08
+2001.76	-28.67
+2001.82	-28.49
+2001.88	-28.16
+2001.94	-27.92
+2002	-28.2
+2002.03	-28.07
+2002.05	-28.49
+2002.08	-28.64
+2002.11	-28.96
+2002.13	-29.32
+2002.16	-29.49
+2002.18	-29.79
+2002.21	-29.59
+2002.24	-30.09
+2002.26	-30.43
+2002.29	-30.43
+2002.32	-30.83
+2002.34	-31.05
+2002.37	-31.26
+2002.4	-31.6
+2002.42	-32.12
+2002.45	-32.84
+2002.47	-33.66
+2002.5	-34.42
+2002.53	-34.85
+2002.55	-35.32
+2002.58	-35.28
+2002.61	-35.08
+2002.63	-34.54
+2002.66	-34.05
+2002.69	-33.27
+2002.71	-32.48
+2002.74	-31.49
+2002.76	-30.87
+2002.79	-30.26
+2002.82	-29.77
+2002.84	-29.32
+2002.87	-28.94
+2002.9	-28.71
+2002.92	-28.79
+2002.95	-28.29
+2002.97	-28.09
+2003	-28.16
+2003.03	-28.04
+2003.05	-28.2
+2003.08	-28.16
+2003.1	-28.34
+2003.13	-28.39
+2003.15	-28.56
+2003.18	-28.31
+2003.2	-28.65
+2003.23	-28.77
+2003.25	-28.86
+2003.28	-28.94
+2003.3	-28.84
+2003.33	-28.95
+2003.35	-29.03
+2003.38	-29.03
+2003.4	-29.11
+2003.43	-29.15
+2003.45	-29.01
+2003.48	-29.07
+2003.5	-29.23
+2003.53	-29.19
+2003.55	-29.09
+2003.58	-29.24
+2003.6	-29.05
+2003.63	-28.93
+2003.65	-28.98
+2003.67	-28.62
+2003.7	-28.63
+2003.72	-28.33
+2003.74	-28.34
+2003.77	-28.21
+2003.79	-28.29
+2003.81	-28.06
+2003.84	-28.11
+2003.86	-27.98
+2003.88	-27.67
+2003.91	-27.37
+2003.93	-27.31
+2003.95	-27.21
+2003.98	-27.13
+2004	-27.04
+2004.06	-27.14
+2004.13	-27.56
+2004.19	-27.75
+2004.26	-28.34
+2004.32	-29.08
+2004.39	-29.41
+2004.45	-29.92
+2004.52	-30.44
+2004.58	-30.53
+2004.59	-30.5
+2004.6	-30.17
+2004.61	-30.13
+2004.63	-29.47
+2004.64	-29.01
+2004.65	-28.63
+2004.66	-28.17
+2004.67	-27.74
+2004.68	-27.46
+2004.69	-27.11
+2004.7	-26.94
+2004.72	-26.58
+2004.73	-26.43
+2004.74	-26.58
+2004.75	-26.38
+2004.76	-24.99
+2004.77	-24.25
+2004.78	-23.49
+2004.79	-22.82
+2004.81	-22.41
+2004.82	-21.87
+2004.83	-21.46
+2004.84	-21.5
+2004.85	-21.67
+2004.86	-21.94
+2004.87	-22.62
+2004.88	-23.27
+2004.9	-31.32
+2004.91	-31.17
+2004.92	-32.01
+2004.93	-31.57
+2004.94	-31.61

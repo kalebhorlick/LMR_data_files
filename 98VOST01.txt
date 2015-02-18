@@ -1,0 +1,583 @@
+# Antarctic & Greenland-GRIP Synchronization Data
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2438
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/grip/synchronization/iso_bl98.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 1998
+# --------------------
+# Title 
+#	Study_Name: Antarctic & Greenland-GRIP Synchronization Data
+# --------------------
+# Investigators
+#	Investigators: Uemura, R.; Mason-Delmotte, V.; Jouzel, J.; Landais, A.; Motoyama, H.; Stenni, B. 
+# --------------------
+# Description_and_Notes
+# 	Description: Data from the synchronization of Antarctic records to the Greenland GRIP record:
+#	********************************************************************************
+#	The data was used for Figures 2 of Stauffer et al., 1998 and Blunier et al., 1998. 
+#	These references should only be used referring to the synchronised Antarctic time scale 
+#	but not to the original data.  References to the original data are also given above.
+#
+#	GRIP (Greenland IceCore Project)
+#	================================
+#	The GRIP time scale is the reference time scale. It's construction is described in 
+#	Johnsen et al., 1992 and Johnsen et al., 1995 which should also be referenced in that respect. 
+#	0 yr BP corresponds to 1989.
+#
+#	Antarctic synchronised time scales:
+#	===================================
+#	The Antarctic records are synchronised to the GRIP record via the fast variations of the 
+#	global methane signal. The uncertainty of this synchronization is time dependent 
+#	(see Blunier et al., 1998 and Stauffer et al., 1998 for details).
+#	The Byrd time scale for the isotope and for the CO2 record differ. This is so since gas is 
+#	occluded not at the surface of the ice sheet but in a depth of 50-100 m depending on the site 
+#	characteristics. This makes a gas sample from a specific depth younger than the surrounding ice.
+#	The time period 25-17 kyr BP was excluded from the synchronization, since only low CH4 variations 
+#	appear during that period making the correlation uncertain.
+#	Note: The CO2 time scale given here is not identical to the one published in Stauffer et al., 1998. 
+#	The difference is in the order of 200yr and arises due to 
+#	1) the exclusion of the time period 25-17 kyr BP which was used in Stauffer et al. 1998, and 
+#	2) a stronger smoothing of the age scale derived from the CH4 synchronization.
+#
+#	Warnings:
+#	=========
+#	None of the used time scale is considered as absolute. Thus fluctuations in the annual layer 
+#	thickness show up in the synchronised Antarctic cores. This variations must not be taken as real. 
+#	However the synchronization is not dependent on absolute time scale. The reliability of the 
+#	synchronization is higher on the Byrd side since Vostok has an ice age gas age difference 
+#	10 fold larger than the Byrd one.
+#
+# --------------------
+# Publication
+#	Authors: T. Blunier, J. Chappellaz, J. Schwander, A. Dällenbach, B. Stauffer, T. F. Stocker, D. Raynaud, J. Jouzel, H. B. Clausen, C. U. Hammer & S. J. Johnsen
+#	Published_Date_or_Year: 1998-02-13
+#	Published_Title: Asynchrony of Antarctic and Greenland climate change during the last glacial period
+#	Journal_Name: Nature
+#	Volume: 394
+#	Edition: 	
+#	Issue: 
+#	Pages: 739-743
+#	DOI: doi:10.1038/29447 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: A central issue in climate dynamics is to understand how the Northern and Southern hemispheres are coupled during climate events. The strongest of the fast temperature changes observed in Greenland (so-called Dansgaard–Oeschger events) during the last glaciation have an analogue in the temperature record from Antarctica. A comparison of the global atmospheric concentration of methane as recorded in ice cores from Antarctica and Greenland permits a determination of the phase relationship (in leads or lags) of these temperature variations. Greenland warming events around 36 and 45 kyr before present lag their Antarctic counterpart by more than 1 kyr. On average, Antarctic climate change leads that of Greenland by 1–2.5 kyr over the period 47–23 kyr before present.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: Vostok
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: 78.49
+#	Southernmost_Latitude: 78.49
+#	Easternmost_Longitude: 106.833
+#	Westernmost_Longitude: 106.833
+#	Elevation: 3488m
+# --------------------
+# Data_Collection
+#	Collection_Name: 98Vost01
+#	Earliest_Year: 49964
+#	Most_Recent_Year: 10043
+#	Time Unit: yb 1989
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_yb1989	Age,,,years before 1989,,,,,N
+##delD		delD,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+age_yb1989	delD
+10043	-433
+10092	-435.5
+10142	-438
+10193	-437.2
+10244	-433.9
+10293	-433.8
+10342	-430.2
+10390	-429.6
+10437	-435.4
+10487	-437.4
+10538	-437.6
+10589	-436.9
+10640	-434.5
+10691	-434.5
+10745	-436.1
+10800	-433.8
+10855	-434.9
+10910	-435.5
+10964	-430
+11016	-428.7
+11067	-432.8
+11121	-439.5
+11178	-437.4
+11235	-434.1
+11290	-436
+11345	-436
+11400	-436
+11456	-436.6
+11512	-436.9
+11567	-435.2
+11622	-432.5
+11676	-433.5
+11730	-434.5
+11784	-431.6
+11837	-431.3
+11890	-431.9
+11942	-430.3
+11994	-429.8
+12045	-425.8
+12095	-425.3
+12145	-431.2
+12197	-433
+12251	-431.7
+12304	-434.5
+12359	-437.4
+12416	-437.8
+12474	-439.5
+12533	-439.6
+12592	-439.7
+12651	-441
+12711	-443.2
+12772	-444.2
+12835	-447.1
+12900	-445.3
+12964	-443.1
+13027	-447
+13091	-448.5
+13157	-446.5
+13223	-447.3
+13289	-453.2
+13359	-455
+13431	-453.6
+13502	-451.5
+13572	-452.4
+13642	-455.3
+13715	-455.3
+13924	-449.2
+13993	-450.2
+14062	-450.8
+14131	-451.8
+14200	-452.9
+14271	-452.3
+14341	-452.1
+14410	-450.5
+14478	-448.8
+14545	-448.8
+14612	-451.8
+14683	-455.5
+14754	-453.9
+14825	-451.2
+14894	-449.4
+14961	-447.2
+15026	-442.9
+15088	-442
+15149	-443.2
+15211	-442.1
+15739	-454.5
+15806	-451.7
+15873	-452.8
+15943	-456
+16014	-453.8
+16084	-453.5
+16153	-454.8
+16225	-457.1
+16298	-458.1
+16370	-456.7
+16443	-458
+16517	-462
+16594	-462.5
+16671	-460.1
+16746	-459
+16820	-458.6
+16895	-461.1
+16971	-464.5
+17049	-463.8
+17127	-462.9
+17205	-463.7
+17282	-462
+17360	-462.4
+17438	-467.5
+17518	-466.3
+17598	-464.9
+17678	-466.9
+17759	-468.5
+17841	-470.9
+17926	-471.8
+18012	-471.8
+18098	-471
+18183	-471.2
+18355	-473.6
+18442	-475.6
+18532	-480.7
+18626	-481.8
+18722	-479
+18816	-476.4
+18906	-476
+18996	-475.5
+19086	-479.4
+19178	-480.5
+19272	-477
+19363	-477.6
+19454	-478
+19545	-477.9
+19635	-477.3
+19725	-477.5
+19911	-482.8
+20004	-480
+20097	-478.4
+20188	-477.5
+20278	-478.9
+20369	-482.1
+20463	-481.7
+20558	-483.5
+20654	-481.9
+20747	-476.6
+20836	-476.9
+20924	-479.8
+21015	-480.7
+21194	-478
+21283	-476.4
+21372	-477.4
+21460	-480.1
+21550	-481.9
+21643	-483.5
+21736	-482.4
+21830	-482.9
+21922	-479.2
+22011	-477
+22099	-478.3
+22185	-476.4
+22271	-478.2
+22358	-480
+22447	-479.8
+22535	-479.5
+22623	-479.6
+22798	-478.6
+22885	-479
+22973	-480.1
+23061	-480
+23149	-479
+23235	-478.9
+23322	-478.9
+23494	-480
+23580	-477.8
+23665	-475.6
+23749	-477.4
+23833	-480.9
+23919	-481.5
+24006	-480.2
+24093	-480.4
+24180	-482
+24269	-484.5
+24360	-484.5
+24450	-482.3
+24538	-481.4
+24888	-483.2
+24975	-479.5
+25059	-479.2
+25144	-482.7
+25231	-484.5
+25319	-485.1
+25408	-485.8
+25497	-483
+25583	-478.3
+25753	-483.6
+25838	-483.6
+25924	-483.6
+26093	-481.4
+26177	-480
+26259	-479.1
+26342	-484
+26428	-488.3
+26594	-477.1
+26675	-477
+26754	-477
+26831	-475.5
+26906	-474
+27059	-480.9
+27296	-478.2
+27375	-479.5
+27454	-481.8
+27533	-481
+27613	-478.4
+27689	-474.5
+27763	-474.1
+27836	-475.8
+27910	-476
+27984	-477.1
+28059	-477.2
+28133	-475.3
+28206	-475.8
+28279	-477.7
+28354	-479.3
+28429	-480.7
+28505	-481
+28581	-481
+28656	-478.9
+28729	-477.8
+28802	-479.9
+28875	-484.4
+28951	-486.7
+29029	-486.7
+29180	-484.3
+29254	-481.4
+29326	-479.6
+29396	-482.3
+29467	-484.6
+29538	-483.8
+29608	-482.3
+29677	-481.2
+29745	-480.1
+29874	-477.6
+29938	-481.7
+30004	-485.7
+30412	-473
+30480	-473
+30870	-481.1
+30949	-482.9
+31034	-483
+31127	-482.8
+31223	-484.3
+31320	-483.4
+31417	-482.6
+31514	-480.5
+31608	-475.6
+31698	-474.9
+31787	-478.5
+31877	-479.8
+31967	-479.3
+32304	-476.6
+32387	-478.6
+32471	-480.5
+32554	-480.8
+32637	-481.1
+32719	-479.9
+32801	-478.7
+32880	-479.4
+32961	-481
+33042	-482
+33124	-480.4
+33205	-477.2
+33283	-475.6
+33359	-473.4
+33433	-473.2
+33506	-473.5
+33580	-475.3
+33655	-476.4
+33731	-472.4
+33806	-475.2
+33882	-477.7
+33959	-474.7
+34035	-472.5
+34110	-473
+34186	-477.6
+34266	-477.6
+34348	-476.5
+34429	-478.3
+34512	-478.4
+34597	-478.4
+34766	-475.2
+34850	-477.4
+34935	-478
+35020	-476.6
+35105	-475.5
+35189	-475.8
+35272	-476.9
+35356	-475.8
+35437	-471.9
+35517	-474
+35596	-473.3
+35673	-470.2
+35749	-472.3
+35824	-469.2
+35897	-468.8
+35969	-469.6
+36041	-467.9
+36111	-466.9
+36179	-463.5
+36245	-461.6
+36309	-463
+36444	-468.6
+36512	-468.1
+36580	-467.6
+36649	-465
+36717	-464.1
+36784	-464.9
+36852	-466
+36921	-466.6
+36991	-465.1
+37061	-466.4
+37132	-467
+37205	-467.3
+37279	-470
+37356	-471.1
+37435	-472.9
+37517	-474.9
+37602	-476
+37690	-478.9
+37781	-476.5
+37871	-472.7
+37960	-474.5
+38049	-472.6
+38137	-468.8
+38224	-470.6
+38312	-472.4
+38499	-474.1
+38594	-474.1
+38688	-474.5
+38784	-475.9
+38883	-473.5
+38980	-468.5
+39074	-471
+39171	-474
+39270	-472.3
+39369	-471.4
+39467	-470.5
+39566	-471.3
+39666	-472.7
+39767	-473.5
+39871	-474.5
+39976	-475.3
+40083	-475.8
+40191	-475.8
+40299	-474.4
+40407	-473.1
+40829	-472.1
+40934	-470
+41038	-468.3
+41140	-468.3
+41242	-469.7
+41345	-470.2
+41448	-470.2
+41552	-469.5
+41656	-469.5
+41759	-468.2
+41860	-465.6
+41961	-470.2
+42065	-474.5
+42173	-474.2
+42284	-476
+42395	-475.2
+42505	-470.6
+42610	-471.8
+42716	-474.2
+42823	-473
+42929	-472.1
+43033	-472.8
+43137	-471.5
+43239	-467.2
+43336	-467.2
+43432	-471
+43529	-472.3
+43627	-468.1
+43720	-463.9
+43809	-463.4
+43897	-462.9
+43982	-463.3
+44068	-465.7
+44152	-461.6
+44234	-460
+44314	-463.3
+44394	-461.7
+44473	-460.9
+44551	-464.5
+44630	-467
+44709	-462.8
+44786	-460.8
+44860	-464.7
+44936	-467.1
+45012	-465.3
+45086	-465.9
+45160	-465.5
+45233	-467.1
+45306	-469.8
+45380	-468.7
+45453	-468.3
+45525	-468.6
+45595	-467.8
+45664	-466.2
+45731	-466
+45798	-469.3
+45867	-471.8
+45934	-465.6
+45999	-465.9
+46066	-473.2
+46138	-472.7
+46213	-472
+46288	-474.8
+46363	-474.4
+46437	-473.5
+46511	-475.1
+46585	-476.8
+46659	-474.8
+46731	-475
+46798	-478.3
+46865	-476
+46930	-470.1
+46992	-472.5
+47054	-477.9
+47119	-475.5
+47183	-473.3
+47245	-473.6
+47307	-473.4
+47370	-477.7
+47435	-482.3
+47503	-480.8
+47580	-479.2
+47666	-481
+47745	-477.6
+47815	-472.6
+47882	-474.9
+47949	-475.4
+48017	-475.5
+48086	-477.7
+48156	-477.7
+48226	-478.2
+48297	-478.5
+48367	-476.3
+48436	-474.1
+48504	-474.8
+48572	-474.9
+48639	-472.3
+48706	-473.7
+48773	-475
+48840	-473.5
+48907	-471.2
+48971	-469
+49035	-470.5
+49100	-473.9
+49166	-472.8
+49233	-474.2
+49301	-475.5
+49369	-471.7
+49435	-471.2
+49501	-474
+49568	-474.7
+49636	-472.3
+49703	-473.5
+49769	-472.5
+49835	-469.7
+49900	-469.9
+49964	-468.4

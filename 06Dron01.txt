@@ -1,0 +1,530 @@
+# EPICA Dronning Maud Land Ice Core 10-51 KYrBP d18O Data 
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:11170
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/maud/edml2006d18o.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2003
+# --------------------
+# Title 
+#	Study_Name: EPICA Dronning Maud Land Ice Core 10-51 KYrBP d18O Data 
+# --------------------
+# Investigators
+#	Investigators: EPICA Community Members
+# --------------------
+# Description_and_Notes
+# 	Description: Oxygen isotope (d18O) data from the EPICA Dronning Maud Land 
+#	ice core for the period 51,000 to 10,000 years before present.  
+#	Age is synchronized to 2005 Greenland Ice Core Chronology (GICC05) 
+#	age model (Andersen et al. 2006, Rasmussen et al., 2006) via 
+#	methane synchronization. 
+#
+#	EPICA Dronning Maud Land Ice Core: 75°00'S; 00°04'E, 2892 m elev. 
+#
+#
+#	*EPICA Community Members (listed in alphabetical order): 
+#	C. Barbante, J.-M. Barnola, S. Becagli, J. Beer, M. Bigler, 
+#	C. Boutron, T. Blunier, E. Castellano, O. Cattani, J. Chappellaz, 
+#	D. Dahl-Jensen, M. Debret, B. Delmonte, D. Dick, S. Falourd, 
+#	S. Faria, U. Federer, H. Fischer, J. Freitag, A. Frenzel, 
+#	D. Fritzsche, F. Fundel, P. Gabrielli, V. Gaspari, R. Gersonde, 
+#	W. Graf, D. Grigoriev, I. Hamann, M. Hansson, G. Hoffmann, 
+#	M.A. Hutterli, P. Huybrechts, E. Isaksson, S. Johnsen, J. Jouzel, 
+#	M. Kaczmarska, T. Karlin, P. Kaufmann, S. Kipfstuhl, M. Kohno, 
+#	F. Lambert, Anja Lambrecht, Astrid Lambrecht, A. Landais, 
+#	G. Lawer, M. Leuenberger, G. Littot, L. Loulergue, D. Lüthi, 
+#	V. Maggi, F. Marino, V. Masson-Delmotte, H. Meyer, H. Miller, 
+#	R. Mulvaney, B. Narcisi, J. Oerlemans, H. Oerter, F. Parrenin, 
+#	J.-R. Petit, G. Raisbeck, D. Raynaud, R. Röthlisberger, U. Ruth, 
+#	O. Rybak, M. Severi, J. Schmitt, J. Schwander, U. Siegenthaler, 
+#	M.-L. Siggaard-Andersen, R. Spahni, J.P. Steffensen, B. Stenni, 
+#	T.F. Stocker, J.-L. Tison, R. Traversi, R. Udisti, 
+#	F. Valero-Delgado, M.R. van den Broeke, R.S.W. van de Wal, 
+#	D. Wagenbach, A. Wegner, K. Weiler, F. Wilhelms, J.-G. Winther,
+#	and E. Wolff. 
+# --------------------
+# Publication
+#	Authors: EPICA Community Memebers
+#	Published_Date_or_Year: 2006-11-09
+#	Published_Title: One-to-one coupling of glacial climate variability in Greenland and Antarctic
+#	Journal_Name: Nature
+#	Volume: 444
+#	Edition: 	
+#	Issue: 
+#	Pages: 195-198
+#	DOI: 10.1038/nature05301 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: Precise knowledge of the phase relationship between climate changes 
+in the two hemispheres is a key for understanding the Earth's climate 
+dynamics. For the last glacial period, ice core studies have revealed 
+strong coupling of the largest millennial-scale warm events in 
+Antarctica with the longest Dansgaard-Oeschger events in Greenland 
+through the Atlantic meridional overturning circulation. It has been 
+unclear, however, whether the shorter Dansgaard-Oeschger events have 
+counterparts in the shorter and less prominent Antarctic temperature 
+variations, and whether these events are linked by the same mechanism. 
+Here we present a glacial climate record derived from an ice core 
+from Dronning Maud Land, Antarctica, which represents South Atlantic 
+climate at a resolution comparable with the Greenland ice core records. 
+After methane synchronization with an ice core from North Greenland, 
+the oxygen isotope record from the Dronning Maud Land ice core shows 
+a one-to-one coupling between all Antarctic warm events and Greenland 
+Dansgaard-Oeschger events by the bipolar seesaw. The amplitude of the 
+Antarctic warm events is found to be linearly dependent on the 
+duration of the concurrent stadial in the North, suggesting that 
+they all result from a similar reduction in the meridional overturning 
+circulation. 
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: European Science Foundation/European Commission scientific programme
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: EPICA Dome C
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: -75
+#	Southernmost_Latitude: -75
+#	Easternmost_Longitude: .07
+#	Westernmost_Longitude: .07
+#	Elevation: 2892m
+# --------------------
+# Data_Collection
+#	Collection_Name: 06Dron01
+#	Earliest_Year: -51350
+#	Most_Recent_Year: 10050
+#	Time Unit: cal yr BP
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+AgeKYrBP	d18O
+10.05	-43.93
+10.15	-44.34
+10.25	-44
+10.35	-43.96
+10.45	-43.82
+10.55	-43.89
+10.65	-43.71
+10.75	-43.69
+10.85	-43.9
+10.95	-43.69
+11.05	-43.81
+11.15	-44.22
+11.25	-43.87
+11.35	-43.45
+11.45	-43.78
+11.55	-44.56
+11.65	-43.38
+11.75	-43.77
+11.85	-44.09
+11.95	-44.02
+12.05	-44.35
+12.15	-44.82
+12.25	-45.1
+12.35	-45.28
+12.45	-45.73
+12.55	-46.01
+12.65	-46.42
+12.75	-46.04
+12.85	-46.45
+12.95	-46.69
+13.05	-46.11
+13.15	-46.94
+13.25	-46.83
+13.35	-46.85
+13.45	-46.18
+13.55	-46.09
+13.65	-46.47
+13.75	-46.66
+13.85	-46.12
+13.95	-46.54
+14.05	-47.03
+14.15	-46.8
+14.25	-46.58
+14.35	-47.42
+14.45	-46.41
+14.55	-46.35
+14.65	-45.89
+14.75	-46.54
+14.85	-45.88
+14.95	-46.05
+15.05	-46.2
+15.15	-46.33
+15.25	-46.28
+15.35	-46.18
+15.45	-46.77
+15.55	-46.76
+15.65	-46.65
+15.75	-46.38
+15.85	-46.82
+15.95	-46.45
+16.05	-46.71
+16.15	-46.68
+16.25	-46.84
+16.35	-46.38
+16.45	-47.38
+16.55	-47.31
+16.65	-48
+16.75	-47.84
+16.85	-47.36
+16.95	-48.38
+17.05	-48.22
+17.15	-48.28
+17.25	-48.68
+17.35	-48.96
+17.45	-48.65
+17.55	-48.63
+17.65	-48.78
+17.75	-48.98
+17.85	-49.06
+17.95	-48.72
+18.05	-48.81
+18.15	-49.87
+18.25	-49.82
+18.35	-49.9
+18.45	-49.57
+18.55	-50.07
+18.65	-49.67
+18.75	-49.6
+18.85	-49.8
+18.95	-50.23
+19.05	-49.93
+19.15	-49.39
+19.25	-49.11
+19.35	-49.4
+19.45	-49.79
+19.55	-50.22
+19.65	-50.43
+19.75	-49.8
+19.85	-50.43
+19.95	-49.48
+20.05	-49.76
+20.15	-49.61
+20.25	-49.5
+20.35	-49.88
+20.45	-49.95
+20.55	-49.89
+20.65	-49.97
+20.75	-49.81
+20.85	-49.93
+20.95	-49.84
+21.05	-49.63
+21.15	-49.65
+21.25	-50.42
+21.35	-49.89
+21.45	-50.69
+21.55	-50.22
+21.65	-49.92
+21.75	-49.58
+21.85	-50.08
+21.95	-50.66
+22.05	-50.02
+22.15	-50.5
+22.25	-50.41
+22.35	-50.28
+22.45	-50.59
+22.55	-50.17
+22.65	-50.18
+22.75	-50.47
+22.85	-50.39
+22.95	-50.37
+23.05	-50.14
+23.15	-50.26
+23.25	-50.15
+23.35	-49.63
+23.45	-49.51
+23.55	-49.28
+23.65	-49.79
+23.75	-49.54
+23.85	-49.48
+23.95	-49.48
+24.05	-49.53
+24.15	-49.43
+24.25	-49.77
+24.35	-49.93
+24.45	-50.27
+24.55	-50.41
+24.65	-50.16
+24.75	-50.93
+24.85	-50.65
+24.95	-50.81
+25.05	-50.39
+25.15	-50.66
+25.25	-50.99
+25.35	-50.43
+25.45	-50.69
+25.55	-50.83
+25.65	-51.03
+25.75	-50.23
+25.85	-50.96
+25.95	-50.69
+26.05	-50.11
+26.15	-50.64
+26.25	-50.45
+26.35	-50.87
+26.45	-50.55
+26.55	-50.79
+26.65	-50.61
+26.75	-50.87
+26.85	-50.82
+26.95	-50.37
+27.05	-50.37
+27.15	-50.1
+27.25	-50.34
+27.35	-50.7
+27.45	-50.86
+27.55	-50.71
+27.65	-50.75
+27.75	-50.25
+27.85	-50.24
+27.95	-49.46
+28.05	-49.56
+28.15	-49.06
+28.25	-49.35
+28.35	-49.23
+28.45	-49.59
+28.55	-49.82
+28.65	-49.24
+28.75	-48.72
+28.85	-47.92
+28.95	-48.72
+29.05	-48.95
+29.15	-48.99
+29.25	-48.51
+29.35	-48.47
+29.45	-47.96
+29.55	-47.75
+29.65	-48.37
+29.75	-48.31
+29.85	-48.27
+29.95	-48.25
+30.05	-48.07
+30.15	-48.37
+30.25	-47.93
+30.35	-48.14
+30.45	-48.84
+30.55	-49.38
+30.65	-49.53
+30.75	-49.36
+30.85	-49.56
+30.95	-48.59
+31.05	-48.95
+31.15	-48.99
+31.25	-49.15
+31.35	-49.46
+31.45	-49.51
+31.55	-49.81
+31.65	-49.5
+31.75	-49.98
+31.85	-49.4
+31.95	-49.7
+32.05	-49.81
+32.15	-49.7
+32.25	-48.9
+32.35	-49.48
+32.45	-48.45
+32.55	-48.87
+32.65	-48.35
+32.75	-48.88
+32.85	-48.69
+32.95	-48.58
+33.05	-48.86
+33.15	-49.4
+33.25	-49.43
+33.35	-49.43
+33.45	-48.94
+33.55	-48.93
+33.65	-49.11
+33.75	-48.6
+33.85	-48.63
+33.95	-48.74
+34.05	-49.05
+34.15	-50.09
+34.25	-49.8
+34.35	-49.23
+34.45	-49.58
+34.55	-49.65
+34.65	-48.96
+34.75	-49.78
+34.85	-49.67
+34.95	-49.37
+35.05	-48.84
+35.15	-49.06
+35.25	-48.48
+35.35	-48.58
+35.45	-49.1
+35.55	-48.71
+35.65	-48.47
+35.75	-47.88
+35.85	-48.47
+35.95	-48.29
+36.05	-48.18
+36.15	-48.64
+36.25	-48.94
+36.35	-48.86
+36.45	-49
+36.55	-49.07
+36.65	-49.16
+36.75	-49.72
+36.85	-49.73
+36.95	-49.35
+37.05	-49.27
+37.15	-48.94
+37.25	-49.57
+37.35	-48.85
+37.45	-48.77
+37.55	-48.7
+37.65	-48.74
+37.75	-49.18
+37.85	-48.78
+37.95	-48.49
+38.05	-48.13
+38.15	-47.5
+38.25	-48.47
+38.35	-47.76
+38.45	-47.9
+38.55	-48.13
+38.65	-47.59
+38.75	-47.48
+38.85	-47.75
+38.95	-47.67
+39.05	-47.51
+39.15	-47.27
+39.25	-47.38
+39.35	-48.25
+39.45	-48.19
+39.55	-48.47
+39.65	-49
+39.75	-48.87
+39.85	-49.7
+39.95	-49.63
+40.05	-49.27
+40.15	-49.3
+40.25	-49.16
+40.35	-48.92
+40.45	-48.97
+40.55	-49.07
+40.65	-49.3
+40.75	-48.96
+40.85	-49.13
+40.95	-49.77
+41.05	-49.52
+41.15	-49.65
+41.25	-49.07
+41.35	-48.86
+41.45	-49.04
+41.55	-48.25
+41.65	-49.07
+41.75	-48.25
+41.85	-48.38
+41.95	-49.16
+42.05	-49.02
+42.15	-49.08
+42.25	-49.37
+42.35	-49.6
+42.45	-49.11
+42.55	-49.27
+42.65	-48.92
+42.75	-49.19
+42.85	-48.83
+42.95	-48.4
+43.05	-48.61
+43.15	-48.48
+43.25	-48.53
+43.35	-48.67
+43.45	-48.69
+43.55	-48.69
+44.95	-48.69
+45.05	-49.18
+45.15	-48.68
+45.25	-48.65
+45.35	-47.97
+45.45	-48.41
+45.55	-47.88
+45.65	-48.49
+45.75	-48.01
+45.85	-48.31
+45.95	-47.59
+46.05	-47.32
+46.15	-47.81
+46.25	-46.63
+46.35	-47.83
+46.45	-47.52
+46.55	-47.17
+46.65	-47.07
+46.75	-46.86
+46.85	-47.31
+46.95	-47.44
+47.05	-46.97
+47.15	-46.79
+47.25	-46.61
+47.35	-47.2
+47.45	-47.41
+47.55	-47.05
+47.65	-47.15
+47.75	-47.4
+47.85	-47.34
+47.95	-47.01
+48.05	-46.87
+48.15	-46.94
+48.25	-47.38
+48.35	-47.39
+48.45	-47.21
+48.55	-47.12
+48.65	-48.1
+48.75	-48.7
+48.85	-48.97
+48.95	-48.97
+49.05	-49.16
+49.15	-49.04
+49.25	-48.52
+49.35	-48.82
+49.45	-48.85
+49.55	-48.59
+49.65	-48.96
+49.75	-48.12
+49.85	-48.67
+49.95	-48.64
+50.05	-48.62
+50.15	-49.11
+50.25	-49.29
+50.35	-48.54
+50.45	-48.93
+50.55	-48.56
+50.65	-48.95
+50.75	-48.47
+50.85	-48.63
+50.95	-48.46
+51.05	-48.77
+51.15	-48.55
+51.25	-48.37
+51.35	-48.11
