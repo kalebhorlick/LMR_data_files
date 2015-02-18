@@ -1,0 +1,432 @@
+# ITASE 00-01 d18O
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: 
+#
+#
+# Original_Source_URL: 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2015
+# --------------------
+# Title 
+#	Study_Name: ITASE 00-01 d18O
+# --------------------
+# Investigators
+#	Investigators: Schneider, D.P.; Noone, D. C. 
+# --------------------
+# Description_and_Notes
+# 	Description: 
+#
+# --------------------
+# Publication
+#	Authors: David P. Schneider, David C. Noone 
+#	Published_Date_or_Year: 2007-09-20
+#	Published_Title: Spatial covariance of water isotope records in a global network of ice cores spanning twentieth-century climate change
+#	Journal_Name: Journal of Geophysical Research
+#	Volume: 112			
+#	Edition: 	
+#	Issue: D18105
+#	Pages: 
+#	DOI: doi:10.1029/2007JD008652
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: Estimating the spatial extent of past climate changes has been an ongoing challenge
+for paleoclimatology. For such estimates to be made with confidence, it is important to
+establish an understanding of the spatial coherence of proxy records during an interval of
+known climate change. We use water stable isotopes from high-resolution ice cores and
+twentieth-century observations of sea level pressures and sea surface temperatures to
+assess the covariance among isotopic records and its link to organized patterns of climate
+variability. Covarying signals in the cores are identified using empirical orthogonal
+function analysis. Results from regression analysis show that the leading signals
+are consistent with key climate patterns including the Northern Atlantic Oscillation and
+Southern Annular Mode and variability in tropical Pacific sea surface temperatures
+associated with the El Nin˜o–Southern Oscillation. Patterns that have recently been
+identified in instrumental data, such as positive tropical Pacific SST anomalies associated
+with the negative phase of the SAM, are evident in the ice cores. These explanations for
+the variance of stable isotopes are consistent with recent studies using isotope-enabled
+general circulation models and provide a physical basis for interpreting the observed
+isotopic signals. While there is also a global change signal that is evident when analyzing
+the records collectively, there are some limitations in reconstructing global temperatures
+due to the geographic coverage of the available records and the current lack of
+modeling studies to explain the observed global-scale changes. Still, water stable isotope
+ratios preserved in ice cores provide a sufficiently rich sampling of large-scale climate
+variability that they can be more widely used in physically based paleoclimate
+reconstructions covering the last millennium and other periods.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: ITASE 00-01
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: -79.38
+#	Southernmost_Latitude: -79.38
+#	Easternmost_Longitude: -111.24
+#	Westernmost_Longitude: -111.24
+#	Elevation: 
+# --------------------
+# Data_Collection
+#	Collection_Name: 00ITAS04
+#	Earliest_Year: 1674
+#	Most_Recent_Year: 2000
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#	
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD	d18O
+2000	-31.85171429
+1999	-32.75071429
+1998	-30.83333333
+1997	-30.8615
+1996	-31.54230769
+1995	-31.35166667
+1994	-33.28705882
+1993	-32.3935
+1992	-31.80222222
+1991	-30.9847619
+1990	-32.33588235
+1989	-32.24461538
+1988	-33.67416667
+1987	-33.87846154
+1986	-35.61416667
+1985	-33.206875
+1984	-31.46304348
+1983	-32.85681818
+1982	-32.86166667
+1981	-31.978125
+1980	-30.944
+1979	-33.12875
+1978	-33.16125
+1977	-34.63692308
+1976	-31.97
+1975	-33.65307692
+1974	-33.06545455
+1973	-33.05272727
+1972	-32.66888889
+1971	-32.224
+1970	-33.01428571
+1969	-34.01272727
+1968	-33.5925
+1967	-33.3725
+1966	-33.25214286
+1965	-32.30357143
+1964	-32.09666667
+1963	-33.4025
+1962	-34.891
+1961	-32.4275
+1960	-32.89133333
+1959	-34.63428571
+1958	-32.66461538
+1957	-34.809375
+1956	-32.95380952
+1955	-34.23428571
+1954	-33.51142857
+1953	-33.68227273
+1952	-31.40055556
+1951	-33.41
+1950	-32.965
+1949	-33.77227273
+1948	-33.44285714
+1947	-33.485
+1946	-33.52631579
+1945	-31.10277778
+1944	-33.18833333
+1943	-34.528
+1942	-32.60862069
+1941	-31.19
+1940	-31.45944444
+1939	-30.46714286
+1938	-31.92928571
+1937	-33.79611111
+1936	-34.46631579
+1935	-33.39
+1934	-33.21095238
+1933	-33.3325
+1932	-33.79933333
+1931	-32.29
+1930	-32.63818182
+1929	-33.25428571
+1928	-34.31916667
+1927	-32.99875
+1926	-33.69133333
+1925	-31.95842105
+1924	-31.71466667
+1923	-32.66928571
+1922	-32.63705882
+1921	-32.12642857
+1920	-31.7505
+1919	-32.84277778
+1918	-33.73647059
+1917	-32.749
+1916	-32.89416667
+1915	-33.0596
+1914	-32.55875
+1913	-33.43769231
+1912	-32.73285714
+1911	-31.76214286
+1910	-31.76375
+1909	-34.30615385
+1908	-34.81888889
+1907	-33.46846154
+1906	-34.47625
+1905	-34.00666667
+1904	-34.37347826
+1903	-32.60944444
+1902	-33.409
+1901	-33.19333333
+1900	-32.0215
+1899	-32.9352381
+1898	-32.071
+1897	-32.79375
+1896	-34.08875
+1895	-33.49444444
+1894	-33.80666667
+1893	-33.46833333
+1892	-33.988
+1891	-32.95
+1890	-32.58666667
+1889	-34.05
+1888	-32.011
+1887	-32.13857143
+1886	-32.64625
+1885	-32.49
+1884	-34.265
+1883	-32.94
+1882	-32.36111111
+1881	-32.04545455
+1880	-34.02428571
+1879	-34.45125
+1878	-32.85666667
+1877	-32.40285714
+1876	-30.75714286
+1875	-31.693
+1874	-33.6
+1873	-32.453
+1872	-31.93125
+1871	-33.32
+1870	-34.41666667
+1869	-34.0975
+1868	-35.152
+1867	-33.32636364
+1866	-34.42
+1865	-33.748
+1864	-33.54285714
+1863	-33.132
+1862	-32.56875
+1861	-32.90875
+1860	-33.372
+1859	-34.53333333
+1858	-35.04111111
+1857	-33.80285714
+1856	-33.295
+1855	-31.44875
+1854	-32.23285714
+1853	-33.26428571
+1852	-33.19333333
+1851	-32.76777778
+1850	-34.63285714
+1849	-33.72625
+1848	-33.42
+1847	-33.99333333
+1846	-33.58428571
+1845	-32.74285714
+1844	-32.43444444
+1843	-34.02875
+1842	-33.57666667
+1841	-34.29714286
+1840	-33.05
+1839	-31.56545455
+1838	-33.06
+1837	-33.51666667
+1836	-33.402
+1835	-31.78666667
+1834	-31.03125
+1833	-33.46333333
+1832	-33.69
+1831	-33.24375
+1830	-33.13142857
+1829	-32.0775
+1828	-31.25142857
+1827	-31.78166667
+1826	-30.26
+1825	-32.412
+1824	-32.2575
+1823	-33.49
+1822	-33.99428571
+1821	-33.09
+1820	-31.404
+1819	-33.47857143
+1818	-34.05857143
+1817	-34.36142857
+1816	-32.18333333
+1815	-33.03
+1814	-31.06777778
+1813	-34.24166667
+1812	-33.78
+1811	-32.31333333
+1810	-33.586
+1809	-34.618
+1808	-34.00166667
+1807	-33.25666667
+1806	-32.7
+1805	-32.60857143
+1804	-33.56142857
+1803	-32.12
+1802	-33.295
+1801	-32.59166667
+1800	-32.09571429
+1799	-33.14166667
+1798	-33.66714286
+1797	-32.42333333
+1796	-33.065
+1795	-33.5075
+1794	-32.3975
+1793	-33.29428571
+1792	-32.01142857
+1791	-32.37888889
+1790	-33.92428571
+1789	-33.198
+1788	-34.17444444
+1787	-34.23857143
+1786	-32.36333333
+1785	-31.46
+1784	-31.96571429
+1783	-32.69888889
+1782	-31.43
+1781	-33.47625
+1780	-33.15714286
+1779	-33.16833333
+1778	-32.835
+1777	-32.75125
+1776	-35.62166667
+1775	-31.8925
+1774	-32.015
+1773	-33.38714286
+1772	-33.56375
+1771	-32.06285714
+1770	-33.69428571
+1769	-32.69714286
+1768	-32.76142857
+1767	-33.79666667
+1766	-32.58857143
+1765	-32.8825
+1764	-31.86
+1763	-31.50285714
+1762	-32.12333333
+1761	-32.6975
+1760	-33.76875
+1759	-33.16
+1758	-34.57571429
+1757	-34.806
+1756	-34.39
+1755	-33.79166667
+1754	-34.22833333
+1753	-33.86166667
+1752	-32.23
+1751	-32.934
+1750	-32.77285714
+1749	-33.97857143
+1748	-35.52571429
+1747	-34.354
+1746	-33.5925
+1745	-34.09
+1744	-33.77
+1743	-33.628
+1742	-34.03
+1741	-33.872
+1740	-34.06666667
+1739	-34.778
+1738	-34.48142857
+1737	-33.44285714
+1736	-33.766
+1735	-33.47666667
+1734	-31.89125
+1733	-31.12125
+1732	-32.47
+1731	-32.128
+1730	-33.22428571
+1729	-32.76666667
+1728	-32.79888889
+1727	-33.9
+1726	-32.03125
+1725	-31.55285714
+1724	-31.12
+1723	-34.416
+1722	-33.664
+1721	-33.12166667
+1720	-33.52444444
+1719	-33.37
+1718	-32.785
+1717	-32.45857143
+1716	-30.45571429
+1715	-36.47714286
+1714	-32.982
+1713	-34.10666667
+1712	-33.83
+1711	-33.8625
+1710	-31.34833333
+1709	-32.1975
+1708	-33.172
+1707	-32.82
+1706	-33.84428571
+1705	-33.14833333
+1704	-31.57666667
+1703	-32.90333333
+1702	-33.19555556
+1701	-32.70333333
+1700	-33.79142857
+1699	-33.43285714
+1698	-33.28
+1697	-34.304
+1696	-33.87571429
+1695	-31.68571429
+1694	-31.532
+1693	-31.35875
+1692	-30.4075
+1691	-31.72666667
+1690	-33.488
+1689	-32.22428571
+1688	-32.62666667
+1687	-34.14333333
+1686	-32.41285714
+1685	-32.1375
+1684	-33.224
+1683	-32.59
+1682	-32.22
+1681	-31.614
+1680	-32.932
+1679	-33.186
+1678	-33.955
+1677	-33.74571429
+1676	-32.78333333
+1675	-33.01
+1674	-33.59333333
