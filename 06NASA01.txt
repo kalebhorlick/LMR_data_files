@@ -1,0 +1,180 @@
+# NASA-U Ice Core d18O annual averages
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: http://ncdc.noaa.gov/paleo/study/
+#
+# Original_Source_URL: 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2014
+# --------------------
+# Title 
+#	Study_Name: NASA-U Ice Core d18O annual averages
+# --------------------
+# Investigators
+#	Investigators: Mosley-Thompson, E.; Thompson, L.G.; Lin, P.N 
+# --------------------
+# Description_and_Notes
+#	Description: 
+#
+#
+#
+# --------------------
+# Publication
+#	Authors: Ellen Mosley-Thompson, Lonnie G. Thompson, Ping-Nan Lin
+#	Published_Date_or_Year: 2006
+#	Published_Title:  A multicentury ice-core perspective on 20th-century climate change with new contributions from high-Arctic and Greenland (PARCA) cores
+#	Journal_Name: Annals of Glaciology
+#	Volume: 43
+#	Edition: 	
+#	Issue: 1
+#	Pages: 42-48
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: A global collection of high temporally resolved ice-core-derived d18O records is examined to assess whether the proxy records are consistent with contemporaneous observed temperature variations in their respective regions. This is prerequisite to using the older parts of the proxy (d18O) records to assess whether 20th-century temperatures remain within the range of longer-term natural variability. Excluding the high plateaus in East and West Antarctica where 20th-century temperatures show modest cooling, the ice-core records from other regions suggest modest to strong 20th-century warming. The recent warming over Greenland has been modest and spatially variable. The 20th-century warming over both the Barents Sea region and the Tibetan Plateau now falls well outside the range of prior longer-term temperature variability. Similarly, over the South American Andes and the Antarctic Peninsula the recent warming exceeds the long-term mean for the last 1000 and 500 years, respectively. The ice fields in these regions are in danger of being compromised or lost if the present warming trend in these regions persists.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant: 
+# --------------------
+# Site_Information
+#	Site_Name: 
+#	Location: North America>Greenland
+#	Country:  
+#	Northernmost_Latitude: 73.840
+#	Southernmost_Latitude: 73.840	 
+#	Easternmost_Longitude: -49.490
+#	Westernmost_Longitude: -49.490
+#	Elevation:
+# --------------------
+# Data_Collection
+#	Collection_Name: 06NASA01
+#	Earliest_Year: 1990 
+#	Most_Recent_Year: 1994
+#	Time Unit: AD
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		dO18,,,per mil SMOW,,ice cores,,,N
+#	
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age_AD 	d18O
+1994.0000	-31.0000
+1993.0000	-30.1000
+1992.0000	-29.9600
+1991.0000	-30.1600
+1990.0000	-29.1800
+1989.0000	-30.6000
+1988.0000	-30.3400
+1987.0000	-30.1400
+1986.0000	-29.3600
+1985.0000	-29.1800
+1984.0000	-29.2700
+1983.0000	-34.0000
+1982.0000	-32.7500
+1981.0000	-32.4200
+1980.0000	-29.5000
+1979.0000	-29.7800
+1978.0000	-32.6700
+1977.0000	-30.1000
+1976.0000	-31.0900
+1975.0000	-31.5500
+1974.0000	-31.4300
+1973.0000	-31.5600
+1972.0000	-31.7300
+1971.0000	-29.4400
+1970.0000	-29.8900
+1969.0000	-32.0400
+1968.0000	-29.0900
+1967.0000	-31.3300
+1966.0000	-31.6400
+1965.0000	-31.5400
+1964.0000	-30.5900
+1963.0000	-31.7100
+1962.0000	-29.8000
+1961.0000	-30.0100
+1960.0000	-31.7800
+1959.0000	-31.8400
+1958.0000	-30.3700
+1957.0000	-33.6400
+1956.0000	-31.5000
+1955.0000	-30.4600
+1954.0000	-29.8700
+1953.0000	-30.1900
+1952.0000	-28.8600
+1951.0000	-29.8200
+1950.0000	-30.0700
+1949.0000	-33.0600
+1948.0000	-31.0300
+1947.0000	-31.9500
+1946.0000	-31.4200
+1945.0000	-31.8000
+1944.0000	-32.6200
+1943.0000	-33.6100
+1942.0000	-32.1900
+1941.0000	-31.2900
+1940.0000	-31.7300
+1939.0000	-29.5300
+1938.0000	-32.4100
+1937.0000	-31.6000
+1936.0000	-32.1800
+1935.0000	-30.9000
+1934.0000	-31.2300
+1933.0000	-30.7400
+1932.0000	-28.2400
+1931.0000	-30.1200
+1930.0000	-30.8900
+1929.0000	-30.3700
+1928.0000	-25.9300
+1927.0000	-28.0800
+1926.0000	-33.2600
+1925.0000	-31.1900
+1924.0000	-31.7900
+1923.0000	-30.0000
+1922.0000	-31.9700
+1921.0000	-32.2300
+1920.0000	-32.6600
+1919.0000	-31.7700
+1918.0000	-32.6100
+1917.0000	-31.9500
+1916.0000	-28.8500
+1915.0000	-29.9900
+1914.0000	-31.8800
+1913.0000	-31.1700
+1912.0000	-29.6600
+1911.0000	-31.9700
+1910.0000	-31.9700
+1909.0000	-29.3300
+1908.0000	-29.3300
+1907.0000	-31.1700
+1906.0000	-31.5400
+1905.0000	-30.5300
+1904.0000	-30.7900
+1903.0000	-27.1700
+1902.0000	-27.3400
+1901.0000	-29.9100
+1900.0000	-30.1400
