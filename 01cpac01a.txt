@@ -64,7 +64,7 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 01cpac01a 
-#	Earliest_Year:1886  
+#	Earliest_Year: 1886  
 #	Most_Recent_Year: 1998 
 #	Time_Unit: Years AD 
 #	Core_Length: 3 m

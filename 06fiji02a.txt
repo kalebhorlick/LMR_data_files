@@ -16,8 +16,9 @@
 #--------------------------------
 # Contribution_Date
 # Date: 2014-03-30
-#--------------------------------
-# Title:     Fiji Coral Annual Average d18O and Sr/Ca Data
+#--------------------
+# Title
+#	Study_Name: Fiji Coral Annual Average d18O and Sr/Ca Data
 #--------------------------------
 # Investigators: Linsley, B.K.; Kaplan, A.; Gouriou, Y.; Salinger, J.; deMenocal, P.B.; Wellington, G.M.; Howe, S.S.
 #--------------------
@@ -97,7 +98,7 @@
 #--------------------------------
 # Data Collection 
 # Collection_Name: 06fiji02a
-# Oldest_Year: 1617
+# Earliest_Year: 1617
 # Most_Recent_Year: 2001
 # Time_Unit: AD
 # Core_Length:

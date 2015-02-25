@@ -7,7 +7,7 @@
 # NOTE: Please cite original publication, online resource and date accessed when using this data.
 # If there is no publication information, please cite Investigator, title, online resource and date accessed.
 #
-#  Online_Resource: http://www.hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:16216
+# Online_Resource: http://www.hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:16216
 # 
 # Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/linsley2006/linsley2006-1f.txt
 #
@@ -16,8 +16,10 @@
 #--------------------------------
 # Contribution_Date
 # Date: 2014-03-30
-#--------------------------------
-# Title:     Fiji Coral Annual Average d18O and Sr/Ca Data
+#--------------------
+# Title
+#	Study_Name: Fiji Coral Annual Average d18O and Sr/Ca Data
+#
 #--------------------------------
 # Investigators: Linsley, B.K.; Kaplan, A.; Gouriou, Y.; Salinger, J.; deMenocal, P.B.; Wellington, G.M.; Howe, S.S.
 #--------------------
@@ -69,15 +71,15 @@
 # Site_Name: Ocean>Pacific Ocean>South Pacific Ocean>Polynesia>Fiji
 # Country: Fiji
 # Location: Western Pacific Ocean 
-#	Northernmost_Latitude:  -16.82
-# 	Southernmost_Latitude:  -16.82
+#	Northernmost_Latitude: -16.82
+# 	Southernmost_Latitude: -16.82
 # 	Easternmost_Longitude: 179.23
 # 	Westernmost_Longitude: 179.23
 # 	Elevation: -10 m
 #--------------------------------
 # Data Collection 
 # Collection_Name: 06fiji01a
-# Oldest_Year: 1781
+# Earliest_Year: 1781
 # Most_Recent_Year: 1997
 # Time_Unit: AD
 # Core_Length:
@@ -85,6 +87,8 @@
 #--------------------------------
 # Chronology:
 #    The chronologies for all of the coral results presented here are based on the reconstructed annual cycle in millimeter-scale δ18O and/or Sr/Ca down core analyses [Linsley et al., 2000; Ren et al., 2003; Linsley et al., 2004]. 
+#
+#
 #--------------------------------
 # Variables    
 # 

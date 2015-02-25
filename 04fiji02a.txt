@@ -96,7 +96,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-depth_mm  age_AD  d13c  d18o  Sr/Ca
+depth_mm	age_AD	d13c	d18o	Sr/Ca
 0.5	2001.96	-0.17	-4.65	9.10
 1.0	2001.80	-0.22	-4.69	9.10
 1.5	2001.63	-0.24	-4.62	9.08

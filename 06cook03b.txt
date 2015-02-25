@@ -90,8 +90,8 @@
 # 	Elevation:  -18 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 06cook03b
-#	Earliest_Year: 1906 
+#	Collection_Name: 06cook03b 
+#	Earliest_Year: 1906
 #	Most_Recent_Year: 1999 
 #	Time_Unit: Years AD 
 #	Core_Length: 

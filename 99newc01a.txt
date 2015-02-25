@@ -75,7 +75,7 @@
 # 	Southernmost_Latitude: -22.48 
 # 	Easternmost_Longitude: 166.45 
 # 	Westernmost_Longitude: 166.45 
-# 	Elevation:  -3m  
+# 	Elevation:  -3 m  
 #------------------
 # Data_Collection   
 #	Collection_Name: 99newc01a 

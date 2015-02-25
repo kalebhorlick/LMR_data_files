@@ -16,18 +16,18 @@
 # Data lines have no #
 #
 # Archive: Corals and Sclerosponges
-#---------------------------------------
+#--------------------
 # Contribution_Date
-#    Date: 2014-10-10
-#---------------------------------------
+#	Date: 2014-10-10
+#--------------------
 # Title
-#    Study_Name: Butaritari Atoll, Kiribati Geochemical Data From 1959-2010
-#---------------------------------------
+#	Study_Name: Butaritari Atoll, Kiribati Geochemical Data From 1959-2010
+#--------------------
 # Investigators
-#      Investigators: Carilli, Jessica E.; McGregor,  Helen V.; Gaudry, Jessica J.; Donner, Simon D.; Gagan, Michael K.;  Stevenson, Samantha;  Wong, Henri; Fink, David 
-#---------------------------------------
-# Description and Notes
-#        Description: Errors: d18O Porites sp. = 0.13 per mil; Sr/Ca Porites sp. = 0.045 mmol/mol; seawater delta 18O Porites sp. = 0.175 per mil
+#       Investigators: Carilli, Jessica E.; McGregor,  Helen V.; Gaudry, Jessica J.; Donner, Simon D.; Gagan, Michael K.;  Stevenson, Samantha;  Wong, Henri; Fink, David 
+#--------------------
+# Description_and_Notes
+#	Description: Errors: d18O Porites sp. = 0.13 per mil; Sr/Ca Porites sp. = 0.045 mmol/mol; seawater delta 18O Porites sp. = 0.175 per mil
 #--------------------
 # Publication 
 #       Authors: Carilli, J.E., H.V. McGregor,  J.J. Gaudry, S.D. Donner, M.K. Gagan, S. Stevenson, H. Wong, and D. Fink
@@ -42,10 +42,24 @@
 #       Online_Resource: 
 #       Full_Citation: 
 #       Abstract: Equatorial Pacific ocean-atmosphere interactions affect climate globally, and a key component of the coupled system is the Walker Circulation, which is driven by sea surface temperature (SST) gradients across the equatorial Pacific. There is conflicting evidence as to whether the SST gradient and Walker Circulation have strengthened or weakened over the late 20th century. We present new records of SST and sea surface salinity (SSS) spanning 1959-2010 based on paired measurements of Sr/Ca and d18O in a massive Porites coral from Butaritari atoll in the Gilbert Islands, Republic of Kiribati, in the central-western equatorial Pacific. The records show 2-7 year variability correlated with the El Ni�o-Southern Oscillation (ENSO) and corresponding shifts in the extent of the Indo-Pacific Warm Pool, and decadal-scale signals related to the Pacific Decadal Oscillation. In addition, the Butaritari coral records reveal a small but significant increase in SST (0.39�C) from 1959 to 2010 with no accompanying change in SSS, a trend that persists even when ENSO variability is removed. In contrast, larger increases in SST and SSS are evident in coral records from the equatorial Pacific Line Islands, located east of Butaritari.  Taken together, the equatorial Pacific coral records suggest an overall reduction in the east-west SST and SSS gradient over the last several decades, and a recent weakening of the Walker Circulation.
-#--------------------
+#------------------
+# Publication 
+#       Authors: Gagan, M.K., G.B. Dunbar, and A. Suzuki
+#       Published_Date_or_Year: 2012     
+#       Published_Title: The effect of skeletal mass accumulation in Porites on coral Sr/Ca and d18O paleothermometry
+#       Journal_Name: Paleoceanography
+#       Volume: 27
+#       Edition: 
+#       Issue: PA1203 
+#       Pages: 
+#       DOI: 10.1029/2011PA002215
+#       Online_Resource: 
+#       Full_Citation: 
+#       Abstract: Equatorial Pacific ocean-atmosphere interactions affect climate globally, and a key component of the coupled system is the Walker Circulation, which is driven by sea surface temperature (SST) gradients across the equatorial Pacific. There is conflicting evidence as to whether the SST gradient and Walker Circulation have strengthened or weakened over the late 20th century. We present new records of SST and sea surface salinity (SSS) spanning 1959-2010 based on paired measurements of Sr/Ca and d18O in a massive Porites coral from Butaritari atoll in the Gilbert Islands, Republic of Kiribati, in the central-western equatorial Pacific. The records show 2-7 year variability correlated with the El Ni�o-Southern Oscillation (ENSO) and corresponding shifts in the extent of the Indo-Pacific Warm Pool, and decadal-scale signals related to the Pacific Decadal Oscillation. In addition, the Butaritari coral records reveal a small but significant increase in SST (0.39�C) from 1959 to 2010 with no accompanying change in SSS, a trend that persists even when ENSO variability is removed. In contrast, larger increases in SST and SSS are evident in coral records from the equatorial Pacific Line Islands, located east of Butaritari.  Taken together, the equatorial Pacific coral records suggest an overall reduction in the east-west SST and SSS gradient over the last several decades, and a recent weakening of the Walker Circulation.
+#------------------
 # Publication 
 #       Authors: Cahyarini, S.Y., Pfeiffer, M., Timm, O., Dullo, W.C., Schonerg, D.G.
-#       Published_Date_or_Year: 2008     
+#       Published_Date_or_Year: 2008      
 #       Published_Title: Reconstructing seawater d18O from paired coral d18O and Sr/Ca ratios: Methods, error analysis and problems, with examples from Tahiti (French Polynesia) and Timor (Indonesia). 
 #       Journal_Name: Geochimica et Cosmochimica Acta
 #       Volume: 72
@@ -55,120 +69,78 @@
 #       DOI:
 #       Online_Resource: 
 #       Full_Citation: 
-#       Abstract:
-#--------------------
-# Publication 
-#       Authors: Gagan, M.K., G.B. Dunbar, and A. Suzuki
-#       Published_Date_or_Year: 2012     
-#       Published_Title: The effect of skeletal mass accumulation in Porites on coral Sr/Ca and d18O paleothermometry
-#       Journal_Name: Paleoceanography
-#       Volume: 27
-#       Edition: 
-#       Issue: PA1203
-#       Pages:
-#       DOI: 10.1029/2011PA002215
-#       Online_Resource: 
-#       Full_Citation: 
-#       Abstract:
-#--------------------
-# Publication 
-#       Authors: Smith, T.M., R.W. Reynolds, T.C. Peterson, and J. Lawrimore
-#       Published_Date_or_Year: 2008    
-#       Published_Title: Improvements to NOAA's historical merged land-ocean surface temperature analysis (1880-2006)
-#       Journal_Name: Journal of Climate
-#       Volume: 21
-#       Edition: 
-#       Issue: 
-#       Pages: 2283-2296
-#       DOI:
-#       Online_Resource: 
-#       Full_Citation: 
-#       Abstract:
-#--------------------
-# Publication 
-#       Authors: Stevenson, S., H.V. McGregor, S.J. Phipps, and B. Fox-Kemper 
-#       Published_Date_or_Year: 2013    
-#       Published_Title: Quantifying errors in coral-based ENSO estimates: Toward improved forward modeling of d18O
-#       Journal_Name: Paleoceanography
-#       Volume: 28
-#       Edition: 
-#       Issue: 
-#       Pages: 633-649
-#       DOI: 10.1002/palo.20059
-#       Online_Resource: 
-#       Full_Citation: 
-#       Abstract:
-#---------------------------------------
-# Funding_Agency
-#    Funding_Agency_Name: Australian Nuclear Science and Technology Organization Postdoctoral Fellowship
-#    Grant: 
-#---------------------------------------
-# Funding_Agency
-#    Funding_Agency_Name: Natural Sciences and Engineering Research Council of Canada Discovery Grant
-#    Grant: 
-#---------------------------------------
-# Funding_Agency
-#    Funding_Agency_Name: National Science Foundation Ocean Sciences Postdoctoral Fellowship
-#    Grant: 
-#---------------------------------------
-# Funding_Agency
-#    Funding_Agency_Name: Australian Research Council Discovery Project
-#    Grant: DP1092945
-#---------------------------------------
-# Funding_Agency
-#    Funding_Agency_Name:  AINSE Fellowship Grant
-#    Grant: 
+#       Abstract: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Australian Nuclear Science and Technology Organization Postdoctoral Fellowship
+#       Grant: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Natural Sciences and Engineering Research Council of Canada Discovery Grant
+#       Grant: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: National Science Foundation Ocean Sciences Postdoctoral Fellowship
+#       Grant: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Australian Research Council Discovery Project
+#       Grant: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: AINSE Fellowship Grant
+#       Grant: 
 #------------------
 # Site_Information 
 #       Site_Name: Butaritari Atoll, Gilbert Islands
-#       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Kiribati 
+#       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Kiribati
 #	Country: Republic of Kiribati 
 #	Northernmost_Latitude: 3.073056 
 # 	Southernmost_Latitude: 3.073056 
 # 	Easternmost_Longitude: 172.746944 
 # 	Westernmost_Longitude: 172.746944 
-# 	Elevation: -5  
+# 	Elevation: -5 m  
 #------------------
 # Data_Collection   
 #	Collection_Name: 14kiri01a 
 #	Earliest_Year: 1959 
 #	Most_Recent_Year: 2010
 #	Time_Unit: Years AD 
-#	Core_Length:  m
+#	Core_Length: 
 #	Notes: Previous name- BUT3-2 Geochemistry Ca14
 #------------------
 # Species
 #	Species_Name: Porites sp.
 #	Common_Name: 
 #------------------
-# Chronology: 
-# 
-#
-# 
-#
-# 
+# Chronology:
 #
 #
-# 	
-#---------------------------------------
+#
+#
+#
+#
+#
+#
+#----------------
 # Variables
 #
 # Data variables follow that are preceded by "##" in columns one and two.
-# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18O,Porites sp.,,per mil VPDB,,Corals and Sclerosponges,,analytical technique: isotope ratio mass spectrometry,N				
-##Sr/Ca		Strontium/Calcium,Porites sp.,,mmol/mol,,Corals and Sclerosponges,,analytical technique: ICP-OES,N
-##sst   Sr/Ca reconstructedsea surface temperature,Porites sp. Sr/Ca ,,degrees Celsius,,Corals and Sclerosponges,,analytical technique: ICP-OES,N
-##d18o_sw	delta 18O seawater,Porites sp.,,per mil VPDB,,Corals and Sclerosponges,,analytical technique: inductively coupled plasma atomic emission spectroscopy,N
+##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , isotope ratio mass spectrometry,N
+##Sr/Ca	Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , analytical technique: ICP-OES,N
+##sst	sea surface temperature reconstruction, Porites sp., ,degrees C, , Corals and Sclerosponges, ,analytical technique: ICP-OES,N
+##d18o_sw	delta 18O of seawater, Porites sp., , permil VPDB, , Corals and Sclerosponges, , analytical technique: ICP-OES,N
 #
 #----------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
-# Missing Values: NAN 
+# Missing Values: NAN
 #
-age_AD	d18o	Sr/Ca	sst	d18o_sw	
+age_AD	d18o	Sr/Ca	sst	d18o_sw
 1959.374	-4.90	8.940	28.92	0.25
 1959.540	-4.95	8.934	28.98	0.21
 1959.706	-4.96	8.893	29.47	0.30
