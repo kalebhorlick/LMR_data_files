@@ -56,11 +56,11 @@
 #	Site_Name: GRIP
 #	Location: North America>Greenland
 #	Country:
-#	Northernmost_Latitude:
-#	Southernmost_Latitude:
-#	Easternmost_Longitude:
-#	Westernmost_Longitude:
-#	Elevation:
+#	Northernmost_Latitude: 72.58
+#	Southernmost_Latitude: 72.58
+#	Easternmost_Longitude: 37.63
+#	Westernmost_Longitude: 37.63
+#	Elevation: 3246 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 89GRIP01
