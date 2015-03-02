@@ -58,7 +58,7 @@
 #	Southernmost_Latitude: 74.9402
 #	Easternmost_Longitude: -36.6299
 #	Westernmost_Longitude: -36.6299
-#	Elevation: 
+#	Elevation: 3040 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 00NoGr02

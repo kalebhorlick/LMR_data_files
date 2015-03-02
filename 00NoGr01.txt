@@ -69,7 +69,7 @@ high-resolution (daily) observational data. Base
 #	Southernmost_Latitude: 73.9402
 #	Easternmost_Longitude: -37.6299
 #	Westernmost_Longitude: -37.6299
-#	Elevation: 
+#	Elevation: 3040 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 00NoGr01
