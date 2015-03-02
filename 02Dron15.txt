@@ -58,7 +58,7 @@
 #	Southernmost_Latitude: -75.08400
 #	Easternmost_Longitude: 6.50
 #	Westernmost_Longitude: 6.500
-#	Elevation: 3160m
+#	Elevation: 3160 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 02Dron15

@@ -116,7 +116,7 @@ and/or rapid bipolar ocean teleconnections.
 #	Southernmost_Latitude: 75
 #	Easternmost_Longitude: 00.066
 #	Westernmost_Longitude: 00.066
-#	Elevation: 2892m
+#	Elevation: 2892 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 11EDML01
@@ -126,11 +126,11 @@ and/or rapid bipolar ocean teleconnections.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_GICC05	Age,,,years before 1950,,,,,N 
+##yb_1950	Age,,,years before 1950,,,,,N 
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -139,7 +139,7 @@ and/or rapid bipolar ocean teleconnections.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_GICC05	d18O
+yb_1950	d18O
 9000	-44.23
 9020	-44.65
 9040	-44.53

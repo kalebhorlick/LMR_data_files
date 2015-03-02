@@ -87,7 +87,7 @@ the ability of models to reproduce the GIS response to Holocene climate.
 #	Southernmost_Latitude: 80.7
 #	Easternmost_Longitude: 73.1
 #	Westernmost_Longitude: 73.1
-#	Elevation: 1730m
+#	Elevation: 1730 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 09Gree01
@@ -97,11 +97,11 @@ the ability of models to reproduce the GIS response to Holocene climate.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
+##yr_b2k	Age,,,years before 2k AD,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -110,7 +110,7 @@ the ability of models to reproduce the GIS response to Holocene climate.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+yr_b2k	d18O
 40	-27.18
 60	-27.03
 80	-27.24

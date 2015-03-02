@@ -77,7 +77,7 @@ provide information on climatic change.
 #	Southernmost_Latitude: 67.25
 #	Easternmost_Longitude: -66.75
 #	Westernmost_Longitude: -66.75
-#	Elevation: 2100m
+#	Elevation: 2100 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 03Penn01
@@ -86,12 +86,12 @@ provide information on climatic change.
 #	Time Unit: AD
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age_AD	Age,,,year AD,,,,,N
-##MFP	Melt feature percentage,,,percentage,,ice cores,,,N 
+##MFP		Melt feature percentage,,,percentage,,ice cores,,,N 
 #
 # --------------------
 # Data:

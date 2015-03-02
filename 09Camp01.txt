@@ -87,21 +87,21 @@ the ability of models to reproduce the GIS response to Holocene climate.
 #	Southernmost_Latitude: 77.1667
 #	Easternmost_Longitude: 61.133
 #	Westernmost_Longitude: 61.133
-#	Elevation: 1890m
+#	Elevation: 1890 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 09Camp01
 #	Earliest_Year: 11700
 #	Most_Recent_Year: 100
-#	Time Unit: yrs b2k
+#	Time Unit: yrs b2k AD
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
+##yrb2k		Age,,,years before 2k AD,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -110,7 +110,7 @@ the ability of models to reproduce the GIS response to Holocene climate.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-
+yr_b2k	d18O
 40	NaN
 60	NaN
 80	NaN

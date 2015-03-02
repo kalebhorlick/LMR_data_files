@@ -25,7 +25,7 @@
 #	Study_Name: TALDICE Ice Core 8-25KYrBP Oxygen Isotope Data 
 # --------------------
 # Investigators
-#	Investigators: 
+#	Investigators: Stenni, B.; Buiron, D.; Frezzotti, M.; Albani, S.; Barbante, C.; Bard, E.; Barnola, J.M.; Baroni, M.; Baumgartner, M.; Bonazza, M.; Capron, E.; Castellano, E.; Chappellaz, J.; Delmonte, B.; Falourd, S.; Genoni, L.; Iacumin, P.; Jouzel, J.; Kipfstuhl, S.; Landaid, A.; Lemieux-Dudon, B.; Maggi, V.; Masson-Delmotte, V.; Mazzola, C.; Minster, B.; Montagnat, M.; Mulvaney, R.; Narcisi, B.; Oerter, H.; Parrenin, F.; Petit, J.R.; Ritz, C.; Scarchilli, C.; Schilt, A.; Schupbach, S.; Schwander, J.; Selmo, E.; Severi, M.; Stocker, T.F.; Uditsi, R. 
 # --------------------
 # Description_and_Notes
 # 	Description: Oxygen isotope profile from 512m to 898m in the TALDICE Project Talos Dome Ice Core.  Optimal accuracy of ± 0.05‰ (1 sigma). 
@@ -34,7 +34,7 @@
 #
 # --------------------
 # Publication
-#	Authors: B. Stenni, Stenni, B., D. Buiron, M. Frezzotti, S. Albani, C. Barbante, E. Bard, J.M. Barnola, M. Baroni, M. Baumgartner, M. Bonazza, E. Capron, E. Castellano, J. Chappellaz, B. Delmonte, S. Falourd, L. Genoni, P. Iacumin, J. Jouzel, S. Kipfstuhl, A. Landais, B. Lemieux-Dudon, V. Maggi, V. Masson-Delmotte, C. Mazzola, B. Minster, M. Montagnat, R. Mulvaney, B. Narcisi, H. Oerter, F. Parrenin, J.R. Petit, C. Ritz, C. Scarchilli, A. Schilt, S. Schüpbach, J. Schwander, E. Selmo, M. Severi, T.F. Stocker, and R. Udisti
+#	Authors: B. Stenni, D. Buiron, M. Frezzotti, S. Albani, C. Barbante, E. Bard, J.M. Barnola, M. Baroni, M. Baumgartner, M. Bonazza, E. Capron, E. Castellano, J. Chappellaz, B. Delmonte, S. Falourd, L. Genoni, P. Iacumin, J. Jouzel, S. Kipfstuhl, A. Landais, B. Lemieux-Dudon, V. Maggi, V. Masson-Delmotte, C. Mazzola, B. Minster, M. Montagnat, R. Mulvaney, B. Narcisi, H. Oerter, F. Parrenin, J.R. Petit, C. Ritz, C. Scarchilli, A. Schilt, S. Schüpbach, J. Schwander, E. Selmo, M. Severi, T.F. Stocker, and R. Udisti
 #	Published_Date_or_Year: 2010
 #	Published_Title: 
 #	Journal_Name: Nature Geoscience
@@ -80,21 +80,21 @@ Bølling-Allerød warming in the northern hemisphere 14,700 years ago.
 #	Southernmost_Latitude: -72.1866
 #	Easternmost_Longitude: 159.133
 #	Westernmost_Longitude: 159.133
-#	Elevation: 2315m
+#	Elevation: 2315 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 10TalD01
-#	Earliest_Year: 25107 cal yr BP
-#	Most_Recent_Year: 8023 cal yr BP
+#	Earliest_Year: 25107 
+#	Most_Recent_Year: 8023 
 #	Time Unit: cal yr BP
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N        age scale B.P. (1950 A.D.)
+##calyr_BP	Age,,,calendar years before 1950,,,,,N        
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -103,7 +103,7 @@ Bølling-Allerød warming in the northern hemisphere 14,700 years ago.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+calyr_BP	d18O
 8023	-37.97
 8035	-36.25
 8069	-37.2

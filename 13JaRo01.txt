@@ -70,9 +70,9 @@
 # 	Elevation: 1542 m 
 #------------------   
 # Data_Collection  
-#	Core_Name: 07JRI2013dD 
-#	First_Year: 1000
-#	Last_Year: 2007
+#	Collection_Name: 13JaRo01
+#	Earliest_year: 1000
+#	Most_recent_Year: 2007
 #	Time_Unit: AD
 #	Core_Length:    
 #	Notes: 

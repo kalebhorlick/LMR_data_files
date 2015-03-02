@@ -50,14 +50,14 @@
 #	Grant: 
 # --------------------
 # Site_Information
-#	Site_Name: 
+#	Site_Name: Siple Dome
 #	Location: North America>Greenland
 #	Country:  
 #	Northernmost_Latitude: -75.920
 #	Southernmost_Latitude: -75.920	 
 #	Easternmost_Longitude: -84.150
 #	Westernmost_Longitude: -84.150
-#	Elevation:
+#	Elevation: 621 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 06SipD01

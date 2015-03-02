@@ -65,7 +65,7 @@ been proposed as the most important oscillation for the observed trends in Arcti
 #	Southernmost_Latitude: 79.830	 
 #	Easternmost_Longitude: 24.270
 #	Westernmost_Longitude: 24.270
-#	Elevation:
+#	Elevation: 750 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 05sval01
@@ -81,7 +81,7 @@ been proposed as the most important oscillation for the observed trends in Arcti
 #
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O		dO18,,,per mil SMOW,,ice cores,,,N
-#	
+#
 # --------------------
 # Data:
 # Data lines follow (have no #)

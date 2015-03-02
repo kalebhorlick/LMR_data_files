@@ -50,7 +50,7 @@
 #	Grant: 
 # --------------------
 # Site_Information
-#	Site_Name: 
+#	Site_Name: PARCA
 #	Location: North America>Greenland
 #	Country:  
 #	Northernmost_Latitude: 69.800
@@ -60,9 +60,9 @@
 #	Elevation:
 # --------------------
 # Data_Collection
-#	Collection_Name: 06PARCAD301
+#	Collection_Name: 06PARC02
 #	Earliest_Year: 1900
-#	Most_Recent_Year: 1993
+#	Most_Recent_Year: 1998
 #	Time Unit: AD
 #
 # --------------------
@@ -73,7 +73,7 @@
 #
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O		dO18,,,per mil SMOW,,ice cores,,,N
-#	
+#
 # --------------------
 # Data:
 # Data lines follow (have no #)

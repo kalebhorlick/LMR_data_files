@@ -50,14 +50,14 @@
 #	Grant: 
 # --------------------
 # Site_Information
-#	Site_Name: 
+#	Site_Name: GITS
 #	Location: North America>Greenland
 #	Country:  
 #	Northernmost_Latitude: 77.410
 #	Southernmost_Latitude: 77.410	 
 #	Easternmost_Longitude: -61.090
 #	Westernmost_Longitude: -61.090
-#	Elevation:
+#	Elevation: 1910 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 06GITS01
@@ -73,7 +73,7 @@
 #
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O		dO18,,,per mil SMOW,,ice cores,,,N
-#	
+#
 # --------------------
 # Data:
 # Data lines follow (have no #)

@@ -79,7 +79,7 @@ reconstructions covering the last millennium and other periods.
 #	Southernmost_Latitude: -79.38
 #	Easternmost_Longitude: -111.24
 #	Westernmost_Longitude: -111.24
-#	Elevation: 
+#	Elevation: 1336 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 00ITAS04
@@ -89,7 +89,7 @@ reconstructions covering the last millennium and other periods.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

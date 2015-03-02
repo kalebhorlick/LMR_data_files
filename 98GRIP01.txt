@@ -90,7 +90,7 @@
 #	Southernmost_Latitude: 72.58
 #	Easternmost_Longitude: 37.63
 #	Westernmost_Longitude: 37.63
-#	Elevation: 3028m
+#	Elevation: 302 8m
 # --------------------
 # Data_Collection
 #	Collection_Name: 98GRIP01
@@ -100,7 +100,7 @@
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

@@ -103,21 +103,21 @@ circulation.
 #	Southernmost_Latitude: -75
 #	Easternmost_Longitude: .07
 #	Westernmost_Longitude: .07
-#	Elevation: 2892m
+#	Elevation: 2892 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 06Dron01
 #	Earliest_Year: -51350
 #	Most_Recent_Year: 10050
-#	Time Unit: cal yr BP
+#	Time Unit: kyr BP
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
+##kyr_BP		Age,,,k year before present,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -126,7 +126,7 @@ circulation.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-AgeKYrBP	d18O
+kyr_BP	d18O
 10.05	-43.93
 10.15	-44.34
 10.25	-44

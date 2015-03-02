@@ -77,7 +77,7 @@ industrial period 1850-2000 in the Altai region.
 #	Southernmost_Latitude: 49.8072
 #	Easternmost_Longitude: 86.5786
 #	Westernmost_Longitude: 86.5786
-#	Elevation: 4062m
+#	Elevation: 406 2m
 # --------------------
 # Data_Collection
 #	Collection_Name: 09Alta01
@@ -87,7 +87,7 @@ industrial period 1850-2000 in the Altai region.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

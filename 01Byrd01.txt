@@ -62,7 +62,7 @@
 #	Southernmost_Latitude: 80
 #	Easternmost_Longitude: 119.5
 #	Westernmost_Longitude: 119.5
-#	Elevation: 1530m
+#	Elevation: 1530 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 01Byrd01
@@ -72,7 +72,7 @@
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

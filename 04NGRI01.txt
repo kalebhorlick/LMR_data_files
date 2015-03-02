@@ -86,7 +86,7 @@ was not operating at this time.
 #	Southernmost_Latitude: 70.166
 #	Easternmost_Longitude: 42.533
 #	Westernmost_Longitude: 42.533
-#	Elevation: 3085m
+#	Elevation: 3085 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 04NGRI01
@@ -96,11 +96,11 @@ was not operating at this time.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N ****age before 1950
+##yb_2k		Age,,,years before 2000 AD,,,,,N ****age before 1950
 ##d18o		d18o,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -109,7 +109,7 @@ was not operating at this time.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age	d18O
+yb_2k	d18O
 121,550     -32.64
 121,600     -32.64
 121,600     -32.39

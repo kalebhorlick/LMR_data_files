@@ -95,7 +95,7 @@ isotopes records.
 #	Southernmost_Latitude: -74.65
 #	Easternmost_Longitude: 124.17
 #	Westernmost_Longitude: 124.17
-#	Elevation: 3240m
+#	Elevation: 3240 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 12Fuji01
@@ -105,13 +105,13 @@ isotopes records.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
-##delD
+##delD		delD,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
@@ -119,7 +119,7 @@ isotopes records.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age	d18O	delD
+age_AD	d18O	delD
 0.03	-52.06	-403.92
 0.05	-52.41	-405.16
 0.08	-53.76	-415.06

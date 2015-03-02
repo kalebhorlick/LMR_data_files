@@ -94,7 +94,7 @@
 #	Southernmost_Latitude: 72.583
 #	Easternmost_Longitude: 37.683
 #	Westernmost_Longitude: 37.683
-#	Elevation: 3230m
+#	Elevation: 323 0m
 # --------------------
 # Data_Collection
 #	Collection_Name: 05GRIP01
@@ -104,11 +104,11 @@
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##ka_b2k	Age,,,ka b2k,,,,,N
+##yr_b2k	Age,,,years before 2000AD,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -117,7 +117,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-ka_b2k	d18O
+yr_b2k	d18O
 20	NaN
 40	-35.13
 60	-35.55

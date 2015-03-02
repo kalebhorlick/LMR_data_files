@@ -64,7 +64,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 #	Southernmost_Latitude: -86.5 
 #	Easternmost_Longitude: -107.990
 #	Westernmost_Longitude: -107.990
-#	Elevation: 1697m
+#	Elevation: 1697 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 00ITAS03
@@ -73,11 +73,11 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 #	Time Unit: AD
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##Midpoint year	Age,,,year AD,,,,,N
+##Midpt_year	Age,,,year AD,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -86,7 +86,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: nan
 #
-Midpoint year	d18O
+Midpt_year	d18O
 2002.9398	-38.8163
 2002.8193	-43.2611
 2002.6988	-44.4300

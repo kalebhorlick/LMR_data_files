@@ -23,7 +23,7 @@
 # --------------------
 # Title 
 #	Study_Name: Annual mean of d18O of firn core DML19C98_05
-
+#
 # --------------------
 # Investigators
 #	Investigators: Graf, W.; Oerter, H.; Reinwarth, O.; Stichler, W.; Wilhelms, F.; Miller, H.; Mulvaney, R.  
@@ -58,7 +58,7 @@
 #	Southernmost_Latitude: -75.167
 #	Easternmost_Longitude: -0.995
 #	Westernmost_Longitude: -0.995
-#	Elevation: 2840m
+#	Elevation: 2840 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 02Dron12

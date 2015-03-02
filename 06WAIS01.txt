@@ -58,7 +58,7 @@
 #	Southernmost_Latitude: -79.46
 #	Easternmost_Longitude: -112.09
 #	Westernmost_Longitude: -112.09
-#	Elevation: 
+#	Elevation: 1759 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 06WAIS01
@@ -71,7 +71,7 @@
 # 
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
-#	
+#
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #

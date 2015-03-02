@@ -113,14 +113,14 @@
 #	Grant: 
 # --------------------
 # Site_Information
-#	Site_Name: Huascaran glacier, Devon Island
-#	Location: South America>Peru
-#	Country:  Peru
+#	Site_Name: Huascaran glacier
+#	Location: South America>Bolivia
+#	Country: Bolivia
 #	Northernmost_Latitude: -9
 #	Southernmost_Latitude: -9 
 #	Easternmost_Longitude: -77.5
 #	Westernmost_Longitude: -77.5
-#	Elevation:
+#	Elevation: 6050 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 95Huas01
@@ -136,7 +136,7 @@
 #
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O		dO18,,,per mil SMOW,,ice cores,,,N
-#	
+#
 # --------------------
 # Data:
 # Data lines follow (have no #)

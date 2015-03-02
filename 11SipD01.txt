@@ -69,21 +69,21 @@ during much of the last ice age and glacial-interglacial transition.
 #	Southernmost_Latitude: -81.65
 #	Easternmost_Longitude: -148.82
 #	Westernmost_Longitude: -148.82
-#	Elevation: 621m
+#	Elevation: 621 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 11SipD01
-#	Earliest_Year: 57110 cal yr BP
-#	Most_Recent_Year: 8630 cal yr BP
+#	Earliest_Year: 57110 
+#	Most_Recent_Year: 8630 
 #	Time Unit: cal yr BP
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N        age scale B.P. (1950 A.D.)
+##calyr_BP	Age,,,calendar year before 1950,,,,,N        
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -92,7 +92,7 @@ during much of the last ice age and glacial-interglacial transition.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+calyr_BP	d18O
 8023	-37.97
 8035	-36.25
 8069	-37.2

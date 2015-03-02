@@ -70,7 +70,7 @@ valuable information on variations in the strength of the monsoon across the TP 
 #	Southernmost_Latitude: 33.920	 
 #	Easternmost_Longitude: 89.080
 #	Westernmost_Longitude: 89.080
-#	Elevation:
+#	Elevation: 6070 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 06Puru01
@@ -86,7 +86,7 @@ valuable information on variations in the strength of the monsoon across the TP 
 #
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O		dO18,,,per mil SMOW,,ice cores,,,N
-#	
+#
 # --------------------
 # Data:
 # Data lines follow (have no #)

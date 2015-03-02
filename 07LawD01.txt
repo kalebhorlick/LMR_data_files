@@ -71,7 +71,7 @@ are important for modelling the climatic response to eruptions. The largest volc
 #	Southernmost_Latitude: -66.77
 #	Easternmost_Longitude: 112.81
 #	Westernmost_Longitude: 112.81
-#	Elevation: 
+#	Elevation: 1390 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 07LawD01

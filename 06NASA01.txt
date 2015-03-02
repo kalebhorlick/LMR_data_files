@@ -29,9 +29,6 @@
 # --------------------
 # Description_and_Notes
 #	Description: 
-#
-#
-#
 # --------------------
 # Publication
 #	Authors: Ellen Mosley-Thompson, Lonnie G. Thompson, Ping-Nan Lin
@@ -75,7 +72,7 @@
 #
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O		dO18,,,per mil SMOW,,ice cores,,,N
-#	
+#
 # --------------------
 # Data:
 # Data lines follow (have no #)

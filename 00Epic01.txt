@@ -63,17 +63,17 @@
 #	Southernmost_Latitude: -74.65
 #	Easternmost_Longitude: 124.17
 #	Westernmost_Longitude: 124.17
-#	Elevation: 3240m
+#	Elevation: 3240 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 00Dome01
-#	Earliest_Year: 44KYrBP
-#	Most_Recent_Year: present
+#	Earliest_Year: 44
+#	Most_Recent_Year: 0
 #	Time Unit: KYrBP
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

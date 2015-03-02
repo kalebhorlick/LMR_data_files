@@ -39,7 +39,6 @@
 #	Renland ice core, Greenland:  71.27°N, 26.73°W, 2350m elev.  
 #	DYE-3 ice core, Greenland:    65°11'N, 43°49'W, 2490m elev.  
 #
-#
 # --------------------
 # Publication
 #	Authors: B.M. Vinther, S.L. Buchardt, H.B. Clausen, D. Dahl-Jensen, S.J. Johnsen, D.A. Fisher, R.M. Koerner, D. Raynaud, V. Lipenkov, K.K. Andersen, T. Blunier, S.O. Rasmussen, J.P. Steffensen, and A.M. Svensson
@@ -87,7 +86,7 @@ the ability of models to reproduce the GIS response to Holocene climate.
 #	Southernmost_Latitude: 65.183
 #	Easternmost_Longitude: 43.816
 #	Westernmost_Longitude: 43.816
-#	Elevation: 2490m
+#	Elevation: 2490 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 09GDYE01
@@ -97,11 +96,11 @@ the ability of models to reproduce the GIS response to Holocene climate.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
+##yr_b2k	Age,,,years before 2k AD,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -110,6 +109,7 @@ the ability of models to reproduce the GIS response to Holocene climate.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
+yr_b2k	d18O
 40	-27.36
 60	-27.06
 80	-27.36

@@ -58,7 +58,7 @@
 #	Southernmost_Latitude: -79.46
 #	Easternmost_Longitude: -112.09
 #	Westernmost_Longitude: -112.09
-#	Elevation: 
+#	Elevation: 1759 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 05WAIS01

@@ -101,7 +101,7 @@ accumulation change during the recent decades.
 #	Southernmost_Latitude: 27.98
 #	Easternmost_Longitude: 86.92
 #	Westernmost_Longitude: 86.92
-#	Elevation: 6500m
+#	Elevation: 6500 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 03Rong01
@@ -111,11 +111,11 @@ accumulation change during the recent decades.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##dating	Age,,,year AD,,,,,N
+##age_AD	Age,,,year AD,,,,,N
 ##d18O		dO18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
@@ -124,7 +124,7 @@ accumulation change during the recent decades.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-dating	d18O
+age_AD	d18O
 1997.9300	-13.9100
 1997.8600	-18.0700
 1997.7900	-18.7800

@@ -58,7 +58,7 @@
 #	Southernmost_Latitude: 80.7
 #	Easternmost_Longitude: -73.1
 #	Westernmost_Longitude: -73.1
-#	Elevation: 
+#	Elevation: 2616 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 08Agas01

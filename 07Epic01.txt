@@ -68,7 +68,7 @@ interglacial periods in ice core records.
 #	Southernmost_Latitude: -75.1
 #	Easternmost_Longitude: 123.4
 #	Westernmost_Longitude: 123.4
-#	Elevation: 3240m
+#	Elevation: 3240 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 07Epic01
@@ -78,7 +78,7 @@ interglacial periods in ice core records.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
@@ -136,7 +136,7 @@ age_AD	delD
 478.21433	-401
 490.39719	-393.6
 503.05731	-410.4
-515.651	-401.3
+515.651		-401.3
 528.76422	-398.3
 541.60858	-388.5
 554.93121	-391.9
@@ -2692,7 +2692,7 @@ age_AD	delD
 105955.56	-417.9
 106010.62	-420
 106066.94	-415.7
-106122	-418.1
+106122		-418.1
 106177.62	-418.7
 106233.79	-414.7
 106287.17	-414.7

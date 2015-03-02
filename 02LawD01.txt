@@ -76,7 +76,7 @@ seesaw.
 #	Southernmost_Latitude: 66.766
 #	Easternmost_Longitude: 112.8
 #	Westernmost_Longitude: 112.8
-#	Elevation: 1370m
+#	Elevation: 1370 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 02LawD01
@@ -86,7 +86,7 @@ seesaw.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

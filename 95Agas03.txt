@@ -58,7 +58,7 @@
 #	Southernmost_Latitude: 75.420
 #	Easternmost_Longitude: -82.5
 #	Westernmost_Longitude: -82.5
-#	Elevation: 
+#	Elevation: 1800 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 95Agas03
@@ -74,7 +74,7 @@
 #
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O 		dO18,,,per mil SMOW,,ice cores,,,N
-#	
+#
 # --------------------
 # Data:
 # Data lines follow (have no #)

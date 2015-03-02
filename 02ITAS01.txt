@@ -74,7 +74,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 #	Southernmost_Latitude: -86.5 
 #	Easternmost_Longitude: -107.990
 #	Westernmost_Longitude: -107.990
-#	Elevation: 2586m
+#	Elevation: 2586 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 02ITASE01
@@ -83,9 +83,9 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 #	Time Unit: AD
 # --------------------
 # Variables
-#	
-#	Midpoint year	Age,,,year AD,,,,,N
-#	delD	del D,,,per mil SMOW,,ice cores,,,N 
+#
+##Midpt_year	Age,,,year AD as midpoint,,,,,N
+##delD	del D,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -93,7 +93,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-Midpoint year	delD
+Midpt_year	delD
 2002.9398	-313.0681
 2002.8193	-345.4067
 2002.6988	-355.1577

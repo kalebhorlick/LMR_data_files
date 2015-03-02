@@ -62,7 +62,7 @@ Winter season stable isotope data from ice core records that reach more than 140
 #	Southernmost_Latitude: 72.58
 #	Easternmost_Longitude: -37.64
 #	Westernmost_Longitude: -37.64
-#	Elevation: 
+#	Elevation: 3230 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 10GRIP01
@@ -72,7 +72,7 @@ Winter season stable isotope data from ice core records that reach more than 140
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

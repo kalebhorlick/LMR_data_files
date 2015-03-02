@@ -69,7 +69,7 @@ now exceed the stable conditions of most of the Holocene epoch is likely to caus
 #	Southernmost_Latitude: -64.2
 #	Easternmost_Longitude: -57.70
 #	Westernmost_Longitude: -57.70
-#	Elevation: 
+#	Elevation: 1542 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 07JaRo01

@@ -54,11 +54,11 @@
 #	Site_Name: Dronning Maud Land
 #	Location: Antarctica
 #	Country:  
-#	Northernmost_Latitude: -74.968450
-#	Southernmost_Latitude: -74.968450	 
-#	Easternmost_Longitude: 3.918167
-#	Westernmost_Longitude: 3.918167
-#	Elevation: 3014.0-3021.0m
+#	Northernmost_Latitude: -74.968
+#	Southernmost_Latitude: -74.968	 
+#	Easternmost_Longitude: 3.918
+#	Westernmost_Longitude: 3.918
+#	Elevation: 3014 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 02Dron01

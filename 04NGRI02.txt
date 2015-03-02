@@ -86,7 +86,7 @@ was not operating at this time.
 #	Southernmost_Latitude: 70.166
 #	Easternmost_Longitude: 42.533
 #	Westernmost_Longitude: 42.533
-#	Elevation: 3085m
+#	Elevation: 3085 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 04NGRI02
@@ -96,7 +96,7 @@ was not operating at this time.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

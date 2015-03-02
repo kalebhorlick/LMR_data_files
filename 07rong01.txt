@@ -82,7 +82,6 @@ shifts in monsoonal circulation.
 #Funding_Agency
 #	Funding_Agency_Name: Chinese Academy of Sciences
 #	Grant: KZCX3-SW-339/344
-#	
 # --------------------
 # Site_Information
 #	Site_Name: East Rongbuk Glacier
@@ -92,7 +91,7 @@ shifts in monsoonal circulation.
 #	Southernmost_Latitude: 27.98
 #	Easternmost_Longitude: 86.92
 #	Westernmost_Longitude: 86.92
-#	Elevation: 6500m
+#	Elevation: 6500 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 07Rong01
@@ -102,7 +101,7 @@ shifts in monsoonal circulation.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

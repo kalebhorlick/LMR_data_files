@@ -79,14 +79,14 @@ global climate.
 #	Funding_Agency_Name: 
 # --------------------
 # Site_Information
-#	Site_Name: Guliya
+#	Site_Name: Dasuopo
 #	Location: Asia>China
 #	Country: China
-#	Northernmost_Latitude: 28.380
-#	Southernmost_Latitude: 28.380	 
-#	Easternmost_Longitude: 85.720
-#	Westernmost_Longitude: 85.720
-#	Elevation: 7000m
+#	Northernmost_Latitude: 23.38
+#	Southernmost_Latitude: 23.38 
+#	Easternmost_Longitude: 85.72
+#	Westernmost_Longitude: 85.72
+#	Elevation: 7200 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 03Dasu01
@@ -96,7 +96,7 @@ global climate.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

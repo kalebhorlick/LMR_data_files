@@ -62,7 +62,7 @@ Winter season stable isotope data from ice core records that reach more than 140
 #	Southernmost_Latitude: 71.12
 #	Easternmost_Longitude: -37.32
 #	Westernmost_Longitude: -37.32
-#	Elevation: 
+#	Elevation: 2410 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 10Cret01

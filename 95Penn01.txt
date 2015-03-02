@@ -58,12 +58,12 @@
 #	Southernmost_Latitude: 67.25	 
 #	Easternmost_Longitude: -66.75
 #	Westernmost_Longitude: -66.75
-#	Elevation: 2100m
+#	Elevation: 2100 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 95Penn01
-#	Earliest_Year: 
-#	Most_Recent_Year: 
+#	Earliest_Year: 1992
+#	Most_Recent_Year: 993
 #	Time Unit: AD
 #
 # --------------------
@@ -72,7 +72,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age of bottom (?)
+##age_AD
 ##d18O 		dO18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
@@ -81,7 +81,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: nan
 #
-age	d18O
+age_AD	d18O
 1992.1000	-23.6850
 1991.1000	-23.7140
 1990.1000	-24.5301

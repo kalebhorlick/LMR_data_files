@@ -90,7 +90,7 @@ containing Ba and other crustal elements.
 #	Southernmost_Latitude: 75.1
 #	Easternmost_Longitude: 123.35
 #	Westernmost_Longitude: 123.35
-#	Elevation: 3233m
+#	Elevation: 3233 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 10EPIC01
@@ -100,7 +100,7 @@ containing Ba and other crustal elements.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

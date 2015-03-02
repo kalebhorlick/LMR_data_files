@@ -75,7 +75,7 @@ the result of external climate forcing.
 #	Southernmost_Latitude: -73.59
 #	Easternmost_Longitude: -70.36
 #	Westernmost_Longitude: -70.36
-#	Elevation: 1400m
+#	Elevation: 140 0m
 # --------------------
 # Data_Collection
 #	Collection_Name: 09Gome01
@@ -85,7 +85,7 @@ the result of external climate forcing.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

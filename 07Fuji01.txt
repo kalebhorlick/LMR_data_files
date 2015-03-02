@@ -94,7 +94,7 @@ summer insolation triggered the last four deglaciations.
 #	Southernmost_Latitude: -77.32
 #	Easternmost_Longitude: 38.7
 #	Westernmost_Longitude: 38.7
-#	Elevation: 3810m
+#	Elevation: 3810 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 07Fuji01
@@ -104,11 +104,11 @@ summer insolation triggered the last four deglaciations.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_yrb2k	Age,,,years before 2k,,,,,N
+##yr_b2k	Age,,,years before 2k,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -117,7 +117,7 @@ summer insolation triggered the last four deglaciations.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_yrb2k	d18O
+yr_b2k	d18O
 125	-54.61
 375	-55.24
 625	-55.14

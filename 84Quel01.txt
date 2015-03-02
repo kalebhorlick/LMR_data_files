@@ -60,7 +60,7 @@
 #	Southernmost_Latitude: -13.930
 #	Easternmost_Longitude: -70.830
 #	Westernmost_Longitude: -70.830
-#	Elevation: 5670m
+#	Elevation: 5670 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 84Quel01
@@ -76,7 +76,8 @@
 #
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O		dO18,,,per mil SMOW,,ice cores,,,N
-##accum		accumulaiton,,,meters,,ice cores,,,N	
+##accum		accumulaiton,,,meters,,ice cores,,,N
+#
 # --------------------
 # Data:
 # Data lines follow (have no #)

@@ -78,20 +78,20 @@ pattern and the Pacific Decadal Oscillation.
 #	Location:North America> Canada>Yukon
 #	Country: Canada 
 #	Northernmost_Latitude: 60.58
-#	Southernmost_Latitude: 60.85	 
+#	Southernmost_Latitude: 60.58	 
 #	Easternmost_Longitude: -140.58
 #	Westernmost_Longitude: -140.58
-#	Elevation: 5340m
+#	Elevation: 5340 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 92MtLo01
+#	Collection_Name: 92MtLo01a
 #	Earliest_Year: 1736
 #	Most_Recent_Year: 1987
 #	Time Unit: AD
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

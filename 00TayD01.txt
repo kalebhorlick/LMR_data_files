@@ -67,7 +67,7 @@
 #	Southernmost_Latitude: -77.78	 
 #	Easternmost_Longitude: 158.72
 #	Westernmost_Longitude: 158.72
-#	Elevation: 2365m
+#	Elevation: 2365 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 00TayD01
@@ -77,7 +77,7 @@
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

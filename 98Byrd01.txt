@@ -90,7 +90,7 @@
 #	Southernmost_Latitude: 80
 #	Easternmost_Longitude: 119.5
 #	Westernmost_Longitude: 119.5
-#	Elevation: 1530m
+#	Elevation: 1530 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 98Byrd01
@@ -100,15 +100,15 @@
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_yb1989	Age,,,years before 1989,,,,,N
+##yrb_1989	Age,,,years before 1989,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
-age_yb1989	d18O
+yrb_1989	d18O
 10015	-33.63
 10041	-33.38
 10068	-33.69

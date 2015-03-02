@@ -81,7 +81,7 @@ pattern and the Pacific Decadal Oscillation.
 #	Southernmost_Latitude: 60.85	 
 #	Easternmost_Longitude: -140.58
 #	Westernmost_Longitude: -140.58
-#	Elevation: 5340m
+#	Elevation: 5340 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 92MtLo01
@@ -91,7 +91,7 @@ pattern and the Pacific Decadal Oscillation.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

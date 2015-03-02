@@ -90,7 +90,7 @@ followed by an increment of about 11% in accumulation during the 20th century. A
 #	Southernmost_Latitude: -72.8	 
 #	Easternmost_Longitude: 159.1
 #	Westernmost_Longitude: 159.1
-#	Elevation: 2316m
+#	Elevation: 2316 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 96TalD01
@@ -106,7 +106,7 @@ followed by an increment of about 11% in accumulation during the 20th century. A
 #
 ##age_AD	Age,,,year AD,,,,,N
 ##d18O		dO18,,,per mil SMOW,,ice cores,,,N
-#	
+#
 # --------------------
 # Data:
 # Data lines follow (have no #)

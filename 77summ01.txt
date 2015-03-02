@@ -56,7 +56,7 @@
 #	Southernmost_Latitude: 71.283
 #	Easternmost_Longitude: 37.93
 #	Westernmost_Longitude: 37.93
-#	Elevation: 3212m
+#	Elevation: 3212 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 77Summ01
@@ -66,7 +66,7 @@
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
@@ -79,7 +79,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age_AD	accumu
 1972	15.63
 1971	25
 1970	20.31

@@ -89,9 +89,9 @@
 # 	Elevation: 1370 m 
 #------------------   
 # Data_Collection  
-#	Core_Name: 11LawD02
-#	First_Year: 1999
-#	Last_Year: 2009
+#	Collection_Name: 11LawD02
+#	Earliest_Year: 1999
+#	Most_Recent_year: 2009
 #	Time_Unit: AD 
 #	Core_Length: 
 #	Notes: 
@@ -108,8 +108,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: material, error, units, anomaly, period, archive, detail, method, C or N for Character or Numeric data) 
 # Data line format: tab-delimited text, variable short name as header
 #
-##age_AD	Age (years AD), , , years AD , , , , N
-##d18OiceVSMOW	delta18O ice (per mil VSMOW), , , per mil VSMOW, , , , N
+##age_AD	Age (years AD),,,years AD ,,,,N
+##d18OiceVSMOW	d18O ice (per mil VSMOW),,,per mil VSMOW,,,,N
 #
 age_AD	d18OiceVSMOW
 1999.96	-20.99

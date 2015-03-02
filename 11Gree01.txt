@@ -27,17 +27,16 @@
 #	Investigators: Pedro, J.B.; McConnell, J.R.; van Ommen, T.D.; Fink, D.; Curran, M.A.J.; Smith, A.M.; Moy, A.D.; Das, S.B.
 #--------------------
 # Description_and_Notes
-# 
-# Annually-resolved 10Be concentrations, stable water isotope ratios and 
-# accumualtion rate data from the DSS site on Law Dome, East Antarctica 
-# (spanning 1936-2009) and the Das2 site, southeast Greenland (1936-2002).
-# A composite record constructed from these records and previously published 
-# records from NGRIP, Renland and Dye 3 (Greenland) and Dronning Maud Land 
-# (Antarctica) is also provided. 
+# 	Description: Annually-resolved 10Be concentrations, stable water isotope ratios and 
+# 	accumualtion rate data from the DSS site on Law Dome, East Antarctica 
+# 	(spanning 1936-2009) and the Das2 site, southeast Greenland (1936-2002).
+# 	A composite record constructed from these records and previously published 
+# 	records from NGRIP, Renland and Dye 3 (Greenland) and Dronning Maud Land 
+# 	(Antarctica) is also provided. 
 #
-# References for DSS data spanning 2000-2010: Pedro et al. Clim. Past 7:707; Pedro et al. JGR 116:D23120
+# 	References for DSS data spanning 2000-2010: Pedro et al. Clim. Past 7:707; Pedro et al. JGR 116:D23120
 #
-# Note: All measurements are calibrated to the NIST SRM 4325 10Be standard reference material, utilising the Nishiizumi et al. (2007) 10Be:9Be ratio of (2.79 +/- 0.02) x 10^(-11)
+#	 Note: All measurements are calibrated to the NIST SRM 4325 10Be standard reference material, utilising the Nishiizumi et al. (2007) 10Be:9Be ratio of (2.79 +/- 0.02) x 10^(-11)
 #
 # 
 #--------------------
@@ -47,7 +46,7 @@
 #	Published_Title: Solar and climate influences on icecore 10Be records from Antarctica and Greenland during the neutron monitor era
 #	Journal_Name: Earth and Planetary Science Letters
 #	Volume: 355-356
-#	Issue: 
+#	Issue:
 #	Pages: 174-186
 #	DOI: 10.1016/j.epsl.2012.08.038
 #	Abstract: Cosmogenic 10Be in polar ice cores is a primary proxy for past solar activity. However, interpretation of the 10Be record is hindered by limited understanding of the physical processes governing its atmospheric transport and deposition to the ice sheets. This issue is addressed by evaluating two accurately dated, annually resolved ice core 10Be records against modern solar activity observations and instrumental and reanalysis climate data. The cores are sampled from the DSS site on Law Dome, East Antarctica (spanning 1936-2009) and the Das2 site, southeast Greenland (1936-2002), permitting inter-hemispheric comparisons. Concentrations at both DSS and Das2 are significantly correlated to the 11-yr solar cycle modulation of cosmic ray intensity, rxy = 0.54 with 95% CI [0.31; 0.70], and rxy = 0.45 with 95% CI [0.22; 0.62], respectively. For both sites, if fluxes are used instead of concentrations then correlations with solar activity decrease. The strength and spectral coherence of the solar activity signal in 10Be is enhanced when ice core records are combined from both Antarctica and Greenland. The amplitudes of the 11-yr solar cycles in the 10Be data appear inconsistent with the view that the ice sheets receive only 10Be produced at polar latitudes. Significant climate signals detected in the 10Be series include the zonal wave three pattern of atmospheric circulation at DSS, rxy = -0.36 with 95% CI [-0.57; -0.10], and the North Atlantic Oscillation at Das2, rxy = -0.42 with 95% CI [-0.64; -0.15]. The sensitivity of 10Be concentrations to modes of atmospheric circulation advises caution in the use of 10Be records from single sites in solar forcing reconstructions. 
@@ -59,7 +58,7 @@
 #	Published_Title: High-resolution records of the beryllium-10 solar activity proxy in ice from Law Dome, East Antarctica: measurement, reproducibility and principal trends
 #	Journal_Name: Climate of the Past
 #	Volume: 7
-#	Issue: 
+#	Issue:
 #	Pages: 707-721
 #	DOI: 10.5194/cp-7-707-2011
 #	Abstract: Three near-monthly resolution 10Be records are presented from the Dome Summit South (DSS) ice core site, Law Dome, East Antarctica. The chemical preparation and Accelerator Mass Spectrometer (AMS) measurement of these records is described. The reproducibility of 10Be records at DSS is assessed through intercomparison of the ice core data with data from two previously published and contemporaneous snow pits. We find generally good agreement between the five records, comparable to that observed between other trace chemical records from the site. This result allays concerns raised by a previous Antarctic study (Moraal et al., 2005) about poor reproducibility of ice core 10Be records. A single composite series is constructed from the three ice cores providing a monthly-resolved record of 10Be concentrations at DSS over the past decade (1999 to 2009). To our knowledge, this is the first published ice core data spanning the recent exceptional solar minimum of solar cycle 23. 10Be concentrations are significantly correlated to the cosmic ray flux recorded by the McMurdo neutron monitor (rxy = 0.64, with 95 % CI of 0.53 to 0.71), suggesting that solar modulation of the atmospheric production rate may explain up to ~40 % of the variance in 10Be concentrations at DSS. Sharp concentration peaks occur in most years during the summer-to-autumn, possibly caused by stratospheric incursions. Our results underscore the presence of both production and meteorological signals in ice core 10Be data.
@@ -73,7 +72,7 @@
 #	Volume: 111
 #	Issue: D21105
 #	Pages:  
-#	DOI:  10.1029/2005JD006764
+#	DOI: 10.1029/2005JD006764
 #	Abstract: We used a snow pit record in conjunction with detailed snow accumulation data and oxygen isotope records to examine atmospheric transport and deposition effects on 10Be at Law Dome, Antarctica. Data from an adjacent automatic weather station was used to date the record at snowfall event--scale resolution. In contrast to prior ice core studies in Antarctica, the snow pit record is of a sufficiently short duration (~1 year) that 10Be fluctuations reflect mainly atmospheric transport processes rather than solar modulation of production. Elevated concentrations of 10Be were found in the late austral summer and early autumn snow, synchronous with the seasonal increase in stratospheric aerosols at Antarctic stations. A significant (P < 0.01) anticorrelation of 10Be with d18O occurs at the snowfall event scale. Fractionation of water isotopes at Law Dome is controlled by local and regional processes, specifically transport and local temperature. The anticorrelation seen here implies that 10Be concentration was reduced in snow from warmer air masses (characterized by less negative d18O). There is potential for confounding solar modulation with climatic modulation if at sites such as this one, warmer meteorological influences may be associated with reduced 10Be concentrations. Quantification of the significance of this effect for the longer-term 10Be record will require analysis of longer 10Be records from different sites. 
 #
 #---------------------
@@ -104,29 +103,24 @@
 # 	Elevation: 2936 m 
 #------------------   
 # Data_Collection  
-#	Core_Name: 11Gree01
-#	First_Year: 1936
-#	Last_Year: 2002
+#	Collection_Name: 11Gree01
+#	Earliest_Year: 1936
+#	Most_recent_Year: 2002
 #	Time_Unit: AD 
 #	Core_Length: 
 #	Notes: 
 #------------------
-# Chronology 
-#
-# 
-# 
-#------------------
 # Variables
-# 
+#
 # End Description/Documentation (lines begin with #)
 # Data lines follow (have no #)
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: material, error, units, anomaly, period, archive, detail, method, C or N for Character or Numeric data) 
 # Data line format: tab-delimited text, variable short name as header
 #
 #
-##age_AD	Age (years AD), , , years AD , , , , N
-##d18OiceVSMOW	delta18O ice (per mil VSMOW), , , per mil VSMOW, , , , N
-##ice_accum_m-yr	Ice accumulation rate (m ice equiv/year), , , m ice equiv/year, , , , N
+##age_AD	Age (years AD),,, years AD,,,, N
+##d18OiceVSMOW	delta18O ice (per mil VSMOW),,,per mil VSMOW,,,, N
+##ice_accum_m-yr	Ice accumulation rate (m ice equiv/year),, m ice equiv/year,,,,N
 #
 #----------------
 # Data:

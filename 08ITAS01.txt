@@ -78,7 +78,7 @@ and potentially its ice sheet, to large-scale changes in the global climate.
 #	Southernmost_Latitude: -77.060	 
 #	Easternmost_Longitude: -82.5
 #	Westernmost_Longitude: -82.5
-#	Elevation: 1239m
+#	Elevation: 1239 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 08ITAS01
@@ -88,7 +88,7 @@ and potentially its ice sheet, to large-scale changes in the global climate.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #

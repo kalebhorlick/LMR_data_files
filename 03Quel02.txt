@@ -68,19 +68,19 @@ glaciers is not only contributing to global sea-level rise but also threatening 
 #	Southernmost_Latitude: -13.16
 #	Easternmost_Longitude: -70.14
 #	Westernmost_Longitude: -70.14
-#	Elevation: 
+#	Elevation: 5670 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 03Quel01
-#	Earliest_Year: 488
-#	Most_Recent_Year: 2003
-#	Time Unit: AD
+#	Earliest_Year: 744
+#	Most_Recent_Year: 1995
+#	Time unit: AD
 #
 # --------------------
 # Variables
-#	
-#	age_AD	Age,,,year AD,,,,,N
-#	d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+#
+##age_AD	Age,,,year AD,,,,,N
+##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:

@@ -76,7 +76,7 @@ global climate.ith phase variation of <1 month. Dating precision and accuracy ar
 #	Southernmost_Latitude: -78.120 
 #	Easternmost_Longitude: 95.650
 #	Westernmost_Longitude: 95.650
-#	Elevation: 1620m
+#	Elevation: 1620 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 08ITASE03
@@ -89,7 +89,7 @@ global climate.ith phase variation of <1 month. Dating precision and accuracy ar
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
-#	
+#
 ##age_AD	Age,,,year AD,,,,,N
 ##delD		delD,,,per mil SMOW,,ice cores,,,N 
 #

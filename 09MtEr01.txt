@@ -99,7 +99,7 @@ observational record.
 #	Southernmost_Latitude: -77.515
 #	Easternmost_Longitude: 167.6765
 #	Westernmost_Longitude: 167.6765
-#	Elevation: 1600m
+#	Elevation: 160 0m
 # --------------------
 # Data_Collection
 #	Collection_Name: 09MtEr01
@@ -109,7 +109,7 @@ observational record.
 #
 # --------------------
 # Variables
-#	
+#
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
