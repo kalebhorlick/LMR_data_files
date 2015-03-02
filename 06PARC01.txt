@@ -9,7 +9,7 @@
 #
 #
 #
-# Online_Resource: http://ncdc.noaa.gov/paleo/study/
+# Online_Resource: 
 #
 # Original_Source_URL: 
 #
@@ -50,14 +50,14 @@
 #	Grant: 
 # --------------------
 # Site_Information
-#	Site_Name: 
+#	Site_Name: PARCA D2
 #	Location: North America>Greenland
 #	Country:  
 #	Northernmost_Latitude: 71.750
 #	Southernmost_Latitude: 71.750	 
 #	Easternmost_Longitude: -46.160
 #	Westernmost_Longitude: -46.160
-#	Elevation:
+#	Elevation: 2850 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 06PARC01

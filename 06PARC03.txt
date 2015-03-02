@@ -50,14 +50,14 @@
 #	Grant: 
 # --------------------
 # Site_Information
-#	Site_Name: 
+#	Site_Name: PARCA Raven
 #	Location: North America>Greenland
 #	Country:  
 #	Northernmost_Latitude: 69.5
 #	Southernmost_Latitude: 69.5	 
 #	Easternmost_Longitude: -44.5
 #	Westernmost_Longitude: -44.5
-#	Elevation:
+#	Elevation: 2200 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 06PARC03

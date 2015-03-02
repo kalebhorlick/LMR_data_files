@@ -50,14 +50,14 @@
 #	Grant: 
 # --------------------
 # Site_Information
-#	Site_Name: PARCA
+#	Site_Name: PARCA D3
 #	Location: North America>Greenland
 #	Country:  
 #	Northernmost_Latitude: 69.800
 #	Southernmost_Latitude: 69.800	 
 #	Easternmost_Longitude: -44.00
 #	Westernmost_Longitude: -44.00
-#	Elevation:
+#	Elevation: 2460 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 06PARC02
