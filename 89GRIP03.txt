@@ -65,7 +65,7 @@
 # Data_Collection
 #	Collection_Name: 89GRIP03
 #	Earliest_Year: 1772
-#	Most_Recent_Year: 1986
+#	Most_Recent_Year: 1979
 #	Time Unit: AD
 #
 # --------------------
@@ -84,13 +84,6 @@
 # Missing values: NAN
 #
 age_AD	d18O
-1986	NAN
-1985	NAN
-1984	NAN
-1983	NAN
-1982	NAN
-1981	NAN
-1980	NAN
 1979	-37.38
 1978	-35.26
 1977	-33.45
