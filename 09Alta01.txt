@@ -81,8 +81,8 @@ industrial period 1850-2000 in the Altai region.
 # --------------------
 # Data_Collection
 #	Collection_Name: 09Alta01
-#	Earliest_Year: 1975
-#	Most_Recent_Year: 1255
+#	Earliest_Year: 1255
+#	Most_Recent_Year: 1975
 #	Time Unit: AD
 #
 # --------------------
