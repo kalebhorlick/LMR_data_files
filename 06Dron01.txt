@@ -107,8 +107,8 @@ circulation.
 # --------------------
 # Data_Collection
 #	Collection_Name: 06Dron01
-#	Earliest_Year: -51350
-#	Most_Recent_Year: 10050
+#	Earliest_Year: -51.35
+#	Most_Recent_Year: 10.05
 #	Time Unit: kyr BP
 #
 # --------------------
@@ -117,7 +117,7 @@ circulation.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##kyr_BP		Age,,,k year before present,,,,,N
+##kyr_BP	Age,,,k year before present,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
