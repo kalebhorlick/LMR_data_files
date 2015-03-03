@@ -62,8 +62,8 @@ During the LGM stage, over the whole of Antarctica, the change in the total opti
 # --------------------
 # Data_Collection
 #	Collection_Name: 79Dome01
-#	Earliest_Year: 2000
-#	Most_Recent_Year: -37500
+#	Earliest_Year: -37500
+#	Most_Recent_Year: 2000
 #	Time Unit: kaBP
 #
 # --------------------
