@@ -111,9 +111,6 @@ the ability of models to reproduce the GIS response to Holocene climate.
 # Missing values: NAN
 #
 yr_b2k	d18O
-40	NaN
-60	NaN
-80	NaN
 100	-28.84
 120	-29.01
 140	-29.6
