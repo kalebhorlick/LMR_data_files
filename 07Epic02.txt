@@ -86,9 +86,9 @@ interglacial periods in ice core records.
 # --------------------
 # Data_Collection
 #	Collection_Name: 07Epic02
-#	Earliest_Year: -799692
-#	Most_Recent_Year: 2000
-#	Time Unit: AD
+#	Earliest_Year: 44821.74
+#	Most_Recent_Year: 42.5
+#	Time Unit: yb 1950
 #
 # --------------------
 # Variables
@@ -96,7 +96,7 @@ interglacial periods in ice core records.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
+##yb_1950	Age,,,years before 1950,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
