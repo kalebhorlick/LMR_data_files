@@ -99,9 +99,9 @@ isotopes records.
 # --------------------
 # Data_Collection
 #	Collection_Name: 12Fuji01
-#	Earliest_Year: 2000
-#	Most_Recent_Year: -37500
-#	Time Unit: AD
+#	Earliest_Year: 360.9
+#	Most_Recent_Year: 0.03
+#	Time Unit: kyb 2k
 #
 # --------------------
 # Variables
@@ -109,7 +109,7 @@ isotopes records.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
+##kyb_2k	Age,,,kilo years before 2k,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 ##delD		delD,,,per mil SMOW,,ice cores,,,N
 #
@@ -119,7 +119,7 @@ isotopes records.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O	delD
+kyb_2k	d18O	delD
 0.03	-52.06	-403.92
 0.05	-52.41	-405.16
 0.08	-53.76	-415.06
