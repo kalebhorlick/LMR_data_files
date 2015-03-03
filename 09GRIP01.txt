@@ -101,7 +101,7 @@ the ability of models to reproduce the GIS response to Holocene climate.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##ka_b2k	Age,,,ka b2k,,,,,N
+##yb_2k		Age,,,y b2k,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -110,7 +110,7 @@ the ability of models to reproduce the GIS response to Holocene climate.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-ka_b2k	d18O
+yb_2k	d18O
 40	-35.13
 60	-35.55
 80	-35.16
