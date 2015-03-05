@@ -66,8 +66,8 @@
 # --------------------
 # Data_Collection
 #	Collection_Name: 01GRIP01
-#	Earliest_Year: 10003.7
-#	Most_Recent_Year: 90265.8
+#	Earliest_Year: 90265.8
+#	Most_Recent_Year: 10003.7
 #	Time Unit: years before 1950
 #
 # --------------------
