@@ -61,7 +61,7 @@ series over a long period. Further, it appears that for this region there is a l
 #	Southernmost_Latitude: 71.12
 #	Easternmost_Longitude: -44.58
 #	Westernmost_Longitude: -44.58
-#	Elevation: 241 0m
+#	Elevation: 2410 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 74Cret03
