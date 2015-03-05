@@ -66,8 +66,8 @@
 # --------------------
 # Data_Collection
 #	Collection_Name: 01GISP01
-#	Earliest_Year: 10014.2
-#	Most_Recent_Year: 89776
+#	Earliest_Year: 89776
+#	Most_Recent_Year: 10014.2
 #	Time Unit: years before 1950
 #
 # --------------------
