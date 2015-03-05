@@ -89,15 +89,14 @@
 # 
 #
 #
-# 	
-#----------------	
-# Variables 
+#----------------
+# Variables
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18O, Porites lobata, ,per mil, ,Corals and Sclerosponges, 17o corrected,stable isotope mass spectrometry,N		
+##d18o	delta 18O, Porites lobata, ,per mil, ,Corals and Sclerosponges, 17o corrected,stable isotope mass spectrometry,N
 #
 #----------------
 # Data:
