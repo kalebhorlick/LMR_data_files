@@ -29,7 +29,6 @@
 # --------------------
 # Description_and_Notes
 # 	Description: 
-#
 # --------------------
 # Publication
 #	Authors: D.A. Fisher
