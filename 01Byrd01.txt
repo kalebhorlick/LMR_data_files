@@ -66,8 +66,8 @@
 # --------------------
 # Data_Collection
 #	Collection_Name: 01Byrd01
-#	Earliest_Year: 10000
-#	Most_Recent_Year: 49940
+#	Earliest_Year: 49940
+#	Most_Recent_Year: 10000
 #	Time Unit: years before 1950
 #
 # --------------------
