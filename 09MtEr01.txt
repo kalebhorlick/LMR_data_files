@@ -99,7 +99,7 @@ observational record.
 #	Southernmost_Latitude: -77.515
 #	Easternmost_Longitude: 167.6765
 #	Westernmost_Longitude: 167.6765
-#	Elevation: 160 0m
+#	Elevation: 1600 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 09MtEr01
