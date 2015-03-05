@@ -57,12 +57,12 @@
 #	Southernmost_Latitude: 75.3
 #	Easternmost_Longitude: -82.166
 #	Westernmost_Longitude: -82.166
-#	Elevation: 192 0m
+#	Elevation: 1920 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 72Devo01
 #	Earliest_Year: 1496
-#	Most_Recent_Year: 1981
+#	Most_Recent_Year: 1951
 #	Time Unit: AD
 #
 # --------------------
