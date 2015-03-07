@@ -97,7 +97,6 @@
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
-
 notes	age_AD	ac_d14c
 83778	1990.5	113
 83779	1990.35	102
