@@ -1,0 +1,466 @@
+# PAGES Ocean2K 400 Year Regional SST Reconstructions
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: http://www.ncdc.noaa.gov/paleo/study/17955
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pages2k/tierney2015sst-indian.txt
+#
+# Archive: Climate Reconstructions
+#---------------------------------------
+# Contribution_Date
+#    Date: 2015-03-03
+#---------------------------------------
+# Title
+#    Study_Name: PAGES Ocean2K 400 Year Regional SST Reconstructions
+#---------------------------------------
+# Investigators
+#      Investigators: Tierney, J.E; Abram, N.J.; Anchukaitis, K.J.; Evans, M.N.; Giry, C.; Kilbourne, K.H.; Saenger, C.P.; Wu, H.C.; Zinke, J.
+#---------------------------------------
+# Description and Notes
+#        Description: This data set contains both the coral data and the resulting SST reconstructions compiled and produced by the PAGES Ocean2K project. 
+#	 The coral data, including both raw and annualized data, are available in matlab (.mat) format. All of the iterations of the reconstructions, 
+#	 and corresponding skill statistics (Figure 2 of the Paleoceanography manuscript), are available in matlab (.mat) format. The "best" reconstructions, 
+#	 defined as the reconstruction iteration having the highest cumulative RE (reduction of error) value, are available in both matlab (.mat) format 
+#	 and text format (Figure 4 of the Paleoceanography manuscript). Please see the source publication for further details. 
+#	 Years correspond to the Apr-Mar tropical year, e.g., 1982 = Apr 1982 to Mar 1983.
+#        Provided Keywords: paleoceanography, SST, past millennium climate, tropical climate, corals
+#---------------------------------------
+# Publication
+# Authors: Jessica E. Tierney, Nerilie J. Abram, Kevin J. Anchukaitis, Michael N. Evans, Cyril Giry, K. Halimeda Kilbourne, Casey P. Saenger, Henry C. Wu and Jens Zinke
+# Published_Date_or_Year: 2015-02-16
+# Published_Title: Tropical sea-surface temperatures for the past four centuries reconstructed from coral archives
+# Journal_Name: Paleoceanography
+# Volume: 
+# Issue: 
+# Pages: 
+# Report Number: 
+# DOI: 10.1002/2014PA002717
+# Abstract: Most annually resolved climate reconstructions of the Common Era are based on terrestrial data, making it a challenge to independently assess how recent climate changes have affected the oceans. Here, as part of the Past Global Changes (PAGES) Ocean2K project, we present four regionally calibrated and validated reconstructions of sea-surface temperatures in the tropics, based on fifty-seven published and publicly archived marine paleoclimate datasets derived exclusively from tropical coral archives. Validation exercises suggest that our reconstructions are interpretable for much of the past 400 years, depending on the availability of paleoclimate data within, and the reconstruction validation statistics for, each target region. Analysis of the trends in the data suggests that the Indian, western Pacific, and western Atlantic ocean regions were cooling until modern warming began around the 1830s. The early 1800s were an exceptionally cool period in the Indo-Pacific region, likely due to multiple large tropical volcanic eruptions occurring in the early 19th century. Decadal-scale variability is a quasi-persistent feature of all basins. 20th century warming associated with greenhouse gas emissions is apparent in the Indian, West Pacific, and Western Atlantic Oceans, but we find no evidence that either natural or anthropogenic forcings have altered El Nino-Southern Oscillation (ENSO)-related variance in tropical SSTs. Our marine-based regional paleoclimate reconstructions serve as benchmarks against which terrestrial reconstructions as well as climate model simulations can be compared, and as a basis for studying the processes by which the tropical oceans mediate climate variability and change.
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: IGBP PAGES (Past Global Changes)
+#    Grant: 
+#---------------------------------------
+# Site Information
+# Site_Name: Indian Ocean
+# Location: Indian Ocean
+# Country: 
+# Northernmost_Latitude: 20
+# Southernmost_Latitude: -15
+# Easternmost_Longitude: 40
+# Westernmost_Longitude: 100
+# Elevation: 
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: Tierney2015Indian
+#   First_Year: 1622
+#   Last_Year: 2001
+#   Time_Unit: AD
+#   Core_Length: 
+#   Notes: 
+#---------------------------------------
+# Chronology: 
+#---------------------------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## age_AD  age,,,years AD,Apr-Mar,,,,N
+## sst-apr-mar.anom  sea-surface temperature anomaly,,,degree C,Apr-Mar,,reference period: 1961-1990 A.D.,Weighted CPS reconstruction,N
+#
+#---------------------------------------
+# Data
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Value: 
+#
+age_AD	sst-apr-mar.anom
+2001	0.05
+2000	0.23
+1999	0.11
+1998	0.25
+1997	-0.1
+1996	-0.24
+1995	0.09
+1994	0.27
+1993	0.1
+1992	0.11
+1991	0.19
+1990	0.06
+1989	0.07
+1988	0.12
+1987	0.13
+1986	0.02
+1985	-0.18
+1984	-0.03
+1983	0.06
+1982	0.08
+1981	0
+1980	0.17
+1979	0.15
+1978	0.1
+1977	0.2
+1976	0.09
+1975	-0.13
+1974	-0.04
+1973	0
+1972	0.03
+1971	-0.18
+1970	-0.12
+1969	0.02
+1968	-0.18
+1967	-0.19
+1966	-0.07
+1965	-0.08
+1964	-0.07
+1963	-0.03
+1962	-0.1
+1961	-0.13
+1960	-0.1
+1959	-0.14
+1958	-0.01
+1957	-0.07
+1956	-0.08
+1955	0
+1954	0.04
+1953	-0.01
+1952	0.07
+1951	-0.07
+1950	-0.19
+1949	-0.15
+1948	-0.16
+1947	-0.16
+1946	-0.08
+1945	-0.14
+1944	-0.16
+1943	-0.4
+1942	-0.1
+1941	0.01
+1940	-0.02
+1939	-0.1
+1938	-0.22
+1937	-0.11
+1936	-0.03
+1935	-0.06
+1934	-0.11
+1933	-0.29
+1932	-0.17
+1931	-0.12
+1930	-0.07
+1929	-0.21
+1928	-0.3
+1927	-0.22
+1926	-0.33
+1925	-0.31
+1924	-0.39
+1923	-0.36
+1922	-0.38
+1921	-0.39
+1920	-0.35
+1919	-0.31
+1918	-0.36
+1917	-0.39
+1916	-0.45
+1915	-0.27
+1914	-0.29
+1913	-0.26
+1912	-0.37
+1911	-0.48
+1910	-0.62
+1909	-0.58
+1908	-0.49
+1907	-0.41
+1906	-0.29
+1905	-0.27
+1904	-0.31
+1903	-0.35
+1902	-0.28
+1901	-0.32
+1900	-0.35
+1899	-0.48
+1898	-0.48
+1897	-0.33
+1896	-0.22
+1895	-0.39
+1894	-0.43
+1893	-0.43
+1892	-0.37
+1891	-0.26
+1890	-0.33
+1889	-0.22
+1888	-0.36
+1887	-0.56
+1886	-0.44
+1885	-0.35
+1884	-0.6
+1883	-0.69
+1882	-0.42
+1881	-0.38
+1880	-0.25
+1879	-0.13
+1878	-0.02
+1877	-0.06
+1876	-0.41
+1875	-0.47
+1874	-0.51
+1873	-0.31
+1872	-0.43
+1871	-0.44
+1870	-0.47
+1869	-0.41
+1868	-0.26
+1867	-0.4
+1866	-0.46
+1865	-0.27
+1864	-0.36
+1863	-0.32
+1862	-0.56
+1861	-0.56
+1860	-0.46
+1859	-0.47
+1858	-0.47
+1857	-0.5
+1856	-0.36
+1855	-0.2
+1854	-0.5
+1853	-0.53
+1852	-0.33
+1851	-0.44
+1850	-0.51
+1849	-0.75
+1848	-0.7
+1847	-0.8
+1846	-0.54
+1845	-0.59
+1844	-0.69
+1843	-0.91
+1842	-0.77
+1841	-0.97
+1840	-0.86
+1839	-0.94
+1838	-0.86
+1837	-1.21
+1836	-1.25
+1835	-0.96
+1834	-0.86
+1833	-1.07
+1832	-0.99
+1831	-0.63
+1830	-0.55
+1829	-0.81
+1828	-0.62
+1827	-0.95
+1826	-0.69
+1825	-0.6
+1824	-0.82
+1823	-0.22
+1822	-0.45
+1821	-0.72
+1820	-0.75
+1819	-0.66
+1818	-0.79
+1817	-0.87
+1816	-1.19
+1815	-0.92
+1814	-0.47
+1813	-0.67
+1812	-0.79
+1811	-0.99
+1810	-0.99
+1809	-0.85
+1808	-0.73
+1807	-1.14
+1806	-1.02
+1805	-0.71
+1804	-0.61
+1803	-0.99
+1802	-0.78
+1801	-0.94
+1800	-0.62
+1799	-0.61
+1798	-0.34
+1797	-0.3
+1796	-0.41
+1795	-0.53
+1794	-0.37
+1793	-0.32
+1792	-0.59
+1791	-0.28
+1790	-0.67
+1789	-0.88
+1788	-0.83
+1787	-0.42
+1786	-0.26
+1785	-0.43
+1784	-0.46
+1783	-0.66
+1782	-0.66
+1781	-0.71
+1780	-0.32
+1779	-0.72
+1778	-0.36
+1777	-0.34
+1776	-0.56
+1775	-0.53
+1774	-0.31
+1773	-0.55
+1772	-0.55
+1771	-0.51
+1770	-0.31
+1769	-0.51
+1768	-0.55
+1767	-0.35
+1766	-0.57
+1765	-0.14
+1764	-0.47
+1763	-0.58
+1762	-0.59
+1761	-0.62
+1760	-0.46
+1759	-0.36
+1758	-0.75
+1757	-0.61
+1756	-0.65
+1755	-1.19
+1754	-0.71
+1753	-0.62
+1752	-0.52
+1751	-0.71
+1750	-0.33
+1749	-0.19
+1748	-0.26
+1747	-0.24
+1746	-0.29
+1745	-0.48
+1744	-0.34
+1743	-0.19
+1742	-0.29
+1741	-0.3
+1740	-0.25
+1739	-0.27
+1738	-0.26
+1737	-0.22
+1736	-0.21
+1735	-0.14
+1734	-0.08
+1733	-0.63
+1732	-0.39
+1731	-0.32
+1730	-0.58
+1729	-0.38
+1728	-0.32
+1727	-0.42
+1726	-0.6
+1725	-0.42
+1724	-0.16
+1723	-0.16
+1722	-0.22
+1721	-0.36
+1720	-0.43
+1719	-0.55
+1718	-0.65
+1717	-0.58
+1716	-0.46
+1715	-0.4
+1714	-0.53
+1713	-0.35
+1712	-0.58
+1711	-0.49
+1710	-0.44
+1709	-0.48
+1708	-0.48
+1707	-0.5
+1706	-0.39
+1705	-0.49
+1704	-0.44
+1703	-0.41
+1702	-0.75
+1701	-0.48
+1700	-0.37
+1699	-0.42
+1698	-0.38
+1697	-0.19
+1696	-0.3
+1695	-0.3
+1694	-0.19
+1693	-0.26
+1692	-0.16
+1691	-0.3
+1690	-0.42
+1689	-0.33
+1688	-0.15
+1687	-0.23
+1686	-0.28
+1685	-0.38
+1684	-0.25
+1683	-0.23
+1682	-0.37
+1681	-0.34
+1680	-0.28
+1679	-0.42
+1678	-0.42
+1677	-0.22
+1676	-0.43
+1675	-0.52
+1674	-0.47
+1673	-0.54
+1672	-0.41
+1671	-0.35
+1670	-0.52
+1669	-0.41
+1668	-0.23
+1667	-0.39
+1666	-0.54
+1665	-0.37
+1664	-0.47
+1663	-0.21
+1662	-0.04
+1661	-0.18
+1660	-0.26
+1659	-0.21
+1658	-0.08
+1657	-0.21
+1656	-0.33
+1655	-0.18
+1654	-0.23
+1653	-0.3
+1652	-0.4
+1651	-0.5
+1650	-0.35
+1649	-0.36
+1648	-0.52
+1647	-0.35
+1646	-0.22
+1645	-0.38
+1644	-0.58
+1643	-0.35
+1642	-0.22
+1641	-0.21
+1640	-0.23
+1639	-0.29
+1638	-0.17
+1637	-0.15
+1636	-0.51
+1635	-0.38
+1634	-0.34
+1633	-0.46
+1632	-0.42
+1631	-0.58
+1630	-0.72
+1629	-0.64
+1628	-0.43
+1627	-0.49
+1626	-0.4
+1625	-0.59
+1624	-0.73
+1623	-0.53
+1622	-0.63
