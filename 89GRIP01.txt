@@ -8,9 +8,7 @@
 # If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
 #
 #
-#
-# Online_Resource: 
-#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:17799
 #
 # Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/stacked.txt
 #
@@ -58,8 +56,8 @@
 #	Country:
 #	Northernmost_Latitude: 72.58
 #	Southernmost_Latitude: 72.58
-#	Easternmost_Longitude: 37.63
-#	Westernmost_Longitude: 37.63
+#	Easternmost_Longitude: -37.63
+#	Westernmost_Longitude: -37.63
 #	Elevation: 3246 m
 # --------------------
 # Data_Collection
