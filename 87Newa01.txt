@@ -1,4 +1,4 @@
-# GISP2/GRIP Stable Isotopes Stacked Record
+# Newall Glacier Ice Core Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -8,11 +8,9 @@
 # If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
 #
 #
+# Online_resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2427
 #
-# 
-# Online_resource:https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2427
-#
-# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/stacked.txt
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/dominion/pit_6m_chem.txt
 #
 # Description/Documentation lines begin with #
 # Data lines have no #
@@ -20,52 +18,52 @@
 # Archive: Ice Cores
 # --------------------
 # Contribution_date
-#	Date: 2011
+#	Date: 1998
 # --------------------
 # Title 
-#	Study_Name: GISP2/GRIP Stable Isotopes Stacked Record 
+#	Study_Name:Newall Glacier Ice Core Data 
 # --------------------
 # Investigators
-#	Investigators: White, J.W.C.; Barlow, L.K.; Fisher, D.; Grootes, P.M.; Jouzel, J.; Johnsen, S.J.; Stuiver, M.; Clausen, H.B. 
+#	Investigators: Mayewski, P.A.; Lyons, W.B.; Zielinski, G.; Twickler, M.; Whitlow, S.; Dibb, J.; Grootes, P.; Taylor, K.; Whung, P.Y.; Fosberry, L.; Wake, C.; Welch, K.
 # --------------------
 # Description_and_Notes
-# 	Description: This file contains stable isotope (delta 18O) data from six ice cores five from the area surrounding the GRIP deep ice core, and one from GISP2
-#	(the "B" core).  Dating control was achieved as described in White et al., (1997).  For the GISP2 core, the timescale given here is NOT identical tothe official GISP2 timescale in the file gisp2age.dat.
+# 	Description: Newall Glacier (162o30'E, 77o35'S) 
+#	6M snow pit dug and sampled in 1987, 2.25 cm sampling interval 
+#	4M snow pit dug and sampled in 1988, 1 cm sampling interval 
 #
-#	GRIP892
 # --------------------
 # Publication
-#	Authors: J.W.C. White, L.K. Barlow, D. Fisher, P.M. Grooes, J. Jouzel, S.J. Johnsen, M. Stuiver, H.B. Clausen
-#	Published_Date_or_Year: 1997
-#	Published_Title: The climate signal in the stable isotopes of snow from Summit, Greenland
-#	Journal_Name: Journal of Geophysical Research
-#	Volume: 102		
+#	Authors: P. A. Mayewski, W. B. Lyons, G. Zielinski, M. Twickler, S. Whitlow, J. Dibb1, P. Grootes, K. Taylor, P.-Y. Whung, L. Fosberry, C. Wake andK. Welch
+#	Published_Date_or_Year: 1995
+#	Published_Title: An Ice-Core-Based, Late Holocene History for the Transantarctic Mountains, Antarctica
+#	Journal_Name: Contributions to Antarctic Research IV, Antarctic Res Series
+#	Volume: 67		
 #	Edition: 	
 #	Issue: 
-#	Pages: 26425-26439
+#	Pages: 33-45
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: The winter d18O signal is extracted from 7 Greenland ice cores covering the past -700 years. To filter out noise and local variations in the 7 isotope records a principal component analysis is carried out on the ice core data. A comparison between the time series of the first principal component (PC1) with 67 years of winter (December to March) temperature measurements from 3 southern Greenland synoptic stations shows highly significant correlations. Southern Greenland winter temperatures are known to be greatly influenced by the North Atlantic Oscillation (NAO). A good proxy for southern Greenland temperatures is therefore expected to reveal at least parts of the NAO signal. It is shown that the PC1 time series indeed is significantly correlated to the NAO during the winter months. The inclusion of ice core winter season d18O time series in future multiproxy NAO reconstructions is therefore recommended.
+#	Abstract: 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
 #	Grant:
 # --------------------
 # Site_Information
-#	Site_Name: GRIP
-#	Location: North America>Greenland
+#	Site_Name: Newall Glacier
+#	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: 
-#	Southernmost_Latitude: 
-#	Easternmost_Longitude: 
-#	Westernmost_Longitude: 
-#	Elevation: 
+#	Northernmost_Latitude: -77.58
+#	Southernmost_Latitude: -77.58
+#	Easternmost_Longitude: -85.25
+#	Westernmost_Longitude: -85.25
+#	Elevation: 2700 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 89GRIP02
-#	Earliest_Year: 1772
-#	Most_Recent_Year: 1986
+#	Collection_Name: 87Newa01
+#	Earliest_Year: 1906
+#	Most_Recent_Year: 1984
 #	Time Unit: AD
 #
 # --------------------
@@ -84,3 +82,203 @@
 # Missing values: NAN
 #
 age_AD	d18O
+1984.91	-46.01
+1984.56	-43.36
+1984.21	-43.8
+1983.87	-45.35
+1983.52	-45.25
+1983.17	-40.3
+1982.82	-38.27
+1982.47	-38.34
+1982.12	-39.59
+1981.76	-39.84
+1981.41	-41.05
+1981.06	-41.46
+1980.71	-43.18
+1980.35	-44.69
+1980	-45.52
+1979.65	-45.65
+1979.29	-45.57
+1978.94	-45.74
+1978.58	-46.22
+1978.23	-46.37
+1977.87	-46.48
+1977.51	-44.35
+1977.16	-45.14
+1976.8	-46.35
+1976.44	-46.23
+1976.08	-45.81
+1975.72	-44.78
+1975.36	-43.26
+1975	-42.06
+1974.64	-41.53
+1974.28	-42.1
+1973.92	-42.81
+1973.56	-43.17
+1973.2	-43.02
+1972.83	-42.53
+1972.47	-41.2
+1972.11	-41.04
+1971.74	-41.08
+1971.38	-40.83
+1971.01	-41.03
+1970.65	-40.85
+1970.28	-40.04
+1969.92	-39.35
+1969.55	-38.54
+1969.18	-37.82
+1968.82	-37.87
+1968.45	-38.44
+1968.08	-38.51
+1967.71	-38.77
+1967.34	-38.85
+1966.97	-39.53
+1966.6	-39.73
+1966.23	-41.3
+1965.86	-42.18
+1965.49	-43.03
+1965.12	-44.62
+1964.74	-47.1
+1964.37	-47.84
+1964	-48.87
+1963.62	-48.69
+1963.25	-48.32
+1962.88	-44.14
+1962.5	-43.02
+1962.12	-42.68
+1961.75	-41.94
+1961.37	-40.71
+1961	-40.12
+1960.62	-39.83
+1960.24	-39.76
+1959.86	-39.94
+1959.48	-39.69
+1959.1	-39.75
+1958.73	-39.63
+1958.35	-39.27
+1957.97	-39.01
+1957.58	-38.63
+1957.2	-38.62
+1956.82	-38.38
+1956.44	-38.5
+1956.06	-38.17
+1955.67	-38.49
+1955.29	-38.5
+1954.91	-38.89
+1954.52	-39.23
+1954.14	-39.82
+1953.75	-40.42
+1953.37	-41.17
+1952.98	-42.58
+1952.59	-44.02
+1952.21	-44.46
+1951.82	-45.26
+1951.43	-46
+1951.04	-45.92
+1950.65	-45.76
+1950.27	-45.7
+1949.88	-45.14
+1949.49	-44.51
+1949.1	-43.94
+1948.7	-43.77
+1948.31	-43.95
+1947.92	-44.12
+1947.53	-44.78
+1947.14	-45.39
+1946.74	-45.86
+1946.35	-46.09
+1945.96	-45.93
+1945.56	-45.46
+1945.17	-44.82
+1944.77	-43.92
+1944.37	-42.84
+1943.98	-41.53
+1943.58	-40.75
+1943.19	-40.27
+1942.79	-39.41
+1942.39	-39.18
+1941.99	-39.11
+1941.59	-39.16
+1941.19	-39.18
+1940.79	-39.77
+1940.39	-40.3
+1939.99	-40.84
+1939.59	-41.35
+1939.19	-41.8
+1938.79	-42.13
+1938.39	-42.67
+1937.98	-43.37
+1937.58	-43.76
+1937.18	-44.04
+1936.77	-44.33
+1936.37	-44.56
+1935.96	-44.9
+1935.56	-44.94
+1935.15	-45.1
+1934.75	-45.4
+1934.34	-45.13
+1933.93	-45.05
+1933.52	-44.65
+1933.12	-44.46
+1932.71	-44.15
+1932.3	-43.54
+1931.89	-43.24
+1931.48	-42.63
+1931.07	-42.13
+1930.66	-41.54
+1930.25	-41.14
+1929.84	-40.87
+1929.43	-40.65
+1929.01	-40.94
+1928.6	-41.03
+1928.19	-41.27
+1927.77	-41.39
+1927.36	-41.71
+1926.95	-42.04
+1926.53	-42.21
+1926.11	-42.5
+1925.7	-42.58
+1925.28	-42.64
+1924.87	-42.82
+1924.45	-42.94
+1924.03	-43.17
+1923.61	-43.37
+1923.2	-43.68
+1922.78	-43.86
+1922.36	-43.98
+1921.94	-44.07
+1921.52	-44.07
+1921.1	-44.22
+1920.68	-44
+1920.25	-43.87
+1919.83	-43.15
+1919.41	-42.44
+1918.99	-41.61
+1918.56	-40.99
+1918.14	-40.35
+1917.72	-39.94
+1917.29	-39.95
+1916.87	-40.16
+1916.44	-40.43
+1916.02	-40.97
+1915.59	-41.65
+1915.16	-42.25
+1914.74	-42.8
+1914.31	-43.06
+1913.88	-43.24
+1913.45	-43.13
+1913.03	-43.02
+1912.6	-43.35
+1912.17	-43.17
+1911.74	-43.1
+1911.31	-43.04
+1910.88	-43.16
+1910.44	-43.26
+1910.01	-43.54
+1909.58	-43.83
+1909.15	-44.14
+1908.72	-44.4
+1908.28	-44.04
+1907.85	-43.97
+1907.41	-43.65
+1906.98	-43.16
