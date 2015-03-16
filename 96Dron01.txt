@@ -1,4 +1,4 @@
-# Stable-isotope records from Dronning Maud Land
+﻿# Stable-isotope records from Dronning Maud Land
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and

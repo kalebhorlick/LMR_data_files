@@ -1,4 +1,4 @@
-# Devon Ice Cap - Oxygen Isotope, Particle, Conductivity and Chemistry Data
+﻿# Devon Ice Cap - Oxygen Isotope, Particle, Conductivity and Chemistry Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and

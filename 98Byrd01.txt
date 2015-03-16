@@ -1,4 +1,4 @@
-# Antarctic & Greenland-GRIP Synchronization Data
+ï»¿# Antarctic & Greenland-GRIP Synchronization Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -65,7 +65,7 @@
 #
 # --------------------
 # Publication
-#	Authors: T. Blunier, J. Chappellaz, J. Schwander, A. Dällenbach, B. Stauffer, T. F. Stocker, D. Raynaud, J. Jouzel, H. B. Clausen, C. U. Hammer & S. J. Johnsen
+#	Authors: T. Blunier, J. Chappellaz, J. Schwander, A. DÃ¤llenbach, B. Stauffer, T. F. Stocker, D. Raynaud, J. Jouzel, H. B. Clausen, C. U. Hammer & S. J. Johnsen
 #	Published_Date_or_Year: 1998-02-13
 #	Published_Title: Asynchrony of Antarctic and Greenland climate change during the last glacial period
 #	Journal_Name: Nature
@@ -76,7 +76,7 @@
 #	DOI: doi:10.1038/29447 
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: A central issue in climate dynamics is to understand how the Northern and Southern hemispheres are coupled during climate events. The strongest of the fast temperature changes observed in Greenland (so-called Dansgaard–Oeschger events) during the last glaciation have an analogue in the temperature record from Antarctica. A comparison of the global atmospheric concentration of methane as recorded in ice cores from Antarctica and Greenland permits a determination of the phase relationship (in leads or lags) of these temperature variations. Greenland warming events around 36 and 45 kyr before present lag their Antarctic counterpart by more than 1 kyr. On average, Antarctic climate change leads that of Greenland by 1–2.5 kyr over the period 47–23 kyr before present.
+#	Abstract: A central issue in climate dynamics is to understand how the Northern and Southern hemispheres are coupled during climate events. The strongest of the fast temperature changes observed in Greenland (so-called Dansgaardâ€“Oeschger events) during the last glaciation have an analogue in the temperature record from Antarctica. A comparison of the global atmospheric concentration of methane as recorded in ice cores from Antarctica and Greenland permits a determination of the phase relationship (in leads or lags) of these temperature variations. Greenland warming events around 36 and 45 kyr before present lag their Antarctic counterpart by more than 1 kyr. On average, Antarctic climate change leads that of Greenland by 1â€“2.5 kyr over the period 47â€“23 kyr before present.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 

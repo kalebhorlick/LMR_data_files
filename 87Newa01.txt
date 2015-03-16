@@ -1,4 +1,4 @@
-# Newall Glacier Ice Core Data
+﻿# Newall Glacier Ice Core Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and

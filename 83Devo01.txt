@@ -1,4 +1,4 @@
-# Devon Ice Cap Accumulation
+﻿# Devon Ice Cap Accumulation
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -44,7 +44,7 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Removal of winter snow by wind explains why the annual mean oxygen-isotope ratio at an ice divide is 2.5� less negative than it is 1.2 km downslope. Cores from two sites on an ice cap, Ellesmere Island, Canada, show past variations in the difference, depending on where the ice originated relative to the scoured zone. Some ice-core climatic records may need correction for scouring.
+#	Abstract: Removal of winter snow by wind explains why the annual mean oxygen-isotope ratio at an ice divide is 2.5‰ less negative than it is 1.2 km downslope. Cores from two sites on an ice cap, Ellesmere Island, Canada, show past variations in the difference, depending on where the ice originated relative to the scoured zone. Some ice-core climatic records may need correction for scouring.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
