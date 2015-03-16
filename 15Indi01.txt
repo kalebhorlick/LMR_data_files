@@ -62,8 +62,8 @@
 #---------------------------------------
 # Data_Collection
 #   Collection_Name: Tierney2015Indian
-#   First_Year: 1622
-#   Last_Year: 2001
+#   Earliest_Year: 1622
+#   Most_Recent_Year: 2001
 #   Time_Unit: AD
 #   Core_Length: 
 #   Notes: 
@@ -74,6 +74,7 @@
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
 ## age_AD  age,,,years AD,Apr-Mar,,,,N
 ## sst-apr-mar.anom  sea-surface temperature anomaly,,,degree C,Apr-Mar,,reference period: 1961-1990 A.D.,Weighted CPS reconstruction,N
 #

@@ -29,7 +29,6 @@
 # --------------------
 # Description_and_Notes
 # 	Description: 
-#
 # --------------------
 # Publication
 #	Authors: H.B. Clausen, N.S. Gundestrup, S.J. Johnsen, R. Bindschadler, and J. Zwalley
@@ -40,7 +39,7 @@
 #	Edition: 	
 #	Issue: 
 #	Pages: 10-15
-#	DOI: 
+#	DOI:
 #	Online_Resource: 
 #	Full_Citation:  
 #	Abstract: The results of the 1984-85 post-GISP campaigns incentral Greenland are presented. Eight ice cores were obtained, some spanning up to 360 years. We present:
@@ -51,12 +50,12 @@ series over a long period. Further, it appears that for this region there is a l
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name:
-#	Grant: 
+#	Grant:
 # --------------------
 # Site_Information
 #	Site_Name: Crete
 #	Location: North America>Greenland
-#	Country: 
+#	Country:
 #	Northernmost_Latitude: 71.12
 #	Southernmost_Latitude: 71.12
 #	Easternmost_Longitude: -44.58
@@ -68,7 +67,6 @@ series over a long period. Further, it appears that for this region there is a l
 #	Earliest_Year: 1858
 #	Most_Recent_Year: 1973
 #	Time Unit: AD
-#
 # --------------------
 # Variables
 #
@@ -76,7 +74,7 @@ series over a long period. Further, it appears that for this region there is a l
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,years AD,,,,,N
-##d18O		del18O,,,per mil SMOW,,ice cores,,,N 
+##d18O		del18O,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:

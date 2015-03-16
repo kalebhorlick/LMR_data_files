@@ -73,7 +73,7 @@ industrial period 1850-2000 in the Altai region.
 #	Site_Name: Gomez, Antarctic Peninsula
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: 49.8072 
+#	Northernmost_Latitude: 49.8072
 #	Southernmost_Latitude: 49.8072
 #	Easternmost_Longitude: 86.5786
 #	Westernmost_Longitude: 86.5786

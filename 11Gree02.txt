@@ -103,9 +103,9 @@
 # 	Elevation: 2936 m 
 #------------------   
 # Data_Collection  
-#	Core_Name: 11Gree02
-#	First_Year: 1936
-#	Last_Year: 2002
+#	Collection_Name: 11Gree02
+#	Earliest_Year: 1936
+#	Most_recent_year: 2002
 #	Time_Unit: AD 
 #	Core_Length:
 #	Notes:

@@ -109,9 +109,9 @@
 # Data line format: tab-delimited text, variable short name as header
 #
 ##age_AD	Age (years AD),,,years AD ,,,,N
-##d18OiceVSMOW	d18O ice (per mil VSMOW),,,per mil VSMOW,,,,N
+##d18O	d18O ice ,,,per mil VSMOW,,,,N
 #
-age_AD	d18OiceVSMOW
+age_AD	d18O
 1999.96	-20.99
 2000.04	-21.39
 2000.13	-21.99

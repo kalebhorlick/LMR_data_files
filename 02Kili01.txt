@@ -59,12 +59,12 @@ between 2015 and 2020.
 #	Southernmost_Latitude: -3.08	 
 #	Easternmost_Longitude: 37.35
 #	Westernmost_Longitude: 37.35
-#	Elevation: 5893m
+#	Elevation: 5893 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 02Kili01
-#	Earliest_Year: 11KYrBP
-#	Most_Recent_Year: present
+#	Earliest_Year: 11
+#	Most_Recent_Year: 0
 #	Time Unit: KYrBP
 #
 # --------------------

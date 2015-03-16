@@ -62,28 +62,27 @@
 #---------------------------------------
 # Data_Collection
 #   Collection_Name: 15EPac01
-#   First_Year: 1607
-#   Last_Year: 1997
+#   Earliest_Year: 1607
+#   Most_recent_Year: 1997
 #   Time_Unit: AD
 #   Core_Length: 
 #   Notes: 
 #---------------------------------------
-# Chronology: 
+# Chronology:
 #---------------------------------------
 # Variables
 # Data variables follow that are preceded by "##" in columns one and two.
 # Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
 ## age_AD  age,,,years AD,Apr-Mar,,,,N
 ## sst-apr-mar.anom  sea-surface temperature anomaly,,,degree C,Apr-Mar,,reference period: 1961-1990 A.D.,Weighted CPS reconstruction,N
-## RMSE  root mean square error,,,degree C,,Climate Reconstructions,,,N
-## RE  reduction of error statistic,,,,,Climate Reconstructions,,,N
-## CE  coefficient of efficiency statistic,,,,,Climate Reconstructions,,,N
+#
 #
 #----------------
 # Data
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
-# Missing Value: 
+# Missing Value:
 #
 age_AD	sst-apr-mar.anom
 1997	1.51
