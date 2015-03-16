@@ -97,7 +97,7 @@
 #	Elevation: 3230 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 05GRIP01
+#	Collection_Name: 05NGRI01
 #	Earliest_Year: 41760
 #	Most_Recent_Year: 20
 #	Time Unit: yrs b2k

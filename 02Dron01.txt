@@ -81,7 +81,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-Age_AD d18O 
+Age_AD	d18O 
 1997	-45.74
 1996	-43.58
 1995	-41.82
@@ -190,7 +190,7 @@ Age_AD d18O
 1892	-46.14
 1891	-46.92
 1890	-46.64
-1889	
+1889	NAN
 1888	-45.84
 1887	-46.26
 1886	-47.21

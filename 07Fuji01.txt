@@ -90,7 +90,7 @@ summer insolation triggered the last four deglaciations.
 #	Site_Name: Dome Fuji
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: -77.32 
+#	Northernmost_Latitude: -77.32
 #	Southernmost_Latitude: -77.32
 #	Easternmost_Longitude: 38.7
 #	Westernmost_Longitude: 38.7

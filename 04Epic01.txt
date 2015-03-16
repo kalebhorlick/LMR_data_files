@@ -103,7 +103,7 @@ maximum of 8 ppm in addition.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_yb1950	d18O	
+age_yb1950	d18O
 25	-386.24823
 75	-392.579071
 125	-397.371674
