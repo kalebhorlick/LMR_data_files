@@ -1,4 +1,4 @@
-# GISP2/GRIP Stable Isotopes Stacked Record
+﻿# GISP2/GRIP Stable Isotopes Stacked Record
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
