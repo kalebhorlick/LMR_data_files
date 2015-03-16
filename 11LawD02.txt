@@ -1,4 +1,4 @@
-# Law Dome, Antarctica High Resolution 1999-2009 10Be Data, Revised Dating
+﻿# Law Dome, Antarctica High Resolution 1999-2009 10Be Data, Revised Dating
 #----------------------------------------------------------------------- 
 #               World Data Center for Paleoclimatology, Boulder 
 #                                  and 

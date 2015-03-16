@@ -1,4 +1,4 @@
-# PAGES Ocean2K 400 Year Regional SST Reconstructions
+﻿# PAGES Ocean2K 400 Year Regional SST Reconstructions
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                   and
