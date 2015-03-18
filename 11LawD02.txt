@@ -108,8 +108,14 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: material, error, units, anomaly, period, archive, detail, method, C or N for Character or Numeric data) 
 # Data line format: tab-delimited text, variable short name as header
 #
-##age_AD	Age (years AD),,,years AD ,,,,N
-##d18O	d18O ice ,,,per mil VSMOW,,,,N
+##age_AD	Age,,,years AD,,,,,N
+##d18O	d18O,,,per mil VSMOW,,ice cores,,,N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
 #
 age_AD	d18O
 1999.96	-20.99
