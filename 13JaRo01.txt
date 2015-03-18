@@ -1,4 +1,4 @@
-# James Ross Island Ice Core 1000 Year Deuterium and Melt Data
+﻿# James Ross Island Ice Core 1000 Year Deuterium and Melt Data
 #----------------------------------------------------------------------- 
 #               World Data Center for Paleoclimatology, Boulder 
 #                                  and 

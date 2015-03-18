@@ -1,4 +1,4 @@
-# Altai, Siberia 750 Year Ice Core d18O and Temperature Reconstruction  
+ï»¿# Altai, Siberia 750 Year Ice Core d18O and Temperature Reconstruction  
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -35,11 +35,11 @@
 #
 #	Calibration was performed for the period 1850-1980 based on 10-year means, using temperature data from the weather station Barnaul. 
 #
-#	Belukha ice core: 49°48'26"N, 86°34'43"E, elevation 4062 m a.s.l. 
+#	Belukha ice core: 49Â°48'26"N, 86Â°34'43"E, elevation 4062 m a.s.l. 
 #
 # --------------------
 # Publication
-#	Authors: A. Eichler, S. Olivier, K. Henderson, A. Laube, J. Beer, T. Papina, H. W. Gäggeler, and M. Schwikowsk 
+#	Authors: A. Eichler, S. Olivier, K. Henderson, A. Laube, J. Beer, T. Papina, H. W. GÃ¤ggeler, and M. Schwikowsk 
 #	Published_Date_or_Year: 2009
 #	Published_Title: Temperature response in the Altai region lags solar forcing
 #	Journal_Name: Geophysical Research Letters
@@ -66,7 +66,7 @@ to temperature change became less important during
 industrial period 1850-2000 in the Altai region.
 # --------------------
 # Funding_Agency
-#	Funding_Agency_Name: Swiss National Science Foundation (SNSF), Marie-Heim Vögtlin program
+#	Funding_Agency_Name: Swiss National Science Foundation (SNSF), Marie-Heim VÃ¶gtlin program
 #	Grant: PMPD2-110174
 # --------------------
 # Site_Information
@@ -77,7 +77,7 @@ industrial period 1850-2000 in the Altai region.
 #	Southernmost_Latitude: 49.8072
 #	Easternmost_Longitude: 86.5786
 #	Westernmost_Longitude: 86.5786
-#	Elevation: 406 2m
+#	Elevation: 4062 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 09Alta01

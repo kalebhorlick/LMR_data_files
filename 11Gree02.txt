@@ -123,9 +123,9 @@
 # Data line format: tab-delimited text, variable short name as header
 #
 #
-##age_AD	Age (years AD),,,years AD,,,N
-##d18OiceVSMOW	delta18O ice (per mil VSMOW),,,per mil VSMOW,,,,N
-##ice_accum_m-yr	Ice accumulation rate (m ice equiv/year),,, m ice equiv/year,,,,N
+##age_AD	Age (years AD),,,years AD,,,,,N
+##d18O	d18O,,,per mil VSMOW,,ice cores,,,N
+##accum	Ice accumulation rate,,,m ice equiv/year,,ice cores,,,N
 #
 #----------------
 # Data:
@@ -133,7 +133,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18OiceVSMOW	ice_accum_m-yr
+age_AD	d18O	accum
 1936.5	-22.48	0.84
 1937.5	-22.75	0.94
 1938.5	-22.76	0.61
