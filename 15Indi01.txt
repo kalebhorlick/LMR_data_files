@@ -61,22 +61,23 @@
 # 	Elevation: 
 #---------------------------------------
 # Data_Collection
-#   Collection_Name: Tierney2015Indian
-#   Earliest_Year: 1622
-#   Most_Recent_Year: 2001
-#   Time_Unit: AD
-#   Core_Length: 
-#   Notes: 
+#   	Collection_Name: Tierney2015Indian
+#   	Earliest_Year: 1622
+#   	Most_Recent_Year: 2001
+#   	Time_Unit: AD
+#   	Core_Length: 
+#   	Notes: 
 #---------------------------------------
 # Chronology: 
+#
 #---------------------------------------
 # Variables
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
-##age_AD  age,,,years AD,Apr-Mar,,,,N
-##sst-apr-mar.anom  sea-surface temperature anomaly,,,degree C,Apr-Mar,,reference period: 1961-1990 A.D.,Weighted CPS reconstruction,N
+##age_AD	age,,,years AD,Apr-Mar,,,,N
+##sst_anom	sea-surface temperature anomaly,,,degree C,Apr-Mar,,reference period: 1961-1990 A.D.,Weighted CPS reconstruction,N
 #
 #---------------------------------------
 # Data
@@ -84,7 +85,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Value:
 #
-age_AD	sst-apr-mar.anom
+age_AD	sst_anom
 2001	0.05
 2000	0.23
 1999	0.11
