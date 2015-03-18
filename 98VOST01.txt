@@ -105,9 +105,14 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_yb1989	Age,,,years before 1989,,,,,N
-##delD		delD,,,per mil SMOW,,ice cores,,,N 
+##delD	delD,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
 age_yb1989	delD
 10043	-433
 10092	-435.5
