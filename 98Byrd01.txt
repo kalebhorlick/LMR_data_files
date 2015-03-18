@@ -104,10 +104,15 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yrb_1989	Age,,,years before 1989,,,,,N
+##age_AD	Age,,,year AD,,,,,N
 ##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
 yrb_1989	d18O
 10015	-33.63
 10041	-33.38
