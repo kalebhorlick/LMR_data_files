@@ -94,7 +94,7 @@
 #---------------------
 # Site_Information 
 #       Site_Name: Das2
-#	Location: >Geographic Region>Greenland
+#	Location: Geographic Region>Greenland
 #	Country:  
 #	Northernmost_Latitude: 67.5273
 # 	Southernmost_Latitude: 67.5273
@@ -118,8 +118,8 @@
 # Data line format: tab-delimited text, variable short name as header
 #
 #
-##age_AD	Age (years AD),,, years AD,,,, N
-##d18OiceVSMOW	delta18O ice (per mil VSMOW),,,per mil VSMOW,,,, N
+##age_AD	age,,,years AD,,,,,N
+##d18O	d18O,,,per mil VSMOW,,ice cores,,,N
 #
 #----------------
 # Data:
@@ -127,7 +127,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18OiceVSMOW
+age_AD	d18O
 1936.5	-28.46
 1937.5	-29.9
 1938.5	-29
