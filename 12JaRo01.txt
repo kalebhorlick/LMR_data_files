@@ -74,7 +74,7 @@
 # Data_Collection  
 #	Collection_Name: 12JaRo01 
 #	Earliest_Year: 14263
-#	Last_Year: -58
+#	Most_Recent_Year: -58
 #	Time_Unit: cal year BP
 #	Core_Length: 359 m  
 #	Notes: 
@@ -133,8 +133,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: material, error, units, anomaly, period, archive, detail, method, C or N for Character or Numeric data) 
 # Data line format: tab-delimited text, variable short name as header
 #
-##age_calBP	Age (calendar years BP), , , cal years BP 1950, , , , ,N
-##d2HiceVSMOW	delta2H ice, , , per mil VSMOW, , , , , N
+##age_calBP	Age,,,cal years BP 1950,,,,,N
+##delD	delta2H ice,,,per mil VSMOW,,ice cores,,,N
 #
 # ------------------
 # Data:
@@ -142,7 +142,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_calBP	d2HiceVSMOW
+age_calBP	delD
 -58	-117
 -57.95	-141.4
 -57.9	-174.9
