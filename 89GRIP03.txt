@@ -56,11 +56,11 @@
 #	Site_Name: GRIP
 #	Location: North America>Greenland
 #	Country: 
-#	Northernmost_Latitude: 
-#	Southernmost_Latitude: 
-#	Easternmost_Longitude: 
-#	Westernmost_Longitude: 
-#	Elevation: 
+#	Northernmost_Latitude: 72.58
+#	Southernmost_Latitude: 72.58
+#	Easternmost_Longitude: 37.63
+#	Westernmost_Longitude: 37.63
+#	Elevation: 3028 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 89GRIP03
@@ -75,7 +75,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
