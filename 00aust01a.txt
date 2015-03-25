@@ -87,8 +87,8 @@
 #
 ##age_AD_ass	assigned date, , , years AD, , Corals and Sclerosponges, , ,N
 ##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
-##depth_cm	depth, Porites lutea, ,cm, , Corals and Sclerosponges, , ,N
 ##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
+##depth_cm	depth, Porites lutea, ,cm, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
