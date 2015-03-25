@@ -87,11 +87,11 @@
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
 ##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##Sr/Ca		Strontium/Calcium,Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
-##Mg/Ca		Magnesium/Calcium,Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
-##U/Ca		Uranium/Calcium,Porites lutea, ,mmmol/mol, ,Corals and Sclerosponges, , ,N 
-##Ba/Ca		Barium/Calcium,Porites lutea, ,mmmol/mol, ,Corals and Sclerosponges, , ,N
-##notes	,,,,,,,,C
+##Sr/Ca	Strontium/Calcium,Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
+##Mg/Ca	Magnesium/Calcium,Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
+##U/Ca	Uranium/Calcium,Porites lutea, ,mmmol/mol, ,Corals and Sclerosponges, , ,N 
+##Ba/Ca	Barium/Calcium,Porites lutea, ,mmmol/mol, ,Corals and Sclerosponges, , ,N
+##notes	,,,,,Corals and Sclerosponges,,,C
 #
 #----------------
 # Data:

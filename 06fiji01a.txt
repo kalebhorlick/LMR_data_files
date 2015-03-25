@@ -97,16 +97,16 @@
 ##age_AD	age,,,year AD,,,,,N
 ##d18o_avg	delta 18O annual average,Porites lutea,,per mil VPDB,,Corals and Sclerosponges,,,N
 ##d18o_anom	anomolized delta 18O,Porites lutea,,per mil VPDB,,Corals and Sclerosponges,anomaly calculation: minus 1900-1999 mean,,N
-##Sr/Ca	Strontium	Calcium ratio,Porites lutea,,mmol/mol,,Corals and Sclerosponges,,,N
+##Sr/Ca	Strontium Calcium ratio,Porites lutea,,mmol/mol,,Corals and Sclerosponges,,,N
 ##Sr/Ca_ldeo	Strontium Calcium ratio,Porites lutea,,mmol/mol,,Corals and Sclerosponges,correlated to LDEO ICP-OES,,N
-##sst_Sr/Ca	sea surface temperature,Porites lutea, Strontium Calcium ratio,,degrees Celsius,,Reconstructions,,N
+##sst	sea surface temperature reconstructed from Sr/Ca,Porites lutea, Strontium Calcium ratio,,degrees Celsius,Corals and Sclerosponges,,,N
 #----------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o_avg	d18o_anom	Sr/Ca	Sr/Ca_ldeo	sst_Sr/Ca
+age_AD	d18o_avg	d18o_anom	Sr/Ca	Sr/Ca_ldeo	sst
 1996.5	-5.32	-0.26	9.21	9.07	27.6
 1995.5	-5.25	-0.19	9.19	9.05	27.9
 1994.5	-5.12	-0.06	9.21	9.07	27.6

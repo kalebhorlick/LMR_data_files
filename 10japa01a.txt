@@ -119,7 +119,7 @@
 ##age_AD	age, , ,years AD, Nov-Feb, Corals and Sclerosponges, , ,N
 ##Sr/Ca		Strontium/Calcium, Porites, ,mmol/mol, Nov-Feb,Corals and Sclerosponges, , ,N 
 ##U/Ca		Uranium/Calcium, Porites, ,µmol/mol, Nov-Feb, Corals and Sclerosponges, , ,N
-##PDO_index	Coral-Geoduck Index,  PDO, , unitless, , Reconstructions, , ,N 				
+##PDO_index	Coral-Geoduck Index,  PDO, , unitless, , Corals and Sclerosponges, , ,N 				
 #
 #----------------
 # Data:

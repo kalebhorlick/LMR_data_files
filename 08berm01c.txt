@@ -90,7 +90,7 @@
 ##d18o	delta 18O,Diploria labyrinthiformis, ,per mil, ,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
 ##Sr/Ca	Strontium Calcium, Diploria labyrinthiformis, , mmol/mol, , Corals and Sclerosponges, ,instrument: inductively coupled plasma–atomic emission spectrometry,N
 ##ext_rt	extension rate, Diploria labyrinthiformis, ,mm/yr, ,Corals and Sclerosponges, , smooth: 3 year running mean,N 
-##sst	sea surface temperature, , ,degrees Celcius, ,Reconstructions, , ,N
+##sst	sea surface temperature, , ,degrees Celcius, ,Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:

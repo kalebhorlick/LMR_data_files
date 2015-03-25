@@ -63,7 +63,7 @@
 #	Collection_Name: 01papu03a
 #	Earliest_Year: 1880 
 #	Most_Recent_Year: 1993 
-#	Time_Unit:  
+#	Time_Unit: Years AD 
 #	Core_Length: 
 #	Notes: Core name-  (DT91-7). Long-term analytical precision of � 0.16 � d18O (2s) based on analysis of internal consistency standards
 #------------------

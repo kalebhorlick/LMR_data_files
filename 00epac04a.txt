@@ -85,7 +85,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N				
-##Sr/Ca		Strontium/Calcium, Porites lobata, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
+##Sr/Ca	Strontium/Calcium, Porites lobata, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
 #
 #----------------
 # Data:

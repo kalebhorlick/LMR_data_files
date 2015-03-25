@@ -89,7 +89,7 @@
 #
 ##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##Sr/Ca.wint	Strontium/Calcium, Diploria labyrinthiformis, , mmol/mol, winter, Corals and Sclerosponges, , inductively coupled plasma–atomic emission spectrometry,N
-##SST.wint	sea surface temperature, , ,degrees Celcius, winter,Reconstructions, , ,N
+##SST.wint	sea surface temperature, , ,degrees Celcius, winter,Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:

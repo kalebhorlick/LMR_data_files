@@ -41,7 +41,7 @@
 #       Edition: 
 #       Issue: 4
 #       Pages: 457-464
-#       DOI: http://onlinelibrary.wiley.com/doi/10.1029/1999PA900024/abstract
+#       DOI: 10.1029/1999PA900024
 #       Online_Resource: http://onlinelibrary.wiley.com/doi/10.1029/1999PA900024/abstract
 #       Full_Citation: Guilderson, T.P., and D.P. Schrag, 1999, Reliability of coral isotope records from the western Pacific warm pool: A comparison using age-optimized records (1999PA900024) Paleoceanography, 14, 457-464, 1999.
 #       Abstract: Stable isotope analysis of two separate corals from Nauru Island in the warm pool of the western tropical Pacific confirm that coral oxygen isotopes are a robust recorder of environmental variables. Coral δ18O faithfully records interannual variability even when strongly influenced by kinetic effects. Interannual to decadal variability of coral δ13 remains enigmatic; only one of the two corals exhibits the expected light-δ13C response in the interannual band. Coral δ18O from this region has a great similarity to global instrumental temperature records reflecting the impact of the Pacific warm pool and variations of the Indonesian Low in concert with El Niño-Southern Oscillation on global climate. Since 1896, coral δ18O has exhibited a cumulative decrease of 0.7‰, which reflects a combination of warming and more frequent El Niño events (precipitation) affecting the surface waters of this region.

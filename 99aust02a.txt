@@ -115,7 +115,7 @@
 ##age_AD	two-year band midpoint age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d14c	delta 13 Carbon, Porites austraiensis, , per mil, , Corals and Sclerosponges, , ,N
 ##+/-	error calculation per sample, d14c, ,per mil, ,Corals and Sclerosponges, , ,N 
-##notes	,,,,,,,,C
+##notes	,,,,,Corals and Sclerosponges,,,C
 #
 #----------------
 # Data:

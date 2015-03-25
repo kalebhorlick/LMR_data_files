@@ -85,11 +85,11 @@
 #
 ##age_AD	age, , , years AD, , , , ,N
 ##d11b	delta 11B, Porites sp., ,per mil SRM 951, ,Corals and Sclerosponges, average: 2 to 4 runs,stable isotope mass spectrometry,N
-##pH		pH, Porites sp., , unitless, ,Corals and Sclerosponges, , ,N
+##pH	pH, Porites sp., , unitless, ,Corals and Sclerosponges, , ,N
 ##o_arag	Aragonite saturation state, Porites sp., , , ,Corals and Sclerosponges, , ,N
 ##d13c	delta13C, Porites sp., , per mil, ,Corals and Sclerosponges, , ,N 
 ##ext_rate	Extension Rate,	Porites sp., ,cm/yr, ,Corals and Sclerosponges, , ,N	
-##calc		Calcification, Porites sp., , g/cm2/yr, ,Corals and Sclerosponges, , ,N
+##calc	Calcification, Porites sp., , g/cm2/yr, ,Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
