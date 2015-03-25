@@ -1,8 +1,0 @@
-#
-# The Summit Dome core was dated by annual layer counting to 683 CE, and was constrained by 
-# the 1600 CE Huaynaputina volcanic event. From 682 CE to 226 CE the core was dated using 
-# the modeling approach described in the Supplemental Information accompanying the Science (2013) paper. 
-# The North Dome core was dated by layer counting to 1395 CE, and was also constrained by the 1600 CE 
-# Huaynaputina volcanic event. From 1395 CE to 1000 CE dating was accomplished by matching the 
-# isotopic record to that of the Summit Dome core.
-#
