@@ -33,7 +33,7 @@
 #	East Rongbuk Glacier col ice core.  
 # 
 #	East Rongbuk Glacier col ice core, Mt. Everest northeast ridge:
-#	28.03°N, 86.96°E; 6518 m elev., 108m long 
+#	28.03Â°N, 86.96Â°E; 6518 m elev., 108m long 
 #
 # --------------------
 # Publication
@@ -54,7 +54,7 @@ summer surface pressure over Mongolia, and reduction in northward
 incursions of the summer South Asian monsoon since ~1400 AD. 
 Previously published proxy records from lower sites south of the
 Himalayas indicate strengthening of the monsoon since this time. 
-These regional differences are consistent with a south–north seesaw 
+These regional differences are consistent with a southâ€“north seesaw 
 in convective activity in the Asian monsoon region, and reflect a 
 southward shift in the mean summer position of the monsoon trough 
 since~1400 AD. The change in monsoonal circulation at 1400 AD is 
@@ -106,7 +106,7 @@ shifts in monsoonal circulation.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		dO18,,,per mil SMOW,,ice cores,,,N
+##d18O  dO18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
