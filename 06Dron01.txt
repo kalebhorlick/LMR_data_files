@@ -34,7 +34,7 @@
 #	age model (Andersen et al. 2006, Rasmussen et al., 2006) via 
 #	methane synchronization. 
 #
-#	EPICA Dronning Maud Land Ice Core: 75°00'S; 00°04'E, 2892 m elev. 
+#	EPICA Dronning Maud Land Ice Core: 75Â°00'S; 00Â°04'E, 2892 m elev. 
 #
 #
 #	*EPICA Community Members (listed in alphabetical order): 
@@ -47,10 +47,10 @@
 #	M.A. Hutterli, P. Huybrechts, E. Isaksson, S. Johnsen, J. Jouzel, 
 #	M. Kaczmarska, T. Karlin, P. Kaufmann, S. Kipfstuhl, M. Kohno, 
 #	F. Lambert, Anja Lambrecht, Astrid Lambrecht, A. Landais, 
-#	G. Lawer, M. Leuenberger, G. Littot, L. Loulergue, D. Lüthi, 
+#	G. Lawer, M. Leuenberger, G. Littot, L. Loulergue, D. LÃ¼thi, 
 #	V. Maggi, F. Marino, V. Masson-Delmotte, H. Meyer, H. Miller, 
 #	R. Mulvaney, B. Narcisi, J. Oerlemans, H. Oerter, F. Parrenin, 
-#	J.-R. Petit, G. Raisbeck, D. Raynaud, R. Röthlisberger, U. Ruth, 
+#	J.-R. Petit, G. Raisbeck, D. Raynaud, R. RÃ¶thlisberger, U. Ruth, 
 #	O. Rybak, M. Severi, J. Schmitt, J. Schwander, U. Siegenthaler, 
 #	M.-L. Siggaard-Andersen, R. Spahni, J.P. Steffensen, B. Stenni, 
 #	T.F. Stocker, J.-L. Tison, R. Traversi, R. Udisti, 
@@ -118,7 +118,7 @@ circulation.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##kyr_BP	Age,,,k year before present,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
