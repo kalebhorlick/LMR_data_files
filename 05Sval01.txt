@@ -46,7 +46,7 @@
 #	Abstract: We apply two different time series analytical tools to d18O records from two Svalbard icecores. One ice core is from Lomonosovfonna at
 1250 m a.s.l. and the other from Austfonna at 750 m a.s.l. These cores are estimated to cover at least the
 past 800 years and have been dated using a combination of known reference horizons and glacial
-modelling. Wavelet analysis reveals low frequency oscillations on the 60–120-year scale on the lower
+modelling. Wavelet analysis reveals low frequency oscillations on the 60â€“120-year scale on the lower
 elevation site Austfonna while the higher altitude site on Lomonosovfonna does not reveal such variability
 throughout the record. The second method, Significant Zero Crossing of Derivates (SiZer) does
 not resolve the low-frequency periodicity seen in the wavelet analysis. The low-frequency variability
@@ -80,7 +80,7 @@ been proposed as the most important oscillation for the observed trends in Arcti
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		dO18,,,per mil SMOW,,ice cores,,,N
+##d18O  dO18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
