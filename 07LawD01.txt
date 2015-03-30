@@ -35,7 +35,8 @@
 # Publication
 #	Authors: C. T. Plummer, M. A. J. Curran, T D. van Ommen, S. O. Rasmussen, A. D. Moy, T. R. Vance, H. B. Clausen, B. M. Vinther, and P. A. Mayewski
 #	Published_Date_or_Year: 2012
-#	Published_Title: An independently dated 2000-yr volcanic record from Law Dome, East Antarctica, including a new perspective on the dating of the 1450s CE eruption of Kuwae, Vanuatu
+#	Published_Title: An independently dated 2000-yr volcanic record from Law Dome, East Antarctica, including a new perspective on the dating of the 1450s CE eruption of Kuwae, Vanuatu
+
 #	Journal_Name: Climate Past
 #	Volume: 8
 #	Edition: 	
@@ -57,7 +58,8 @@ most important volcanic events of the last two millennia is the large 1450s CE e
 Kuwae, Vanuatu. In this study, we review the evidence surrounding the presently accepted date for this event, and make
 the case that two separate eruptions have caused confusion in the assignment of this event. Volcanic sulphate deposition estimates
 are important for modelling the climatic response to eruptions. The largest volcanic sulphate events in our record are dated at 1458 CE (Kuwae?, Vanuatu), 1257 and 422 CE
-(unidentified).
+(unidentified).
+
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -86,7 +88,7 @@ are important for modelling the climatic response to eruptions. The largest volc
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
