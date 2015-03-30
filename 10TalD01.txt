@@ -28,13 +28,13 @@
 #	Investigators: Stenni, B.; Buiron, D.; Frezzotti, M.; Albani, S.; Barbante, C.; Bard, E.; Barnola, J.M.; Baroni, M.; Baumgartner, M.; Bonazza, M.; Capron, E.; Castellano, E.; Chappellaz, J.; Delmonte, B.; Falourd, S.; Genoni, L.; Iacumin, P.; Jouzel, J.; Kipfstuhl, S.; Landaid, A.; Lemieux-Dudon, B.; Maggi, V.; Masson-Delmotte, V.; Mazzola, C.; Minster, B.; Montagnat, M.; Mulvaney, R.; Narcisi, B.; Oerter, H.; Parrenin, F.; Petit, J.R.; Ritz, C.; Scarchilli, C.; Schilt, A.; Schupbach, S.; Schwander, J.; Selmo, E.; Severi, M.; Stocker, T.F.; Uditsi, R. 
 # --------------------
 # Description_and_Notes
-# 	Description: Oxygen isotope profile from 512m to 898m in the TALDICE Project Talos Dome Ice Core.  Optimal accuracy of ± 0.05‰ (1 sigma). 
+# 	Description: Oxygen isotope profile from 512m to 898m in the TALDICE Project Talos Dome Ice Core.  Optimal accuracy of Â± 0.05â€° (1 sigma). 
 #	TD is a peripheral dome of East Antarctica, located in the Ross Sea sector about 250 km from the Southern Ocean, 550 km north of 
-#	Taylor Dome and 1100 km east of EDC. The TALDICE coring site (159°11'E 72°49'S; 2315 m a.s.l.; annual mean temperature -41°C) is located near the dome summit and is characterised by a snow accumulation rate of 80 mm water equivalent per year (average 2004-1259 AD). 
+#	Taylor Dome and 1100 km east of EDC. The TALDICE coring site (159Â°11'E 72Â°49'S; 2315 m a.s.l.; annual mean temperature -41Â°C) is located near the dome summit and is characterised by a snow accumulation rate of 80 mm water equivalent per year (average 2004-1259 AD). 
 #
 # --------------------
 # Publication
-#	Authors: B. Stenni, D. Buiron, M. Frezzotti, S. Albani, C. Barbante, E. Bard, J.M. Barnola, M. Baroni, M. Baumgartner, M. Bonazza, E. Capron, E. Castellano, J. Chappellaz, B. Delmonte, S. Falourd, L. Genoni, P. Iacumin, J. Jouzel, S. Kipfstuhl, A. Landais, B. Lemieux-Dudon, V. Maggi, V. Masson-Delmotte, C. Mazzola, B. Minster, M. Montagnat, R. Mulvaney, B. Narcisi, H. Oerter, F. Parrenin, J.R. Petit, C. Ritz, C. Scarchilli, A. Schilt, S. Schüpbach, J. Schwander, E. Selmo, M. Severi, T.F. Stocker, and R. Udisti
+#	Authors: B. Stenni, D. Buiron, M. Frezzotti, S. Albani, C. Barbante, E. Bard, J.M. Barnola, M. Baroni, M. Baumgartner, M. Bonazza, E. Capron, E. Castellano, J. Chappellaz, B. Delmonte, S. Falourd, L. Genoni, P. Iacumin, J. Jouzel, S. Kipfstuhl, A. Landais, B. Lemieux-Dudon, V. Maggi, V. Masson-Delmotte, C. Mazzola, B. Minster, M. Montagnat, R. Mulvaney, B. Narcisi, H. Oerter, F. Parrenin, J.R. Petit, C. Ritz, C. Scarchilli, A. Schilt, S. SchÃ¼pbach, J. Schwander, E. Selmo, M. Severi, T.F. Stocker, and R. Udisti
 #	Published_Date_or_Year: 2010
 #	Published_Title: 
 #	Journal_Name: Nature Geoscience
@@ -65,7 +65,7 @@ with the deceleration of the rise in atmospheric carbon dioxide
 concentrations and with a slight cooling over Greenland. 
 In addition, our chronology supports the hypothesis that the 
 cooling of the Antarctic Cold Reversal is synchronous with the 
-Bølling-Allerød warming in the northern hemisphere 14,700 years ago.
+BÃ¸lling-AllerÃ¸d warming in the northern hemisphere 14,700 years ago.
 
 # --------------------
 # Funding_Agency
@@ -94,8 +94,8 @@ Bølling-Allerød warming in the northern hemisphere 14,700 years ago.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##calyr_BP	Age,,,calendar years before 1950,,,,,N        
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##calyr_BP  Age,,,calendar years before 1950,,,,,N        
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
