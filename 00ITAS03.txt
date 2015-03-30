@@ -47,8 +47,8 @@ Anthony J. GOW, Christopher A. SHUMAN, James W.C. WHITE, Sharon SNEED,Joseph FLA
 #	Full_Citation: 
 #	Abstract: Shallow ice cores were obtained from widely distributed sites across the West Antarctic ice
 sheet, as part of the United States portion of the International Trans-Antarctic Scientific Expedition(US ITASE) program. The US ITASE cores have been dated by annual-layer counting, primarily through
-the identification of summer peaks in non-sea-salt sulfate (nssSO42–) concentration. Absolute dating accuracy of better than 2 years and relative dating accuracy better than 1 year is demonstrated by theidentification of multiple volcanic marker horizons in each of the cores, Tambora, Indonesia (1815),being the most prominent. Independent validation is provided by the tracing of isochronal layers from site to site using high-frequency ice-penetrating radar observations, and by the timing of mid-winterwarming events in stable-isotope ratios, which demonstrate significantly better than 1 year accuracy in
-the last 20 years. Dating precision to 1 month is demonstrated by the occurrence of summer nitrate peaks and stable-isotope ratios in phase with nssSO4 2–, and winter-time sea-salt peaks out of phase, with
+the identification of summer peaks in non-sea-salt sulfate (nssSO42â€“) concentration. Absolute dating accuracy of better than 2 years and relative dating accuracy better than 1 year is demonstrated by theidentification of multiple volcanic marker horizons in each of the cores, Tambora, Indonesia (1815),being the most prominent. Independent validation is provided by the tracing of isochronal layers from site to site using high-frequency ice-penetrating radar observations, and by the timing of mid-winterwarming events in stable-isotope ratios, which demonstrate significantly better than 1 year accuracy in
+the last 20 years. Dating precision to 1 month is demonstrated by the occurrence of summer nitrate peaks and stable-isotope ratios in phase with nssSO4 2â€“, and winter-time sea-salt peaks out of phase, with
 phase variation of <1 month. Dating precision and accuracy are uniform with depth, for at least the last 100 years.
 # --------------------
 # Funding_Agency
@@ -78,7 +78,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##Midpt_year	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
