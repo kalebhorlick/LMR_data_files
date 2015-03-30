@@ -34,8 +34,8 @@
 #	dD was determined on meltwater from 55 cm long sections. 
 #	The current dataset was derived using a "quick" mode 
 #	(each sample is measured twice instead of four times), 
-#	leading to a typical accuracy of 1.5‰, whereas we aim 
-#	for a final precision of 0.5‰ over the entire core.  
+#	leading to a typical accuracy of 1.5â€°, whereas we aim 
+#	for a final precision of 0.5â€° over the entire core.  
 #	The data here correspond to values averaged across seven 
 #	successive samples (depth scale) or averaged across 
 #	3000 year intervals. Ages are given on timescale EDC2 
@@ -101,7 +101,7 @@ intervention, a climate similar to the present one would extend well into the fu
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##yb_1950	Age,,,years before 1950,,,,,N
-##delD		delD,,,per mil SMOW,,ice cores,,,N 
+##delD  delD,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
