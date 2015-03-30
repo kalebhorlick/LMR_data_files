@@ -32,7 +32,7 @@
 # 	Description: Annual average oxygen isotope (d18O) data from the Gomez ice core, southwestern Antarctic Peninsula, drilled in 2007.  Isotope data 
 #	measured on a VG SIRA series II analyser with analytical precision of 0.07 per mil. 
 #
-#	Gomez, SW Antarctic Peninsula: 73.59°S, 70.36°W, 1400 m a.s.l.
+#	Gomez, SW Antarctic Peninsula: 73.59Â°S, 70.36Â°W, 1400 m a.s.l.
 #
 # --------------------
 # Publication
@@ -49,7 +49,7 @@
 #	Full_Citation:  
 #	Abstract: We present a new 150-year, high-resolution, stable isotope record 
 (d18O) from the Gomez ice core, drilled on the data sparse south 
-western Antarctic Peninsula, revealing a ~2.7°C rise in surface 
+western Antarctic Peninsula, revealing a ~2.7Â°C rise in surface 
 temperatures since the 1950s. The record is highly correlated 
 with satellite-derived temperature reconstructions and instrumental 
 records from Faraday station on the north west coast, thus making it 
@@ -90,7 +90,7 @@ the result of external climate forcing.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
