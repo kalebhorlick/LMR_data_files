@@ -58,8 +58,8 @@ is the principal control on the d18Oice of the snowfall that sustains these
 high mountain ice fields. Decadally averaged d18Oice records from three Andean 
 and three Tibetan ice cores are composited to produce a low latitude d18Oice 
 history for the last millennium. Comparison of this ice core composite with 
-the Northern Hemisphere proxy record (1000–2000 A.D.) reconstructed by 
-Mann et al. (1999) and measured temperatures (1856–2000) reported by 
+the Northern Hemisphere proxy record (1000â€“2000 A.D.) reconstructed by 
+Mann et al. (1999) and measured temperatures (1856â€“2000) reported by 
 Jones et al. (1999) suggests the ice cores have captured the decadal scale 
 variability in the global temperature trends. These ice cores show a 20th 
 century isotopic enrichment that suggests a large scale warming is underway 
@@ -101,7 +101,7 @@ global climate.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		dO18,,,per mil SMOW,,ice cores,,,N 
+##d18O  dO18,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
