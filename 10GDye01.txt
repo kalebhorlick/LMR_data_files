@@ -44,9 +44,9 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Twenty ice cores drilled in medium to high accumulation areas of the Greenland ice sheet have been used to extract seasonally resolved stable isotope records. Relationships between the seasonal stable isotope data and Greenland and Icelandic temperatures as well as atmospheric flow are investigated for the past 150–200 years. The winter season stable isotope data are found to be influenced by the North Atlantic Oscillation (NAO) and very closely related to SW Greenland temperatures. The linear correlation between the first principal component of the winter season stable isotope data and Greenland winter temperatures is 0.71 for seasonally resolved data and 0.83 for decadally filtered data. The summer season stable isotope data display higher correlations with Stykkisholmur summer temperatures and North Atlantic SST conditions than with SW Greenland temperatures. The linear correlation between Stykkisholmur summer temperatures and the first principal component of the summer season stable isotope data is 0.56, increasing to 0.66 for decadally filtered data.
+#	Abstract: Twenty ice cores drilled in medium to high accumulation areas of the Greenland ice sheet have been used to extract seasonally resolved stable isotope records. Relationships between the seasonal stable isotope data and Greenland and Icelandic temperatures as well as atmospheric flow are investigated for the past 150â€“200 years. The winter season stable isotope data are found to be influenced by the North Atlantic Oscillation (NAO) and very closely related to SW Greenland temperatures. The linear correlation between the first principal component of the winter season stable isotope data and Greenland winter temperatures is 0.71 for seasonally resolved data and 0.83 for decadally filtered data. The summer season stable isotope data display higher correlations with Stykkisholmur summer temperatures and North Atlantic SST conditions than with SW Greenland temperatures. The linear correlation between Stykkisholmur summer temperatures and the first principal component of the summer season stable isotope data is 0.56, increasing to 0.66 for decadally filtered data.
 
-Winter season stable isotope data from ice core records that reach more than 1400 years back in time suggest that the warm period that began in the 1920s raised southern Greenland temperatures to the same level as those that prevailed during the warmest intervals of the Medieval Warm Period some 900–1300 years ago. This observation is supported by a southern Greenland ice core borehole temperature inversion. As Greenland borehole temperature inversions are found to correspond better with winter stable isotope data than with summer or annual average stable isotope data it is suggested that a strong local Greenland temperature signal can be extracted from the winter stable isotope data even on centennial to millennial time scales.
+Winter season stable isotope data from ice core records that reach more than 1400 years back in time suggest that the warm period that began in the 1920s raised southern Greenland temperatures to the same level as those that prevailed during the warmest intervals of the Medieval Warm Period some 900â€“1300 years ago. This observation is supported by a southern Greenland ice core borehole temperature inversion. As Greenland borehole temperature inversions are found to correspond better with winter stable isotope data than with summer or annual average stable isotope data it is suggested that a strong local Greenland temperature signal can be extracted from the winter stable isotope data even on centennial to millennial time scales.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: Carlsberg Foundation
@@ -76,8 +76,8 @@ Winter season stable isotope data from ice core records that reach more than 140
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 	
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##age_AD  Age,,,year AD,,,,,N
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
