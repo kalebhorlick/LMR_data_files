@@ -37,10 +37,10 @@
 #	Dating according to EPICA Dome C ice core timescales EDC1 and EDC2: 
 #	ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc_timescale.txt 
 #
-#	Location: Dome C, Antarctica, 75°06'S, 123°21'E, 3233m asl
+#	Location: Dome C, Antarctica, 75Â°06'S, 123Â°21'E, 3233m asl
 # --------------------
 # Publication
-#	Authors: R. Röthlisberger, M. Bigler, E.W. Wolff, F. Joos, E. Monnin, and M.A. Hutterli
+#	Authors: R. RÃ¶thlisberger, M. Bigler, E.W. Wolff, F. Joos, E. Monnin, and M.A. Hutterli
 #	Published_Date_or_Year: 2004
 #	Published_Title: Ice core evidence for the extent of past atmospheric CO2 change due to iron fertilisation
 #	Journal_Name: Geophysical Research Letters
@@ -94,8 +94,8 @@ maximum of 8 ppm in addition.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_yb1950	Age,,,years before 1950,,,,,N 
-##d18o		d18o,,,per mil SMOW,,ice cores,,,N 
+##yb_1950	Age,,,years before 1950,,,,,N 
+##d18o  d18o,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -103,7 +103,7 @@ maximum of 8 ppm in addition.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_yb1950	d18O
+yb_1950	d18O
 25	-386.24823
 75	-392.579071
 125	-397.371674
