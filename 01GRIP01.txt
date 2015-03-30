@@ -48,7 +48,7 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: A precise relative chronology for Greenland and West Antarctic paleotemperature is extended to 90,000 years ago, based on correlation of atmospheric methane records from the Greenland Ice Sheet Project 2 and Byrd ice cores. Over this period, the onset of seven major millennial-scale warmings in Antarctica preceded the onset of Greenland warmings by 1500 to 3000 years. In general, Antarctic temperatures increased gradually while Greenland temperatures were decreasing or constant, and the termination of Antarctic warming was apparently coincident with the onset of rapid warming in Greenland. This pattern provides further evidence for the operation of a ìbipolar see-sawî in air temperatures and an oceanic teleconnection between the hemispheres on millennial time scales.
+#	Abstract: A precise relative chronology for Greenland and West Antarctic paleotemperature is extended to 90,000 years ago, based on correlation of atmospheric methane records from the Greenland Ice Sheet Project 2 and Byrd ice cores. Over this period, the onset of seven major millennial-scale warmings in Antarctica preceded the onset of Greenland warmings by 1500 to 3000 years. In general, Antarctic temperatures increased gradually while Greenland temperatures were decreasing or constant, and the termination of Antarctic warming was apparently coincident with the onset of rapid warming in Greenland. This pattern provides further evidence for the operation of a ‚Äúbipolar see-saw‚Äù in air temperatures and an oceanic teleconnection between the hemispheres on millennial time scales.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -77,7 +77,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_yb1950	Age,,,years before 1950,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
