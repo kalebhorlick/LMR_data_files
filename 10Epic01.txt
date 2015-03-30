@@ -32,7 +32,7 @@
 #
 #	Sample ages calculated according to EDC3 chronology reported by Parrenin et al. Climate of the Past Discussions, 2007, 3(2), pp.575-606. dD values from Jouzel et al. Science, 2007, v.317, pp.793-796. 
 #
-#	EPICA Dome C, Antarctica ice core:  75.1°S, 123.35°E, 3233 m asl 
+#	EPICA Dome C, Antarctica ice core:  75.1Â°S, 123.35Â°E, 3233 m asl 
 # --------------------
 # Publication
 #	Authors: P. Vallelonga, P. Gabrielli, E. Balliana, A. Wegner, B. Delmonte, C. Turetta, G. Burton, F. Vanhaecke, K.J.R. Rosman, S. Hong, C.F. Boutron, P. Cescon, and C. Barbante
@@ -104,8 +104,8 @@ containing Ba and other crustal elements.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##ky_BP		Age,,,ky before present,,,,,N 
-##d18o		d18o,,,per mil SMOW,,ice cores,,,N 
+##ky_BP Age,,,ky before present,,,,,N 
+##d18o  d18o,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
