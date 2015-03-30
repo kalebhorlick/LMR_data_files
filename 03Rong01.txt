@@ -29,37 +29,37 @@
 #	Investigators: Shugui, H.; Dahe, Q.; Tandong, Y.; Dongqi, Z.; Tuo, C.
 # --------------------
 # Description_and_Notes
-#	Description: An 80.4m ice core was recovered in August 1998 from a site at 6500m above sea level from the East Rongbuk (ER) Glacier(27°59'N, 86°55'E), 
+#	Description: An 80.4m ice core was recovered in August 1998 from a site at 6500m above sea level from the East Rongbuk (ER) Glacier(27Â°59'N, 86Â°55'E), 
 #	less than 5km northeast of the peak of Mt. Qomolangma (Everest), by using an electromechanical drill in dry hole. We believe the core of good quality by comparison between the cumulative core length and 
-#	the depth measured by the drill cable, and visible stratigraphy showed no hiatus features within the whole core. Borehole temperatures ranged from -9.6°C at 10 m to minimum -9.85°C between 19 and 23 m then warmed 
-#	slightly to -8.4°C at the hole bottom. The low temperatures throughout the glacier ice ensured the preservation of a climatic and environmental record. 
+#	the depth measured by the drill cable, and visible stratigraphy showed no hiatus features within the whole core. Borehole temperatures ranged from -9.6Â°C at 10 m to minimum -9.85Â°C between 19 and 23 m then warmed 
+#	slightly to -8.4Â°C at the hole bottom. The low temperatures throughout the glacier ice ensured the preservation of a climatic and environmental record. 
 #
-#	We managed to maintain the temperature of the core below -5°C from the time of drilling until analysis, either by using refrigerators or by 
-#	using thermal-insulated boxes with blue ice (its melting point is well below 0°C, thus preventing the ice core from melting during 
-#	transportation). Core processing was done in a dedicated cold room (temperature <-12°C) using established techniques for ultra-clean 
+#	We managed to maintain the temperature of the core below -5Â°C from the time of drilling until analysis, either by using refrigerators or by 
+#	using thermal-insulated boxes with blue ice (its melting point is well below 0Â°C, thus preventing the ice core from melting during 
+#	transportation). Core processing was done in a dedicated cold room (temperature <-12Â°C) using established techniques for ultra-clean 
 #	sample preparation. Frozen 18 mO water blanks were sent through the entire system and analyzed frequently to assure that there was no 
 #	contamination. Personnel involved wore polyethylene gloves, non-particulating clean suits, and masks. Blanks were analyzed at the 
 #	beginning, middle, and end of each processing day. The diameter, length, and weight of each core section recovered were measured for density 
 #	calculation. The ice core was cut for a total of 1816 samples. Most of them have exact length of 4 cm, the other samples with varied 
 #	intervals between 3.5 cm to 5 cm are from the remaining bottom section of each natural core. For each of the sample, an outer 2 cm annulus was 
-#	removed with a razor, and the inner ice discs were immediately put into pre-cleaned plastic sample containers for further chemical analysis. At the same time, the scraped ice material was collected for ß activity 
-#	measurement. Each of the ß activity sample weighed about 1 kg, corresponding to a length of about 110 cm ice core. We have measured a total of 30 ß activity samples collected from the upper 34.32 m part 
+#	removed with a razor, and the inner ice discs were immediately put into pre-cleaned plastic sample containers for further chemical analysis. At the same time, the scraped ice material was collected for ÃŸ activity 
+#	measurement. Each of the ÃŸ activity sample weighed about 1 kg, corresponding to a length of about 110 cm ice core. We have measured a total of 30 ÃŸ activity samples collected from the upper 34.32 m part 
 #	of the ER core, giving a time resolution of roughly 1.5a per sample. Analyses of stable oxygen isotope ratios ((18O) were performed in the 
-#	Key Laboratory of Ice Core and Cold Regions Environment using a Finnigan delta-plus mass spectrometer (accuracy 0.05‰), and results are expressed as the relative deviation of heavy isotope content of Standard Mean Ocean 
+#	Key Laboratory of Ice Core and Cold Regions Environment using a Finnigan delta-plus mass spectrometer (accuracy 0.05â€°), and results are expressed as the relative deviation of heavy isotope content of Standard Mean Ocean 
 #	Water (SMOW). Measurements of the major chemical species were performed in the Climate Change Research Center (CCRC), University of New Hampshire (UNH). 
 #	Samples were melted immediately prior to ion chromatographic analysis for water-soluble inorganic ion composition. Anion (Cl-, NO3-, and SO42-) 
 #	and cation (Na+, Ca2+, K+, Mg2+, NH4+) analyses were performed via suppressed ion chromatography (Dionex 4000 series instruments). 
-#	Cations were analyzed with a CS12 column, 125 µL loop, and 20 mM MSA eluent. Anions were analyzed with an AS11 column, 75 µL loop, and 6 mM NaOH. The ß activity samples were filtered two times through cation exchange 
+#	Cations were analyzed with a CS12 column, 125 ÂµL loop, and 20 mM MSA eluent. Anions were analyzed with an AS11 column, 75 ÂµL loop, and 6 mM NaOH. The ÃŸ activity samples were filtered two times through cation exchange 
 #	filters and analyzed with a gas-flow proportional counter in CCRC, UNH. Each sample was counted for 24 hours, and the final results were averaged 
 #	after subtracting the backgrounds.
 #
 #	We date the ice core by counting the seasonal variations of the stable isotopic and major ionic profiles. The result was further verified by 
-#	double ß activity horizons produced by the atmospheric thermonuclear tests in the early 1950s to the early 1960s. A series of sulphate volcanic events were also identified, including Suwanose-jima, Japan 
-#	(29.5°N, 129.7°E, erupted in 1877), Krakatau, Indonesia (6.1°S, 105.4°E, 1883), Bandai, Japan (37.6°N, 140.1°E, 1888), Suwanose-jima, Japan (29.5°N, 129.7°E, 1889), three eruptions between 
-#	13-15°N (1902), Komaga-take, Japan (42.1°N, 140.7°E, 1929), two eruptions between 8.9-16.3°S (1951) and Agung, Indonesia (8.3°S, 115.5°E, 1963). 
+#	double ÃŸ activity horizons produced by the atmospheric thermonuclear tests in the early 1950s to the early 1960s. A series of sulphate volcanic events were also identified, including Suwanose-jima, Japan 
+#	(29.5Â°N, 129.7Â°E, erupted in 1877), Krakatau, Indonesia (6.1Â°S, 105.4Â°E, 1883), Bandai, Japan (37.6Â°N, 140.1Â°E, 1888), Suwanose-jima, Japan (29.5Â°N, 129.7Â°E, 1889), three eruptions between 
+#	13-15Â°N (1902), Komaga-take, Japan (42.1Â°N, 140.7Â°E, 1929), two eruptions between 8.9-16.3Â°S (1951) and Agung, Indonesia (8.3Â°S, 115.5Â°E, 1963). 
 #	However, sulphate peaks formed by dust storms in spring/summer season may complicate the volcanic signals. Another dating horizon is the highest Na+ peak of the whole core at 63.5m corresponding to the devastating Indian drought caused by a major monsoon failure in 
 #	1876-1877. The ER record spans the period of 1844-1997 at an average resolution of about 12 samples/year. We estimate that the dating error 
-#	from 1997 to 1876 is ±1a, and below 1876 may increase to ±2a due to the lack of reference horizons in the bottom section.
+#	from 1997 to 1876 is Â±1a, and below 1876 may increase to Â±2a due to the lack of reference horizons in the bottom section.
 #
 # --------------------
 # Publication
@@ -76,11 +76,11 @@
 #	Full_Citation: 
 #	Abstract: Three ice cores recovered from the Himalayas (i.e. the East Rongbuk Glacier and the Far East Rongbuk Glacier at Mt. Qomolangma
 (Everest), and the Dasuopu Glacier at Xixiabangma) show a sharp decline in the accumulation rates since the 1950s, which is
-consistent with the precipitation fluctuation over India and the low northern latitude zone (5°–35°N). Correspondingly, an
+consistent with the precipitation fluctuation over India and the low northern latitude zone (5Â°â€“35Â°N). Correspondingly, an
 increasing trend is observed for the ice core accumulations from the central and northern Qinghai-Tibetan Plateau (i.e. the
 Xiao Dongkemadi Glacier in the central Tanggula Mountains, the Guliya Ice Cap in the western Kunlun Mountains, and the Dunde
 Ice Cap in the Qilian Mountains) since the 1950s, which is consistent with the precipitation fluctuation over the middle-high
-northern latitude zone (35°–70°N). However, the variation magnitude of the high-elevation ice core accumulations is more significant
+northern latitude zone (35Â°â€“70Â°N). However, the variation magnitude of the high-elevation ice core accumulations is more significant
 than that of precipitation at the low-elevation places, suggesting its extra sensitivity of high-elevation areas to climatic
 change. The inter-decadal abrupt change of the African-Asian summer monsoon in the 1960s may attribute to the recent ice core
 accumulation change during the recent decades.
@@ -116,7 +116,7 @@ accumulation change during the recent decades.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		dO18,,,per mil SMOW,,ice cores,,,N
+##d18O  dO18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
