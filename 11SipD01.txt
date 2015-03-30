@@ -29,7 +29,7 @@
 # --------------------
 # Description_and_Notes
 # 	Description: Siple Dome Ice Core, West Antarctica ice core hydrogen isotope (deuterium, dD) data, with age model correlated to the GISP2 
-#	ice core time scale using methane and d18O.  Data are from 515 to 919 meters depth, corresponding to 9 to 57 KYrBP. Siple Dome Ice Core, West Antarctica: 81°40'S, 148°49'W  
+#	ice core time scale using methane and d18O.  Data are from 515 to 919 meters depth, corresponding to 9 to 57 KYrBP. Siple Dome Ice Core, West Antarctica: 81Â°40'S, 148Â°49'W  
 # --------------------
 # Publication
 #	Authors: E.J. Brook, J.W.C. White, A.S.M. Schilla, M.L. Bender, B. Barnett, J.P. Severinghaus, K.C. Taylor, R.B. Alley, and E.J. Steig
@@ -84,7 +84,7 @@ during much of the last ice age and glacial-interglacial transition.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##ky_b2k	Age,,,thousands of years before 2k,,,,,N        
-##delD		delD,,,per mil SMOW,,ice cores,,,N 
+##delD  delD,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
