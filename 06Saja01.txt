@@ -40,11 +40,11 @@
 #	Volume: 103
 #	Edition: 	
 #	Issue: 28 
-#	Pages: 10536–10543
+#	Pages: 10536â€“10543
 #	DOI: doi: 10.1073/pnas.0603900103
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Three lines of evidence for abrupt tropical climate change, both past and present, are presented. First, annually and decadally averaged d18O and net mass-balance histories for the last 400 and 2,000 yr, respectively, demonstrate that the current warming at high elevations in the mid- to low latitudes is unprecedented for at least the last 2 millennia. Second, the continuing retreat of most mid- to low-latitude glaciers, many having persisted for thousands of years, signals a recent and abrupt change in the Earth’s climate system. Finally, rooted, soft-bodied wetland plants, now exposed along the margins as the Quelccaya ice cap (Peru) retreats, have been radiocarbon dated and, when coupled with other widespread proxy evidence, provide strong evidence for an abrupt mid-Holocene climate event that marked the transition from early Holocene (pre-5,000-yr-B.P.) conditions to cooler, late Holocene (post-5,000-yr-B.P.) conditions. This abrupt event, ~5,200 yr ago, was widespread and spatially coherent through much of the tropics and was coincident with structural changes in several civilizations. These three lines of evidence argue that the present warming and associated glacier retreat are unprecedented in some areas for at least 5,200 yr. The ongoing global-scale, rapid retreat of mountain glaciers is not only contributing to global sea-level rise but also threatening freshwater supplies in many of the world’s most populous regions.
+#	Abstract: Three lines of evidence for abrupt tropical climate change, both past and present, are presented. First, annually and decadally averaged d18O and net mass-balance histories for the last 400 and 2,000 yr, respectively, demonstrate that the current warming at high elevations in the mid- to low latitudes is unprecedented for at least the last 2 millennia. Second, the continuing retreat of most mid- to low-latitude glaciers, many having persisted for thousands of years, signals a recent and abrupt change in the Earthâ€™s climate system. Finally, rooted, soft-bodied wetland plants, now exposed along the margins as the Quelccaya ice cap (Peru) retreats, have been radiocarbon dated and, when coupled with other widespread proxy evidence, provide strong evidence for an abrupt mid-Holocene climate event that marked the transition from early Holocene (pre-5,000-yr-B.P.) conditions to cooler, late Holocene (post-5,000-yr-B.P.) conditions. This abrupt event, ~5,200 yr ago, was widespread and spatially coherent through much of the tropics and was coincident with structural changes in several civilizations. These three lines of evidence argue that the present warming and associated glacier retreat are unprecedented in some areas for at least 5,200 yr. The ongoing global-scale, rapid retreat of mountain glaciers is not only contributing to global sea-level rise but also threatening freshwater supplies in many of the worldâ€™s most populous regions.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -73,7 +73,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
