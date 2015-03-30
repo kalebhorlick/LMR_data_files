@@ -25,7 +25,7 @@
 #	Study_Name: EPICA Dome C Ice Core Cl, Na and NO3 Data
 # --------------------
 # Investigators
-#	Investigators:  Röthlisberger, R.; Hutterli, M.A.; Sommer, S.; Wolff, E.W.; Mulvaney, R. 
+#	Investigators:  RÃ¶thlisberger, R.; Hutterli, M.A.; Sommer, S.; Wolff, E.W.; Mulvaney, R. 
 # --------------------
 # Description_and_Notes
 # 	Description: Chemical records obtained by continuous flow analysis (CFA) and ion chromatography (IC).  
@@ -34,7 +34,7 @@
 #	Dating according to EPICA Dome C ice core timescale EDC1. 
 #	ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc_timescale.txt 
 #
-#	Location: Dome C, Antarctica, 75°06'S, 123°21'E, 3233m asl
+#	Location: Dome C, Antarctica, 75Â°06'S, 123Â°21'E, 3233m asl
 #	
 # --------------------
 # Publication
@@ -78,7 +78,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##yb_1950	Age,,,years before 1950,,,,,N ****age before 1950
-##delD		del D,,,per mil SMOW,,ice cores,,,N 
+##delD	del D,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
