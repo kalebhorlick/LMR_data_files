@@ -40,7 +40,7 @@
 #	(DFO-2006) (Kawamura et al., 2007). 
 #
 #	Dome Fuji Station Core Site, East Antarctica: 
-#	77°19'N, 39°42'E, 3810m elevation  
+#	77Â°19'N, 39Â°42'E, 3810m elevation  
 #
 # --------------------
 # Publication
@@ -110,8 +110,8 @@ isotopes records.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##kyb_2k	Age,,,kilo years before 2k,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
-##delD		delD,,,per mil SMOW,,ice cores,,,N
+##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##delD	delD,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
