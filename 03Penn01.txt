@@ -55,7 +55,7 @@ observations and measurements of crystal size and c axis orientation were
 performed using conventional techniques. Melt features provided a clear picture of
 Holocene summer climatic changes: a warmer period prior to 2 ka, the Little Ice Age, and
 the modern warming trend. The crystalline structure displayed normal grain growth down
-to 50 m and recrystallization below this. In the 0–50 m depth interval, periodical
+to 50 m and recrystallization below this. In the 0â€“50 m depth interval, periodical
 variations in crystal size were observed and are attributed to the difference of time for
 which the ice was soaked in meltwater every season. These variations made it possible to
 develop an annual record. The c axis fabric evolution displayed a change in the ice flow
@@ -91,7 +91,7 @@ provide information on climatic change.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age_AD	Age,,,year AD,,,,,N
-##MFP		Melt feature percentage,,,percentage,,ice cores,,,N 
+##MFP Melt feature percentage,,,percentage,,ice cores,,,N 
 #
 # --------------------
 # Data:
