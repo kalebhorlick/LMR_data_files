@@ -30,7 +30,7 @@
 # Description_and_Notes
 # 	Description: High resolution Climate Record of the Northern Hemisphere back into the last Interglacial Period.  North Greenland Ice-Core Project (NorthGRIP) Members.
 #
-#	The North Greenland Ice Core Project (NGRIP) site is located at 75.10 °N and 42.32 °W, elevation of 2,917 m, ice thickness of 3,085 m.  The NGRIP drilling started in 1996, and bedrock was reached in July 2003.
+#	The North Greenland Ice Core Project (NGRIP) site is located at 75.10 Â°N and 42.32 Â°W, elevation of 2,917 m, ice thickness of 3,085 m.  The NGRIP drilling started in 1996, and bedrock was reached in July 2003.
 #
 #	In this text file we list the NGRIP oxygen 18 values as 50 year mean values
 #	using the same preliminary age scale as in Figure 2c of the accompanying paper.
@@ -101,7 +101,7 @@ was not operating at this time.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##yr_b2k	Age,,,years before 2000 AD,,,,,N
-##d18o		d18o,,,per mil SMOW,,ice cores,,,N
+##d18O  d18o,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
