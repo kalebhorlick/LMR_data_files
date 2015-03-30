@@ -87,7 +87,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age (years AD), , , years AD, , , mid-annual range, ,N
-##d2HiceVSMOW	delta2H ice, , , per mil VSMOW, , , , , N
+##delD	delta2H ice, , , per mil VSMOW, , , , , N
 #
 #----------------
 # Data:
@@ -96,7 +96,7 @@
 # Missing Values: NaN
 # JRI deuterium isotope record, Annual mean dD and 11y moving average dD, per mill vSMOW
 
-age_AD	d2HiceVSMOW
+age_AD	delD
 2007.5	-159.87
 2006.5	-135.49
 2005.5	-147.52
