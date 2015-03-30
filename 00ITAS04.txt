@@ -54,7 +54,7 @@ variability. Covarying signals in the cores are identified using empirical ortho
 function analysis. Results from regression analysis show that the leading signals
 are consistent with key climate patterns including the Northern Atlantic Oscillation and
 Southern Annular Mode and variability in tropical Pacific sea surface temperatures
-associated with the El Nin˜o–Southern Oscillation. Patterns that have recently been
+associated with the El NinËœoâ€“Southern Oscillation. Patterns that have recently been
 identified in instrumental data, such as positive tropical Pacific SST anomalies associated
 with the negative phase of the SAM, are evident in the ice cores. These explanations for
 the variance of stable isotopes are consistent with recent studies using isotope-enabled
@@ -94,7 +94,7 @@ reconstructions covering the last millennium and other periods.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
