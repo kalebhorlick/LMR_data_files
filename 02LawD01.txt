@@ -38,7 +38,7 @@
 #	Catalogue of Australian Antarctic and Subantarctic Metatdata (CAASM), at: 
 #	http://gcmd.nasa.gov/KeywordSearch/Metadata.do?Portal=amd_au&KeywordPath=Parameters%7C%28%5BFreetext%3D%27law+dome%27%5D%29&OrigMetadataNode=AADC&EntryId=air_methane_lawdome&MetadataView=Full&MetadataType=0&lbnode=mdlb3 
 #
-#	Law Dome: 66°44'S, 112°50'E, 1390m elevation. 
+#	Law Dome: 66Â°44'S, 112Â°50'E, 1390m elevation. 
 # --------------------
 # Publication
 #	Authors: V. Morgan, M. Delmotte, T. van Ommen, J. Jouzel, J. Chappellaz, S. Woon, V. Masson-Delmotte, and D. Raynaud
@@ -53,12 +53,12 @@
 #	Online_Resource: 
 #	Full_Citation:  
 #	Abstract: The last deglaciation was marked by large, hemispheric, millennial-scale 
-climate variations: the Bølling-Allerød and Younger Dryas periods in the 
+climate variations: the BÃ¸lling-AllerÃ¸d and Younger Dryas periods in the 
 north, and the Antarctic Cold Reversal in the south. A chronology from 
 the high-accumulation Law Dome East Antarctic ice core constrains the 
 relative timing of these two events and provides strong evidence that 
 the cooling at the start of the Antarctic Cold Reversal did not follow 
-the abrupt warming during the northern Bølling transition around 14,500 
+the abrupt warming during the northern BÃ¸lling transition around 14,500 
 years ago. This result suggests that southern changes are not a direct 
 response to abrupt changes in North Atlantic thermohaline circulation, 
 as is assumed in the conventional picture of a hemispheric temperature 
@@ -91,7 +91,7 @@ seesaw.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##yb_1950	Age,,,years before 1950,,,,,N 
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
