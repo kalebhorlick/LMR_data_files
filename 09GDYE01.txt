@@ -32,12 +32,12 @@
 # 	Description: Oxygen isotope data and uplift correction plus surface temperature reconstruction and elevation calculations for 6 Greenland ice cores over the Holocene. 
 #
 #	Site locations: 
-#	A84/A87 ice cores, Canada:     80.7°N,  73.1°W, 1730m elev.  
-#	Camp Century core, Greenland: 77°10'N, 61°08'W, 1890m elev.  
-#	NGRIP ice core, Greenland:     75.1°N,  42.3°W, 2920m elev.  
-#	GRIP ice core, Greenland:     72°35'N, 37°38'W, 3230m elev.  
-#	Renland ice core, Greenland:  71.27°N, 26.73°W, 2350m elev.  
-#	DYE-3 ice core, Greenland:    65°11'N, 43°49'W, 2490m elev.  
+#	A84/A87 ice cores, Canada:     80.7Â°N,  73.1Â°W, 1730m elev.  
+#	Camp Century core, Greenland: 77Â°10'N, 61Â°08'W, 1890m elev.  
+#	NGRIP ice core, Greenland:     75.1Â°N,  42.3Â°W, 2920m elev.  
+#	GRIP ice core, Greenland:     72Â°35'N, 37Â°38'W, 3230m elev.  
+#	Renland ice core, Greenland:  71.27Â°N, 26.73Â°W, 2350m elev.  
+#	DYE-3 ice core, Greenland:    65Â°11'N, 43Â°49'W, 2490m elev.  
 #
 # --------------------
 # Publication
@@ -101,7 +101,7 @@ the ability of models to reproduce the GIS response to Holocene climate.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##yr_b2k	Age,,,years before 2k AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
