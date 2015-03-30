@@ -45,7 +45,7 @@
 #	Online_Resource: 
 #	Full_Citation: 
 #	Abstract: Two ice cores (118.4 and 214.7 m in length) were collected in 2000 from the Puruogangri
-ice cap in the center of the Tibetan Plateau (TP) in a joint US–Chinese collaborative project. These cores
+ice cap in the center of the Tibetan Plateau (TP) in a joint USâ€“Chinese collaborative project. These cores
 yield paleoclimatic and environmental records extending through the Middle Holocene, and
 complement previous ice-core histories from the Dunde and Guliya ice caps in northeast and northwest
 Tibet, respectively, and Dasuopu glacier in the Himalaya. The high-resolution Puruogangri climate
@@ -85,7 +85,7 @@ valuable information on variations in the strength of the monsoon across the TP 
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		dO18,,,per mil SMOW,,ice cores,,,N
+##d18O  dO18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
