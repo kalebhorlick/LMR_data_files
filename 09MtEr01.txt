@@ -39,21 +39,21 @@
 #	to 20 year time steps and standardised with respect to its own mean 
 #	and standard deviation over the interval 9000 to 21000 years before 
 #	1950 AD (9-21 ka BP 1950).  Estimated dating uncertainty in the 
-#	composite (relative to GICC05) is ± 220 y during the interval 
-#	10-13 ka BP, ± 200 y during the interval 13- 15 ka BP, 
-#	and ± 380 y during the interval i.e. 15-18 ka BP. 
+#	composite (relative to GICC05) is Â± 220 y during the interval 
+#	10-13 ka BP, Â± 200 y during the interval 13- 15 ka BP, 
+#	and Â± 380 y during the interval i.e. 15-18 ka BP. 
 #	Refer to Pedro et al., (2011) (Table 2) and original references 
 #	for dating uncertainties in the individual cores. 
 #
 #	Ice core locations: 
-#	Law Dome: 66°46’S 112°48’E, 1370 masl 
-#	Byrd: 80°01’S 119°31’W, 1530 masl 
-#	Siple Dome:  81° 40'S 148° 49'W, 621 masl 
-#	Talos Dome: 72°49’S 159°11’E, 2315 masl 
-#	EDML: 75°00'S 00°04'E, 2892 masl 
+#	Law Dome: 66Â°46â€™S 112Â°48â€™E, 1370 masl 
+#	Byrd: 80Â°01â€™S 119Â°31â€™W, 1530 masl 
+#	Siple Dome:  81Â° 40'S 148Â° 49'W, 621 masl 
+#	Talos Dome: 72Â°49â€™S 159Â°11â€™E, 2315 masl 
+#	EDML: 75Â°00'S 00Â°04'E, 2892 masl 
 #
 #	Talos Dome
-#	Location: 72°49’S 159°11’E
+#	Location: 72Â°49â€™S 159Â°11â€™E
 #	Elevation: 2315 m asl
 #	Reference for transfer to GICC05 timescale: Buiron, D., Chappellaz, J.,Stenni, B., Frezzotti, M., Baumgartner, M.,Capron, E., Landais, A., Lemieux-Dudon, B., Masson-Delmotte, V., Montagnat, M., Parrenin, F., and Schilt, A.: TALDICE-1 age scale of the Talos Dome deep ice core, East Ant arctica, Clim. Past, 7, 1--16, doi:10.5194/cp-7-1-2011,2011.
 # --------------------
@@ -114,7 +114,7 @@ observational record.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N 
-##d18O		d18O,,,parts per billion,,ice cores,,,N 
+##d18O  d18O,,,parts per billion,,ice cores,,,N 
 #
 # --------------------
 # Data:
