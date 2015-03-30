@@ -119,7 +119,7 @@
 #
 #
 ##age_AD	age,,,years AD,,,,,N
-##d18O	d18O,,,per mil VSMOW,,ice cores,,,N
+##d18O  d18O,,,per mil VSMOW,,ice cores,,,N
 #
 #----------------
 # Data:
