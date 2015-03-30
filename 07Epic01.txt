@@ -28,7 +28,7 @@
 #	Investigators: Jouzel, J., V. Masson-Delmotte, O. Cattani, G. Dreyfus, S. Falourd, G. Hoffmann, B. Minster, J. Nouet, J.M. Barnola, J. Chappellaz, H. Fischer,J.C. Gallet, S. Johnsen, M. Leuenberger, L. Loulergue, D. Luethi, H. Oerter, F. Parrenin, G. Raisbeck, D. Raynaud, A. Schilt, J. Schwander, E. Selmo, R. Souchez, R. Spahni, B. Stauffer, J.P. Steffensen, B. Stenni, T.F. Stocker, J.L. Tison, M. Werner, and E.W. Wolff
 # --------------------
 # Description_and_Notes
-# 	Description: High-resolution (55cm.) deuterium (dDice) profile from the EPICA Dome C Ice Core, Antarctica (75º 06' S, 123º 21' E), with an optimal accuracy of ± 0.5 ‰ (1 sigma), from the surface down to 3259.7 m.
+# 	Description: High-resolution (55cm.) deuterium (dDice) profile from the EPICA Dome C Ice Core, Antarctica (75Âº 06' S, 123Âº 21' E), with an optimal accuracy of Â± 0.5 â€° (1 sigma), from the surface down to 3259.7 m.
 # --------------------
 # Publication
 #	Authors: Jouzel, J., V. Masson-Delmotte, O. Cattani, G. Dreyfus, S. Falourd, G. Hoffmann, B. Minster, J. Nouet, J.M. Barnola, J. Chappellaz, H. Fischer, J.C. Gallet, S. Johnsen, M. Leuenberger, L. Loulergue, D. Luethi, H. Oerter, F. Parrenin, G. Raisbeck, D. Raynaud, A. Schilt, J. Schwander, E. Selmo, R. Souchez, R. Spahni, B. Stauffer, J.P. Steffensen, B. Stenni, T.F. Stocker, J.L. Tison, M. Werner, and E.W. Wolff
@@ -82,8 +82,8 @@ interglacial periods in ice core records.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yb_1950	Age,,,year AD,,,,,N
-##delD		delD,,,per mil SMOW,,ice cores,,,N 
+##yb_1950 Age,,,year AD,,,,,N
+##delD  delD,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
