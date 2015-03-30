@@ -60,11 +60,11 @@
 #
 #
 #	Table 1: Ice Core information 
-#	Law Dome 2000 (stack): 66.78°S, 112.82°E,  1370m elev., years 1800–1999, d18O
-#	Siple Station:         75.92°S,  84.10°W,  1054m elev., years 1800–1983, d18O
-#	Dronning Maud Land*:     ~75°S,      0°E, ~2900m elev., years 1800–1997, d18O
-#	US ITASE 2000-1:       79.38°S, 111.23°W,  1791m elev., years 1800–1999, d18O
-#	US ITASE 2000-5:       77.68°S, 123.99°W,  1828m elev., years 1800–1999, dD
+#	Law Dome 2000 (stack): 66.78Â°S, 112.82Â°E,  1370m elev., years 1800â€“1999, d18O
+#	Siple Station:         75.92Â°S,  84.10Â°W,  1054m elev., years 1800â€“1983, d18O
+#	Dronning Maud Land*:     ~75Â°S,      0Â°E, ~2900m elev., years 1800â€“1997, d18O
+#	US ITASE 2000-1:       79.38Â°S, 111.23Â°W,  1791m elev., years 1800â€“1999, d18O
+#	US ITASE 2000-5:       77.68Â°S, 123.99Â°W,  1828m elev., years 1800â€“1999, dD
 #
 #	*Dronning Maud Land DML stack, multiple cores, Graf et al. (2002): 
 #	DML18(FB9804); DML19(FB806); DML05(FB9807); DML20(FB9808); DML21(FB9810); 
@@ -88,7 +88,7 @@
 from high-resolution, precisely dated ice cores. Both instrumental and reconstructed temperatures indicate large interannual to decadal 
 scale variability, with the dominant pattern being anti-phase anomalies between the main Antarctic continent and the Antarctic Peninsula region. Comparative analysis of the instrumental Southern
 Hemisphere (SH) mean temperature record and the reconstruction suggests that at longer timescales, temperatures over the Antarctic continent 
-vary in phase with the SH mean. Our reconstruction suggests that Antarctic temperatures have increased by about 0.2°C since the late  nineteenth century. The variability and the long-term trends are 
+vary in phase with the SH mean. Our reconstruction suggests that Antarctic temperatures have increased by about 0.2Â°C since the late  nineteenth century. The variability and the long-term trends are 
 strongly modulated by the SH Annular Mode in the atmospheric circulation.
 # --------------------
 # Funding_Agency
@@ -121,7 +121,7 @@ strongly modulated by the SH Annular Mode in the atmospheric circulation.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##delD		del D,,,per mil SMOW,,ice cores,,,N 
+##delD  del D,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
