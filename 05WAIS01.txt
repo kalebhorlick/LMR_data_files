@@ -1,4 +1,4 @@
-# Multidecadal variability of atmospheric methane, 1000–1800 C.E.
+# Multidecadal variability of atmospheric methane, 1000â€“1800 C.E.
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -23,7 +23,7 @@
 #	Date: 2015
 # --------------------
 # Title 
-#	Study_Name: Multidecadal variability of atmospheric methane, 1000–1800 C.E.
+#	Study_Name: Multidecadal variability of atmospheric methane, 1000â€“1800 C.E.
 # --------------------
 # Investigators
 #	Investigators: Mitchell, L.E.; Brooks, E.J.; Sowers, T.; McConnell, J.R.; Taylor, K.  
@@ -35,7 +35,7 @@
 # Publication
 #	Authors: Logan E. Mitchell, Edward J. Brook, Todd Sowers, J. R. McConnell and Kendrick Taylor 
 #	Published_Date_or_Year: 2011-04-28
-#	Published_Title: Multidecadal variability of atmospheric methane, 1000–1800 C.E.
+#	Published_Title: Multidecadal variability of atmospheric methane, 1000â€“1800 C.E.
 #	Journal_Name: Journal of Geophysical Research: Biogeosciences
 #	Volume: 116
 #	Edition: 	
@@ -44,7 +44,7 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: We present a new high-precision, high-resolution record of atmospheric methane from the West Antarctic Ice Sheet (WAIS) Divide ice core covering 1000–1800 C.E., a time period known as the late preindustrial Holocene (LPIH). The results are consistent with previous measurements from the Law Dome ice core, the only other high-resolution record of methane for this time period, and confirm most of the observed variability. Multidecadal variability in methane concentrations throughout the LPIH is weakly correlated or uncorrelated with reconstructions of temperature and precipitation from a variety of geographic regions. Correlations with temperature are dominated by changes in Northern Hemisphere high latitude temperatures between 1400 and 1600 C.E. during the onset of the Little Ice Age. Times of war and plague when large population losses could have reduced anthropogenic emissions are coincident with short periods of decreasing global methane concentrations.
+#	Abstract: We present a new high-precision, high-resolution record of atmospheric methane from the West Antarctic Ice Sheet (WAIS) Divide ice core covering 1000â€“1800 C.E., a time period known as the late preindustrial Holocene (LPIH). The results are consistent with previous measurements from the Law Dome ice core, the only other high-resolution record of methane for this time period, and confirm most of the observed variability. Multidecadal variability in methane concentrations throughout the LPIH is weakly correlated or uncorrelated with reconstructions of temperature and precipitation from a variety of geographic regions. Correlations with temperature are dominated by changes in Northern Hemisphere high latitude temperatures between 1400 and 1600 C.E. during the onset of the Little Ice Age. Times of war and plague when large population losses could have reduced anthropogenic emissions are coincident with short periods of decreasing global methane concentrations.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -73,7 +73,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)		
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
