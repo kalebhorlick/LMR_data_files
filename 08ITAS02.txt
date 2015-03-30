@@ -33,7 +33,7 @@
 #
 #	Table 1. Summary information for ice core sites.
 #
-#	Site Name       Lat(°N)   Lon(°E)  Elev(m)     Type    End yr
+#	Site Name       Lat(Â°N)   Lon(Â°E)  Elev(m)     Type    End yr
 #	Dyer Plateau     -70.66    -64.5      2002     d18O    1989
 #	Siple Station    -75.92    -84.15     1054     d18O    1983
 #	01-5 ITASE       -77.06    -89.14     1239     d18O    1999
@@ -58,8 +58,8 @@
 #	Abstract: Although the 20th Century warming of global climate is well known, climate change in the high-latitude Southern Hemisphere (SH), 
 especially in the first half of the century, remains poorly documented. 
 We present a composite of water stable isotope data from high-resolution ice cores from the West Antarctic Ice Sheet. This record, representative of West Antarctic surface temperature, shows extreme positive anomalies 
-in the 1936–45 decade that are significant in the context of the background 20th Century warming trend. We interpret these anomalies - previously undocumented in the high-latitude SH - as indicative of 
-strong teleconnections in part driven by the major 1939–42 El Niño. These anomalies are coherent with tropical sea-surface temperature, mean SH air temperature, and North Pacific sea-level pressure, underscoring the sensitivity of West Antarctica's climate, and potentially its ice sheet, to large-scale changes in the 
+in the 1936â€“45 decade that are significant in the context of the background 20th Century warming trend. We interpret these anomalies - previously undocumented in the high-latitude SH - as indicative of 
+strong teleconnections in part driven by the major 1939â€“42 El NiÃ±o. These anomalies are coherent with tropical sea-surface temperature, mean SH air temperature, and North Pacific sea-level pressure, underscoring the sensitivity of West Antarctica's climate, and potentially its ice sheet, to large-scale changes in the 
 global climate.ith phase variation of <1 month. Dating precision and accuracy are uniform with depth, for at least the last 100 years.
 # --------------------
 # Funding_Agency
@@ -91,7 +91,7 @@ global climate.ith phase variation of <1 month. Dating precision and accuracy ar
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		dO18,,,per mil SMOW,,ice cores,,,N 
+##d18O  dO18,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
