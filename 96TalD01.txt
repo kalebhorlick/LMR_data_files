@@ -35,13 +35,13 @@
 #	adjacent to the Victoria Land mountain. 
 #
 #	Two firn cores were drilled in the Talos Dome area: 
-#	TD core: 72°48´S; 159°06´E; 2316 m. elev., 89 m long
-#	ST556 core: 72°22´S; 158°45´E; 2246 m. elev, 19 m long
+#	TD core: 72Â°48Â´S; 159Â°06Â´E; 2316 m. elev., 89 m long
+#	ST556 core: 72Â°22Â´S; 158Â°45Â´E; 2246 m. elev, 19 m long
 #
 #	The TD core was drilled on the topographical summit of the dome, 
 #	and the ST556 core was drilled along the ice divide coming from TD 
 #	to the Southern Ocean, at the same location of a core retrieved 
-#	during the 1959–1960 U.S. Victoria Land Traverse.
+#	during the 1959â€“1960 U.S. Victoria Land Traverse.
 #	The TD and ST556 cores are 50 km apart.
 #
 #	Cores were dated by using seasonal variations in non-sea-salt SO42- 
@@ -50,12 +50,12 @@
 #	Krakatoa 1883, Tambora 1815, Kuwae 1452, Unknown 1259). 
 #
 #	Measurements of Deuterium (D) 
-#	(where  D = {[(D/H)sample/(D/H)V-SMOW] - 1} × 1000) 
+#	(where  D = {[(D/H)sample/(D/H)V-SMOW] - 1} Ã— 1000) 
 #	were carried out on the TD core at Laboratoire des Sciences du Climat 
 #	et de l'Environnement (LSCE) using the uranium reduction technique 
 #	with an automatic sample injection device (Vaughn et al., 1998) 
 #	on line with the mass spectrometer. 
-#	Analytical precision is better than ±0.7‰.
+#	Analytical precision is better than Â±0.7â€°.
 # --------------------
 # Publication
 #	Authors: B. Stenni, M. Proposito, R. Gragnani, O. Flora, J. Jouzel, and M. Frezzotti
@@ -71,7 +71,7 @@
 #	Full_Citation: 
 #	Abstract: During the 1996 Programma Nazionale di Ricerche in Antartide-International Trans-Antarctic Scientific Expedition traverse, two firn cores were retrieved 
 from the Talos Dome area (East Antarctica) at elevations of 2316 m (TD, 89 m long) and 2246 m (ST556, 19 m long). Cores were dated by using seasonal variations in non-sea-salt (nss) SO42- concentrations coupled with 
-the recognition of tritium marker level (1965–1966) and nss SO42- spikes due to the most important volcanic events in the past (Pinatubo 1991, Agung 1963, 
+the recognition of tritium marker level (1965â€“1966) and nss SO42- spikes due to the most important volcanic events in the past (Pinatubo 1991, Agung 1963, 
 Krakatoa 1883, Tambora 1815, Kuwae 1452, Unknown 1259). The number of annual layers recognized in the TD and ST556 cores was 779 and 97, respectively. The  dD record obtained from the TD core has been compared with other 
 East Antarctic isotope ice core records (Dome C EPICA, South Pole, Taylor Dome). These records suggest cooler climate conditions between the middle of 16th and 
 the beginning of 19th centuries, which might be related to the Little Ice Age (LIA) cold period. Because of the high degree of geographical variability, the strongest LIA cooling was not temporally synchronous over East Antarctica, and the analyzed 
@@ -105,7 +105,7 @@ followed by an increment of about 11% in accumulation during the 20th century. A
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		dO18,,,per mil SMOW,,ice cores,,,N
+##d18O  dO18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
