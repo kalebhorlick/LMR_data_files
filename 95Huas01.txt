@@ -1,4 +1,4 @@
-# Huascarán Ice Core, Core 1 Data
+# HuascarÃ¡n Ice Core, Core 1 Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -22,7 +22,7 @@
 #	Date: 2014
 # --------------------
 # Title 
-#	Study_Name: Huascarán Ice Core, Core 1 Data
+#	Study_Name: HuascarÃ¡n Ice Core, Core 1 Data
 # --------------------
 # Investigators
 #	Investigators:  Thompson, L.G.; Mosley-Thompson, E.; Davis, M.E.; Lin, P-N.; Henderson, K.A.; Cole-Dai, J.; Bolzan, J.F.; Liu, K-b. 
@@ -30,7 +30,7 @@
 # Description_and_Notes
 #	Description: Site Description and Analysis
 #	In July-August 1993, two ice cores to bedrock were recovered from the col 
-#	between the north and south peaks of Nevado Huascarán, Peru (9øS, 77ø30'W, col 
+#	between the north and south peaks of Nevado HuascarÃ¡n, Peru (9Ã¸S, 77Ã¸30'W, col 
 #	elevation 6050 m) and were subsequently transported back to the cold room facility at the 
 #	Byrd Polar Research Center (BPRC).  Core 1 (HSC1, 160.40 m) was sectioned in the 
 #	field into 2677 samples decreasing in thickness from 13 cm at the top to 3 cm at the base, 
@@ -61,7 +61,7 @@
 #	Development of the time/depth relationship
 #	Tropical South American climate is marked by annual dry seasons (July-October) 
 #	which were identifiable in the ice core record as elevated values in all relevant 
-#	measurements.  The nitrate (NO3-) record from the Huascarán ice core provided the most 
+#	measurements.  The nitrate (NO3-) record from the HuascarÃ¡n ice core provided the most 
 #	definitive seasonal marker, but the final time scale was constructed from a comparison of 
 #	four major parameters (NO3-, d18O, dust and SO42-).  Each annual maximum corresponds 
 #	to the middle of the dry season, assumed to occur on the 1st of August.  The rapid layer-
@@ -72,13 +72,13 @@
 #	relationships between ice core proxy data and tropical climate conditions.  Several 
 #	horizons in recent times were useful for confirming the layer counting as a reliable 
 #	method, and indicate almost certain ages for the uppermost 50 years.  In 1980, during the 
-#	original reconnaissance expedition to Huascarán, a 10 m firn core was extracted and 
+#	original reconnaissance expedition to HuascarÃ¡n, a 10 m firn core was extracted and 
 #	analyzed for d18O at BPRC (Thompson et al., JGR, v. 89d3, 1984, p. 4638-4646). Aside 
 #	from minor accumulation variation and slight signal attenuation, the 1993 cores 
 #	duplicated the earlier stable isotope profile over the common portion, and confirmed the 
 #	layer counting to 1980 as absolute.  Additionally, a magnitude 7.7 earthquake struck 
 #	coastal Peru in May 1970, generating large mud flows following the collapse of a large 
-#	portion of the Huascarán glacier from the north peak. The event was recognized in the ice 
+#	portion of the HuascarÃ¡n glacier from the north peak. The event was recognized in the ice 
 #	core by a sharp two-year rise in particulates from the newly-created sediment source.  A 
 #	third time horizon was provided by the HSC2 36Cl profile (Synal et al., Glaciers From the 
 #	Alps, Paul Scherrer Inst., 1997, p. 99-102), a substance produced by neutron activation 
@@ -97,7 +97,7 @@
 # Publication
 #	Authors: L.G. Thompson, E. Mosley-Thompson, M.E. Davis, P-N. Lin, K.A. Henderson, J. Cole-Dai, J.F. Bolzan and K-b. Liu
 #	Published_Date_or_Year: 1995
-#	Published_Title:  Late Glacial Stage and Holocene tropical ice core records from Huascarán, Peru. 
+#	Published_Title:  Late Glacial Stage and Holocene tropical ice core records from HuascarÃ¡n, Peru. 
 #	Journal_Name: Science
 #	Volume: 269
 #	Edition: 	
@@ -106,14 +106,14 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Two ice cores from the col of Huascarán in the north-central Andes of Peru contain a paleoclimatic history extending well into the Wisconsinan (Würm) Glacial Stage and include evidence of the Younger Dryas cool phase. Glacial stage conditions at high elevations in the tropics appear to have been as much as 8 degrees to 12 degrees C cooler than today, the atmosphere contained about 200 times as much dust, and the Amazon Basin forest cover may have been much less extensive. Differences in both the oxygen isotope ratio zeta(18)O (8 per mil) and the deuterium excess (4.5 per mil) from the Late Glacial Stage to the Holocene are comparable with polar ice core records. These data imply that the tropical Atlantic was possibly 5 degrees to 6 degrees C cooler during the Late Glacial Stage, that the climate was warmest from 8400 to 5200 years before present, and that it cooled gradually, culminating with the Little Ice Age (200 to 500 years before present). A strong warming has dominated the last two centuries.
+#	Abstract: Two ice cores from the col of HuascarÃ¡n in the north-central Andes of Peru contain a paleoclimatic history extending well into the Wisconsinan (WÃ¼rm) Glacial Stage and include evidence of the Younger Dryas cool phase. Glacial stage conditions at high elevations in the tropics appear to have been as much as 8 degrees to 12 degrees C cooler than today, the atmosphere contained about 200 times as much dust, and the Amazon Basin forest cover may have been much less extensive. Differences in both the oxygen isotope ratio zeta(18)O (8 per mil) and the deuterium excess (4.5 per mil) from the Late Glacial Stage to the Holocene are comparable with polar ice core records. These data imply that the tropical Atlantic was possibly 5 degrees to 6 degrees C cooler during the Late Glacial Stage, that the climate was warmest from 8400 to 5200 years before present, and that it cooled gradually, culminating with the Little Ice Age (200 to 500 years before present). A strong warming has dominated the last two centuries.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
 #	Grant: 
 # --------------------
 # Site_Information
-#	Site_Name: Huascarán
+#	Site_Name: HuascarÃ¡n
 #	Location: South America>Peru
 #	Country:  Peru
 #	Northernmost_Latitude: -9
@@ -135,7 +135,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
