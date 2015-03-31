@@ -33,7 +33,7 @@
 #
 # --------------------
 # Publication
-#	Authors: Katrine K. Andersen , Anders Svensson, Sigfus J. Johnsen, Sune O. Rasmussen, Matthias Bigler, Regine Röthlisberger, Urs Rutc, Marie-Louise Siggaard-Andersen, Jørgen Peder Steffensen, Dorthe Dahl-Jensen, Bo M. Vinther, Henrik B. Clausen
+#	Authors: Katrine K. Andersen , Anders Svensson, Sigfus J. Johnsen, Sune O. Rasmussen, Matthias Bigler, Regine RÃ¶thlisberger, Urs Rutc, Marie-Louise Siggaard-Andersen, JÃ¸rgen Peder Steffensen, Dorthe Dahl-Jensen, Bo M. Vinther, Henrik B. Clausen
 #	Published_Date_or_Year: 2006-12
 #	Published_Title: The Greenland Ice Core Chronology 2005, 15-24ka. Part 1: construction the time scale
 #	Journal_Name: Quaternary Science Reviews
@@ -44,7 +44,7 @@
 #	DOI: 10.1016/j.quascirev.2006.08.002
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract:  The Greenland Ice Core Chronology 2005, GICC05, is extended back to 42 ka b2k (before 2000 AD), i.e. to the end of Greenland Stadial 11. The chronology is based on independent multi-parameter counting of annual layers using comprehensive high-resolution measurements available from the North Greenland Ice Core Project, NGRIP. These are measurements of visual stratigraphy, conductivity of the solid ice, electrolytical melt water conductivity and the concentration of Na+, Ca2+, SO42-, NO3-, NH4+. An uncertainty estimate of the time scale is obtained from identification of ‘uncertain’ annual layers, which are counted as 0.5+/-0.5 years. The sum of the uncertain annual layers, the so-called maximum counting error of the presented chronology ranges from 4% in the warm interstadial periods to 7% in the cold stadials. The annual accumulation rates of the stadials and interstadials are on average one-third and half of the present day values, respectively, and the onset of the Greenland Interstadials 2, 3, and 8, based on 20 year averaged d18O values, are determined as 23,340, 27,780, and 38,220 yr b2k in GICC05.
+#	Abstract:  The Greenland Ice Core Chronology 2005, GICC05, is extended back to 42 ka b2k (before 2000 AD), i.e. to the end of Greenland Stadial 11. The chronology is based on independent multi-parameter counting of annual layers using comprehensive high-resolution measurements available from the North Greenland Ice Core Project, NGRIP. These are measurements of visual stratigraphy, conductivity of the solid ice, electrolytical melt water conductivity and the concentration of Na+, Ca2+, SO42-, NO3-, NH4+. An uncertainty estimate of the time scale is obtained from identification of â€˜uncertainâ€™ annual layers, which are counted as 0.5+/-0.5 years. The sum of the uncertain annual layers, the so-called maximum counting error of the presented chronology ranges from 4% in the warm interstadial periods to 7% in the cold stadials. The annual accumulation rates of the stadials and interstadials are on average one-third and half of the present day values, respectively, and the onset of the Greenland Interstadials 2, 3, and 8, based on 20 year averaged d18O values, are determined as 23,340, 27,780, and 38,220 yr b2k in GICC05.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name:
@@ -73,7 +73,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
