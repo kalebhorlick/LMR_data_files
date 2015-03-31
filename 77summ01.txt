@@ -70,8 +70,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,years AD,,,,,N
-##accum		accumulation,,,cm/yr,,ice cores,,,N 
+##age_AD  Age,,,years AD,,,,,N
+##accum accumulation,,,cm/yr,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -79,7 +79,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	accumu
+age_AD	accum
 1972	15.63
 1971	25
 1970	20.31
