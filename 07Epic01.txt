@@ -1,4 +1,4 @@
-# EPICA Dome C Ice Core 800KYr Deuterium Data and Temperature Estimates
+﻿# EPICA Dome C Ice Core 800KYr Deuterium Data and Temperature Estimates
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -82,8 +82,8 @@ interglacial periods in ice core records.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yb_1950 Age,,,year AD,,,,,N
-##delD  delD,,,per mil SMOW,,ice cores,,,N 
+##yb_1950	Age,,,year AD,,,,,N
+##delD	delD,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:

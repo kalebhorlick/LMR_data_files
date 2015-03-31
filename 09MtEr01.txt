@@ -1,4 +1,4 @@
-# Mt. Erebus Saddle, Antarctica 04/05 Snowpit d18O and Chemical Data 
+﻿# Mt. Erebus Saddle, Antarctica 04/05 Snowpit d18O and Chemical Data 
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -114,7 +114,7 @@ observational record.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N 
-##d18O  d18O,,,parts per billion,,ice cores,,,N 
+##d18O	d18O,,,parts per billion,,ice cores,,,N 
 #
 # --------------------
 # Data:

@@ -1,4 +1,4 @@
-# Greenland Ice Sheet Holocene d18O, Temperature, and Surface Elevation 
+﻿# Greenland Ice Sheet Holocene d18O, Temperature, and Surface Elevation 
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -101,7 +101,7 @@ the ability of models to reproduce the GIS response to Holocene climate.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##yr_b2k	Age,,,years before 2k AD,,,,,N
-##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:

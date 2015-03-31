@@ -1,4 +1,4 @@
-# EPICA Dome C Ice Cores Deuterium Data
+﻿# EPICA Dome C Ice Cores Deuterium Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -101,7 +101,7 @@ intervention, a climate similar to the present one would extend well into the fu
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##yb_1950	Age,,,years before 1950,,,,,N
-##delD  delD,,,per mil SMOW,,ice cores,,,N 
+##delD	delD,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:

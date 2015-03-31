@@ -1,4 +1,4 @@
-# EPICA Dronning Maud Land Ice Core 10-51 KYrBP d18O Data 
+﻿# EPICA Dronning Maud Land Ice Core 10-51 KYrBP d18O Data 
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -118,7 +118,7 @@ circulation.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##kyr_BP	Age,,,k year before present,,,,,N
-##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
