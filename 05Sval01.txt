@@ -68,7 +68,7 @@ been proposed as the most important oscillation for the observed trends in Arcti
 #	Elevation: 750 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 05sval01
+#	Collection_Name: 05Sval01
 #	Earliest_Year: 1400
 #	Most_Recent_Year: 1998
 #	Time Unit: AD
