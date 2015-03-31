@@ -96,8 +96,8 @@
 # Net balance before 683 CE is not included since the time scale from 226 to 682 CE was determined by a polynomial fit to the age/depth relationship described in the Supplementary Materials accompanying the Thompson et al. Science (2013) paper)
 #
 ##age_AD	Age (years AD) Beginning of thermal year (austral winter), , , AD, , , , ,N
-##d18OiceSMOW	delta18O ice, ice, , per mil SMOW, , , , ,N 
-##iceacc_m	Ice accumulation rate, , , meters water equivalent, , , , ,N
+##d18O	delta18O ice, ice, , per mil SMOW, , , , ,N 
+##accum	Ice accumulation rate, , , meters water equivalent, , , , ,N
 #
 #----------------
 # Data:
@@ -105,7 +105,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 # 
-age_AD	d18OiceSMOW	iceacc_m
+age_AD	d18O	accum
 2009	-18.59	1.22
 2008	-16.32	1.29
 2007	-16.23	1.46
