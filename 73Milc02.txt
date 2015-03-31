@@ -59,7 +59,7 @@
 #	Elevation: 3212 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 73Milc01
+#	Collection_Name: 73Milc02
 #	Earliest_Year: 1176
 #	Most_Recent_Year: 1967 
 #	Time Unit: AD
