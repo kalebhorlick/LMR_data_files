@@ -76,7 +76,7 @@ series over a long period. Further, it appears that for this region there is a l
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,years AD,,,,,N
-##d18O		del18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  del18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
