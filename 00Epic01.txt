@@ -1,4 +1,4 @@
-# EPICA Dome C Ice Core Cl, Na and NO3 Data
+﻿# EPICA Dome C Ice Core Cl, Na and NO3 Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -69,7 +69,7 @@
 #	Collection_Name: 00Epic01
 #	Earliest_Year: 44799
 #	Most_Recent_Year: 38.1
-#	Time Unit: yb 1950
+#	Time_Unit: yb 1950
 #
 # --------------------
 # Variables
