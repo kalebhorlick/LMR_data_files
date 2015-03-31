@@ -1,4 +1,4 @@
-#  ITASE Antarctic Ice Core 2002-4
+﻿#  ITASE Antarctic Ice Core 2002-4
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -85,7 +85,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # Variables
 #
 ##Midpt_year  Age,,,year AD as midpoint,,,,,N
-##delD  del D,,,per mil SMOW,,ice cores,,,N 
+##delD	del D,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
