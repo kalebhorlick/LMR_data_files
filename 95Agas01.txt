@@ -61,7 +61,7 @@
 #	Elevation: 1730 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 95Aga01
+#	Collection_Name: 95Agas01
 #	Earliest_Year: 1349
 #	Most_Recent_Year: 1988 
 #	Time Unit: AD
