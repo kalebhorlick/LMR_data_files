@@ -59,7 +59,7 @@
 # 	Elevation:  
 #------------------
 # Data_Collection   
-#	Collection_Name: 94gala01a 
+#	Collection_Name: 94gala01b 
 #	Earliest_Year: 1607 
 #	Most_Recent_Year: 1953 
 #	Time_Unit: Years AD 

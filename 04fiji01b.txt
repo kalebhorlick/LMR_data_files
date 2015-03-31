@@ -58,7 +58,7 @@
 # 	Elevation:  -2 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 04fiji02a
+#	Collection_Name: 04fiji01b
 #	Earliest_Year: 1940 
 #	Most_Recent_Year: 2001 
 #	Time_Unit: Year AD 
