@@ -62,7 +62,7 @@ resolved by the wavelet analysis is similar to what has been found in various cl
 #	Elevation: 750 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 05sval02
+#	Collection_Name: 05Sval02
 #	Earliest_Year: 1736
 #	Most_Recent_Year: 1997
 #	Time Unit: AD
