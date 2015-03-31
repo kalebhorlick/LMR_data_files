@@ -29,7 +29,7 @@
 #	Investigators: Fisher, D.A.; Koerner, R.M.; Paterson, W.S.B.; Dansgaard, W.; Gundestrup, N. 
 # --------------------
 # Description_and_Notes
-# 	Description: Penny Ice Cap, Baffin Island, Canada  67° 15'N, 65° 45'W, 1900m.
+# 	Description: Penny Ice Cap, Baffin Island, Canada  67Â° 15'N, 65Â° 45'W, 1900m.
 #
 #	Snowpits were excavated in 1994 and 1995. 
 #
@@ -102,7 +102,7 @@ Hudson Bay.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
