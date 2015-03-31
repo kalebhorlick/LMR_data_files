@@ -77,7 +77,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 #	Elevation: 2586 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 02ITASE01
+#	Collection_Name: 02ITAS01
 #	Earliest_Year: 1800
 #	Most_Recent_Year: 1999
 #	Time Unit: AD
