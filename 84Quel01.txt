@@ -1,4 +1,4 @@
-# Quelccya Ice Core Data
+﻿# Quelccya Ice Core Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -75,8 +75,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O  dO18,,,per mil SMOW,,ice cores,,,N
-##accum accumulaiton,,,meters,,ice cores,,,N
+##d18O	dO18,,,per mil SMOW,,ice cores,,,N
+##accum	accumulaiton,,,meters,,ice cores,,,N
 #
 # --------------------
 # Data:

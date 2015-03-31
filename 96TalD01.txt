@@ -1,4 +1,4 @@
-# Talos Dome Ice Core d18o Data
+﻿# Talos Dome Ice Core d18o Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -105,7 +105,7 @@ followed by an increment of about 11% in accumulation during the 20th century. A
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O  dO18,,,per mil SMOW,,ice cores,,,N
+##d18O	dO18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:

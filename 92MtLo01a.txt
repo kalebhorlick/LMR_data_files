@@ -1,4 +1,4 @@
-# Mount Logan Ice Core Isotope and Accumulation Data
+﻿# Mount Logan Ice Core Isotope and Accumulation Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -96,8 +96,8 @@ pattern and the Pacific Decadal Oscillation.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##accum accumulation,,,meters,,ice cores,,,N
-##d18O  Delta O18,,,per mil SMOW,,ice cores,,,N
+##accum	accumulation,,,meters,,ice cores,,,N
+##d18O	Delta O18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:

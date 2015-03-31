@@ -1,4 +1,4 @@
-# DOME C DEPTH/AGE, DELTA DEUTERIUM, DELTA 18-O AND DEUTERIUM EXCESS
+﻿# DOME C DEPTH/AGE, DELTA DEUTERIUM, DELTA 18-O AND DEUTERIUM EXCESS
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -73,8 +73,8 @@ During the LGM stage, over the whole of Antarctica, the change in the total opti
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##ka_BP	Age,,,ka BP,,,,,N
-##delD  delD,,,per mil SMOW,,ice cores,,,N
-##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
+##delD	delD,,,per mil SMOW,,ice cores,,,N
+##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
