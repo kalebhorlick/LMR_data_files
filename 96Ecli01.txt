@@ -51,7 +51,7 @@
 #	samples in duplicate and found to be 11% for K+, 10% for NH4+, 7% for Na+, and 
 #	less than 5% for all other species.  Aliquots of the same samples were also 
 #	analyzed for oxygen isotopes (delta 18O) at the Stable Isotope Laboratory in 
-#	Copenhagen, Denmark (precision ± 0.05‰). 
+#	Copenhagen, Denmark (precision Â± 0.05â€°). 
 #
 #	Chronology of the Eclipse ice core is based on multi-parameter annual layer counting 
 #	of seasonal oscillations in the stable isotope and major ion records 
@@ -107,7 +107,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
