@@ -71,7 +71,7 @@ glaciers is not only contributing to global sea-level rise but also threatening 
 #	Elevation: 5670 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 03Quel01
+#	Collection_Name: 03Quel02
 #	Earliest_Year: 744
 #	Most_Recent_Year: 1995
 #	Time unit: AD
