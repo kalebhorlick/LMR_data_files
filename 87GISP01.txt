@@ -48,7 +48,7 @@
 year detailed oxygen isotope profile covering almost a full glacial-interglacial cycle. Measuranents
 of isotopic fluctuations in snow, frost, and atmospheric water vapor samples collected during
 summer field seasons (up to 20%0) are compatible with the large and abrupt d80/d160 changes
-observed in accumulatedim. Snow pit 15•80 profiles from the GISP2 summit area, however, show
+observed in accumulatedim. Snow pit 15â€¢80 profiles from the GISP2 summit area, however, show
 rapid smoothing of the 180/160 signal near the surface. Beyond about 2-m depth the smoothedi5180
 signal is fairly well preserved and can be interpreted in terms of average local weather conditions
 and climate. The longer climate fluctuations also have regional and often global significance. Inthe
@@ -73,9 +73,9 @@ circulation during the Bolling-Allerod interstadial complex and the Younger Drya
 distinct development of European climate and Greenland 180/160 values. The Holocene interval
 with long-term stable mean isotopic values contains several fluauations with periods from years to
 millennia. Dominant is a 6.3-year oscillation with amplitude up to 3 to 4%0. Periodicities of 11 and
-210 years, also found in the solar-modulated records of the cosmogenic isotopes 1øBe and 14C,
+210 years, also found in the solar-modulated records of the cosmogenic isotopes 1Ã¸Be and 14C,
 suggest solar processes as the cause of these cycles. Depression of d180/160 values (cooling) by
-volcanic eruptions is observed in stacked GISP215•80 records, buthe effect is small and not likely
+volcanic eruptions is observed in stacked GISP215â€¢80 records, buthe effect is small and not likely
 to trigger major climate changes. 
 # --------------------
 # Funding_Agency
@@ -105,7 +105,7 @@ to trigger major climate changes.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
