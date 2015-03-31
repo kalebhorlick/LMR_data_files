@@ -118,9 +118,9 @@
 # Data line format: tab-delimited text, variable short name as header
 #
 #
-##age_AD	Age (years AD),,, years AD,,,, N
-##d18O	delta18O ice (per mil VSMOW),,,per mil VSMOW,,,, N
-##accum	Ice accumulation rate (m ice equiv/year),, m ice equiv/year,,,,N
+##age_AD	Age (years AD),,, years AD,,,,,N
+##d18O	delta18O ice (per mil VSMOW),,,per mil VSMOW,,,,,N
+##accum	Ice accumulation rate (m ice equiv/year),, m ice equiv/year,,,,,,N
 #
 #----------------
 # Data:
