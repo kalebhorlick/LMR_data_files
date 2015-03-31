@@ -43,7 +43,7 @@
 #	DOI: 10.1038/266508a0
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Isotope measurements on two adjacent cores through the Devon Island ice cap provide a well-dated climatic record for the past 5000 yr. Fluctuations in annual values include much ‘noise’, and ice flow over a rough bed produces distortions in the lowest 5% of core which covers roughly 120,000 yr. Comparison with the Camp Century, Greenland, record helps to separate climatic changes from changes in ice thickness or flow pattern.
+#	Abstract: Isotope measurements on two adjacent cores through the Devon Island ice cap provide a well-dated climatic record for the past 5000 yr. Fluctuations in annual values include much â€˜noiseâ€™, and ice flow over a rough bed produces distortions in the lowest 5% of core which covers roughly 120,000 yr. Comparison with the Camp Century, Greenland, record helps to separate climatic changes from changes in ice thickness or flow pattern.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -72,7 +72,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		dO18,,,per mil SMOW,,ice cores,,,N
+##d18O  dO18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
