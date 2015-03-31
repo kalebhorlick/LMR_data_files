@@ -64,7 +64,7 @@ series over a long period. Further, it appears that for this region there is a l
 #	Elevation: 2410 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 74Cret05
+#	Collection_Name: 75Cret05
 #	Earliest_Year: 1278
 #	Most_Recent_Year: 1974
 #	Time Unit: AD
