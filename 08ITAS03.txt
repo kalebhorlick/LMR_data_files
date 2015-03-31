@@ -79,7 +79,7 @@ global climate.ith phase variation of <1 month. Dating precision and accuracy ar
 #	Elevation: 1620 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 08ITASE03
+#	Collection_Name: 08ITAS03
 #	Earliest_Year: 1900
 #	Most_Recent_Year: 1999
 #	Time Unit: AD
