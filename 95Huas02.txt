@@ -123,7 +123,7 @@
 #	Elevation: 6050 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 95Huas01
+#	Collection_Name: 95Huas02
 #	Earliest_Year: 1900
 #	Most_Recent_Year: 1990
 #	Time Unit: AD
