@@ -1,4 +1,4 @@
-# Svalbard Annual d18O Data (d18O Lomonosovfonna)
+﻿# Svalbard Annual d18O Data (d18O Lomonosovfonna)
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -80,7 +80,7 @@ been proposed as the most important oscillation for the observed trends in Arcti
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O  dO18,,,per mil SMOW,,ice cores,,,N
+##d18O	dO18,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:

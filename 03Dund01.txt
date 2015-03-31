@@ -1,4 +1,4 @@
-# Dunde, China Ice Core Oxygen Isotope Data
+﻿# Dunde, China Ice Core Oxygen Isotope Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -97,8 +97,8 @@ global climate.
 # --------------------
 # Variables
 #
-##age_AD  Age,,,year AD,,,,,N
-##d18O  dO18,,,per mil SMOW,,ice cores,,,N 
+##age_AD	Age,,,year AD,,,,,N
+##d18O	dO18,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:

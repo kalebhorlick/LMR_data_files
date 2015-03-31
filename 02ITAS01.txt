@@ -84,7 +84,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # --------------------
 # Variables
 #
-##Midpt_year  Age,,,year AD as midpoint,,,,,N
+##Midpt_year	Age,,,year AD as midpoint,,,,,N
 ##delD	del D,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------

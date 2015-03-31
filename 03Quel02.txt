@@ -1,4 +1,4 @@
-# Quelccaya d18O 2003
+﻿# Quelccaya d18O 2003
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -80,7 +80,7 @@ glaciers is not only contributing to global sea-level rise but also threatening 
 # Variables
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:

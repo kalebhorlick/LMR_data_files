@@ -1,4 +1,4 @@
-# Quelccaya accumulation
+﻿# Quelccaya accumulation
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -83,7 +83,7 @@ glaciers is not only contributing to global sea-level rise but also threatening 
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)	
 #
 ##age_AD	Age,,,year AD,,,,,N
-##accum accumulation,,,meters water equivalent per year,,ice cores,,,N 
+##accum	accumulation,,,meters water equivalent per year,,ice cores,,,N 
 #
 # --------------------
 # Data:

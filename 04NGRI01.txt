@@ -1,4 +1,4 @@
-# North Greenland Ice Core Project Oxygen Isotope Data
+﻿# North Greenland Ice Core Project Oxygen Isotope Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -100,8 +100,8 @@ was not operating at this time.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yb_2k Age,,,years before 2000 AD,,,,,N ****age before 1950
-##d18o  d18o,,,per mil SMOW,,ice cores,,,N 
+##yb_2k	Age,,,years before 2000 AD,,,,,N ****age before 1950
+##d18o	d18o,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:

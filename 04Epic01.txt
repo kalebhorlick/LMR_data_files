@@ -1,4 +1,4 @@
-# EPICA Dome C - nss-Ca and Na Data
+﻿# EPICA Dome C - nss-Ca and Na Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -95,7 +95,7 @@ maximum of 8 ppm in addition.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##yb_1950	Age,,,years before 1950,,,,,N 
-##d18o  d18o,,,per mil SMOW,,ice cores,,,N 
+##d18o	d18o,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:

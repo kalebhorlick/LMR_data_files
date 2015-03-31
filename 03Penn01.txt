@@ -1,4 +1,4 @@
-# Penny Ice Cap Ice Melt
+﻿# Penny Ice Cap Ice Melt
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -91,7 +91,7 @@ provide information on climatic change.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age_AD	Age,,,year AD,,,,,N
-##MFP Melt feature percentage,,,percentage,,ice cores,,,N 
+##MFP	Melt feature percentage,,,percentage,,ice cores,,,N 
 #
 # --------------------
 # Data:
