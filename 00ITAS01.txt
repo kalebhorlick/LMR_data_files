@@ -1,4 +1,4 @@
-# Antarctic Ice Core 200 Year Temperature Reconstruction 
+﻿# Antarctic Ice Core 200 Year Temperature Reconstruction 
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -121,7 +121,7 @@ strongly modulated by the SH Annular Mode in the atmospheric circulation.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##delD  del D,,,per mil SMOW,,ice cores,,,N 
+##delD	del D,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:

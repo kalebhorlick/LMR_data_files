@@ -1,4 +1,4 @@
-# Synchronization of the Byrd and Greenland (GISP2/GRIP) Records
+﻿# Synchronization of the Byrd and Greenland (GISP2/GRIP) Records
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -77,7 +77,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_yb1950	Age,,,years before 1950,,,,,N
-##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
+##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
