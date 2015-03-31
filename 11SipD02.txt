@@ -1,4 +1,4 @@
-# Antarctic Ice Core Deglacial Water Isotope Data on GICC05 Timescale 
+﻿# Antarctic Ice Core Deglacial Water Isotope Data on GICC05 Timescale 
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -134,8 +134,8 @@ and/or rapid bipolar ocean teleconnections.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##yb_1950	Age,,,years before 1950,,,,,N 
-##delD  delD,,,per mil SMOW,,ice cores,,,N
-##d18O  d18O,,,per mil SMOW,,ice cores,,,N 
+##delD	delD,,,per mil SMOW,,ice cores,,,N
+##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:

@@ -1,4 +1,4 @@
-# EPICA Dome C 217KYr Lead Isotope and Barium Data
+﻿# EPICA Dome C 217KYr Lead Isotope and Barium Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -104,8 +104,8 @@ containing Ba and other crustal elements.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##ky_BP Age,,,ky before present,,,,,N 
-##d18o  d18o,,,per mil SMOW,,ice cores,,,N 
+##ky_BP	Age,,,ky before present,,,,,N 
+##d18o	d18o,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
