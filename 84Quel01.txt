@@ -46,7 +46,7 @@
 #	DOI: 10.1029/JD089iD03p04638
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: The objective of this work is to evaluate the potential of tropical glaciers and ice caps for the reconstruction of past climatic conditions by the analysis of firm and ice cores. Samples were collected in pits and from cores retrieved on three snow fields in the South American Andes: Quelccaya Ice Cap and Huascar·n in Peru and Chimborazo in Ecuador. These are compared with results from west Africa and Indonesia. Measurements include the microparticle concentration, oxygen isotopic abundance ratios, and total beta radioactivity, which in polar regions often exhibit seasonal depositional cycles. Annual variations in these three parameters are fairly well defined on Quelccaya and Huascar·n and are apparently absent on Chimborazo, The Quelccaya Ice Cap contains the best preserved annual signal for all three parameters and, although in some instances the annual cycle is difficult to distinguish, the measurement of more than one stratigraphic parameter aids in the interpretation of the firm core records. The relatively flat bottom topography under Quelccaya suggests a simple ice flow regime, and depth-age calculations indicate that an ice core to bedrock should contain a record of 600 to 1300 years. This inference was confirmed by drilling to bedrock in 1983. This investigation of tropical glaciers indicates that the Quelccaya Ice Cap on the eastern edge of the Peruvian Andes has excellent potential to contain a lengthy and interpletable record of climatic conditions within the tropics of South America.
+#	Abstract: The objective of this work is to evaluate the potential of tropical glaciers and ice caps for the reconstruction of past climatic conditions by the analysis of firm and ice cores. Samples were collected in pits and from cores retrieved on three snow fields in the South American Andes: Quelccaya Ice Cap and Huascar√°n in Peru and Chimborazo in Ecuador. These are compared with results from west Africa and Indonesia. Measurements include the microparticle concentration, oxygen isotopic abundance ratios, and total beta radioactivity, which in polar regions often exhibit seasonal depositional cycles. Annual variations in these three parameters are fairly well defined on Quelccaya and Huascar√°n and are apparently absent on Chimborazo, The Quelccaya Ice Cap contains the best preserved annual signal for all three parameters and, although in some instances the annual cycle is difficult to distinguish, the measurement of more than one stratigraphic parameter aids in the interpretation of the firm core records. The relatively flat bottom topography under Quelccaya suggests a simple ice flow regime, and depth-age calculations indicate that an ice core to bedrock should contain a record of 600 to 1300 years. This inference was confirmed by drilling to bedrock in 1983. This investigation of tropical glaciers indicates that the Quelccaya Ice Cap on the eastern edge of the Peruvian Andes has excellent potential to contain a lengthy and interpletable record of climatic conditions within the tropics of South America.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -75,8 +75,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age_AD	Age,,,year AD,,,,,N
-##d18O		dO18,,,per mil SMOW,,ice cores,,,N
-##accum		accumulaiton,,,meters,,ice cores,,,N
+##d18O  dO18,,,per mil SMOW,,ice cores,,,N
+##accum accumulaiton,,,meters,,ice cores,,,N
 #
 # --------------------
 # Data:
