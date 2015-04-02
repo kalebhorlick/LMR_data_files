@@ -1,0 +1,226 @@
+﻿# Bahamas Sclerosponge Lead and Carbon Isotope Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1896
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/acklins-sclerosponge2000.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 
+#--------------------
+# Title
+#	Study_Name: Bahamas Sclerosponge Lead and Carbon Isotope Data
+#--------------------
+# Investigators
+#       Investigators: Lazareth, C.E.; Willenz, P.; Navez, J.; Keppens, E.; Dehairs, F.; André, L.  
+#--------------------
+# Description_and_Notes
+#	Description: Lazareth et al. 2000 Bahamas Sclerosponge Lead and Carbon Isotope Data  A specimen of Ceratoporella nicholsoni, 14 cm in diameter, was collected  in a reef crevice at a depth of 30 m on the fore-reef slope of Jamaica Bay  (southern tip of Acklins Island), Bahamas, in August 1985. A diamond saw  was used to cut a 5-mm-thick slab perpendicular to the surface of the specimen.  A maximum age of 390 yr was assigned to the specimen (9 cm high along growth axis), based on a mean annual growth rate of 230 � 45 mm/yr, obtained from in situ  labeling of 10 specimens with calcein over a 10 yr interval in Jamaica  (Willenz and Hartman, 1999).  Carbon isotope analysis was performed on a Finnigan Mat Delta E stable isotope-ratio mass spectrometer.  The Pb data were acquired by using laser-ablation inductively coupled plasma�mass spectrometry (LA-ICP-MS), a microanalysis technique allowing high spatial and thus temporal resolution. The LA-ICP-MS analyses were made with a frequency-quadrupled ultraviolet-wavelength (266 nm) Nd-YAG (neodymium-doped yttrium aluminum garnet) Fisons-VG microprobe and a Fisons-VG PlasmaQuad II+ mass spectrometer.
+#--------------------
+# Publication 
+#       Authors: Lazareth, C.E.; Willenz, P.; Navez, J.; Keppens, E.; Dehairs, F.; André, L.
+#       Published_Date_or_Year: 2000     
+#       Published_Title: Sclerosponges as a new potential recorder of environmental changes: Lead in Ceratoporella nicholsoni.
+#       Journal_Name: Geology
+#       Volume: 28
+#       Edition: 
+#       Issue: 
+#       Pages: 515-518
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Lazareth, C.E., P. Willenz, J. Navez, E. Keppens, F. Dehairs, and L. André. 2000. Sclerosponges as a new potential recorder of environmental changes: Lead in Ceratoporella nicholsoni. Geology 28:515-518.
+#       Abstract: Lead concentrations have been analyzed on a 223 yr profile through the aragonitic skeleton of the reef-building Caribbean sclerosponge Ceratoporella nicholsoni by using laser-ablation inductively coupled plasma¿mass spectrometry. A parallel study of the d13C distribution in the skeleton validates the previously established mean annual growth rate of 230 µm/yr, at least for long-term important environmental changes. The Pb trend in the specimen displays a general increase from 0.30 ppm ca. A.D. 1760 to 2.15 ppm ca. A.D. 1984; a major threefold increase occurred after 1930. This Pb profile is analogous to results acquired from ice or coral cores and clearly highlights the potential of sclerosponges as a new proxy of environmental changes for time series extending over several centuries.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Jamaica Bay, Acklins Island, Bahamas, tropical North Atlantic
+#       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Bahamas
+#	Country: Bahamas 
+#	Northernmost_Latitude: 22.3  
+# 	Southernmost_Latitude: 22.3  
+# 	Easternmost_Longitude: -74.23 
+# 	Westernmost_Longitude: -74.23 
+# 	Elevation: -30 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: 00baha01b
+#	Earliest_Year: 1724 
+#	Most_Recent_Year: 1983 
+#	Time_Unit: Years AD 
+#	Core_Length:
+#	Notes: 
+#------------------
+# Species
+#	Species_Name: Ceratoporella nicholsoni 
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+#
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##pb	Lead content, Ceratoporella nicholsoni, , ppm, , Corals and Sclerosponges, 3 point running average, analytical technique: frequency-quadrupled ultraviolet-wavelength (266 nm) Nd-YAG Fisons-VG microprobe and a Fisons-VG PlasmaQuad II+ mass spectrometer,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN
+#
+age_AD	pb
+1981	2.15
+1979	2.31
+1977	2.45
+1976	2.11
+1974	2.16
+1973	2.00
+1971	2.16
+1969	1.90
+1968	1.77
+1966	1.59
+1964	1.82
+1963	1.89
+1961	1.87
+1959	1.55
+1958	1.51
+1956	1.70
+1954	1.68
+1951	1.57
+1950	1.18
+1948	1.09
+1946	1.11
+1945	1.00
+1943	0.91
+1941	0.77
+1940	0.78
+1938	0.84
+1936	0.82
+1935	0.84
+1933	0.74
+1931	0.73
+1930	0.70
+1928	0.67
+1927	0.70
+1925	0.77
+1923	0.80
+1922	0.79
+1920	0.85
+1918	0.89
+1917	0.93
+1915	0.85
+1913	0.84
+1912	0.77
+1910	0.88
+1908	0.89
+1907	0.99
+1905	0.90
+1904	0.91
+1902	0.90
+1900	0.81
+1894	0.79
+1892	0.67
+1891	0.60
+1889	0.56
+1888	0.58
+1886	0.58
+1884	0.62
+1883	0.61
+1881	0.64
+1879	0.59
+1878	0.57
+1876	0.56
+1874	0.63
+1873	0.68
+1871	0.72
+1869	0.71
+1868	0.68
+1866	0.63
+1865	0.54
+1863	0.50
+1861	0.46
+1860	0.44
+1858	0.43
+1856	0.42
+1855	0.41
+1853	0.42
+1851	0.43
+1850	0.42
+1848	0.40
+1846	0.37
+1845	0.34
+1843	0.36
+1842	0.39
+1840	0.41
+1838	0.38
+1837	0.37
+1835	0.34
+1834	0.36
+1832	0.36
+1830	0.38
+1829	0.37
+1827	0.32
+1826	0.33
+1824	0.36
+1822	0.40
+1821	0.38
+1819	0.35
+1817	0.35
+1816	0.35
+1814	0.37
+1812	0.39
+1811	0.44
+1809	0.44
+1807	0.42
+1806	0.34
+1804	0.30
+1803	0.29
+1801	0.29
+1799	0.40
+1798	0.38
+1796	0.40
+1794	0.31
+1793	0.31
+1791	0.31
+1789	0.31
+1788	0.30
+1786	0.30
+1784	0.36
+1783	0.36
+1781	0.35
+1780	0.27
+1778	0.29
+1776	0.28
+1775	0.29
+1773	0.30
+1771	0.30
+1770	0.28
+1768	0.28
+1766	0.30
+1765	0.33
+1763	0.30
