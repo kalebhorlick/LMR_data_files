@@ -1,4 +1,4 @@
-# Eclipse Icefield 1996 Stable Isotope Data
+﻿# Eclipse Icefield 1996 Stable Isotope Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -1727,4 +1727,3 @@ age_AD	d18O
 1894.3380	-30.6300
 1894.3080	-28.4200
 1894.2610	-26.7300
-	
