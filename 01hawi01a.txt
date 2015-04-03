@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d14c d14c_err
+age_AD	d14c	d14c_err
 1893.33	-48.5	2.6
 1894.29	-49.4	2.5
 1895.29	-46.4	2.9
