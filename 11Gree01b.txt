@@ -103,7 +103,7 @@
 # 	Elevation: 2936 m 
 #------------------   
 # Data_Collection  
-#	Collection_Name: 11Gree01
+#	Collection_Name: 11Gree01b
 #	Earliest_Year: 1936
 #	Most_recent_Year: 2002
 #	Time_Unit: AD 
