@@ -73,7 +73,7 @@
 #	Collection_Name: 13Quel01
 #	Earliest_Year: 226
 #	Most_Recent_Year: 2010
-#	Time_Unit: AD
+#	Time_Unit: y_ad
 #	Core_Length: 168.68 m
 #	Notes: 
 #------------------
@@ -95,8 +95,8 @@
 # Because the pit and shallow core samples were melted and bottled at the field site, dust and major ions after thermal year 2002/2003 are not included in this data set
 # Net balance before 683 CE is not included since the time scale from 226 to 682 CE was determined by a polynomial fit to the age/depth relationship described in the Supplementary Materials accompanying the Thompson et al. Science (2013) paper)
 #
-##age_AD	Age (years AD) Beginning of thermal year (austral winter), , , AD, , , , ,N
-##d18O	delta18O ice, ice, , per mil SMOW, , , , ,N 
+##age	Age , , , beginning of thermal year (austral winter) AD, , , , ,N
+##d18O	d18O, ice, , permil SMOW, , , , ,N 
 ##accum	Ice accumulation rate, , , meters water equivalent, , , , ,N
 #
 #----------------
@@ -105,7 +105,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 # 
-age_AD	d18O	accum
+age	d18O	accum
 2009	-18.59	1.22
 2008	-16.32	1.29
 2007	-16.23	1.46
