@@ -83,14 +83,14 @@ provide information on climatic change.
 #	Collection_Name: 03Penn01
 #	Earliest_Year: 9
 #	Most_Recent_Year: 1984
-#	Time Unit: AD
+#	Time_Unit: y_ad
 # --------------------
 # Variables
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
-##age_AD	Age,,,year AD,,,,,N
+##age	Age,,,year AD,,,,,N
 ##MFP	Melt feature percentage,,,percentage,,ice cores,,,N 
 #
 # --------------------
@@ -99,7 +99,7 @@ provide information on climatic change.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	MFP
+age	MFP
 1984	80.419
 1983	NAN
 1982	NAN
