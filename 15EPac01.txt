@@ -80,7 +80,7 @@
 #
 #
 #----------------
-# Data
+# Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
 # Missing Value:
