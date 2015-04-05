@@ -68,7 +68,7 @@ Winter season stable isotope data from ice core records that reach more than 140
 #	Collection_Name: 10GDye01
 #	Earliest_Year: 1
 #	Most_Recent_Year: 1979
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -76,8 +76,8 @@ Winter season stable isotope data from ice core records that reach more than 140
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 	
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,year AD,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -85,7 +85,7 @@ Winter season stable isotope data from ice core records that reach more than 140
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age	d18O
 1978	-28.9
 1977	-27.79
 1976	-29.15
