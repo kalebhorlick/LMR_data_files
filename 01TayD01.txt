@@ -61,7 +61,7 @@
 #	Collection_Name: 01TayD01 
 #	Earliest_Year: 212.73 
 #	Most_Recent_Year: 0.0185
-#	Time_Unit: yb 1950 
+#	Time_Unit: yb_1950 
 #	Core_Length:
 #	Notes: 
 #------------------
@@ -84,8 +84,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yb_1950	Age,,,years before 1950 ,,,,,N
-##d18O	dO18,,,per mil SMOW,,ice cores,,,N
+##yage	Age,,,years before 1950 ,,,,,N
+##d18O	dO18,,,permil SMOW,,ice cores,,,N
 #
 #----------------
 # Data:
@@ -93,7 +93,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-yb_1950	d18O
+age	d18O
 -0.0185	-41.09
 0.0001	-39.82
 0.0187	-41.12
