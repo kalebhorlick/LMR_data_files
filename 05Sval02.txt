@@ -65,7 +65,7 @@ resolved by the wavelet analysis is similar to what has been found in various cl
 #	Collection_Name: 05Sval02
 #	Earliest_Year: 1736
 #	Most_Recent_Year: 1997
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -73,8 +73,8 @@ resolved by the wavelet analysis is similar to what has been found in various cl
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	dO18,,,per mil SMOW,,ice cores,,,N
+##age	Age,,,year AD,,,,,N
+##d18O	dO18,,,permil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
@@ -82,7 +82,7 @@ resolved by the wavelet analysis is similar to what has been found in various cl
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age	d18O
 1997.0000	-18.0652
 1996.0000	-15.1718
 1995.0000	-15.0128
