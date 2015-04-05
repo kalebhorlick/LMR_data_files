@@ -76,7 +76,7 @@ valuable information on variations in the strength of the monsoon across the TP 
 #	Collection_Name: 06Puru01
 #	Earliest_Year: 1900
 #	Most_Recent_Year: 1900
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -84,8 +84,8 @@ valuable information on variations in the strength of the monsoon across the TP 
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	dO18,,,per mil SMOW,,ice cores,,,N
+##age	Age,,,year AD,,,,,N
+##d18O	dO18,,,permil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
@@ -93,7 +93,7 @@ valuable information on variations in the strength of the monsoon across the TP 
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age	d18O
 1999.0000	-13.3700
 1998.0000	-16.0450
 1997.0000	-13.6709
