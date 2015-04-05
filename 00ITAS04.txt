@@ -1,4 +1,4 @@
-﻿# ITASE 00-01 d18O
+# ITASE 00-01 d18O
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -85,7 +85,7 @@ reconstructions covering the last millennium and other periods.
 #	Collection_Name: 00ITAS04
 #	Earliest_Year: 1674
 #	Most_Recent_Year: 2000
-#	Time Unit: y_ad
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
