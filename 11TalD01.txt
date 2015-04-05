@@ -120,7 +120,7 @@ and/or rapid bipolar ocean teleconnections.
 #	Collection_Name: 11TalD01
 #	Earliest_Year: 21000
 #	Most_Recent_Year: 9000
-#	Time Unit: yb 1950
+#	Time_Unit: yb_1950
 #
 # --------------------
 # Variables
@@ -128,8 +128,8 @@ and/or rapid bipolar ocean teleconnections.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yb_1950	Age,,,years before 1950,,,,,N 
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,years before 1950,,,,,N 
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -137,7 +137,7 @@ and/or rapid bipolar ocean teleconnections.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-yb_1950	d18O
+age	d18O
 9000	-36.41
 9020	-36.71
 9040	-37.33
