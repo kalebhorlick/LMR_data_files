@@ -79,7 +79,7 @@ are important for modelling the climatic response to eruptions. The largest volc
 #	Collection_Name: 07LawD01
 #	Earliest_Year: 174
 #	Most_Recent_Year: 2007
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -87,8 +87,8 @@ are important for modelling the climatic response to eruptions. The largest volc
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,year AD,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -96,7 +96,7 @@ are important for modelling the climatic response to eruptions. The largest volc
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age	d18O
 2007	-21.6681076
 2006	-22.6646876
 2005	-22.37433011
