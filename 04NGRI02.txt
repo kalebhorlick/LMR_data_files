@@ -92,7 +92,7 @@ was not operating at this time.
 #	Collection_Name: 04NGRI02
 #	Earliest_Year: 122950
 #	Most_Recent_Year: 0
-#	Time Unit: years before 2000 AD
+#	Time_Unit: yb_2000
 #
 # --------------------
 # Variables
@@ -100,8 +100,8 @@ was not operating at this time.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yr_b2k	Age,,,years before 2000 AD,,,,,N
-##d18O	d18o,,,per mil SMOW,,ice cores,,,N
+##age	Age,,,years before 2000 AD,,,,,N
+##d18O	d18o,,,permil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
@@ -109,7 +109,7 @@ was not operating at this time.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-yr_b2k	d18O
+age	d18O
 0.00 	-35.19
 50.00 	-35.19
 50.00 	-34.83
