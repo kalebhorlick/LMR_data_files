@@ -85,7 +85,7 @@ reconstructions covering the last millennium and other periods.
 #	Collection_Name: 00ITAS04
 #	Earliest_Year: 1674
 #	Most_Recent_Year: 2000
-#	Time Unit: AD
+#	Time Unit: y_ad
 #
 # --------------------
 # Variables
@@ -93,8 +93,8 @@ reconstructions covering the last millennium and other periods.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,year AD,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -102,7 +102,7 @@ reconstructions covering the last millennium and other periods.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age	d18O
 2000	-31.85171429
 1999	-32.75071429
 1998	-30.83333333
