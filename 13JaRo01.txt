@@ -73,7 +73,7 @@
 #	Collection_Name: 13JaRo01
 #	Earliest_year: 1807
 #	Most_recent_Year: 2007
-#	Time_Unit: AD
+#	Time_Unit: y_ad
 #	Core_Length:    
 #	Notes: 
 #------------------
@@ -86,17 +86,16 @@
 # Data variables follow (have no #)
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age (years AD), , , years AD, , , mid-annual range, ,N
-##delD	delta2H ice, , , per mil VSMOW, , , , , N
+##age	Age, , , years AD, , , mid-annual range, ,N
+##delD	delD, , , permil VSMOW, , , , , N
 #
 #----------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NaN
-# JRI deuterium isotope record, Annual mean dD and 11y moving average dD, per mill vSMOW
-
-age_AD	delD
+#
+age	delD
 2007.5	-159.87
 2006.5	-135.49
 2005.5	-147.52
