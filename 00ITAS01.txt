@@ -112,7 +112,7 @@ strongly modulated by the SH Annular Mode in the atmospheric circulation.
 #	Collection_Name: 00ITAS01
 #	Earliest_Year: 1800
 #	Most_Recent_Year: 1999
-#	Time Unit: y_ad
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -120,7 +120,7 @@ strongly modulated by the SH Annular Mode in the atmospheric circulation.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,years AD,,,,,N
+##age	Age,,,years AD,,,,,N
 ##delD	del D,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
