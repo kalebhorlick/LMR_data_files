@@ -75,7 +75,7 @@ during much of the last ice age and glacial-interglacial transition.
 #	Collection_Name: 11SipD01
 #	Earliest_Year: 57.11
 #	Most_Recent_Year: 8.63
-#	Time Unit: ky b2k
+#	Time_Unit: kyb_2000
 #
 # --------------------
 # Variables
@@ -83,8 +83,8 @@ during much of the last ice age and glacial-interglacial transition.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##ky_b2k	Age,,,thousands of years before 2k,,,,,N        
-##delD	delD,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,thousands of years before 2000 AD,,,,,N        
+##delD	delD,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -92,7 +92,7 @@ during much of the last ice age and glacial-interglacial transition.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-ky_b2k	delD
+age	delD
 8.63	-214.13
 8.64	-209.35
 8.65	-209.78
