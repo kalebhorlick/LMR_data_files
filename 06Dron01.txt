@@ -99,17 +99,17 @@ circulation.
 #	Site_Name: EPICA Dome C
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: -75
-#	Southernmost_Latitude: -75
-#	Easternmost_Longitude: .07
-#	Westernmost_Longitude: .07
+#	Northernmost_Latitude: -75.00
+#	Southernmost_Latitude: -75.00
+#	Easternmost_Longitude: 0.0667
+#	Westernmost_Longitude: 0.0667
 #	Elevation: 2892 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 06Dron01
 #	Earliest_Year: -51.35
 #	Most_Recent_Year: 10.05
-#	Time Unit: kyr BP
+#	Time_Unit: kyb_
 #
 # --------------------
 # Variables
@@ -117,8 +117,8 @@ circulation.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##kyr_BP	Age,,,k year before present,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,k year before present,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -126,7 +126,7 @@ circulation.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-kyr_BP	d18O
+age	d18O
 10.05	-43.93
 10.15	-44.34
 10.25	-44
