@@ -120,7 +120,7 @@ strongly modulated by the SH Annular Mode in the atmospheric circulation.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
+##age_AD	Age,,,years AD,,,,,N
 ##delD	del D,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -129,7 +129,7 @@ strongly modulated by the SH Annular Mode in the atmospheric circulation.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	delD
+age	delD
 1999.0000	-280.7845
 1998.0000	-269.2613
 1997.0000	-264.1978
