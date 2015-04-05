@@ -70,7 +70,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 #	Collection_Name: 00ITAS03
 #	Earliest_Year: 1592
 #	Most_Recent_Year: 2002
-#	Time Unit: y_ad
+#	Time_Unit: y_ad
 # --------------------
 # Variables
 #
