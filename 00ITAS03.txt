@@ -70,15 +70,15 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 #	Collection_Name: 00ITAS03
 #	Earliest_Year: 1592
 #	Most_Recent_Year: 2002
-#	Time Unit: AD
+#	Time Unit: y_ad
 # --------------------
 # Variables
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##Midpt_year	Age,,,year AD,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,midpoint year AD,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -86,7 +86,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: nan
 #
-Midpt_year	d18O
+age	d18O
 2002.9398	-38.8163
 2002.8193	-43.2611
 2002.6988	-44.4300
