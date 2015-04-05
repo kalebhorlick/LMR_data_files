@@ -86,7 +86,7 @@ Bølling-Allerød warming in the northern hemisphere 14,700 years ago.
 #	Collection_Name: 10TalD01
 #	Earliest_Year: 25107 
 #	Most_Recent_Year: 8023 
-#	Time Unit: cal yr BP
+#	Time_Unit: yb_1950
 #
 # --------------------
 # Variables
@@ -94,8 +94,8 @@ Bølling-Allerød warming in the northern hemisphere 14,700 years ago.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##calyr_BP	Age,,,calendar years before 1950,,,,,N        
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,years before 1950 AD,,,,,N        
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -103,7 +103,7 @@ Bølling-Allerød warming in the northern hemisphere 14,700 years ago.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-calyr_BP	d18O
+age	d18O
 8023	-37.97
 8035	-36.25
 8069	-37.2
