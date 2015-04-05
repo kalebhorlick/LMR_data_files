@@ -64,7 +64,7 @@
 #	Collection_Name: 06Saja01
 #	Earliest_Year: 1902
 #	Most_Recent_Year: 1992
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -72,8 +72,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,year AD,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -81,7 +81,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing variables: NAN
 #
-age_AD	d18O
+age	d18O
 1992.0000	-15.6021
 1987.0000	-17.6009
 1982.0000	-18.3016
