@@ -71,7 +71,7 @@ been proposed as the most important oscillation for the observed trends in Arcti
 #	Collection_Name: 05Sval01
 #	Earliest_Year: 1400
 #	Most_Recent_Year: 1998
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -79,8 +79,8 @@ been proposed as the most important oscillation for the observed trends in Arcti
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	dO18,,,per mil SMOW,,ice cores,,,N
+##age	Age,,,year AD,,,,,N
+##d18O	dO18,,,permil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
@@ -88,7 +88,7 @@ been proposed as the most important oscillation for the observed trends in Arcti
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age	d18O
 1998.0000	-15.0675
 1997.0000	-15.3525
 1996.0000	-17.2833
