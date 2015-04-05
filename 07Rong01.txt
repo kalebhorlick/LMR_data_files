@@ -97,7 +97,7 @@ shifts in monsoonal circulation.
 #	Collection_Name: 07Rong01
 #	Earliest_Year: 997.5
 #	Most_Recent_Year: 1997.5
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -105,8 +105,8 @@ shifts in monsoonal circulation.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	dO18,,,per mil SMOW,,ice cores,,,N
+##age	Age,,,year AD,,,,,N
+##d18O	dO18,,,permil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
@@ -114,7 +114,7 @@ shifts in monsoonal circulation.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age	d18O
 1997.5	-120.4
 1992.5	-120.67
 1987.5	-143.54
