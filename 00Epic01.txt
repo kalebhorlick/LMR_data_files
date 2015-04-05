@@ -69,7 +69,7 @@
 #	Collection_Name: 00Epic01
 #	Earliest_Year: 44799
 #	Most_Recent_Year: 38.1
-#	Time_Unit: yb 1950
+#	Time_Unit: yb_1950
 #
 # --------------------
 # Variables
@@ -77,8 +77,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yb_1950	Age,,,years before 1950,,,,,N ****age before 1950
-##delD	del D,,,per mil SMOW,,ice cores,,,N 
+##yb_1950	Age,,,years before 1950 AD,,,,,N 
+##delD	del D,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
