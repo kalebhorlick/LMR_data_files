@@ -64,7 +64,7 @@
 #	Collection_Name: 02Dron11
 #	Earliest_Year: 1801
 #	Most_Recent_Year: 1997
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -72,17 +72,17 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	dO18,,,per mil SMOW,,ice cores,,,N
+##age	Age,,,year AD,,,,,N
+##d18O	dO18,,,permil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
-# Missing values: nan
+# Missing values: NAN
 #
-age_AD	d18O
-1997	nan
+age	d18O
+1997	NAN
 1996	-44.3
 1995	-45.56
 1994	-42.12
