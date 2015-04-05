@@ -96,7 +96,7 @@ containing Ba and other crustal elements.
 #	Collection_Name: 10EPIC01
 #	Earliest_Year: 217.5
 #	Most_Recent_Year: 2.01
-#	Time Unit: ky BP
+#	Time_Unit: kyb_
 #
 # --------------------
 # Variables
@@ -104,8 +104,8 @@ containing Ba and other crustal elements.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##ky_BP	Age,,,ky before present,,,,,N 
-##d18o	d18o,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,ky before present,,,,,N 
+##d18o	d18o,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -113,7 +113,7 @@ containing Ba and other crustal elements.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-ky_BP	d18O
+age d18O
 2.01	-398
 2.02	-398
 6.94	-399
