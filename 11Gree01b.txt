@@ -106,7 +106,7 @@
 #	Collection_Name: 11Gree01b
 #	Earliest_Year: 1936
 #	Most_recent_Year: 2002
-#	Time_Unit: AD 
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
@@ -118,7 +118,7 @@
 # Data line format: tab-delimited text, variable short name as header
 #
 #
-##age_AD	Age,,, years AD,,,,,N
+##age	Age,,, years AD,,,,,N
 ##accum	accumulation,,,meters per year,,ice cores,,,N
 #
 #----------------
@@ -127,7 +127,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	accum
+age	accum
 1936.5	1.05
 1937.5	0.87
 1938.5	0.85
