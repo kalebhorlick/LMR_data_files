@@ -64,7 +64,7 @@
 #   Collection_Name: 15WPac01
 #   Earliest_Year: 1617
 #   Most_Recent_Year: 2006
-#   Time_Unit: AD
+#   Time_Unit: y_ad
 #   Core_Length: 
 #   Notes: 
 #---------------------------------------
@@ -76,7 +76,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
-##age_AD	age,,,years AD,Apr-Mar,,,,N
+##age	age,,,years AD,Apr-Mar,,,,N
 ##sst_anom	sea-surface temperature anomaly,,,degree C,Apr-Mar,,reference period: 1961-1990 A.D.,Weighted CPS reconstruction,N
 #
 #---------------------------------------
@@ -85,7 +85,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Value:
 #
-age_AD	sst_anom
+age	sst_anom
 2006	-0.01
 2005	0.08
 2004	0.01
