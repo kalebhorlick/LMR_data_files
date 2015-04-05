@@ -74,13 +74,13 @@ glaciers is not only contributing to global sea-level rise but also threatening 
 #	Collection_Name: 03Quel02
 #	Earliest_Year: 744
 #	Most_Recent_Year: 1995
-#	Time unit: AD
+#	Time_unit: y_ad
 #
 # --------------------
 # Variables
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,year AD,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -88,7 +88,7 @@ glaciers is not only contributing to global sea-level rise but also threatening 
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age	d18O
 1995	-0.193186538
 1994	-0.452399817
 1993	-0.03623361
