@@ -92,7 +92,7 @@
 #	Collection_Name: 07GDYE01 
 #	Earliest_Year: 11700 
 #	Most_Recent_Year: 7910 
-#	Time_Unit: yrs b2k 
+#	Time_Unit: yb_2000 
 #	Core_Length: 
 #	Notes: 
 #------------------
@@ -115,8 +115,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yr_b2k	Age,,,years b2k,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N
+##agek	Age,,,years before 2000 AD,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N
 #
 #----------------
 # Data:
@@ -124,7 +124,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values:  
 #
-yr_b2k	d18O
+age	d18O
 7910	-27.81
 7920	-27.83
 7930	-28.56
