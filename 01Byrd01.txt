@@ -68,7 +68,7 @@
 #	Collection_Name: 01Byrd01
 #	Earliest_Year: 49940
 #	Most_Recent_Year: 10000
-#	Time Unit: years before 1950
+#	Time_Unit: yb_1950
 #
 # --------------------
 # Variables
@@ -76,7 +76,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_yb1950	Age,,,years before 1950,,,,,N
+##age	Age,,,years before 1950,,,,,N
 ##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
 #
 # --------------------
@@ -85,7 +85,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_yb1950	d18O
+age	d18O
 10000	-33.4
 10030	-33.3
 10060	-33.3
