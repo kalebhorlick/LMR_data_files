@@ -64,7 +64,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # Funding_Agency
 #	Funding_Agency_Name: 
 #	Grant_number: 
-
+#
 # --------------------
 # Site_Information
 #	Site_Name: US ITASE 2002-4
@@ -80,12 +80,12 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 #	Collection_Name: 02ITAS01
 #	Earliest_Year: 1800
 #	Most_Recent_Year: 1999
-#	Time Unit: AD
+#	Time_Unit: y_ad
 # --------------------
 # Variables
 #
-##Midpt_year	Age,,,year AD as midpoint,,,,,N
-##delD	del D,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,year AD as midpoint,,,,,N
+##delD	del D,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -93,7 +93,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-Midpt_year	delD
+age	delD
 2002.9398	-313.0681
 2002.8193	-345.4067
 2002.6988	-355.1577
