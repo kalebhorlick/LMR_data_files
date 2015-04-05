@@ -106,7 +106,7 @@
 #	Collection_Name: 11Gree02
 #	Earliest_Year: 1936
 #	Most_recent_year: 2002
-#	Time_Unit: AD 
+#	Time_Unit: y_ad 
 #	Core_Length:
 #	Notes:
 #------------------
@@ -123,8 +123,8 @@
 # Data line format: tab-delimited text, variable short name as header
 #
 #
-##age_AD	Age (years AD),,,years AD,,,,,N
-##d18O	d18O,,,per mil VSMOW,,ice cores,,,N
+##age	Age,,,years AD,,,,,N
+##d18O	d18O,,,permil VSMOW,,ice cores,,,N
 ##accum	Ice accumulation rate,,,m ice equiv/year,,ice cores,,,N
 #
 #----------------
@@ -133,7 +133,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18O	accum
+age	d18O	accum
 1936.5	-22.48	0.84
 1937.5	-22.75	0.94
 1938.5	-22.76	0.61
