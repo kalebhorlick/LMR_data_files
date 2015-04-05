@@ -75,7 +75,7 @@ now exceed the stable conditions of most of the Holocene epoch is likely to caus
 #	Collection_Name: 07JaRo01
 #	Earliest_Year: 0
 #	Most_Recent_Year: 2007
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -83,8 +83,8 @@ now exceed the stable conditions of most of the Holocene epoch is likely to caus
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
-##age_AD	Age,,,year AD,,,,,N
-##delD	delD,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,year AD,,,,,N
+##delD	delD,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -92,7 +92,7 @@ now exceed the stable conditions of most of the Holocene epoch is likely to caus
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	delD
+age	delD
 2007	-158.1
 2006	-135.7
 2005	-146.1
