@@ -87,7 +87,7 @@ pattern and the Pacific Decadal Oscillation.
 #	Collection_Name: 92MtLo01a
 #	Earliest_Year: 1736
 #	Most_Recent_Year: 1987
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -95,9 +95,9 @@ pattern and the Pacific Decadal Oscillation.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
+##age	Age,,,year AD,,,,,N
 ##accum	accumulation,,,meters,,ice cores,,,N
-##d18O	Delta O18,,,per mil SMOW,,ice cores,,,N
+##d18O	Delta O18,,,permil SMOW,,ice cores,,,N
 #
 # --------------------
 # Data:
@@ -105,7 +105,7 @@ pattern and the Pacific Decadal Oscillation.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	accum	d18O
+age	accum	d18O
 2000	0.7	NAN
 1999	0.73	NAN
 1998	0.58	NAN
