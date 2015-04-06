@@ -77,8 +77,8 @@ reconstructions covering the last millennium and other periods.
 #	Country: 
 #	Northernmost_Latitude: -77.68
 #	Southernmost_Latitude: -77.68
-#	Easternmost_Longitude: -124
-#	Westernmost_Longitude: -124
+#	Easternmost_Longitude: -124.00
+#	Westernmost_Longitude: -124.00
 #	Elevation: 1336 m
 # --------------------
 # Data_Collection
