@@ -54,10 +54,10 @@
 #	Site_Name: East Greenland
 #	Location: North America>Greenland	
 #	Country: Greenland
-#	Northernmost_Latitude: 73
-#	Southernmost_Latitude: 73
-#	Easternmost_Longitude: -34
-#	Westernmost_Longitude: -34
+#	Northernmost_Latitude: 73.00
+#	Southernmost_Latitude: 73.00
+#	Easternmost_Longitude: -34.00
+#	Westernmost_Longitude: -34.00
 #	Elevation: 2350 m
 # --------------------
 # Data_Collection
