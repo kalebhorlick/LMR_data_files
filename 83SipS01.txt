@@ -73,7 +73,7 @@ of spatially distributed, high resolution ice-core records will be necessary to 
 #	Collection_Name: 83SipS01
 #	Earliest_Year: 1417
 #	Most_Recent_Year: 1983
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -81,8 +81,8 @@ of spatially distributed, high resolution ice-core records will be necessary to 
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,year AD,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -90,7 +90,7 @@ of spatially distributed, high resolution ice-core records will be necessary to 
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age	d18O
 1983	-29.661
 1982	-29.436
 1981	-28.767
