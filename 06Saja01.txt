@@ -54,10 +54,10 @@
 #	Site_Name: Sajama
 #	Location: South America> Bolivia
 #	Country:  Bolivia
-#	Northernmost_Latitude: -18.00
-#	Southernmost_Latitude: -18.00	 
-#	Easternmost_Longitude: -69.00
-#	Westernmost_Longitude: -69.00
+#	Northernmost_Latitude: -18.166
+#	Southernmost_Latitude: -18.166 
+#	Easternmost_Longitude: -69.46
+#	Westernmost_Longitude: -69.46
 #	Elevation: 6540 m
 # --------------------
 # Data_Collection
