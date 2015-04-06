@@ -96,7 +96,7 @@
 #	Collection_Name: 98GRIP01
 #	Earliest_Year: 49968
 #	Most_Recent_Year: 10004
-#	Time Unit: yb 1989
+#	Time_Unit: yb_1989
 #
 # --------------------
 # Variables
@@ -104,13 +104,13 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yb_1989	Age,,,years before 1989,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,years before 1989 AD,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
-# Data
+# Data:
 #
-yb_1989	d18O
+age	d18O
 10004	-34.93
 10010	-34.95
 10016	-34.45
