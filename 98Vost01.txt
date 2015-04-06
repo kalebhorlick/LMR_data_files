@@ -96,7 +96,7 @@
 #	Collection_Name: 98Vost01
 #	Earliest_Year: 49964
 #	Most_Recent_Year: 10043
-#	Time_Unit: yb 1989
+#	Time_Unit: yb_1989
 #
 # --------------------
 # Variables
@@ -104,8 +104,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yb_1989	Age,,,years before 1989,,,,,N
-##delD	delD,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,years before 1989 AD,,,,,N
+##delD	delD,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -113,7 +113,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-yb_1989	delD
+age	delD
 10043	-433
 10092	-435.5
 10142	-438
