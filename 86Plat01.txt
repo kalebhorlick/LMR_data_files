@@ -54,10 +54,10 @@
 #	Site_Name: Plateau Remote/PR-B
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: -84
-#	Southernmost_Latitude: -84
-#	Easternmost_Longitude: 43
-#	Westernmost_Longitude: 43
+#	Northernmost_Latitude: -84.00
+#	Southernmost_Latitude: -84.00
+#	Easternmost_Longitude: 43.00
+#	Westernmost_Longitude: 43.00
 #	Elevation: 3624 m
 # --------------------
 # Data_Collection
