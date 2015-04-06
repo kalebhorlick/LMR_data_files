@@ -54,8 +54,8 @@
 #	Site_Name: NGRIP1
 #	Location: North America> Greenland
 #	Country: 
-#	Northernmost_Latitude: 75.1
-#	Southernmost_Latitude: 75.1
+#	Northernmost_Latitude: 75.18
+#	Southernmost_Latitude: 75.18
 #	Easternmost_Longitude: -42.32
 #	Westernmost_Longitude: -42.32
 #	Elevation: 1530 m
