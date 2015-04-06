@@ -78,10 +78,10 @@ interglacial periods in ice core records.
 #	Site_Name: EPICA Dome C
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: -75.1
-#	Southernmost_Latitude: -75.1
-#	Easternmost_Longitude: 123.4
-#	Westernmost_Longitude: 123.4
+#	Northernmost_Latitude: -75.10
+#	Southernmost_Latitude: -75.10
+#	Easternmost_Longitude: 123.35
+#	Westernmost_Longitude: 123.35
 #	Elevation: 3240 m
 # --------------------
 # Data_Collection
