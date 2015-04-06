@@ -54,10 +54,10 @@
 #	Site_Name: Ellesmere Island, Agassiz Ice Cap
 #	Location: North America> Canada
 #	Country: Canada
-#	Northernmost_Latitude: 80.7
-#	Southernmost_Latitude: 80.7
-#	Easternmost_Longitude: -73.1
-#	Westernmost_Longitude: -73.1
+#	Northernmost_Latitude: 80.70
+#	Southernmost_Latitude: 80.70
+#	Easternmost_Longitude: -73.10
+#	Westernmost_Longitude: -73.10
 #	Elevation: 2616 m
 # --------------------
 # Data_Collection
