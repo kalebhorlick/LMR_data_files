@@ -116,8 +116,8 @@
 #	Site_Name: Huascaran glacier
 #	Location: South America>Bolivia
 #	Country: Bolivia
-#	Northernmost_Latitude: -9
-#	Southernmost_Latitude: -9 
+#	Northernmost_Latitude: -9.183
+#	Southernmost_Latitude: -9.183 
 #	Easternmost_Longitude: -77.5
 #	Westernmost_Longitude: -77.5
 #	Elevation: 6050 m
