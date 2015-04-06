@@ -86,8 +86,8 @@ to trigger major climate changes.
 #	Site_Name: GISP2
 #	Location: North America>Greenland
 #	Country: 
-#	Northernmost_Latitude: 72.1
-#	Southernmost_Latitude: 72.1
+#	Northernmost_Latitude: 72.12
+#	Southernmost_Latitude: 72.12
 #	Easternmost_Longitude: -38.08
 #	Westernmost_Longitude: -38.08
 #	Elevation: 3230 m
