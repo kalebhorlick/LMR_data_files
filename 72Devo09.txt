@@ -53,8 +53,8 @@
 #	Site_Name: Devon Ice Cap
 #	Location: North America>Canada
 #	Country: 
-#	Northernmost_Latitude: 75.3
-#	Southernmost_Latitude: 75.3
+#	Northernmost_Latitude: 75.7666
+#	Southernmost_Latitude: 75.7666
 #	Easternmost_Longitude: -82.166
 #	Westernmost_Longitude: -82.166
 #	Elevation: 1920 m
