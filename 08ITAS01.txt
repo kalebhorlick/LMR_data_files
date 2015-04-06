@@ -76,8 +76,8 @@ and potentially its ice sheet, to large-scale changes in the global climate.
 #	Country: 
 #	Northernmost_Latitude: -77.060
 #	Southernmost_Latitude: -77.060	 
-#	Easternmost_Longitude: -82.5
-#	Westernmost_Longitude: -82.5
+#	Easternmost_Longitude: -89.14
+#	Westernmost_Longitude: -89.14
 #	Elevation: 1239 m
 # --------------------
 # Data_Collection
