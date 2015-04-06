@@ -110,10 +110,10 @@ and/or rapid bipolar ocean teleconnections.
 #	Site_Name: Byrd
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: 80
-#	Southernmost_Latitude: 80
-#	Easternmost_Longitude: 119.5
-#	Westernmost_Longitude: 119.5
+#	Northernmost_Latitude: 80.01667
+#	Southernmost_Latitude: 80.01667
+#	Easternmost_Longitude: 119.51667
+#	Westernmost_Longitude: 119.51667
 #	Elevation: 1530 m
 # --------------------
 # Data_Collection
