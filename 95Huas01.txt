@@ -126,7 +126,7 @@
 #	Collection_Name: 95Huas01
 #	Earliest_Year: 1900
 #	Most_Recent_Year: 1990
-#	Time Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
@@ -134,7 +134,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	Age,,,year AD,,,,,N
+##age	Age,,,year AD,,,,,N
 ##d18O	d18O,,,per mil SMOW,,ice cores,,,N
 #
 # --------------------
@@ -143,7 +143,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age_AD	d18O
+age	d18O
 1992.5000	-14.4224
 1991.5000	-17.3543
 1990.5000	-14.7906
