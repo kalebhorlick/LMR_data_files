@@ -70,8 +70,8 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 #	Site_Name: US ITASE 2002-4
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: -86.5
-#	Southernmost_Latitude: -86.5 
+#	Northernmost_Latitude: -86.55
+#	Southernmost_Latitude: -86.55
 #	Easternmost_Longitude: -107.990
 #	Westernmost_Longitude: -107.990
 #	Elevation: 2586 m
@@ -84,7 +84,7 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # --------------------
 # Variables
 #
-##age	Age,,,year AD as midpoint,,,,,N
+##age	Age,,,midpoint year AD,,,,,N
 ##delD	del D,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
