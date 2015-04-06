@@ -65,10 +65,10 @@ now exceed the stable conditions of most of the Holocene epoch is likely to caus
 #	Site_Name: James Ross Island
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: -64.2
-#	Southernmost_Latitude: -64.2
-#	Easternmost_Longitude: -57.70
-#	Westernmost_Longitude: -57.70
+#	Northernmost_Latitude: -64.21667
+#	Southernmost_Latitude: -64.21667
+#	Easternmost_Longitude: -57.633
+#	Westernmost_Longitude: -57.633
 #	Elevation: 1542 m
 # --------------------
 # Data_Collection
