@@ -83,10 +83,10 @@ the ability of models to reproduce the GIS response to Holocene climate.
 #	Site_Name: A84/A87 Canada
 #	Location: North America>Canada
 #	Country: 
-#	Northernmost_Latitude: 80.7
-#	Southernmost_Latitude: 80.7
-#	Easternmost_Longitude: 73.1
-#	Westernmost_Longitude: 73.1
+#	Northernmost_Latitude: 80.11667
+#	Southernmost_Latitude: 80.11667
+#	Easternmost_Longitude: 73.01667
+#	Westernmost_Longitude: 73.01667
 #	Elevation: 1730 m
 # --------------------
 # Data_Collection
