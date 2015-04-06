@@ -84,7 +84,7 @@ pattern and the Pacific Decadal Oscillation.
 #	Elevation: 5340 m
 # --------------------
 # Data_Collection
-#	Collection_Name: 92MtLo01b
+#	Collection_Name: 92MtLo02
 #	Earliest_Year: 1736
 #	Most_Recent_Year: 1987
 #	Time_Unit: y_ad
