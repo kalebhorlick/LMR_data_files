@@ -54,10 +54,10 @@
 #	Site_Name: DML 05
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: -75
-#	Southernmost_Latitude: -75
-#	Easternmost_Longitude: 0
-#	Westernmost_Longitude: 0
+#	Northernmost_Latitude: -74.968
+#	Southernmost_Latitude: -74.968	 
+#	Easternmost_Longitude: 0.0667
+#	Westernmost_Longitude: 0.0667
 #	Elevation: 2892 m
 # --------------------
 # Data_Collection
