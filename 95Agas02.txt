@@ -54,10 +54,10 @@
 #	Site_Name: Agassiz Ice Cap
 #	Location: North America>Canada	
 #	Country: Canada
-#	Northernmost_Latitude: 80.7
-#	Southernmost_Latitude: 80.7
-#	Easternmost_Longitude: -73.1
-#	Westernmost_Longitude: -73.1
+#	Northernmost_Latitude: 80.25
+#	Southernmost_Latitude: 80.25
+#	Easternmost_Longitude: -72.983
+#	Westernmost_Longitude: -72.983
 #	Elevation: 1730 m
 # --------------------
 # Data_Collection
