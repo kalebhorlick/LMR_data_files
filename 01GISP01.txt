@@ -58,8 +58,8 @@
 #	Site_Name: GISP
 #	Location: North America>Greenland
 #	Country: 
-#	Northernmost_Latitude: 72.1
-#	Southernmost_Latitude: 72.1
+#	Northernmost_Latitude: 72.58
+#	Southernmost_Latitude: 72.58
 #	Easternmost_Longitude: -38.08
 #	Westernmost_Longitude: -38.08
 #	Elevation: 3000 m
