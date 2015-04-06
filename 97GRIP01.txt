@@ -62,7 +62,7 @@
 #	Collection_Name: 97GRIP01
 #	Earliest_Year: 248763
 #	Most_Recent_Year: -39.0
-#	Time Unit: yrs BP
+#	Time_Unit: yb_
 #
 # --------------------
 # Variables
@@ -70,8 +70,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yr_BP	Age,,,years before present,,,,,N
-##d18O	d18O,,,per mil SMOW,,ice cores,,,N 
+##age	Age,,,years before ,,,,,N
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -79,7 +79,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-yr_BP	d18O
+age	d18O
 -39	-35.04
 -38.065	-33.81
 -37.187	-36.18
