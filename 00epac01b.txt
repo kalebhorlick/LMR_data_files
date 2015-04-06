@@ -51,17 +51,17 @@
 #       Site_Name: Clipperton Atoll
 #       Location: Ocean>Pacific Ocean>Eastern Pacific Ocean
 #	Country: France  
-#	Northernmost_Latitude: 10.3 
-# 	Southernmost_Latitude: 10.3 
-# 	Easternmost_Longitude: -109.216667 
-# 	Westernmost_Longitude: -109.216667 
+#	Northernmost_Latitude: 10.300 
+# 	Southernmost_Latitude: 10.300 
+# 	Easternmost_Longitude: -109.217 
+# 	Westernmost_Longitude: -109.217 
 # 	Elevation: -13.1 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 00epac01b 
-#	Earliest_Year: 1934.8750017 
-#	Most_Recent_Year: 1993.95833267
-#	Time_Unit: Years AD 
+#	Collection_Name: 00epac01b
+#	Earliest_Year: 1934
+#	Most_Recent_Year: 1993
+#	Time_Unit: y_ad 
 #	Core_Length: 1.26 m
 #	Notes: Core name - 2B. Prevous name - Clipperton 2B Sr/Ca Wu14
 #------------------
@@ -77,14 +77,14 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium, Porites lobata, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
 #
 #----------------
@@ -93,7 +93,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	Sr/Ca
+age	Sr/Ca
 1993.958333	9.391988
 1993.874999	9.361889
 1993.791666	9.319804

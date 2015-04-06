@@ -15,7 +15,7 @@
 # Description/Documentation lines begin with #
 # Data lines have no #
 #
-# Archive: Corals and Sclerosponges
+# Archive: Reconstructions
 #--------------------
 # Contribution_Date
 #	Date: 2003-10
@@ -58,10 +58,10 @@
 # 	Elevation:   
 #------------------
 # Data_Collection   
-#	Collection_Name: 02newc01b 
-#	Earliest_Year: 1968  
-#	Most_Recent_Year: 1992 
-#	Time_Unit: Years AD 
+#	Collection_Name: 02newc01b
+#	Earliest_Year: 1968
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: 
 #------------------
@@ -77,15 +77,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by ## in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##sst_ORSTOM	sea surface temperature reconstruction, , , degrees C, , Reconstructions, ORSTOM, ,N				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##sst_ORSTOM	sea surface temperature reconstruction, , , degrees C, , Reconstructions, ORSTOM, ,N
 ##sss_ORSTOM	sea surface salinity reconstruction, , , parts per thousand, , Reconstructions, ORSTOM, ,N
 ##sst_GISST2	sea surface temperature reconstruction, , , degrees C, , Reconstructions, GISST2, ,N
 #
@@ -95,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	sst_ORSTOM	sss_ORSTOM	sst_GISST2
+age	sst_ORSTOM	sss_ORSTOM	sst_GISST2
 1992.62	20.89	36.06	22.54
 1992.54	21.10	35.92	23.21
 1992.46	22.65	35.97	23.95

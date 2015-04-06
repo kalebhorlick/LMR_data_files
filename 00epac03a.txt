@@ -70,17 +70,17 @@
 #       Site_Name: Clipperton Atoll
 #       Location: Ocean>Pacific Ocean>Eastern Pacific Ocean
 #	Country: France 
-#	Northernmost_Latitude: 10.3 
-# 	Southernmost_Latitude: 10.3 
-# 	Easternmost_Longitude: -109.22 
-# 	Westernmost_Longitude: -109.22 
+#	Northernmost_Latitude: 10.300 
+# 	Southernmost_Latitude: 10.300
+# 	Easternmost_Longitude: -109.217 
+# 	Westernmost_Longitude: -109.217 
 # 	Elevation: -8.2 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 00epac03a 
+#	Collection_Name: 00epac03a
 #	Earliest_Year: 1893 
 #	Most_Recent_Year: 1994
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length: 2.97 m
 #	Notes: core name - 4B
 #------------------
@@ -103,9 +103,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lobata, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites lobata, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -113,7 +113,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1994.04	-5.69	-3.23
 1993.96	-5.73	-3.39
 1993.87	-5.63	-3.44

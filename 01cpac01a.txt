@@ -56,17 +56,17 @@
 #       Site_Name: Palmyra Island
 #       Location: Ocean>Pacific Ocean>Central Pacific Ocean
 #	Country: United States
-#	Northernmost_Latitude: 5.87 
-# 	Southernmost_Latitude: 5.87 
-# 	Easternmost_Longitude: -162.13 
-# 	Westernmost_Longitude: -162.13 
+#	Northernmost_Latitude: 5.867
+# 	Southernmost_Latitude: 5.867
+# 	Easternmost_Longitude: -162.130
+# 	Westernmost_Longitude: -162.130
 # 	Elevation: -9 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 01cpac01a 
-#	Earliest_Year: 1886  
-#	Most_Recent_Year: 1998 
-#	Time_Unit: Years AD 
+#	Collection_Name: 01cpac01a
+#	Earliest_Year: 1886
+#	Most_Recent_Year: 1998
+#	Time_Unit: y_ad 
 #	Core_Length: 3 m
 #	Notes: 
 #------------------
@@ -82,15 +82,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -98,7 +98,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o
+age	d18O
 1886.13	-4.79
 1886.2	-4.9
 1886.29	-4.81

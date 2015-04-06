@@ -58,10 +58,10 @@
 # 	Elevation: -3 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 04newc05a 
-#	Earliest_Year: 1967 
-#	Most_Recent_Year: 1992 
-#	Time_Unit: Years AD 
+#	Collection_Name: 04newc05a
+#	Earliest_Year: 1967
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: Three-core stack from cores 92PAC (from 04newc01a), 92PAD (from 04newc02a), and 99PAA (from 04newc03a). These data have been updated by DeLong et al. 2012. Please see file: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/amedee2012.txt 
 #------------------
@@ -77,17 +77,17 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o_stk	delta 18 Oxygen of three-core stack, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
-##Sr/Ca_stk	Strontium/Calcium of three-core stack, Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
-##d13c_stk	delta 13 Carbon of three-core stack, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen of three-core stack, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
+##Sr/Ca	Strontium/Calcium of three-core stack, Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
+##d13C	delta 13 Carbon of three-core stack, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -95,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o_stk	Sr/Ca_stk	d13c_stk
+age_AD	d18O	Sr/Ca	d13C
 1967.042	-4.272	9.128	-0.688
 1967.125	-4.469	9.074	-0.849
 1967.208	-4.602	9.055	-0.924

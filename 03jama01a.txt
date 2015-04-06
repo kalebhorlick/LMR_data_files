@@ -58,10 +58,10 @@
 # 	Elevation: -125 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 03jama01a  
-#	Earliest_Year: 1389 
-#	Most_Recent_Year: 1992 
-#	Time_Unit: Years AD 
+#	Collection_Name: 03jama01a
+#	Earliest_Year: 1389
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: Core name- Sclerosponge Pb19
 #------------------
@@ -77,18 +77,18 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o_stk	delta 18 Oxygen of stack, Ceratoporella nicholsoni, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d18o_t1	delta 18 Oxygen of transect one, Ceratoporella nicholsoni, , per mil PDB, , Corals and Sclerosponges, , ,N
-##d18o_t2	delta 18 Oxygen of transect two, Ceratoporella nicholsoni, , per mil PDB, , Corals and Sclerosponges, , ,N
-##d18o_t3	delta 18 Oxygen of transect three, Ceratoporella nicholsoni, , per mil PDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, ,Corals and Sclerosponges, , ,N
+##d18O_stk	delta 18 Oxygen of stack, Ceratoporella nicholsoni, , permil VPDB, ,Corals and Sclerosponges, , ,N
+##d18O_t1	delta 18 Oxygen of transect one, Ceratoporella nicholsoni, , permil PDB, ,Corals and Sclerosponges, , ,N
+##d18O_t2	delta 18 Oxygen of transect two, Ceratoporella nicholsoni, , permil PDB, ,Corals and Sclerosponges, , ,N
+##d18O_t3	delta 18 Oxygen of transect three, Ceratoporella nicholsoni, , permil PDB, ,Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -96,7 +96,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o_stk	d18o_t1	d18o_t2	d18o_t3
+age	d18O_stk	d18O_t1	d18O_t2	d18O_t3
 1992	-0.43	-0.36	-0.47	-0.47
 1987	-0.39	-0.28	-0.44	-0.44
 1982	-0.42	-0.31	-0.43	-0.51

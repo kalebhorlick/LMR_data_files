@@ -58,15 +58,15 @@
 # 	Elevation: -3 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 03indo02a 
-#	Earliest_Year: 1860 
-#	Most_Recent_Year: 1991 
-#	Time_Unit: Years AD 
+#	Collection_Name: 03indo02a
+#	Earliest_Year: 1860
+#	Most_Recent_Year: 1990
+#	Time_Unit: y_ad
 #	Core_Length: 2.65 m
 #	Notes: 
 #------------------
 # Species
-#	Species_Name: Porites
+#	Species_Name: Porites sp.
 #	Common_Name: 
 #------------------
 # Chronology: 
@@ -77,17 +77,17 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##seas_avgd18o	seasonally averaged delta 18 Oxygen, Porites, , per mil VPDB, , Corals and Sclerosponges, average: seasonal, ,N 		
-##d18o_anom	delta 18 oxygen anomaly, Porites, , per mil VPDB, , Corals and Sclerosponges, anomaly based on seasonal average values, ,N		
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
+##d18O_sa	seasonally averaged delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, average: seasonal, ,N
+##d18O_anom	delta 18 oxygen anomaly, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -95,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18O	seas_avgd18o	d18o_anom
+age	d18O	d18O_sa	d18O_anom
 1860.00	-5.2043	-5.135	-0.069
 1860.08	-5.1091	-5.095	-0.014
 1860.17	-5.0987	-5.074	-0.025

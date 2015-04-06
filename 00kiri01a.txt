@@ -52,17 +52,17 @@
 #       Site_Name: Maiana Atoll, Republic of Kiribati
 #       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Kiribati
 #	Country: Republic of Kiribati 
-#	Northernmost_Latitude: 1 
-# 	Southernmost_Latitude: 1
-# 	Easternmost_Longitude: 173 
-# 	Westernmost_Longitude: 173 
+#	Northernmost_Latitude: 0.933 
+# 	Southernmost_Latitude: 0.933
+# 	Easternmost_Longitude: 173.000 
+# 	Westernmost_Longitude: 173.000 
 # 	Elevation: -6 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 00kiri01a 
+#	Collection_Name: 00kiri01a
 #	Earliest_Year: 1840 
 #	Most_Recent_Year: 1994
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad 
 #	Core_Length: 4 m
 #	Notes: 
 #------------------
@@ -78,15 +78,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, calcium carbonate, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, calcium carbonate, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o
+age	d18O
 1840.00	-4.691441420
 1840.17	-4.783369055
 1840.33	-4.592702000

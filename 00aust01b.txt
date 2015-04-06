@@ -58,10 +58,10 @@
 # 	Elevation: -3.0 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 00aust01b 
+#	Collection_Name: 00aust01b
 #	Earliest_Year: 1878 
 #	Most_Recent_Year: 1994 
-#	Time_Unit: Year AD 
+#	Time_Unit: y_ad 
 #	Core_Length: 1.44 m
 #	Notes: Internal precisions (1 SD) are 0.02 per mil for delta O-18,and 0.015 per mil for delta C-13. External precisions (1 SD) of an internal laboratory standard (Solnhofen limestone) are 0.07 per mil for delta O-18, and 0.05 per mil for delta C-13. Average sampling density is 6.7 samples per year. The bimonthly data were interpolated with an Excel-macro. Based on couplets of annual density bands and seasonality in d18O. Within each year the highest (least depleted) d18O value was tied to mid-September, which is the coldest month on average.
 #------------------
@@ -84,9 +84,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD_int	interpolated date, , , years AD, , Corals and Sclerosponges, , ,N
-##d18o_int	interpolated delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
-##d13c_int	interpolated delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
+##age	interpolated age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	interpolated delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
+##d13C	interpolated delta 13 Carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD_int	d18o	d13c
+age	d18O	d13C
 1879.08	-5.03	-0.32
 1879.25	-5.07	-0.58
 1879.42	-4.58	-1.36

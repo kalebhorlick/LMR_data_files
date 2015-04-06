@@ -101,10 +101,10 @@
 # 	Elevation: -6 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 00reds01a 
-#	Earliest_Year: 1750 
-#	Most_Recent_Year: 1995 
-#	Time_Unit: Years AD 
+#	Collection_Name: 00reds01a
+#	Earliest_Year: 1751
+#	Most_Recent_Year: 1995
+#	Time_Unit: y_ad 
 #	Core_Length: 2.6 m
 #	Notes: 
 #------------------
@@ -120,15 +120,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N 				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT 251 mass spectrometer,N
 #
 #----------------
 # Data:
@@ -136,7 +136,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o
+age	d18O
 1751.083	-2.79
 1751.250	-3.01
 1751.417	-3.41

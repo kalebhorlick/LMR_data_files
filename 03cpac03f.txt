@@ -112,10 +112,10 @@
 # 	Elevation: +11 m 
 #------------------
 # Data_Collection   
-#	Collection_Name: 03cpac03f 
+#	Collection_Name: 03cpac03f
 #	Earliest_Year: 1653
 #	Most_Recent_Year: 1695 
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: Sample ID - SB13, +/- 10 years error in  U/Th age calculation
 #------------------
@@ -131,15 +131,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, fossil Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, fossil Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -147,7 +147,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o
+age	d18O
 1653.71	-5.15
 1653.79	-5.01
 1653.88	-4.71

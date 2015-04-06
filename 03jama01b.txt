@@ -58,10 +58,10 @@
 # 	Elevation: -125 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 03jama01b  
-#	Earliest_Year: 1389 
-#	Most_Recent_Year: 1992 
-#	Time_Unit: Years AD 
+#	Collection_Name: 03jama01b
+#	Earliest_Year: 1389
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: Core name- Sclerosponge Pb19
 #------------------
@@ -77,16 +77,16 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, ,Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium,Ceratoporella nicholsoni, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
-##err	error value per sample, , ,2 sem, , Corals and Sclerosponges, , ,N
+##err	error value per sample, , ,2 sig, ,Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	Sr/Ca	err
+age	Sr/Ca	err
 1384	9.786	0.08
 1389	9.858	0.079
 1393	9.92	0.095

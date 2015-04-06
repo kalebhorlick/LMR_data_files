@@ -58,10 +58,10 @@
 # 	Elevation:   
 #------------------
 # Data_Collection   
-#	Collection_Name: 02newc01a 
+#	Collection_Name: 02newc01a
 #	Earliest_Year: 1968  
 #	Most_Recent_Year: 1992 
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad 
 #	Core_Length:
 #	Notes: 
 #------------------
@@ -77,16 +77,16 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by ## in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
-##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium,Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
 ##Mg/Ca	Magnesium/Calcium,Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
 ##U/Ca	Uranium/Calcium,Porites lutea, ,mmmol/mol, ,Corals and Sclerosponges, , ,N 
@@ -99,7 +99,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	d13c	Sr/Ca	Mg/Ca	U/Ca	Ba/Ca	notes
+age	d18O	d13C	Sr/Ca	Mg/Ca	U/Ca	Ba/Ca	notes
 1992.62	-4.26	-2.10	8.954	5.586	0.918	5.287	Mg/Ca and U/Ca values suspected to be contaminated
 1992.54	-4.23	-1.88	8.938	5.480	0.937	5.263	Mg/Ca and U/Ca values suspected to be contaminated
 1992.46	-4.32	-1.71	8.945	5.427	0.939	4.919	Mg/Ca and U/Ca values suspected to be contaminated

@@ -58,10 +58,10 @@
 # 	Elevation: -1.1 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 04mada01a 
-#	Earliest_Year: 1659 
+#	Collection_Name: 04mada01a
+#	Earliest_Year: 1659
 #	Most_Recent_Year: 1995
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length: 4.06 m
 #	Notes: Data are a bimonthly time series interpolated to the mid-month.  Therefore the month of January/February appear in the data as 1660.125;  March/April: 1660.291; may/june: 1660.458; july/august: 1660.625;  september/october: 1660.791; november/december: 1660.958.   This is because meteorological data are also given as mid-month values. 
 #------------------
@@ -84,10 +84,10 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age_AD	age, , ,y_ad, ,Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lobata, , permil VPDB, ,Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium, Porites lobata, ,mmol/mol, ,Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites lobata, , permil VPDB, ,Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -95,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	Sr/Ca	d13c
+age	d18O	Sr/Ca	d13C
 1659.625	-3.99	NAN	-0.99
 1659.791	-4.38	NAN	-0.39
 1659.958	-4.93	NAN	-0.44

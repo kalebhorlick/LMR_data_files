@@ -114,8 +114,8 @@
 # Data_Collection   
 #	Collection_Name: 03cpac01c
 #	Earliest_Year: 1317
-#	Most_Recent_Year: 1464 
-#	Time_Unit: Years AD 
+#	Most_Recent_Year: 1464
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: Sample ID - spl14, spliced sequence made by splicing CH9 (03palm01d) to CH5 (03palm01e) at date 1402.96, with +/- 5 year age-date error
 #------------------
@@ -131,15 +131,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, fossil Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, fossil Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -147,7 +147,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o
+age	d18O
 1317.21	-4.83
 1317.29	-4.79
 1317.38	-4.74
