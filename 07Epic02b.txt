@@ -1,0 +1,307 @@
+# EPICA Dome C Stable Isotope Data to 44.8 KYrBP
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2492
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc96-iso-45kyr.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2003
+# --------------------
+# Title 
+#	Study_Name: EPICA Dome C Stable Isotope Data to 44.8 KYrBP
+# --------------------
+# Investigators
+#	Investigators: Jouzel, J., V. Masson-Delmotte, O. Cattani, G. Dreyfus, S. Falourd, G. Hoffmann, B. Minster, J. Nouet, J.M. Barnola, J. Chappellaz, H. Fischer,J.C. Gallet, S. Johnsen, M. Leuenberger, L. Loulergue, D. Luethi, H. Oerter, F. Parrenin, G. Raisbeck, D. Raynaud, A. Schilt, J. Schwander, E. Selmo, R. Souchez, R. Spahni, B. Stauffer, J.P. Steffensen, B. Stenni, T.F. Stocker, J.L. Tison, M. Werner, and E.W. Wolff
+# --------------------
+# Description_and_Notes
+# 	Description: EPICA Dome C Stable Isotope Data to 44.8 KYrBP.  
+# 
+#	The age scale adopted here is the EDC1 (Schwander et al., 2001).   
+#   
+#	For deltaD data refer to Jouzel et al., 2001 (for ages between 0 and 27.7 ky BP) 
+#	and Stenni et al., 2003 (for ages up to 44.8 ky BP).
+#   
+#	For deuterium excess (d=deltaD-8*delta18O) data refer to Stenni et al., 2001 
+#	(for ages between 0 and 27.7 ky BP) and  Stenni et al., 2003 (for ages up to 44.8 ky BP). 
+#
+#	Some samples were either missing or of very bad quality over two intervals
+#	bags 1195-1199: mean sample 1195-0
+#	bags 1131-1135: mean sample 1131-0
+#	between those levels intervals only one "average" sample has been taken and
+#	its value is reported for 5 successive bags
+# --------------------
+# Publication
+#	Authors: Jouzel, J., V. Masson-Delmotte, O. Cattani, G. Dreyfus, S. Falourd, G. Hoffmann, B. Minster, J. Nouet, J.M. Barnola, J. Chappellaz, H. Fischer, J.C. Gallet, S. Johnsen, M. Leuenberger, L. Loulergue, D. Luethi, H. Oerter, F. Parrenin, G. Raisbeck, D. Raynaud, A. Schilt, J. Schwander, E. Selmo, R. Souchez, R. Spahni, B. Stauffer, J.P. Steffensen, B. Stenni, T.F. Stocker, J.L. Tison, M. Werner, and E.W. Wolff
+#	Published_Date_or_Year: 2007-08-10
+#	Published_Title: Orbital and Millenial Antarctic Climate Variability over the Past 800,000 years
+#	Journal_Name: Science
+#	Volume: 317
+#	Edition: 	
+#	Issue: 5839
+#	Pages: 793-797
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: A high-resolution deuterium profile is now available along the entire 
+European Project for Ice Coring in Antarctica Dome C ice core, extending 
+this climate record back to marine isotope stage 20.2, ~800,000 years ago. 
+Experiments performed with an atmospheric general circulation model 
+including water isotopes support its temperature interpretation. 
+We assessed the general correspondence between Dansgaard-Oeschger 
+events and their smoothed Antarctic counterparts for this Dome C record, 
+which reveals the presence of such features with similar amplitudes 
+during previous glacial periods. We suggest that the interplay between 
+obliquity and precession accounts for the variable intensity of 
+interglacial periods in ice core records.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+#	Grant:
+#	Funding_Agency_Name: 
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: EPICA Dome C
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: -75.1
+#	Southernmost_Latitude: -75.1
+#	Easternmost_Longitude: 123.4
+#	Westernmost_Longitude: 123.4
+#	Elevation: 3240 m
+# --------------------
+# Data_Collection
+#	Collection_Name: 07Epic02b
+#	Earliest_Year: 44821.74
+#	Most_Recent_Year: 42.5
+#	Time_Unit: yb_1950
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	Age,,,years before 1950,,,,,N
+##delD	delD,,,permil SMOW,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	delD
+42.5	-390.9
+51.15	-385.1
+60.08	-377.8
+69.36	-394.1
+78.58	-398.7
+87.77	-395.9
+97.06	-395.9
+106.43	-399.3
+116.11	-391.4
+125.83	-399.5
+135.47	-402.9
+145.35	-393.9
+155.61	-398.6
+165.93	-389.8
+176.29	-394.5
+186.69	-400.5
+197.1	-403.6
+207.53	-393.1
+218.05	-410.9
+228.94	-393.6
+239.97	-391.1
+251.22	-391.9
+262.57	-396.3
+274.02	-397
+285.58	-404.7
+297.21	-398.2
+309.07	-395.2
+321.01	-403.5
+333.03	-398.6
+345.1	-399.7
+357.25	-396
+369.47	-400.2
+381.79	-401.6
+394.22	-405.4
+406.75	-399
+419.28	-396.9
+431.81	-394.9
+444.41	-406.6
+457.05	-395.2
+469.8	-395.3
+482.6	-399.5
+495.46	-401
+508.31	-393.6
+521.13	-410.4
+534.03	-401.3
+546.96	-398.3
+559.81	-388.5
+572.64	-391.9
+585.5	-400.8
+598.38	-387.7
+611.3	-401.4
+624.29	-401
+637.4	-387.3
+650.6	-390.2
+663.89	-394.5
+677.33	-401.9
+690.84	-399.8
+704.44	-399.9
+718.03	-399.1
+731.51	-401.9
+745.07	-404.8
+758.82	-401.6
+772.25	-396.7
+785.27	-397.1
+798.34	-394.2
+811.44	-395.9
+824.63	-392.7
+837.83	-390.4
+850.99	-389
+864.17	-387
+877.48	-402.3
+890.81	-392.5
+904.19	-404.6
+917.7	-390.5
+931.33	-402.3
+945.09	-400.1
+958.89	-399.4
+972.67	-400.6
+986.48	-393.8
+1000.49	-398.5
+1014.52	-398.7
+1028.55	-401.8
+1042.56	-395.2
+1056.55	-390.1
+1070.59	-393.9
+1084.65	-400.6
+1098.58	-400.9
+1112.49	-391.7
+1126.5	-399.3
+1140.56	-386.7
+1154.68	-401.5
+1168.75	-398.1
+1182.72	-390.4
+1196.69	-389.8
+1210.64	-390.7
+1224.57	-399.3
+1238.51	-392.5
+1252.64	-393.8
+1266.81	-394.4
+1281.03	-397
+1295.24	-397.8
+1309.44	-388.6
+1323.77	-394.7
+1338.25	-390.6
+1352.78	-397
+1367.34	-386.6
+1381.92	-390.6
+1396.54	-397
+1411.37	-396.1
+1426.34	-398.9
+1441.6	-400.2
+1456.89	-398.7
+1472.17	-389.7
+1487.48	-401.6
+1502.84	-397.9
+1518.4	-399.2
+1534.05	-397.6
+1549.76	-390.5
+1565.49	-401.5
+1581.25	-395.7
+1597.07	-394.5
+1613.02	-402.9
+1629.07	-401
+1645.24	-391.5
+1661.36	-403.4
+1677.42	-393.4
+1693.33	-393.8
+1709.29	-400.8
+1725.75	-399.3
+1742.27	-396.6
+1758.7	-395.3
+1775.06	-392.6
+1791.33	-404.4
+1807.75	-394.4
+1824.29	-402.2
+1840.75	-401.9
+1857.18	-393.8
+1873.65	-402.3
+1890.15	-385.1
+1906.71	-395.9
+1923.21	-395.8
+1939.55	-398.2
+1956.13	-394.8
+1973.01	-397.7
+1989.91	-400.3
+2006.82	-402.4
+2023.8	-396
+2040.81	-401.4
+2057.91	-386.1
+2075.06	-400.1
+2092.34	-400.3
+2109.61	-393.2
+2126.85	-399.7
+2144.21	-397.9
+2161.68	-402
+2179.29	-398.7
+2196.95	-398.6
+2214.64	
+2232.37	-390.6
+2250.26	-394
+2268.33	-397.9
+2286.75	-394.8
+2305.2	-408.2
+2323.67	-404.3
+2342.16	-399.6
+2360.64	-400.8
+2379.11	-401.5
+2397.55	-407.7
+2415.9	-400.5
+2434.21	-395.8
+2452.44	-399.7
+2470.63	-399.6
+2488.72	-394.8
+2506.69	-398.5
+2524.56	-390.2
+2542.31	-396.4
+2560.01	-392.7
+2577.64	-400.4
+2595.25	-393.5
+2612.79	-390.6
+2630.34	-395.2
+2647.89	-396.9
+2665.39	-399.1
+2682.81	-396.9
+2700.1	-401
+2717.31	-387.9
+2734.42	-390.3
+2751.49	-390.8
+2768.53	-390.2
+2785.61	-395.6
+2802.81	-387.7
+2820.15	-388.9
+2837.69	-388.9
+2855.29	-395.4
+2872.92	-399.5
+2890.5	-401.7
+2908.1	-392.2
+2925.99	-393.9
+2943.98	-397.7
