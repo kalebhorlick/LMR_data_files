@@ -1,4 +1,4 @@
-﻿# Dunde, China Ice Core Oxygen Isotope Data
+# Dunde, China Ice Core Oxygen Isotope Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -82,10 +82,10 @@ global climate.
 #	Site_Name: Dunde
 #	Location: Asia>China
 #	Country: China
-#	Northernmost_Latitude: 38.1
-#	Southernmost_Latitude: 38.1	 
-#	Easternmost_Longitude: 96.4
-#	Westernmost_Longitude: 96.4
+#	Northernmost_Latitude: 38.17
+#	Southernmost_Latitude: 38.17 
+#	Easternmost_Longitude: 96.43
+#	Westernmost_Longitude: 96.43
 #	Elevation: 1239 m
 # --------------------
 # Data_Collection
