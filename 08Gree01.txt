@@ -75,8 +75,8 @@
 #	Site_Name: Greenland
 #	Location: North America>Greenland
 #	Country: 
-#	Northernmost_Latitude: 75.1
-#	Southernmost_Latitude: 75.1
+#	Northernmost_Latitude: 75.10
+#	Southernmost_Latitude: 75.10
 #	Easternmost_Longitude: -42.33
 #	Westernmost_Longitude: -42.33
 #	Elevation: 2917 m
