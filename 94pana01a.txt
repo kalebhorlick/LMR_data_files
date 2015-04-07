@@ -52,17 +52,17 @@
 #       Site_Name: Secas Island, Gulf of Chiriqui, Panama
 #       Location: North America>Central America>Panama
 #	Country: Panama 
-#	Northernmost_Latitude: 7.98 
-# 	Southernmost_Latitude: 7.98 
-# 	Easternmost_Longitude: -82.5 
-# 	Westernmost_Longitude: -82.5
+#	Northernmost_Latitude: 7.997786
+# 	Southernmost_Latitude: 7.997786
+# 	Easternmost_Longitude: -82.029278
+# 	Westernmost_Longitude: -82.029278
 # 	Elevation: -3 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 94pana01a 
-#	Earliest_Year: 1707 
+#	Collection_Name: 94pana01a
+#	Earliest_Year: 1707
 #	Most_Recent_Year: 1984
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length: 2.74 m
 #	Notes: Core name S1
 #------------------
@@ -85,10 +85,10 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##depth_mm	depth of sample, Porites lobata, , mm, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lobata, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites lobata, , permil VPDB, , Corals and Sclerosponges, , ,N
+##depth	depth of sample, Porites lobata, , mm, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -96,7 +96,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	d13c	depth_mm
+age	d18O	d13C	depth
 1984.50	-6.12	-0.72	1
 1984.44	-5.85	-0.23	2
 1984.38	-5.91	-0.64	3

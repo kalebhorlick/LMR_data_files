@@ -51,17 +51,17 @@
 #       Site_Name: Arlington Reef, Australia
 #       Location: Australia/New Zealand>Australia
 #	Country: Australia
-#	Northernmost_Latitude: -16.7167 
-# 	Southernmost_Latitude: -16.7167 
-# 	Easternmost_Longitude: 146.0333 
-# 	Westernmost_Longitude: 146.0333 
-# 	Elevation:   
+#	Northernmost_Latitude: -16.7167
+# 	Southernmost_Latitude: -16.7167
+# 	Easternmost_Longitude: 146.0333
+# 	Westernmost_Longitude: 146.0333
+# 	Elevation: 
 #------------------
 # Data_Collection   
 #	Collection_Name: 09aust01a
-#	Earliest_Year: 1807 
-#	Most_Recent_Year: 2004 
-#	Time_Unit: Years AD 
+#	Earliest_Year: 1807
+#	Most_Recent_Year: 2004
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 5-year averages through 1939. *e pH values are calculated using the following parameters: a(B3�B4) = 1.0204 (Xiao et al., 2006), pKB = 8.60 (Honisch et al., 2004) and seawater d11B = 40.08& of our measurement for the GBR seawater.
 #------------------
@@ -84,16 +84,16 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
 ##Mg/Ca	Magnesium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N
 ##Ba/Ca	Barium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , analytical technique: ICP-OES,N
-##d11b	delta 11 Barium, Porites sp., ,per mil, ,Corals and Sclerosponges, relative to the long-term average of SRM 951 on this machine of 4.0532, ,N
-##d11b_2sigma	2 sigma error of delta 11 Barium, Porites sp., , unitless, ,Corals and Sclerosponges, relative to the long-term average of SRM 951 on this machine of 4.0532, ,N
+##d11B	delta 11 Barium, Porites sp., ,permil, ,Corals and Sclerosponges, relative to the long-term average of SRM 951 on this machine of 4.0532, ,N
+##d11B_2s	2 sigma error of delta 11 Barium, Porites sp., , unitless, ,Corals and Sclerosponges, relative to the long-term average of SRM 951 on this machine of 4.0532, ,N
 ##pH	reconstructed sea surface pH, Porites sp., , unitless, , Corals and Sclerosponges, , ,N
-##pH_2sigma	2 sigma error of reconstructed sea surface pH, Porites sp., , unitless, , Corals and Sclerosponges, , ,N
+##pH_2s	2 sigma error of reconstructed sea surface pH, Porites sp., , unitless, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -101,7 +101,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o	Sr/Ca	d13c	Mg/Ca	Ba/Ca	d11b	d11b_2sigma	pH	pH_2sigma
+age	d18O	Sr/Ca	d13C	Mg/Ca	Ba/Ca	d11B	d11B_2s	pH	pH_2s
 1807	-4.4	7.762	-1.59	4.31	3.53	23.61	0.16	8.02	0.02
 1812	-4.49	7.91	-2	4.139	4.03	24.53	0.15	8.13	0.02
 1817	-4.56	7.773	-1.47	4.302	3.36	22.74	0.15	7.9	0.02

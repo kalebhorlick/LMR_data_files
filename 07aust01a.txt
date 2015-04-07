@@ -51,17 +51,17 @@
 #       Site_Name: Flinders Reef, Queensland Plateau, Coral Sea
 #       Location: Australia/New Zealand>Australia
 #	Country: Australia 
-#	Northernmost_Latitude: -17.73 
-# 	Southernmost_Latitude: -17.73 
-# 	Easternmost_Longitude: 148.43 
-# 	Westernmost_Longitude: 148.43 
+#	Northernmost_Latitude: -17.73
+# 	Southernmost_Latitude: -17.73
+# 	Easternmost_Longitude: 148.43
+# 	Westernmost_Longitude: 148.43
 # 	Elevation: -5 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 07aust01a 
-#	Earliest_Year: 1708 
+#	Collection_Name: 07aust01a
+#	Earliest_Year: 1708
 #	Most_Recent_Year: 1988
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length: 4.2 m
 #	Notes: 5 year intervals
 #------------------
@@ -84,9 +84,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##Sr/Ca	Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N 
-##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N 
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##Sr/Ca	Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N
+##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	Sr/Ca
+age	d18O	Sr/Ca
 1988	-4.88	8.8996
 1983	-4.78	8.9243
 1978	-4.83	8.9043

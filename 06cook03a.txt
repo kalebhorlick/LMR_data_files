@@ -83,17 +83,17 @@
 #       Site_Name: Rarotonga, Cook Islands, South Pacific
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Polynesia>Cook Islands
 #	Country: Cook Islands 
-#	Northernmost_Latitude: -21.23 
-# 	Southernmost_Latitude: -21.23 
-# 	Easternmost_Longitude: -159.82 
-# 	Westernmost_Longitude: -159.82 
-# 	Elevation:  -18 m  
+#	Northernmost_Latitude: -21.23
+# 	Southernmost_Latitude: -21.23
+# 	Easternmost_Longitude: -159.82
+# 	Westernmost_Longitude: -159.82
+# 	Elevation:  -18 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 06cook03a 
-#	Earliest_Year: 1906 
-#	Most_Recent_Year: 1999 
-#	Time_Unit: Years AD 
+#	Collection_Name: 06cook03a
+#	Earliest_Year: 1906
+#	Most_Recent_Year: 1999
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: Core name - 99, 8 samples per year
 #------------------
@@ -116,9 +116,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N
-##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N
+##d13C	delta 13 Carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N
 #
 #----------------
 # Data:
@@ -126,7 +126,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values:  
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1999.75	-4.74	-2.61
 1999.63	-4.77	-2.54
 1999.50	-4.83	-2.77

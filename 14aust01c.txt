@@ -50,18 +50,18 @@
 # Site_Information 
 #       Site_Name: Houtman Abrolhos Islands
 #       Location: Australia/New Zealand>Australia
-#	Country: Australia 
+#	Country: Australia
 #	Northernmost_Latitude: -28.47 
-# 	Southernmost_Latitude: -28.47  
-# 	Easternmost_Longitude: 113.75 
-# 	Westernmost_Longitude: 113.75 
-# 	Elevation: -8.5 m  
+# 	Southernmost_Latitude: -28.47
+# 	Easternmost_Longitude: 113.75
+# 	Westernmost_Longitude: 113.75
+# 	Elevation: -8.5 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 14aust01c
 #	Earliest_Year: 1795
-#	Most_Recent_Year: 2010 
-#	Time_Unit: Years AD 
+#	Most_Recent_Year: 2010
+#	Time_Unit: y_ad
 #	Core_Length: 1.29 m
 #	Notes: Previous name HAI Composite Z14. From Zinke et al.(2014): a 215-year record of reconstructed mean annual SST is derived from coral δ18O and/or Sr/Ca variations in three cores from the HAIs (Figs 1a, 2a–c; Supplementary Figs 2–5; Supplementary Tables 1 and 2). In brief, we first, normalized (subtract mean and divide by s.d.) each individual coral record to its variance using the time period 1900–1993 shared by all cores; second, aligned the new annually resolved Sr/Ca and δ18O records with the Kuhnert et al.12 annual time series, and third, averaged all records to form a composite chronology that extends from 1795 to 2010. We converted our normalized coral composite proxy record to SST by scaling it to the s.d. of extended reconstructed SST (ERSST)v3b17 (over the period 1900–1993), the longest continuous SST data set for the HAI region.
 
@@ -85,7 +85,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, ,Climate Reconstructions, , ,N
+##age	age, , ,y_ad, ,Climate Reconstructions, , ,N
 ##sst	sea surface temperature,Sr/Ca and d18O Porites sp.,,degrees Celsius,,Climate Reconstructions,1900-93 normalized,,N
 ##sst_err	sea surface temperature,Sr/Ca and d18O Porites sp.,2sigma error,degrees Celsius,,Climate Reconstructions,1900-93 normalized,,N
 ##sst_comp	coral composite,Sr/Ca and d18O Porites sp.,, ,,Climate Reconstructions,1900-93 normalized,,N
@@ -96,7 +96,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	sst	sst_err	sst_comp
+age	sst	sst_err	sst_comp
 1795	-0.085086289	0.13235	0.232794225
 1796	-0.642698769	0.30870	1.758409764
 1797	-0.862329717	0.38609	2.359315231

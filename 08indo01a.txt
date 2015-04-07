@@ -55,18 +55,18 @@
 #       Site_Name: South Pulau Langkai Island
 #       Location: Ocean>Indian Ocean>Indonesia
 #	Country: Indonesia 
-#	Northernmost_Latitude: -5.033333 
-# 	Southernmost_Latitude: -5.033333 
-# 	Easternmost_Longitude: 119.066667 
-# 	Westernmost_Longitude: 119.066667 
-# 	Elevation:  -4 m  
+#	Northernmost_Latitude: -5.033333
+# 	Southernmost_Latitude: -5.033333
+# 	Easternmost_Longitude: 119.066667
+# 	Westernmost_Longitude: 119.066667
+# 	Elevation:  -4 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 08indo01a
-#	Earliest_Year: 1870 
-#	Most_Recent_Year: 1990 
-#	Time_Unit: Years AD 
-#	Core_Length: 2.3m
+#	Earliest_Year: 1870
+#	Most_Recent_Year: 1990
+#	Time_Unit: y_ad
+#	Core_Length: 2.3 m
 #	Notes: previous name- Langkai2008coralc14
 #------------------
 # Species 
@@ -81,22 +81,23 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, Porites lutea, , years AD, , Corals and Sclerosponges, , ,N
-##ac_d14c	delta age-corrected delta 14 Carbon, Porites lutea, , per mil NBS oxalic acid, , Corals and Sclerosponges, d13C age correction, stable isotope mass spectrometry, N 
+##age	age, Porites lutea, ,y_ad, , Corals and Sclerosponges, , ,N
+##d14C	delta age-corrected delta 14 Carbon, Porites lutea, , permil NBS oxalic acid, , Corals and Sclerosponges, d13C age correction, stable isotope mass spectrometry, N 
 #
 #----------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
-age_AD	ac_d14c
+#
+age	d14C
 1990.5	113
 1990.35	102
 1990.19	105

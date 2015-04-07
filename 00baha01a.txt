@@ -51,18 +51,18 @@
 #       Site_Name: Jamaica Bay, Acklins Island, Bahamas, tropical North Atlantic
 #       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Bahamas
 #	Country: Bahamas 
-#	Northernmost_Latitude: 22.3  
-# 	Southernmost_Latitude: 22.3  
-# 	Easternmost_Longitude: -74.23 
-# 	Westernmost_Longitude: -74.23 
-# 	Elevation: -30 m  
+#	Northernmost_Latitude: 22.194121
+# 	Southernmost_Latitude: 22.194121
+# 	Easternmost_Longitude: -74.289559
+# 	Westernmost_Longitude: -74.289559
+# 	Elevation: -30 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 00baha01a
-#	Earliest_Year: 1724 
-#	Most_Recent_Year: 1983 
-#	Time_Unit: Years AD 
-#	Core_Length: .09 m
+#	Earliest_Year: 1724
+#	Most_Recent_Year: 1983
+#	Time_Unit: y_ad
+#	Core_Length:
 #	Notes: 
 #------------------
 # Species
@@ -84,8 +84,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Ceratoporella nicholsoni, , per mil VPDB, , Corals and Sclerosponges, 3 point running average, analytical technique: Finnigan Mat Delta E stable isotope-ratio mass spectrometer,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Ceratoporella nicholsoni, , permil VPDB, , Corals and Sclerosponges, 3 point running average, analytical technique: Finnigan Mat Delta E stable isotope-ratio mass spectrometer,N
 #
 #----------------
 # Data:
@@ -93,7 +93,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d13c
+age	d13C
 1983	4.14
 1981	4.18
 1978	4.24

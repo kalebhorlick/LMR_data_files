@@ -52,17 +52,17 @@
 #       Site_Name: Urvina Bay, Galapagos Islands
 #       Location: Ocean>Pacific Ocean>Eastern Pacific Ocean>Galapagos Islands
 #	Country: Ecuador 
-#	Northernmost_Latitude: -.4 
-# 	Southernmost_Latitude: -.4 
-# 	Easternmost_Longitude: -91.23 
-# 	Westernmost_Longitude: -91.23 
-# 	Elevation:  
+#	Northernmost_Latitude: -.4084
+# 	Southernmost_Latitude: -.4084
+# 	Easternmost_Longitude: -91.234
+# 	Westernmost_Longitude: -91.234
+# 	Elevation: -3 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 94gala01a 
-#	Earliest_Year: 1607 
-#	Most_Recent_Year: 1981 
-#	Time_Unit: Years AD 
+#	Collection_Name: 94gala01a
+#	Earliest_Year: 1607
+#	Most_Recent_Year: 1981
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: Core name- UR-86 (Pavona clavus, 1607-1953) 
 #------------------
@@ -78,15 +78,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Pavona clavus, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Pavona clavus, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o
+age	d18O
 1981	-4.13
 1980	-4.26
 1979	-4.44

@@ -54,18 +54,18 @@
 # Site_Information 
 #       Site_Name: Cayo Sal, Los Roques Archipelago, Venezuela
 #       Location: South America>Venezuela
-#	Country: Venezuela 
-#	Northernmost_Latitude: 11.77 
-# 	Southernmost_Latitude: 11.77 
-# 	Easternmost_Longitude: -66.75 
-# 	Westernmost_Longitude: -66.75 
-# 	Elevation: -2 m  
+#	Country: Venezuela
+#	Northernmost_Latitude: 11.77
+# 	Southernmost_Latitude: 11.77
+# 	Easternmost_Longitude: -66.75
+# 	Westernmost_Longitude: -66.75
+# 	Elevation: -2 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 08vene01a 
-#	Earliest_Year: 1917 
-#	Most_Recent_Year: 2004 
-#	Time_Unit: Years AD 
+#	Collection_Name: 08vene01a
+#	Earliest_Year: 1917
+#	Most_Recent_Year: 2004
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
@@ -88,8 +88,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	monthly delta 18 Oxygen, Diploria strigosa, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	monthly delta 18 Oxygen, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -97,6 +97,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
+age	d18O
 1917.79	-3.812
 1917.87	-3.731
 1917.96	-3.749

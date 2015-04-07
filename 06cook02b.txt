@@ -83,17 +83,17 @@
 #       Site_Name: Rarotonga, Cook Islands, South Pacific
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Polynesia>Cook Islands
 #	Country: Cook Islands 
-#	Northernmost_Latitude: -21.23 
-# 	Southernmost_Latitude: -21.23 
-# 	Easternmost_Longitude: -159.82 
-# 	Westernmost_Longitude: -159.82 
+#	Northernmost_Latitude: -21.23
+# 	Southernmost_Latitude: -21.23
+# 	Easternmost_Longitude: -159.82
+# 	Westernmost_Longitude: -159.82
 # 	Elevation:  -10 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 06cook02b 
-#	Earliest_Year: 1874 
-#	Most_Recent_Year: 2000 
-#	Time_Unit: Years AD 
+#	Collection_Name: 06cook02b
+#	Earliest_Year: 1874
+#	Most_Recent_Year: 1999
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: Core name - 3R, 8 samples per year
 #------------------
@@ -116,9 +116,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o_ann_ave	annually averaged delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, average: annually with 8 samples per year, instrument: Micromass Optima gas source mass spectrometer,N
-##d13c_ann_ave	annually averaged delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, average: annually with 8 samples per year, instrument: Micromass Optima gas source mass spectrometer,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	annually averaged delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, average: annually with 8 samples per year, instrument: Micromass Optima gas source mass spectrometer,N
+##d13C	annually averaged delta 13 Carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, average: annually with 8 samples per year, instrument: Micromass Optima gas source mass spectrometer,N
 #
 #----------------
 # Data:
@@ -126,7 +126,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values:  
 #
-age_AD	d18o_ave	d13c_ave
+age	d18O	d13C
 1999.5	-4.7916	-3.0936
 1998.5	-4.4486	-3.0526
 1997.5	-4.3902	-3.0122

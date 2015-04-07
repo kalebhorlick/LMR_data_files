@@ -62,23 +62,23 @@
 # Site_Information 
 #       Site_Name: Mayotte, Comoro Archipelago
 #       Location: Ocean>Indian Ocean>Comoros
-#	Country: France 
-#	Northernmost_Latitude: -12.65 
-# 	Southernmost_Latitude: -12.65 
-# 	Easternmost_Longitude: 45.1 
-# 	Westernmost_Longitude: 45.1 
-# 	Elevation:   
+#	Country: France
+#	Northernmost_Latitude: -12.65
+# 	Southernmost_Latitude: -12.65
+# 	Easternmost_Longitude: 45.10
+# 	Westernmost_Longitude: 45.10
+# 	Elevation: 
 #------------------
 # Data_Collection   
-#	Collection_Name: 09como01a 
-#	Earliest_Year: 1865 
-#	Most_Recent_Year: 1994 
-#	Time_Unit: Years AD 
+#	Collection_Name: 09como01a
+#	Earliest_Year: 1865
+#	Most_Recent_Year: 1994
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
 # Species
-#	Species_Name: Porites solida 
+#	Species_Name: Porites solida
 #	Common_Name: 
 #------------------
 # Chronology: 
@@ -96,9 +96,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites solida, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Porites solida, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites solida, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites solida, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -106,7 +106,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1865.62	-4.45	-1.58
 1865.79	-4.633	-1.555
 1865.96	-4.837	-1.59

@@ -65,21 +65,21 @@
 #       Grant: 
 #------------------
 # Site_Information 
-#       Site_Name: Espriritu Santo Island, Republic of Vanuatu
+#       Site_Name: Espiritu Santo Island, Republic of Vanuatu
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Melanesia>Vanuatu
 #	Country: Republic of Vanuatu 
-#	Northernmost_Latitude: -15 
-# 	Southernmost_Latitude: -15 
-# 	Easternmost_Longitude: 167 
-# 	Westernmost_Longitude: 167 
-# 	Elevation:   
+#	Northernmost_Latitude: -15.061362
+# 	Southernmost_Latitude: -15.061362
+# 	Easternmost_Longitude: 166.596590
+# 	Westernmost_Longitude: 167.596590
+# 	Elevation: 
 #------------------
 # Data_Collection   
-#	Collection_Name: 96vanu01a 
-#	Earliest_Year: 1806  
-#	Most_Recent_Year: 1980 
-#	Time_Unit: Years AD 
-#	Core_Length: 1.5 m 
+#	Collection_Name: 96vanu01a
+#	Earliest_Year: 1806
+#	Most_Recent_Year: 1980
+#	Time_Unit: y_ad
+#	Core_Length: 1.5 m
 #	Notes: 
 #------------------
 # Species
@@ -101,11 +101,11 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o_2	mean delta 18 Oxygen at 2 samples per year, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d18o_4	mean delta 18 Oxygen at 4 samples per year, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, averaged, ,N 
-##d13c_2	mean delta 13 Carbon at 2 samples per year, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d13c_4	mean delta 13 Carbon at 4 samples per year, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, averaged, ,N 
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O_2	mean delta 18 Oxygen at 2 samples per year, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
+##d18O_4	mean delta 18 Oxygen at 4 samples per year, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N 
+##d13C_2	mean delta 13 Carbon at 2 samples per year, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
+##d13C_4	mean delta 13 Carbon at 4 samples per year, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N 
 #
 #----------------
 # Data:
@@ -113,7 +113,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o_2	d18o_4	d13c_2	d13c_4
+age	d18O_2	d18O_4	d13C_2	d13C_4
 1979	-4.71	-4.72	-0.22	-0.07
 1978	-5.01	-4.78	-0.81	-0.71
 1977	-4.99	-5.03	-0.31	-0.52

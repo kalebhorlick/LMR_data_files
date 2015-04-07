@@ -51,17 +51,17 @@
 #       Site_Name: Alina's Reef, Biscayne National Park, Florida
 #       Location: North America>United States Of America>Florida
 #	Country: United States Of America 
-#	Northernmost_Latitude: 25.38 
-# 	Southernmost_Latitude: 25.38 
-# 	Easternmost_Longitude: -80.17 
-# 	Westernmost_Longitude: -80.17  
-# 	Elevation: -10 m  
+#	Northernmost_Latitude: 25.38
+# 	Southernmost_Latitude: 25.38
+# 	Easternmost_Longitude: -80.17
+# 	Westernmost_Longitude: -80.17
+# 	Elevation: -10 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 96flor01a 
-#	Earliest_Year: 1751  
+#	Collection_Name: 96flor01a
+#	Earliest_Year: 1751
 #	Most_Recent_Year: 1986
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: 
 #------------------
@@ -77,16 +77,16 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Montastraea faveolata, , per mil VPDB, , Corals and Sclerosponges, , ,N 
-##d13c	delta 13 Carbon, Montastraea faveolata, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Montastraea faveolata, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Montastraea faveolata, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1986	-3.69	-1.50
 1985	-4.08	-1.04
 1984	-3.64	-0.41

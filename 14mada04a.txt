@@ -51,17 +51,17 @@
 #       Site_Name: Ifaty Reef, SW Madagascar
 #       Location: Ocean>Indian Ocean>Madagascar
 #	Country: Madagascar 
-#	Northernmost_Latitude: -23.142967 
+#	Northernmost_Latitude: -23.142967
 # 	Southernmost_Latitude: -23.357167
-# 	Easternmost_Longitude: 43.619483 
-# 	Westernmost_Longitude: 43.583067 
+# 	Easternmost_Longitude: 43.619483
+# 	Westernmost_Longitude: 43.583067
 # 	Elevation: -1 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 14mada04a 
-#	Earliest_Year: 1660 
+#	Collection_Name: 14mada04a
+#	Earliest_Year: 1660
 #	Most_Recent_Year: 1994
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: Composite d18O SST anomaly record from Ifaty-1, Ifaty-4 and Tulear-3 cores vs. 1961-90.
 #------------------
@@ -84,7 +84,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
 ##sst	delta 18o reconstructed sea surface temperature anomaly,delta 18O,, degrees C,, Corals and Sclerosponges, normalized to 1961-90,,N
 #
 #----------------
@@ -93,7 +93,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	sst
+age	sst
 1660	-0.10141
 1661	-0.283006667
 1662	0.131576667

@@ -51,17 +51,17 @@
 #       Site_Name: Chalet Caribe Reef, Jamaica
 #       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Jamaica
 #	Country: Jamaica 
-#	Northernmost_Latitude: 18.45 
-# 	Southernmost_Latitude: 18.45 
-# 	Easternmost_Longitude: -77.97 
-# 	Westernmost_Longitude: -77.97  
-# 	Elevation: -26 m  
+#	Northernmost_Latitude: 18.45
+# 	Southernmost_Latitude: 18.45
+# 	Easternmost_Longitude: -77.97
+# 	Westernmost_Longitude: -77.97
+# 	Elevation: -26 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 86jama01a 
-#	Earliest_Year: 1855 
+#	Earliest_Year: 1855
 #	Most_Recent_Year: 1970
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: Inconsistent time-steps
 #------------------
@@ -84,9 +84,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d14c	delta 14 Carbon, Ceratoporella nicholsoni, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##+/-	error calculation per sample, d14c, ,per mil, ,Corals and Sclerosponges, , ,N 
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d14C	delta 14 Carbon, Ceratoporella nicholsoni, , permil VPDB, , Corals and Sclerosponges, , ,N
+##err	error calculation per sample, delta 14 Carbon, ,permil, ,Corals and Sclerosponges, , ,N 
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d14c	+/-
+age	d14C	err
 1970.6	152.9	37
 1967	148.7	27
 1964.1	57.8	22

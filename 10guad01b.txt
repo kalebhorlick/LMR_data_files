@@ -66,21 +66,21 @@
 #       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Guadeloupe
 #	Country: France 
 #	Northernmost_Latitude: 16.20
-# 	Southernmost_Latitude: 16.20 
-# 	Easternmost_Longitude: -61.49 
-# 	Westernmost_Longitude: -61.49 
-# 	Elevation: -1.7 m  
+# 	Southernmost_Latitude: 16.20
+# 	Easternmost_Longitude: -61.49
+# 	Westernmost_Longitude: -61.49
+# 	Elevation: -1.7 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 10guad01b 
-#	Earliest_Year: 1896 
-#	Most_Recent_Year: 1998 
-#	Time_Unit: Years AD 
+#	Collection_Name: 10guad01b
+#	Earliest_Year: 1896
+#	Most_Recent_Year: 1998
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: This is the annual resolution file. Monthly resolution of same dataset is 10guad01a.
 #------------------
 # Species
-#	Species_Name: Diploria strigosa 
+#	Species_Name: Diploria strigosa
 #	Common_Name: 
 #------------------
 # Chronology: 
@@ -98,8 +98,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Diploria strigosa, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium, Diploria strigosa, ,mmol/mol, ,Corals and Sclerosponges, , ,N
 #
 #----------------
@@ -108,7 +108,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o	Sr/Ca
+age	d18O	Sr/Ca
 1896	-4.02	8.86
 1897	-4.098	8.876
 1898	-4.168	8.895

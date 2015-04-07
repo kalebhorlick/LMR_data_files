@@ -72,17 +72,17 @@
 #       Site_Name: Nauru Island, Micronesia
 #       Location: Ocean>Pacific Ocean>Western Pacific Ocean>Micronesia>Nauru
 #	Country: Republic of Nauru 
-#	Northernmost_Latitude: -.533 
-# 	Southernmost_Latitude: -.533 
-# 	Easternmost_Longitude: 166.93 
+#	Northernmost_Latitude: -.533
+# 	Southernmost_Latitude: -.533
+# 	Easternmost_Longitude: 166.93
 # 	Westernmost_Longitude: 166.93
-# 	Elevation: -14 m  
+# 	Elevation: -14 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 99naur01a  
-#	Earliest_Year: 1898 
-#	Most_Recent_Year: 1995 
-#	Time_Unit: Years AD 
+#	Collection_Name: 99naur01a
+#	Earliest_Year: 1898
+#	Most_Recent_Year: 1995
+#	Time_Unit: y_ad
 #	Core_Length: 1.61 m
 #	Notes: Core name- Nauru-2. Oxygen isotope data has NOT been corrected for the acid fractionation difference ("acid-alpha") between standards (calcite) and coral samples (aragonite). Cores split and cleaned with distilled water. The whole length sampled at 2mm (discrete) increments.  Samples were not pretreated.  Data normalized to V-PDB, � 0.05 per mil. Oxygen isotope data has not been adjusted for the different acid fractionation between calcite (standards) and aragonite (coral).   The coral's growth rate went from ~8mm/yr to ~21mm/yr and the lower, slow growing portion of the record (1898-1939) shows a strong kinetic overprint.  Due to slow growth and early morphological changes 1900 is extremely truncated.
 #------------------
@@ -98,16 +98,16 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites spp., , per mil VPDB, , Corals and Sclerosponges, normalized to V-PDB, ,N 				
-##d13c	delta 13 Carbon, Porites spp., , per mil VPDB, , Corals and Sclerosponges, normalized to V-PDB, ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites spp., , permil VPDB, , Corals and Sclerosponges, normalized to V-PDB, ,N
+##d13C	delta 13 Carbon, Porites spp., , permil VPDB, , Corals and Sclerosponges, normalized to V-PDB, ,N
 #
 #----------------
 # Data:
@@ -115,7 +115,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1897.54	-4.67	-2.78
 1898.12	-4.51	-2.27
 1898.7	-4.26	-1.62

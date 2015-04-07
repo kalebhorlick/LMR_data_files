@@ -83,17 +83,17 @@
 #       Site_Name: Tarawa Atoll, Republic of Kiribati
 #       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Kiribati
 #	Country: Republic of Kiribati 
-#	Northernmost_Latitude: 1 
-# 	Southernmost_Latitude: 1 
-# 	Easternmost_Longitude: 172 
-# 	Westernmost_Longitude: 172 
-# 	Elevation: -3 m  
+#	Northernmost_Latitude: 1.4167
+# 	Southernmost_Latitude: 1.4167
+# 	Easternmost_Longitude: 173.0333
+# 	Westernmost_Longitude: 173.0333
+# 	Elevation: -3 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 93kiri01a 
-#	Earliest_Year: 1894 
-#	Most_Recent_Year: 1990 
-#	Time_Unit: Year AD 
+#	Collection_Name: 93kiri01a
+#	Earliest_Year: 1894
+#	Most_Recent_Year: 1990
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: 
 #------------------
@@ -109,15 +109,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT-251 mass spectrometer,N 				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lobata, , permil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT-251 mass spectrometer,N
 #
 #----------------
 # Data:
@@ -125,7 +125,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o
+age	d18O
 1990.000	-4.870
 1989.917	-4.891
 1989.833	-4.902

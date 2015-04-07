@@ -50,18 +50,18 @@
 # Site_Information 
 #       Site_Name: Isla Tortuga, Cariaco Basin, Caribbean Sea
 #       Location: South America>Venezuela
-#	Country: Venezuela 
-#	Northernmost_Latitude: 10.88 
-# 	Southernmost_Latitude: 10.88 
-# 	Easternmost_Longitude: -65.35 
-# 	Westernmost_Longitude: -65.35 
-# 	Elevation: -2 m  
+#	Country: Venezuela
+#	Northernmost_Latitude: 10.88
+# 	Southernmost_Latitude: 10.88
+# 	Easternmost_Longitude: -65.35
+# 	Westernmost_Longitude: -65.35
+# 	Elevation: -2 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 03vene01a 
-#	Earliest_Year:  1918 
-#	Most_Recent_Year: 1995 
-#	Time_Unit: Years AD 
+#	Collection_Name: 03vene01a
+#	Earliest_Year: 1918
+#	Most_Recent_Year: 1995
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
@@ -84,7 +84,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
 ##Cd/Ca	Cadmium/Calcium, M. annularis , ,nmol/mol, ,Corals and Sclerosponges, , ,N
 ##Cd/Ca_err	Cadmium/Calcium, M. annularis, 2sigma error,nmol/mol, ,Corals and Sclerosponges, , ,N
 #
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	Cd/Ca	Cd/Ca_err
+age	Cd/Ca	Cd/Ca_err
 1995.9	1.94	0.1
 1995.6	2.19	0.1
 1995.4	2.05	0.24

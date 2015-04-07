@@ -70,17 +70,17 @@
 #       Site_Name: Kiritimati (Christmas) Island, Republic of Kiribati
 #       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Kiribati
 #	Country: Kiritimati (Christmas) Island, Republic of Kiribati 
-#	Northernmost_Latitude: 2.0
-# 	Southernmost_Latitude: 2.0
-# 	Easternmost_Longitude: -157.3 
-# 	Westernmost_Longitude: -157.3 
-# 	Elevation: -9 m  
+#	Northernmost_Latitude: 1.884166
+# 	Southernmost_Latitude: 1.884166
+# 	Easternmost_Longitude: -157.326778
+# 	Westernmost_Longitude: -157.326778
+# 	Elevation: -9 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 98kiri01b 
-#	Earliest_Year: 1938 
-#	Most_Recent_Year: 1993 
-#	Time_Unit: Years AD 
+#	Collection_Name: 98kiri01b
+#	Earliest_Year: 1938
+#	Most_Recent_Year: 1993
+#	Time_Unit: y_ad
 #	Core_Length: .8395 m
 #	Notes: DATA PRECISION (1 standard deviation):  COLUMN 1: +/- 0.8 year COLUMN 2: +/- 0.09 per mil COLUMN 3: +/- 0.06 per mil COLUMN 4: +/- 0.09 per mil COLUMN 5: +/- 0.015 mmol/mol COLUMN 6: +/- 0.015 mmol/mol
 #------------------
@@ -103,10 +103,10 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, data interpolated to monthly resolution, ,N
-##d13c	delta 13 Carbon, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d18o_anom	delta 18 Oxygen anomaly, Porites sp., , per mil VPDB, , Corals and Sclerosponges, relative to the 1981-1986 mean, ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, data interpolated to monthly resolution, ,N
+##d13C	delta 13 Carbon, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
+##d18O_anom	delta 18 Oxygen anomaly, Porites sp., , permil VPDB, , Corals and Sclerosponges, relative to the 1981-1986 mean, ,N
 ##Sr/Ca	Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N
 ##Sr/Ca_anom	Strontium/Calcium anomaly, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, relative to the 1981-1986 mean, ,N
 #
@@ -116,7 +116,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d13c	d18o	d18o_anom	Sr/Ca	Sr/Ca_anom
+age	d13C	d18O	d18O_anom	Sr/Ca	Sr/Ca_anom
 1981.958	-2.574	-4.622	-0.04	8.678	0.013
 1982.042	-2.858	-4.659	-0.077	8.696	0.031
 1982.125	-2.715	-4.576	0.006	8.724	0.059

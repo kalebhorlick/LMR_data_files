@@ -79,17 +79,17 @@
 #       Site_Name: Herron Island, Great Barrier Reef, Australia
 #       Location: Australia/New Zealand>Australia
 #	Country: Australia 
-#	Northernmost_Latitude: -23 
-# 	Southernmost_Latitude: -23 
-# 	Easternmost_Longitude: 152 
-# 	Westernmost_Longitude: 152
-# 	Elevation:   
+#	Northernmost_Latitude: -23.443810
+# 	Southernmost_Latitude: -23.443810
+# 	Easternmost_Longitude: 151.922622
+# 	Westernmost_Longitude: 151.922622
+# 	Elevation: -11 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 99aust03a 
-#	Earliest_Year: 1638 
+#	Collection_Name: 99aust03a
+#	Earliest_Year: 1638
 #	Most_Recent_Year: 1983
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: Time-step two and one year intermixed
 #------------------
@@ -105,16 +105,16 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d14c	delta 13 Carbon, Porites austraiensis, , per mil, , Corals and Sclerosponges, , ,N
-##+/-	error calculation per sample, d14c, ,per mil, ,Corals and Sclerosponges, , ,N 
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d14C	delta 13 Carbon, Porites austraiensis, , per mil, , Corals and Sclerosponges, , ,N
+##err	error calculation per sample, d14c, ,per mil, ,Corals and Sclerosponges, , ,N 
 #
 #----------------
 # Data:
@@ -122,7 +122,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d14c	+/-
+age	d14C	err
 1848.8	-49.4	1.8
 1848.8	-47.8	4.7
 1850.8	-52.7	1.8

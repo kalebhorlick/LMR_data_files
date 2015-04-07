@@ -50,18 +50,18 @@
 # Site_Information 
 #       Site_Name: Malindi Marine Park, Kenya
 #       Location: Africa>Eastern Africa>Kenya
-#	Country: Kenya 
-#	Northernmost_Latitude: -3.2 
-# 	Southernmost_Latitude: -3.2 
-# 	Easternmost_Longitude: 40.1 
-# 	Westernmost_Longitude: 40.1 
-# 	Elevation: -.5 m  
+#	Country: Kenya
+#	Northernmost_Latitude: -3.2556
+# 	Southernmost_Latitude: -3.2556
+# 	Easternmost_Longitude: 40.1433
+# 	Westernmost_Longitude: 40.1433
+# 	Elevation: -.5 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 09keny01a 
-#	Earliest_Year: 1886 
-#	Most_Recent_Year: 2002 
-#	Time_Unit: Years AD 
+#	Collection_Name: 09keny01a
+#	Earliest_Year: 1886
+#	Most_Recent_Year: 2002
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
@@ -84,8 +84,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -93,7 +93,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o
+age	d18O
 1886.96	-4.953
 1887.04	-5.083
 1887.13	-4.873

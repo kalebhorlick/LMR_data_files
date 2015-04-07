@@ -83,17 +83,17 @@
 #       Site_Name: Rarotonga, Cook Islands, South Pacific
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Polynesia>Cook Islands
 #	Country: Cook Islands 
-#	Northernmost_Latitude: -21.23 
-# 	Southernmost_Latitude: -21.23 
-# 	Easternmost_Longitude: -159.82 
-# 	Westernmost_Longitude: -159.82 
-# 	Elevation:  -18.3 m  
+#	Northernmost_Latitude: -21.23
+# 	Southernmost_Latitude: -21.23
+# 	Easternmost_Longitude: -159.82
+# 	Westernmost_Longitude: -159.82
+# 	Elevation:  -18.3 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 06cook01a 
-#	Earliest_Year: 1726 
-#	Most_Recent_Year: 1997 
-#	Time_Unit: Year AD 
+#	Collection_Name: 06cook01a
+#	Earliest_Year: 1726
+#	Most_Recent_Year: 1996
+#	Time_Unit: y_ad
 #	Core_Length: 3.5 m
 #	Notes: Core name - 2R, 8 samples per year
 #------------------
@@ -109,16 +109,16 @@
 # 
 #
 #
-# 	
+# 
 #----------------
 # Variables
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N
-##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N
+##d13C	delta 13 Carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: Micromass Optima gas source mass spectrometer,N
 #
 #----------------
 # Data:
@@ -126,7 +126,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1996.91	-4.93	-2.82
 1996.78	-4.61	-2.91
 1996.66	-4.61	-3.01

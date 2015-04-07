@@ -55,15 +55,15 @@
 # 	Southernmost_Latitude: 25.233333
 # 	Easternmost_Longitude: -80.416667
 # 	Westernmost_Longitude: -80.416667
-# 	Elevation:  -2 m  
+# 	Elevation: -2 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 99flor01a
 #	Earliest_Year: 1967
 #	Most_Recent_Year: 1996
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: {"core_name":"FB-45"}
+#	Notes: 
 #------------------
 # Species
 #	Species_Name: Solenastrea bournoni 
@@ -84,9 +84,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Solenastrea bournoni, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Solenastrea bournoni, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Solenastrea bournoni, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Solenastrea bournoni, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1967	-1.86	-5.83
 1968	-3.25	-6.95
 1969	-3.98	-7.12

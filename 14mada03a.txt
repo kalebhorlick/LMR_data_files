@@ -51,17 +51,17 @@
 #       Site_Name: Ifaty Reef, SW Madagascar
 #       Location: Ocean>Indian Ocean>Madagascar
 #	Country: Madagascar 
-#	Northernmost_Latitude: -23.357167 
+#	Northernmost_Latitude: -23.357167
 # 	Southernmost_Latitude: -23.357167
 # 	Easternmost_Longitude: 43.619483
-# 	Westernmost_Longitude: 43.619483 
-# 	Elevation: -0.6 m  
+# 	Westernmost_Longitude: 43.619483
+# 	Elevation: -0.6 m 
 #------------------
 # Data_Collection   
-#	Collection_Name: 14mada03a 
+#	Collection_Name: 14mada03a
 #	Earliest_Year: 1905
 #	Most_Recent_Year: 1994
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: From Tulear Core 3. Annual mean is from March-February. Previous name Tulear-3 d18O Z14
 #------------------
@@ -77,15 +77,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen annual average, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen annual average, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -93,7 +93,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o
+age	d18O
 1905	-4.556
 1906	-4.39
 1907	-4.405
@@ -140,7 +140,7 @@ age_AD	d18o
 1948	-4.603
 1949	-4.552
 1950	-4.533
-1951	-4.442666667
+1951	-4.4427
 1952	-4.795
 1953	-4.605
 1954	-4.516

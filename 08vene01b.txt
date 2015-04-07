@@ -54,18 +54,18 @@
 # Site_Information 
 #       Site_Name: Cayo Sal, Los Roques Archipelago, Venezuela
 #       Location: South America>Venezuela
-#	Country: Venezuela 
-#	Northernmost_Latitude: 11.77 
-# 	Southernmost_Latitude: 11.77 
-# 	Easternmost_Longitude: -66.75 
-# 	Westernmost_Longitude: -66.75 
-# 	Elevation: -2 m  
+#	Country: Venezuela
+#	Northernmost_Latitude: 11.77
+# 	Southernmost_Latitude: 11.77
+# 	Easternmost_Longitude: -66.75
+# 	Westernmost_Longitude: -66.75
+# 	Elevation: -2 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 08vene01b 
-#	Earliest_Year: 1917 
-#	Most_Recent_Year: 2004 
-#	Time_Unit: Years AD 
+#	Collection_Name: 08vene01b
+#	Earliest_Year: 1918 
+#	Most_Recent_Year: 2004
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
@@ -88,10 +88,10 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	annual delta 18 Oxygen, Diploria strigosa, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d18o_seas	annual delta 18 Oxygen, Diploria strigosa, , per mil VPDB, August-October, Corals and Sclerosponges, , ,N
-##d18o_norm	annual delta 18 Oxygen, Diploria strigosa, , per mil VPDB, , Corals and Sclerosponges, normalized, ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	annual delta 18 Oxygen, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d18O_seas	annual delta 18 Oxygen, Diploria strigosa, , permil VPDB, August-October, Corals and Sclerosponges, , ,N
+##d18O_norm	annual delta 18 Oxygen, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, normalized, ,N
 #
 #----------------
 # Data:
@@ -99,6 +99,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
+age	d18O	d18O_seas	d18O_norm
 1918	-3.726	-3.851	0.265
 1919	-3.852	-3.982	0.175
 1920	-3.632	-3.726	0.335

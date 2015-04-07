@@ -51,17 +51,17 @@
 #       Site_Name: Flinders Reef Australia
 #       Location: i.e Australia/New Zealand>Australia
 #	Country: Australia 
-#	Northernmost_Latitude: -17.73 
-# 	Southernmost_Latitude: -17.73  
-# 	Easternmost_Longitude: 148.43 
-# 	Westernmost_Longitude: 148.43 
+#	Northernmost_Latitude: -17.73
+# 	Southernmost_Latitude: -17.73
+# 	Easternmost_Longitude: 148.43
+# 	Westernmost_Longitude: 148.43
 # 	Elevation: -5 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 05aust01a
-#	Earliest_Year: 1708 
-#	Most_Recent_Year: 1988 
-#	Time_Unit: AD 
+#	Earliest_Year: 1708
+#	Most_Recent_Year: 1988
+#	Time_Unit: y_ad
 #	Core_Length: 4.2 m
 #	Notes: 5 year time step. previous name- Flinders2005Poritesisotopic
 #------------------
@@ -76,19 +76,19 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , , years AD, , , , ,N
-##d11b	delta 11B, Porites sp., ,per mil SRM 951, ,Corals and Sclerosponges, average: 2 to 4 runs,stable isotope mass spectrometry,N
+##age	age, , ,y_ad, , , , ,N
+##d11B	delta 11B, Porites sp., ,permil SRM 951, ,Corals and Sclerosponges, average: 2 to 4 runs, ,N
 ##pH	pH, Porites sp., , unitless, ,Corals and Sclerosponges, , ,N
-##o_arag	Aragonite saturation state, Porites sp., , , ,Corals and Sclerosponges, , ,N
-##d13c	delta13C, Porites sp., , per mil, ,Corals and Sclerosponges, , ,N 
-##ext_rate	Extension Rate,	Porites sp., ,cm/yr, ,Corals and Sclerosponges, , ,N	
+##arag	Aragonite saturation state, Porites sp., , , ,Corals and Sclerosponges, , ,N
+##d13C	delta13C, Porites sp., , permil, ,Corals and Sclerosponges, , ,N
+##ext	Extension Rate,	Porites sp., ,cm/yr, ,Corals and Sclerosponges, , ,N
 ##calc	Calcification, Porites sp., , g/cm2/yr, ,Corals and Sclerosponges, , ,N
 #
 #----------------
@@ -97,7 +97,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d11b	pH	o_arag	d13c	ext_rate	calc
+age	d11B	pH	arag	d13C	ext	calc
 1998	22.99	7.91	2.92	-1.06	1.46	1.76
 1983	24.17	8.07	3.82	-1.19	1.22	1.47
 1978	23.43	7.97	3.25	-0.67	0.90	1.10

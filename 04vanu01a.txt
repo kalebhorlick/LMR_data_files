@@ -50,18 +50,18 @@
 # Site_Information 
 #       Site_Name: Malo Channel, Vanuatu
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Melanesia>Vanuatu
-#	Country: Vanuatu 
-#	Northernmost_Latitude: -15.7 
-# 	Southernmost_Latitude: -15.7 
-# 	Easternmost_Longitude: 167.2 
-# 	Westernmost_Longitude: 167.2 
-# 	Elevation: -1 m  
+#	Country: Vanuatu
+#	Northernmost_Latitude: -15.616910
+# 	Southernmost_Latitude: -15.616910
+# 	Easternmost_Longitude: 167.131104
+# 	Westernmost_Longitude: 167.131104
+# 	Elevation: -1 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 04vanu01a 
-#	Earliest_Year: 1928 
-#	Most_Recent_Year: 1992 
-#	Time_Unit: Years AD 
+#	Collection_Name: 04vanu01a
+#	Earliest_Year: 1928
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
@@ -84,12 +84,12 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium, Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 ##Mg/Ca	Magnesium/Calcium, Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N
-##depth	depth, , , cm, , , , ,N
+##depth	depth, , ,cm, , , , ,N
 #
 #----------------
 # Data:
@@ -97,7 +97,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o	Sr/Ca	d13c	Mg/Ca	depth
+age	d18O	Sr/Ca	d13C	Mg/Ca	depth
 1928.54	-4.86	8.992	-0.74	4.421	128.33
 1928.61	-4.86	9.047	-0.76	4.074	128.2
 1928.7	-4.75	8.956	-0.62	3.993	128.07

@@ -77,16 +77,16 @@
 #       Site_Name: Kiritimati Island, Line Islands, Kiribati
 #       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Kiribati
 #	Country: Republic of Kiribati
-#	Northernmost_Latitude: 1.866667 
-# 	Southernmost_Latitude: 1.866667 
-# 	Easternmost_Longitude: 157.4 
-# 	Westernmost_Longitude: 157.4 
-# 	Elevation:   
+#	Northernmost_Latitude: 1.884166
+# 	Southernmost_Latitude: 1.884166
+# 	Easternmost_Longitude: -157.326778
+# 	Westernmost_Longitude: -157.326778
+# 	Elevation:
 #------------------
 # Data_Collection   
-#	Collection_Name: 13kiri02b 
+#	Collection_Name: 13kiri02b
 #	Earliest_Year: 388
-#	Most_Recent_Year: 434 
+#	Most_Recent_Year: 434
 #	Time_Unit: yb_1950 
 #	Core_Length: 
 #	Notes: Christmas Modern spl
@@ -110,8 +110,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years before 1950, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,yb_1950, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -119,7 +119,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o
+age	d18O
 434.29	-4.18
 434.21	-4.19
 434.12	-4.14

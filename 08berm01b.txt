@@ -56,17 +56,17 @@
 #       Site_Name: Bermuda
 #       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Bermuda
 #	Country: Bermuda 
-#	Northernmost_Latitude:  30.65 
-# 	Southernmost_Latitude:  30.65
-# 	Easternmost_Longitude: -65 
-# 	Westernmost_Longitude: -65 
+#	Northernmost_Latitude: 32.325
+# 	Southernmost_Latitude: 32.325
+# 	Easternmost_Longitude: -64.683
+# 	Westernmost_Longitude: -64.683
 # 	Elevation: -16 m  
 #------------------
 # Data_Collection   
 #	Collection_Name: 08berm01b
-#	Earliest_Year: 1781 
-#	Most_Recent_Year: 1998 
-#	Time_Unit: Years AD 
+#	Earliest_Year: 1782
+#	Most_Recent_Year: 1999
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: Bermuda2008Diploriawinter_d18O
 #------------------
@@ -80,15 +80,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o_wint	delta 18 Oxygen, Diploria labyrinthiformis, ,per mil,winter,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	Winter seasonal delta 18 Oxygen, Diploria labyrinthiformis, ,permil VPDB,winter,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
 #
 #----------------
 # Data:
@@ -96,7 +96,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o_wint 
+age	d18O
 1999	-3.896
 1998	-3.296
 1997	-3.104

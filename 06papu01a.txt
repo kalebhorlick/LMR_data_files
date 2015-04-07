@@ -69,17 +69,17 @@
 #       Site_Name: Rabaul, East New Britain, Papua New Guinea
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Melanesia>Papua New Guinea
 #	Country: Papua New Guinea 
-#	Northernmost_Latitude: -4.18 
-# 	Southernmost_Latitude: -4.18  
-# 	Easternmost_Longitude: 151.98 
-# 	Westernmost_Longitude: 151.98 
-# 	Elevation: -8 m  
+#	Northernmost_Latitude: -4.18
+# 	Southernmost_Latitude: -4.18
+# 	Easternmost_Longitude: 151.98
+# 	Westernmost_Longitude: 151.98
+# 	Elevation: -8 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 06papu01a 
-#	Earliest_Year: 1867 
+#	Collection_Name: 06papu01a
+#	Earliest_Year: 1867
 #	Most_Recent_Year: 1997
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length: 1.74 m
 #	Notes: 
 #------------------
@@ -95,17 +95,17 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lobata, , permil VPDB, , Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium, Porites lobata, ,mmol/mol, ,Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Porites lobata, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites lobata, , permil VPDB, , Corals and Sclerosponges, , ,N
 ##sst	sea surface temperature, sea water, , degrees C, , Reconstructions, , ,N
 ##Sr/Ca_det	detrended Strontium/Calcium, Porites lobata, ,mmol/mol, ,Corals and Sclerosponges, detrended, ,N
 #
@@ -115,7 +115,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	Sr/Ca	d13c	sst	Sr/Ca_det
+age	d18O	Sr/Ca	d13C	sst	Sr/Ca_det
 1867.38	-5.06	8.763	-0.45	29.27	8.806
 1867.46	-5.16	8.746	-0.35	28.94	8.788
 1867.55	-5.03	8.791	-0.19	28.71	8.833

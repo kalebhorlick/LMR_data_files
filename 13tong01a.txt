@@ -51,17 +51,17 @@
 #       Site_Name: Ha'afeva Island, Tonga
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Polynesia>Tonga
 #	Country: Tonga
-#	Northernmost_Latitude: -19.933333 
-# 	Southernmost_Latitude: -19.933333 
-# 	Easternmost_Longitude: -174.716667 
-# 	Westernmost_Longitude: -174.716667 
-# 	Elevation: -1 m  
+#	Northernmost_Latitude: -19.933333
+# 	Southernmost_Latitude: -19.933333
+# 	Easternmost_Longitude: -174.716667
+# 	Westernmost_Longitude: -174.716667
+# 	Elevation: -1 m 
 #------------------
 # Data_Collection   
-#	Collection_Name: 13tong01a 
-#	Earliest_Year: 1791 
-#	Most_Recent_Year: 2003 
-#	Time_Unit: Years AD 
+#	Collection_Name: 13tong01a
+#	Earliest_Year: 1791
+#	Most_Recent_Year: 2003
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: The core name is TH1 Wu2013.
 #------------------
@@ -84,7 +84,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium, Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N
 #
 #----------------
@@ -93,7 +93,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	Sr/Ca
+age	Sr/Ca
 2003	9.050
 2002	9.010
 2001	9.041

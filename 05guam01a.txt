@@ -63,17 +63,17 @@
 # Site_Name: Guam Coral
 # Location: i.e Ocean>Pacific Ocean>Central Pacific Ocean>Guam
 #	Country: Guam 
-#	Northernmost_Latitude: 13.6 
-# 	Southernmost_Latitude: 13.6 
-# 	Easternmost_Longitude: 144.83 
-# 	Westernmost_Longitude: 144.83 
-# 	Elevation: -4.5 m  
+#	Northernmost_Latitude: 13.598
+# 	Southernmost_Latitude: 13.598
+# 	Easternmost_Longitude: 144.836 
+# 	Westernmost_Longitude: 144.836 
+# 	Elevation: -7.8 m  
 #------------------
 # Data_Collection   
 #	Collection_Name: 05guam01a
-#	Earliest_Year: 1790 
-#	Most_Recent_Year: 2000 
-#	Time_Unit: AD 
+#	Earliest_Year: 1790
+#	Most_Recent_Year: 2000
+#	Time_Unit: y_ad
 #	Core_Length: 2.73 m
 #	Notes: previous name- Double2005corald18O
 #------------------
@@ -95,8 +95,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18O, Porites lobata, ,per mil, ,Corals and Sclerosponges, 17o corrected,stable isotope mass spectrometry,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18O, Porites lobata, ,permil, ,Corals and Sclerosponges, 17o corrected,stable isotope mass spectrometry,N
 #
 #----------------
 # Data:
@@ -104,7 +104,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o
+age	d18O
 2000.21	-5.31
 2000.12	-5.18
 2000.04	-5.28

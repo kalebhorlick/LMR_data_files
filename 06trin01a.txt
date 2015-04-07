@@ -50,18 +50,18 @@
 # Site_Information 
 #       Site_Name: Buccoo Reef, Tobago
 #       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Trinidad And Tobago
-#	Country: Trinidad And Tobago 
-#	Northernmost_Latitude: 11.17 
-# 	Southernmost_Latitude: 11.17 
-# 	Easternmost_Longitude: -60.85 
-# 	Westernmost_Longitude: -60.85 
-# 	Elevation: -4 m  
+#	Country: Trinidad And Tobago
+#	Northernmost_Latitude: 11.17
+# 	Southernmost_Latitude: 11.17
+# 	Easternmost_Longitude: -60.85
+# 	Westernmost_Longitude: -60.85
+# 	Elevation: -4 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 06trin01a
-#	Earliest_Year: 1927 
+#	Earliest_Year: 1927
 #	Most_Recent_Year: 1990
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: 
 #------------------
@@ -77,16 +77,16 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Montastaea faveolata, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
-##d13c	delta 13 Carbon, Montastaea faveolata, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Montastaea faveolata, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Montastaea faveolata, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1990	-4.1650	-2.2900
 1989	-4.3400	-2.0975
 1988	-4.1175	-1.9900

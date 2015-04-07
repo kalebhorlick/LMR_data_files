@@ -72,17 +72,17 @@
 #       Site_Name: Nauru Island, Micronesia
 #       Location: Ocean>Pacific Ocean>Western Pacific Ocean>Micronesia>Nauru
 #	Country: Republic of Nauru 
-#	Northernmost_Latitude: -.5 
-# 	Southernmost_Latitude: -.5  
-# 	Easternmost_Longitude: 166 
-# 	Westernmost_Longitude: 166 
-# 	Elevation: -14 m  
+#	Northernmost_Latitude: -0.535581
+# 	Southernmost_Latitude: -0.535581
+# 	Easternmost_Longitude: 166.965481
+# 	Westernmost_Longitude: 166.965481
+# 	Elevation: -14 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 99naur02a  
-#	Earliest_Year: 1952 
-#	Most_Recent_Year: 1995 
-#	Time_Unit: Years AD 
+#	Collection_Name: 99naur02a
+#	Earliest_Year: 1951
+#	Most_Recent_Year: 1995
+#	Time_Unit: y_ad
 #	Core_Length: 1.85 m
 #	Notes: Core name- Nauru-1 Oxygen isotope data has NOT been corrected for the acid fractionation difference ("acid-alpha") between standards (calcite) and coral samples (aragonite). Cores split and cleaned with distilled water. This sequence sampled at 1mm discrete intervals (high-resolution).  Samples were not pretreated.  Data normalized to V-PDB, � 0.05 per mil. Oxygen isotope data has not been adjusted for the different acid fractionation between calcite (standards) and aragonite (coral).
 #------------------
@@ -98,16 +98,16 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites australiensis, , per mil VPDB, , Corals and Sclerosponges, normalized to V-PDB, ,N 				
-##d13c	delta 13 Carbon, Porites australiensis, , per mil VPDB, , Corals and Sclerosponges, normalized to V-PDB, ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites australiensis, , per mil VPDB, , Corals and Sclerosponges, normalized to V-PDB, ,N
+##d13C	delta 13 Carbon, Porites australiensis, , per mil VPDB, , Corals and Sclerosponges, normalized to V-PDB, ,N
 #
 #----------------
 # Data:
@@ -115,7 +115,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1951.94	-5.07	-1.56
 1952.05	-5.05	-1.41
 1952.15	-4.87	-1.19

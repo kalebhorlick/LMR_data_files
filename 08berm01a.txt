@@ -56,17 +56,17 @@
 #       Site_Name: Bermuda
 #       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Bermuda
 #	Country: Bermuda 
-#	Northernmost_Latitude: 30.65 
-# 	Southernmost_Latitude: 30.65
-# 	Easternmost_Longitude: -65 
-# 	Westernmost_Longitude: -65 
-# 	Elevation: -16 m  
+#	Northernmost_Latitude: 32.325
+# 	Southernmost_Latitude: 32.325
+# 	Easternmost_Longitude: -64.683
+# 	Westernmost_Longitude: -64.683
+# 	Elevation: -16 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 08berm01a
-#	Earliest_Year: 1781 
-#	Most_Recent_Year: 1998 
-#	Time_Unit: Years AD 
+#	Earliest_Year: 1781
+#	Most_Recent_Year: 1998
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: Bermuda2008Diploriawinter_Sr_Ca
 #------------------
@@ -80,16 +80,16 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##Sr/Ca.wint	Strontium/Calcium, Diploria labyrinthiformis, , mmol/mol, winter, Corals and Sclerosponges, , inductively coupled plasma–atomic emission spectrometry,N
-##SST.wint	sea surface temperature, , ,degrees Celcius, winter,Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##Sr/Ca	Winter seasonal Strontium/Calcium, Diploria labyrinthiformis, , mmol/mol, winter, Corals and Sclerosponges, , inductively coupled plasma–atomic emission spectrometry,N
+##sst	winter sea surface temperature, , ,degrees Celcius, winter,Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -97,7 +97,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	Sr/Ca.wint	SST.wint
+age	Sr/Ca	sst
 1997	9.365	20.329
 1992	9.387	20.111
 1987	9.403	19.944

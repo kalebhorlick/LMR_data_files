@@ -54,17 +54,17 @@
 #       Site_Name: Abraham Reef, Great Barrier Reef, Australia
 #       Location: Australia/New Zealand>Australia
 #	Country: Australia 
-#	Northernmost_Latitude: -22.1 
-# 	Southernmost_Latitude: -22.1 
-# 	Easternmost_Longitude: 153 
-# 	Westernmost_Longitude: 153 
-# 	Elevation:   
+#	Northernmost_Latitude: -22.095556
+# 	Southernmost_Latitude: -22.095556
+# 	Easternmost_Longitude: 152.493641
+# 	Westernmost_Longitude: 152.493641
+# 	Elevation: -10 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 93aust01a 
-#	Earliest_Year: 1635 
+#	Collection_Name: 93aust01a
+#	Earliest_Year: 1635
 #	Most_Recent_Year: 1957
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
@@ -87,9 +87,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites australiensus, , per mil VPDB, , Corals and Sclerosponges, , ,N		
-##d13c	delta 13 Carbon, Porites australiensus, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites australiensus, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites australiensus, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -97,7 +97,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1635	-4.81	-1.58
 1637	-4.59	-1.27
 1639	-5.1	-1.62

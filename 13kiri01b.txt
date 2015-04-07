@@ -77,17 +77,17 @@
 #       Site_Name: Fanning Island, Line Islands, Kiribati
 #       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Kiribati
 #	Country: Republic of Kiribati
-#	Northernmost_Latitude: 3.85 
-# 	Southernmost_Latitude: 3.85 
-# 	Easternmost_Longitude: 159.35 
-# 	Westernmost_Longitude: 159.35 
-# 	Elevation:   
+#	Northernmost_Latitude: 3.906228
+# 	Southernmost_Latitude: 3.906228
+# 	Easternmost_Longitude: -159.285932
+# 	Westernmost_Longitude: -159.285932
+# 	Elevation:
 #------------------
 # Data_Collection   
 #	Collection_Name: 13kiri01b
 #	Earliest_Year: 1949
-#	Most_Recent_Year: 1978 
-#	Time_Unit: Years AD 
+#	Most_Recent_Year: 1978
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: Fanning	Modern spl
 #------------------
@@ -110,8 +110,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -119,7 +119,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o
+age	d18O
 1949.54	-4.66
 1949.63	-4.79
 1949.71	-4.77

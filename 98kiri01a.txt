@@ -73,17 +73,17 @@
 #       Site_Name: Kiritimati (Christmas) Island, Republic of Kiribati
 #       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Kiribati
 #	Country: Kiritimati (Christmas) Island, Republic of Kiribati 
-#	Northernmost_Latitude: 2.0
-# 	Southernmost_Latitude: 2.0
-# 	Easternmost_Longitude: -157.3 
-# 	Westernmost_Longitude: -157.3 
+#	Northernmost_Latitude: 1.884166
+# 	Southernmost_Latitude: 1.884166
+# 	Easternmost_Longitude: -157.326778
+# 	Westernmost_Longitude: -157.326778
 # 	Elevation: -9 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 98kiri01a 
-#	Earliest_Year: 1938 
-#	Most_Recent_Year: 1993 
-#	Time_Unit: Years AD 
+#	Collection_Name: 98kiri01a
+#	Earliest_Year: 1938
+#	Most_Recent_Year: 1993
+#	Time_Unit: y_ad
 #	Core_Length: .8395 m
 #	Notes: DATA PRECISION (1 standard deviation): COLUMN 1: 1938-1945: +/- 0.5 year; 1946-1955: +/- 0.7 year; 1956-1965: +/-  0.8 year; 1966-1975: +/- 0.8 year; 1976-1985: +/- 0.8 year; 1986-1993: +/-  0.7 year. COLUMN 2: +/- 0.09 per mil COLUMN 3: +/- 0.06 per mil
 #------------------
@@ -106,9 +106,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, data interpolated to monthly resolution, ,N
-##d13c	delta 13 Carbon, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, data interpolated to monthly resolution, ,N
+##d13C	delta 13 Carbon, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -116,7 +116,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d13c	d18o
+age	d13C	d18O
 1938.292	-4.272	-2.391
 1938.375	-4.355	-2.705
 1938.458	-4.343	-2.821

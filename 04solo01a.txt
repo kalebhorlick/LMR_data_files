@@ -50,23 +50,23 @@
 # Site_Information 
 #       Site_Name: Marau Sound, Guadalcanal, Solomon Islands
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Melanesia>Solomon Islands
-#	Country: Solomon Islands 
-#	Northernmost_Latitude: -9.83 
-# 	Southernmost_Latitude: -9.83 
-# 	Easternmost_Longitude: 160.83 
-# 	Westernmost_Longitude: 160.83 
-# 	Elevation: -2 m  
+#	Country: Solomon Islands
+#	Northernmost_Latitude: -9.83
+# 	Southernmost_Latitude: -9.83
+# 	Easternmost_Longitude: 160.83
+# 	Westernmost_Longitude: 160.83
+# 	Elevation: -2 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 04solo01a 
-#	Earliest_Year: 1944 
-#	Most_Recent_Year: 1994 
-#	Time_Unit: Years AD 
+#	Collection_Name: 04solo01a
+#	Earliest_Year: 1944
+#	Most_Recent_Year: 1994
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
 # Species
-#	Species_Name: Porites sp. 
+#	Species_Name: Porites sp.
 #	Common_Name: 
 #------------------
 # Chronology: 
@@ -84,9 +84,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d14c	delta 14 Carbon, Porites sp., , permil, , Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Porites sp., , permil, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d14C	delta 14 Carbon, Porites sp., , permil, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites sp., , permil, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d14c	d13c
+age	d14C	d13C
 1994	104.8	-1.9
 1993.5	104.9	-1.8
 1993	104.2	(-1.0)

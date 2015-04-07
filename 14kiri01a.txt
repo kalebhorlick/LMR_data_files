@@ -95,18 +95,18 @@
 #       Site_Name: Butaritari Atoll, Gilbert Islands
 #       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Kiribati
 #	Country: Republic of Kiribati 
-#	Northernmost_Latitude: 3.073056 
-# 	Southernmost_Latitude: 3.073056 
-# 	Easternmost_Longitude: 172.746944 
-# 	Westernmost_Longitude: 172.746944 
-# 	Elevation: -5 m  
+#	Northernmost_Latitude: 3.073056
+# 	Southernmost_Latitude: 3.073056
+# 	Easternmost_Longitude: 172.746944
+# 	Westernmost_Longitude: 172.746944
+# 	Elevation: -5 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 14kiri01a 
-#	Earliest_Year: 1959 
+#	Collection_Name: 14kiri01a
+#	Earliest_Year: 1959
 #	Most_Recent_Year: 2010
-#	Time_Unit: Years AD 
-#	Core_Length: 
+#	Time_Unit: y_ad
+#	Core_Length:
 #	Notes: Previous name- BUT3-2 Geochemistry Ca14
 #------------------
 # Species
@@ -128,11 +128,11 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , isotope ratio mass spectrometry,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , isotope ratio mass spectrometry,N
 ##Sr/Ca	Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , analytical technique: ICP-OES,N
 ##sst	sea surface temperature reconstruction, Porites sp., ,degrees C, , Corals and Sclerosponges, ,analytical technique: ICP-OES,N
-##d18o_sw	delta 18O of seawater, Porites sp., , permil VPDB, , Corals and Sclerosponges, , analytical technique: ICP-OES,N
+##d18O_sw	delta 18O of seawater, Porites sp., , permil VPDB, , Corals and Sclerosponges, , analytical technique: ICP-OES,N
 #
 #----------------
 # Data:
@@ -140,7 +140,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o	Sr/Ca	sst	d18o_sw
+age	d18O	Sr/Ca	sst	d18O_sw
 1959.374	-4.90	8.940	28.92	0.25
 1959.540	-4.95	8.934	28.98	0.21
 1959.706	-4.96	8.893	29.47	0.30

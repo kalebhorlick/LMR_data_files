@@ -53,20 +53,20 @@
 #	Country: United States Of America 
 #	Northernmost_Latitude: 24.917
 # 	Southernmost_Latitude: 24.917
-# 	Easternmost_Longitude: -80.757778 
-# 	Westernmost_Longitude: -80.757778 
-# 	Elevation:  -5 m  
+# 	Easternmost_Longitude: -80.757778
+# 	Westernmost_Longitude: -80.757778
+# 	Elevation: -5 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 96flor02a
-#	Earliest_Year: 1824 
-#	Most_Recent_Year: 1986 
-#	Time_Unit: Years AD 
+#	Earliest_Year: 1824
+#	Most_Recent_Year: 1985
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
 # Species
-#	Species_Name: Solenastrea bournoni 
+#	Species_Name: Solenastrea bournoni
 #	Common_Name: 
 #------------------
 # Chronology: 
@@ -84,9 +84,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Solenastrea bournoni, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Solenastrea bournoni, , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Solenastrea bournoni, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Solenastrea bournoni, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1985	-2.54	-4.67
 1984	-2.49	-4.69
 1983	-2.8	-4.67

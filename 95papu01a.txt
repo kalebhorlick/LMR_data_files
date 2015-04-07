@@ -52,17 +52,17 @@
 # Site_Information 
 #       Site_Name: Madang, Papua New Guinea
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Melanesia>Papua New Guinea
-#	Country: Papua New Guinea 
-#	Northernmost_Latitude: -5.22 
-# 	Southernmost_Latitude: -5.22 
-# 	Easternmost_Longitude: 145.82 
-# 	Westernmost_Longitude: 145.82 
-# 	Elevation:   
+#	Country: Papua New Guinea
+#	Northernmost_Latitude: -5.22
+# 	Southernmost_Latitude: -5.22
+# 	Easternmost_Longitude: 145.82
+# 	Westernmost_Longitude: 145.82
+# 	Elevation: 
 #------------------
 # Data_Collection   
-#	Collection_Name: 95papu01a 
-#	Earliest_Year: 1922 
-#	Most_Recent_Year: 1991 
+#	Collection_Name: 95papu01a
+#	Earliest_Year: 1922
+#	Most_Recent_Year: 1991
 #	Time_Unit: Years AD 
 #	Core_Length: 
 #	Notes: 
@@ -86,8 +86,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	midpoint year age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N
+##age	midpoint year age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -95,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o
+age	d18O
 1991.292	-5.385
 1991.042	-5.314
 1990.792	-5.21

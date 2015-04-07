@@ -61,11 +61,11 @@
 # 	Westernmost_Longitude: 39.50 
 # 	Elevation: -6 m  
 #------------------
-# Data_Collection   
-#	Collection_Name: 06tanz01a 
-#	Earliest_Year: 1622 
-#	Most_Recent_Year: 1722 
-#	Time_Unit: Years AD 
+# Data_Collection
+#	Collection_Name: 06tanz01a
+#	Earliest_Year: 1622
+#	Most_Recent_Year: 1722
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
@@ -88,9 +88,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Diploastrea heliopora, , per mil VPDB, , Corals and Sclerosponges, , ,N
-##d18o_anom	delta 18 Oxygen anomaly, Diploastrea heliopora, , per mil VPDB, , Corals and Sclerosponges, anomaly, ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d18O_anom	delta 18 Oxygen anomaly, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, anomaly, ,N
 #
 #----------------
 # Data:
@@ -98,7 +98,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o	d18o_anom
+age	d18O	d18O_anom
 1622.000	-4.055	0.009
 1622.167	-3.975	0.089
 1622.333	-3.643	0.228

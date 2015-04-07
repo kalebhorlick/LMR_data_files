@@ -52,18 +52,18 @@
 # Site_Information 
 #       Site_Name: Gulf of Aqaba, Red Sea, Jordan
 #       Location: Ocean>Indian Ocean>Red Sea
-#	Country: Jordan 
-#	Northernmost_Latitude: 29.42 
-# 	Southernmost_Latitude: 29.42 
-# 	Easternmost_Longitude: 34.97 
-# 	Westernmost_Longitude: 34.97 
-# 	Elevation: -4.5 m  
+#	Country: Jordan
+#	Northernmost_Latitude: 29.42
+# 	Southernmost_Latitude: 29.42
+# 	Easternmost_Longitude: 34.97
+# 	Westernmost_Longitude: 34.97
+# 	Elevation: -4.5 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 94reds02a 
-#	Earliest_Year: 1886 
-#	Most_Recent_Year: 1992 
-#	Time_Unit: Years AD 
+#	Collection_Name: 94reds02a
+#	Earliest_Year: 1886
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
 #	Core_Length: 1.2 m
 #	Notes: Core name- aq19. Average precision based on duplicate sample analysis and on multiple analysis of NBS 19 is �0.04 permil for d13C and �0.08 permil for d18O
 #------------------
@@ -79,15 +79,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d13c	delta 13 Carbon, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , instrument: Finnigan Mat 252 mass spectrometer,N				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites sp., , permil VPDB, , Corals and Sclerosponges, , instrument: Finnigan Mat 252 mass spectrometer,N
 ##std_dv	standard deviation, , , unitless, , Corals and Sclerosponges, , ,N
 #
 #----------------
@@ -96,7 +96,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d13c	std_dv
+age	d13C	std_dv
 1992	-3.96	0.02
 1991	-4.08	0.03
 1990	-3.75	0.02

@@ -51,22 +51,22 @@
 #       Site_Name: The Cocos (Keeling) Islands, Eastern Indian Ocean
 #       Location: Ocean>Indian Ocean>Cocos Islands
 #	Country: Australia 
-#	Northernmost_Latitude: -12.07 
-# 	Southernmost_Latitude: -12.07 
-# 	Easternmost_Longitude: 96.82 
-# 	Westernmost_Longitude: 96.82 
+#	Northernmost_Latitude: -12.07
+# 	Southernmost_Latitude: -12.07
+# 	Easternmost_Longitude: 96.82
+# 	Westernmost_Longitude: 96.82
 # 	Elevation:   
 #------------------
 # Data_Collection   
-#	Collection_Name: 05coco01a 
-#	Earliest_Year: 1955 
+#	Collection_Name: 05coco01a
+#	Earliest_Year: 1955
 #	Most_Recent_Year: 1985
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: 
 #------------------
 # Species
-#	Species_Name: Porites
+#	Species_Name: Porites sp.
 #	Common_Name: 
 #------------------
 # Chronology: 
@@ -77,16 +77,16 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d14c	delta 14 Carbon, Porites, , per mil, , Corals and Sclerosponges, , ,N
-##err_1sig	one sigma error per sample, d14c, 1 sigma, per mil, , Corals and Sclerosponges, , ,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d14C	delta 14 Carbon, Porites sp., , permil, , Corals and Sclerosponges, , ,N
+##err	one sigma delta Carbon 14 error per sample, delta 14 Carbon, 1 sigma, permil, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d14c	err_1sig
+age	d14C	err
 1955.5	-54.9	2.8
 1956.5	-48.6	2.9
 1957.5	-37.6	1.9

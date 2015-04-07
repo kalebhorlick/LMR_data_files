@@ -51,17 +51,17 @@
 #       Site_Name: Palmyra Island, Central Pacific
 #       Location: Ocean>Pacific Ocean>Central Pacific Ocean
 #	Country: United States 
-#	Northernmost_Latitude: 5.87 
-# 	Southernmost_Latitude: 5.87 
-# 	Easternmost_Longitude: -162.13 
-# 	Westernmost_Longitude: -162.13 
-# 	Elevation: -10 m  
+#	Northernmost_Latitude: 5.87
+# 	Southernmost_Latitude: 5.87
+# 	Easternmost_Longitude: -162.13
+# 	Westernmost_Longitude: -162.13
+# 	Elevation: -10 m 
 #------------------
 # Data_Collection   
 #	Collection_Name: 11cpac01a
-#	Earliest_Year: 1886 
-#	Most_Recent_Year: 1998 
-#	Time_Unit: AD 
+#	Earliest_Year: 1886
+#	Most_Recent_Year: 1998
+#	Time_Unit: y_ad
 #	Core_Length: 3 m
 #	Notes: +/- .05 PPM precision on delta18O values and +/- .006 mmol/mol precision on Sr/Ca values and +/- .3 precision on age values. Prevous name- Palmyra2011Poritesd18O_Sr_Ca
 #------------------
@@ -76,18 +76,18 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, Porites lutea, ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18O, Porites lutea, ,per mil,,Corals and Sclerosponges, ,GV Isoprime-Multiprep mass spectrometer,N
+##age	age, Porites lutea, ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18O, Porites lutea, ,permil,,Corals and Sclerosponges, ,GV Isoprime-Multiprep mass spectrometer,N
 ##Sr/Ca	Strontium/Calcium, Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, ,Jobin Yvon Ultima 2C Inductively Coupled Plasma-Optical Emission Spectrometer,N
 ##sst	reconstructed sea surface temperature, , , degrees Celcius, ,Reconstructions, , ,N
-##d18o_sw	delta 18O, sea water, ,per mil, ,Corals and Sclerosponges, ,GV Isoprime-Multiprep mass spectrometer,N
+##d18O_sw	delta 18O, sea water, ,permil, ,Corals and Sclerosponges, ,GV Isoprime-Multiprep mass spectrometer,N
 #
 #----------------
 # Data:
@@ -95,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	Sr/Ca	sst	d18o_sw
+age	d18O	Sr/Ca	sst	d18O_sw
 1998.29	-5.41	8.96	28.39	NAN
 1998.21	-5.47	8.90	29.08	0.39
 1998.13	-5.49	8.91	28.94	0.35

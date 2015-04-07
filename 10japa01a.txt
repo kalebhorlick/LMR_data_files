@@ -83,17 +83,17 @@
 #       Site_Name: Miyanohama (Chichijima) Reef, Ogasawara Islands, Japan
 #       Location: Asia>Eastern Asia>Japan
 #	Country: Japan 
-#	Northernmost_Latitude: 27.1 
-# 	Southernmost_Latitude: 27.1 
-# 	Easternmost_Longitude: 142.2 
-# 	Westernmost_Longitude: 142.2 
-# 	Elevation: -5.6 m  
+#	Northernmost_Latitude: 27.106
+# 	Southernmost_Latitude: 27.106
+# 	Easternmost_Longitude: 142.194
+# 	Westernmost_Longitude: 142.194
+# 	Elevation: -5.6 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 10japa01a 
-#	Earliest_Year: 1873 
+#	Collection_Name: 10japa01a
+#	Earliest_Year: 1873
 #	Most_Recent_Year: 1994
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length: 1.74 m
 #	Notes: All three time series were detrended and normalized to unit variance over their period of overlap (1873-1994).The November-December-January-February (NDJF) coral Sr/Ca and U/Ca  time series were calculated from the bimonthly resolved coral record  as the average of the corresponding November-December (ND) and  January-February (JF) values. The NDJF value of a given year (e.g., 1901)  includes the ND value of the preceding year (1900).
 #------------------
@@ -109,17 +109,17 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, Nov-Feb, Corals and Sclerosponges, , ,N
-##Sr/Ca		Strontium/Calcium, Porites, ,mmol/mol, Nov-Feb,Corals and Sclerosponges, , ,N 
-##U/Ca		Uranium/Calcium, Porites, ,µmol/mol, Nov-Feb, Corals and Sclerosponges, , ,N
-##PDO_index	Coral-Geoduck Index,  PDO, , unitless, , Corals and Sclerosponges, , ,N 				
+##age	age, , ,y_ad, Nov-Feb, Corals and Sclerosponges, , ,N
+##Sr/Ca	Strontium/Calcium, Porites, ,mmol/mol, Nov-Feb,Corals and Sclerosponges, , ,N 
+##U/Ca	Uranium/Calcium, Porites, ,µmol/mol, Nov-Feb, Corals and Sclerosponges, , ,N
+##PDO	Coral-Geoduck Pacific Decadal Oscillation Index,PDO, , unitless, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -127,7 +127,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	Sr/Ca	U/Ca	PDO_index
+age	Sr/Ca	U/Ca	PDO
 1873	9.145	1.215	-0.076557
 1874	9.17	1.235	0.074775
 1875	9.205	1.28	0.149132

@@ -50,23 +50,23 @@
 # Site_Information 
 #       Site_Name: Houtman Abrolhos Islands
 #       Location: Australia/New Zealand>Australia
-#	Country: Australia 
-#	Northernmost_Latitude: -28.47 
-# 	Southernmost_Latitude: -28.47  
-# 	Easternmost_Longitude: 113.75 
-# 	Westernmost_Longitude: 113.75 
-# 	Elevation: -8.5 m  
+#	Country: Australia
+#	Northernmost_Latitude: -28.47
+# 	Southernmost_Latitude: -28.47
+# 	Easternmost_Longitude: 113.75
+# 	Westernmost_Longitude: 113.75
+# 	Elevation: -8.5 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 14aust01b
 #	Earliest_Year: 1847
-#	Most_Recent_Year: 2010 
-#	Time_Unit: Years AD 
+#	Most_Recent_Year: 2010
+#	Time_Unit: y_ad
 #	Core_Length: 1.29 m
 #	Notes: Previous name HAB10A Sr/Ca d18O Z14
 #------------------
 # Species
-#	Species_Name: Porites sp. 
+#	Species_Name: Porites sp.
 #	Common_Name: 
 #------------------
 # Chronology: 
@@ -84,9 +84,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o_norm	delta 18O,Porites sp.,,per mil VPDB,,Corals and Sclerosponges,normalized to 1900-1993,,N
-##d18o	Annual mean delta 18O,Porites sp.,,per mil VPDB,,Corals and Sclerosponges,,,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O_norm	delta 18O,Porites sp.,,permil VPDB,,Corals and Sclerosponges,normalized to 1900-1993,,N
+##d18O	Annual mean delta 18O,Porites sp.,,permil VPDB,,Corals and Sclerosponges,,,N
 ##Sr/Ca_norm	Normalized Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, normalized to 1900-1993, ,N
 ##Sr/Ca	Annual mean Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N
 #
@@ -96,7 +96,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age_AD	d18o_norm	d18o	Sr/Ca_norm	Sr/Ca
+age	d18O_norm	d18O	Sr/Ca_norm	Sr/Ca
 1847	2.144933638	-2.963531469	NAN	NAN
 1848	2.498622034	-2.889080062	0.447536514	9.238645786
 1849	1.404447829	-3.119403732	0.224472524	9.22468198

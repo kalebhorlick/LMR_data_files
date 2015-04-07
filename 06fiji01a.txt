@@ -80,8 +80,8 @@
 # Data Collection 
 # Collection_Name: 06fiji01a
 # Earliest_Year: 1781
-# Most_Recent_Year: 1997
-# Time_Unit: AD
+# Most_Recent_Year: 1996
+# Time_Unit: y_ad
 # Core_Length:
 # Notes: See Linsley et al. (2004) for a description of Fiji Core 1F. Previous Collection Name- Fiji 1F d18O Sr/Ca L06
 #--------------------------------
@@ -90,13 +90,13 @@
 #
 #
 #--------------------------------
-# Variables    
+# Variables
 # 
 # Data variables follow (have double marker- "##")
 # Data line variables format:  Variables list, one per line, shortname-tab-nine components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
-##age_AD	age,,,year AD,,,,,N
-##d18o_avg	delta 18O annual average,Porites lutea,,per mil VPDB,,Corals and Sclerosponges,,,N
-##d18o_anom	anomolized delta 18O,Porites lutea,,per mil VPDB,,Corals and Sclerosponges,anomaly calculation: minus 1900-1999 mean,,N
+##age	age,,,y_ad,,Corals and Sclerosponges,,,N
+##d18O	delta 18O annual average,Porites lutea,,permil VPDB,,Corals and Sclerosponges,,,N
+##d18O_norm	normalized delta 18O,Porites lutea,,permil VPDB,,Corals and Sclerosponges,anomaly calculation: minus 1900-1999 mean,,N
 ##Sr/Ca	Strontium Calcium ratio,Porites lutea,,mmol/mol,,Corals and Sclerosponges,,,N
 ##Sr/Ca_ldeo	Strontium Calcium ratio,Porites lutea,,mmol/mol,,Corals and Sclerosponges,correlated to LDEO ICP-OES,,N
 ##sst	sea surface temperature reconstructed from Sr/Ca,Porites lutea, Strontium Calcium ratio,,degrees Celsius,Corals and Sclerosponges,,,N
@@ -106,7 +106,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o_avg	d18o_anom	Sr/Ca	Sr/Ca_ldeo	sst
+age	d18O	d18O_norm	Sr/Ca	Sr/Ca_ldeo	sst
 1996.5	-5.32	-0.26	9.21	9.07	27.6
 1995.5	-5.25	-0.19	9.19	9.05	27.9
 1994.5	-5.12	-0.06	9.21	9.07	27.6

@@ -53,17 +53,17 @@
 #       Site_Name: Beau Vallon Bay, Mahe Island, Republic of the Seychelles
 #       Location: Ocean>Indian Ocean>Seychelles
 #	Country: Seychelles 
-#	Northernmost_Latitude: -4.62 
-# 	Southernmost_Latitude: -4.62 
-# 	Easternmost_Longitude: 55 
-# 	Westernmost_Longitude: 55 
-# 	Elevation: -7 m  
+#	Northernmost_Latitude: -4.606235
+# 	Southernmost_Latitude: -4.606235
+# 	Easternmost_Longitude: 55.424419
+# 	Westernmost_Longitude: 55.424419
+# 	Elevation: -7 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 97seyc01a 
-#	Earliest_Year: 1846 
-#	Most_Recent_Year: 1995 
-#	Time_Unit: Years AD 
+#	Collection_Name: 97seyc01a
+#	Earliest_Year: 1846
+#	Most_Recent_Year: 1995
+#	Time_Unit: y_ad
 #	Core_Length: 3 m
 #	Notes: 
 #------------------
@@ -79,15 +79,15 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , ,N 				
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -95,7 +95,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o
+age	d18O
 1846.54	-4.483
 1846.63	-4.581
 1846.71	-4.685

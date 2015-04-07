@@ -70,18 +70,18 @@
 # Site_Information 
 #       Site_Name: Amedee Island, New Caledonia
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Melanesia>New Caledonia
-#	Country: New Caledonia 
-#	Northernmost_Latitude: -22.48 
-# 	Southernmost_Latitude: -22.48 
-# 	Easternmost_Longitude: 166.45 
-# 	Westernmost_Longitude: 166.45 
-# 	Elevation:  -3 m  
+#	Country: New Caledonia
+#	Northernmost_Latitude: -22.48
+# 	Southernmost_Latitude: -22.48
+# 	Easternmost_Longitude: 166.45
+# 	Westernmost_Longitude: 166.45
+# 	Elevation: -3 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 99newc01a 
-#	Earliest_Year: 1657 
-#	Most_Recent_Year: 1992 
-#	Time_Unit: Years AD 
+#	Collection_Name: 99newc01a
+#	Earliest_Year: 1657
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
 #	Core_Length: 3.5 m
 #	Notes: These data have been interpolated at 4 samples/year using AnalySeries
 #------------------
@@ -97,16 +97,16 @@
 # 
 #
 #
-# 	
-#----------------	
+# 
+#----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , Analyseries depth to age converstion,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: isotope ratio mass spectrometer,N 		
-##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, , instrument: isotope ratio mass spectrometer,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , Analyseries depth to age converstion,N
+##d18O	delta 18 Oxygen, Porites lutea, ,permil VPDB, , Corals and Sclerosponges, , instrument: isotope ratio mass spectrometer,N
+##d13C	delta 13 Carbon, Porites lutea, ,permil VPDB, , Corals and Sclerosponges, , instrument: isotope ratio mass spectrometer,N
 #
 #----------------
 # Data:
@@ -114,7 +114,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values:  
 #
-age_AD	d18o	d13c
+age	d18O	d13C
 1992.75	-4.25	-1.89
 1992.50	-4.54	-1.63
 1992.25	-4.74	-1.38

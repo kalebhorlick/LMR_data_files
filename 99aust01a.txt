@@ -52,20 +52,20 @@
 #       Grant: 
 #------------------
 # Site_Information 
-#       Site_Name: Houtman Abrolhos Islands  
+#       Site_Name: Houtman Abrolhos Islands
 #       Location: Australia/New Zealand>Australia
-#	Country:  
-#	Northernmost_Latitude: -28.46 
-# 	Southernmost_Latitude: -28.46 
-# 	Easternmost_Longitude: 113.77 
-# 	Westernmost_Longitude: 113.77 
-# 	Elevation:  -5 m  
+#	Country: Australia
+#	Northernmost_Latitude: -28.46
+# 	Southernmost_Latitude: -28.46
+# 	Easternmost_Longitude: 113.77
+# 	Westernmost_Longitude: 113.77
+# 	Elevation: -5 m
 #------------------
 # Data_Collection   
-#	Collection_Name: 99aust01a 
-#	Earliest_Year: 1795 
-#	Most_Recent_Year: 1994 
-#	Time_Unit: Years AD 
+#	Collection_Name: 99aust01a
+#	Earliest_Year: 1794
+#	Most_Recent_Year: 1993
+#	Time_Unit: y_ad
 #	Core_Length: 3 m
 #	Notes: The coral core was originally sampled in half-yearly resolution. For the published chronology additional samples were taken (2-3 new samples between two "old" samples). Average sampling density is 7.7 samples per year. The bimonthly data were interpolated with an Excel-macro. Internal precisions (1 SD) are 0.02 per mil for delta O-18, and 0.015 per mil for delta C-13. External precisions (1 SD) of an internal laboratory standard (Solnhofen limestone) are 0.07 per mil for delta O-18, and 0.05 per mil for delta C-13.
 #------------------
@@ -88,9 +88,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age_AD	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, interpolated bimonthly, instrument: isotope ratio mass spectrometer,N
-##d13c	delta 13 Carbon, Porites lutea, , per mil VPDB, , Corals and Sclerosponges, interpolated bimonthly, instrument: isotope ratio mass spectrometer,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, interpolated bimonthly, instrument: isotope ratio mass spectrometer,N
+##d13C	delta 13 Carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, interpolated bimonthly, instrument: isotope ratio mass spectrometer,N
 #
 #----------------
 # Data:
@@ -98,7 +98,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o	d13c
+age_AD	d18O	d13C
 1993.9167	-4.163073644	-2.953931113
 1993.7500	-3.860750918	-3.14779926
 1993.5833	-3.850605294	-3.232123358

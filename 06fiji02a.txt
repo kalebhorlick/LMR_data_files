@@ -65,22 +65,18 @@
 # Funding_Agency: 
 #    Funding_Agency_Name: National Science Foundation
 #    Grant: ATM-9619035
-
 #--------------------------------
 # Funding_Agency: 
 #    Funding_Agency_Name: National Science Foundation
 #    Grant: OCE-0318296
-
 #--------------------------------
 # Funding_Agency: 
 #    Funding_Agency_Name: National Science Foundation
 #    Grant: OCE-0317941
-
 #--------------------------------
 # Funding_Agency: 
 #    Funding_Agency_Name: National Oceanic and Atmospheric Administration
 #    Grant: NA96GP0470
-
 #--------------------------------
 # Funding_Agency: 
 #    Funding_Agency_Name: National Oceanic and Atmospheric Administration
@@ -90,8 +86,8 @@
 # Site_Name: Ocean>Pacific Ocean>South Pacific Ocean>Polynesia>Fiji
 # Country: Fiji
 # Location: Western Pacific Ocean 
-#	Northernmost_Latitude:  -16.82
-# 	Southernmost_Latitude:  -16.82
+#	Northernmost_Latitude: -16.82
+# 	Southernmost_Latitude: -16.82
 # 	Easternmost_Longitude: 179.23
 # 	Westernmost_Longitude: 179.23
 # 	Elevation: -10 m
@@ -100,20 +96,20 @@
 # Collection_Name: 06fiji02a
 # Earliest_Year: 1617
 # Most_Recent_Year: 2001
-# Time_Unit: AD
+# Time_Unit: y_ad
 # Core_Length:
 # Notes: Previous Collection Name- Fiji AB d18O L06
 #--------------------------------
 # Chronology:
 #    The chronologies for all of the coral results presented here are based on the reconstructed annual cycle in millimeter-scale δ18O and/or Sr/Ca down core analyses [Linsley et al., 2000; Ren et al., 2003; Linsley et al., 2004]. 
 #--------------------------------
-# Variables    
+# Variables
 # 
 # Data variables follow (have double marker- "##")
 # Data line variables format:  Variables list, one per line, shortname-tab-nine components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
-##age_AD	age,,,year AD,,,,,N
-##d18o_avg	delta 18O annual average,Porites lutea,,per mil VPDB,,Corals and Sclerosponges,,,N
-##d18o_anom	normalized delta 18O,Porites lutea,,per mil VPDB,,Corals and Sclerosponges,anomaly calculation: minus 1900-1999 mean,,N
+##age	age,,,y_ad,,Corals and Sclerosponges,,,N
+##d18O	delta 18O annual average,Porites lutea,,permil VPDB,,Corals and Sclerosponges,,,N
+##d18O_norm	normalized delta 18O,Porites lutea,,permil VPDB,,Corals and Sclerosponges,anomaly calculation: minus 1900-1999 mean,,N
 #
 #----------------
 # Data:
@@ -121,7 +117,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18o_avg	d18o_anom
+age	d18O	d18O_norm
 2001.5	-4.81	-0.16
 2000.5	-4.98	-0.33
 1999.5	-4.96	-0.31
