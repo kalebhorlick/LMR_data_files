@@ -87,7 +87,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	assigned age date, Porites lutea, ,y_ad, , Corals and Sclerosponges, , ,N
+##age	assigned age date, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d18O	delta 18 oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: isotope ratio mass spectrometer,N
 ##d13C	delta 13 carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: isotope ratio mass spectrometer,N
 ##depth	depth, , ,cm, , Corals and Sclerosponges, , ,N

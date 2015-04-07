@@ -94,7 +94,7 @@
 # 
 # Data variables follow (have double marker- "##")
 # Data line variables format:  Variables list, one per line, shortname-tab-nine components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
-##age	age,,,y_ad,,Corals and Sclerosponges,,,N
+##age	age,,,years AD,,Corals and Sclerosponges,,,N
 ##d18O	delta 18O annual average,Porites lutea,,permil VPDB,,Corals and Sclerosponges,,,N
 ##d18O_norm	normalized delta 18O,Porites lutea,,permil VPDB,,Corals and Sclerosponges,anomaly calculation: minus 1900-1999 mean,,N
 ##Sr/Ca	Strontium Calcium ratio,Porites lutea,,mmol/mol,,Corals and Sclerosponges,,,N

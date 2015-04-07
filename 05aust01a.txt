@@ -83,7 +83,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	age, , ,y_ad, , , , ,N
+##age	age, , ,years AD, , , , ,N
 ##d11B	delta 11B, Porites sp., ,permil SRM 951, ,Corals and Sclerosponges, average: 2 to 4 runs, ,N
 ##pH	pH, Porites sp., , unitless, ,Corals and Sclerosponges, , ,N
 ##arag	Aragonite saturation state, Porites sp., , , ,Corals and Sclerosponges, , ,N

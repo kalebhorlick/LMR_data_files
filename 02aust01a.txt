@@ -85,7 +85,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	pentannual midpoint age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##age	pentannual midpoint age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d18o_anom	Composite delta-18O anomaly, Porites sp., , permil VPDB, , Corals and Sclerosponges, normalized to 1860-1985, ,N
 ##d18o_anom_lb	delta-18O anomaly, Porites sp., 95% confidence interval lower bound, permil VPDB, , Corals and Sclerosponges, , ,N
 ##d18o_anom_ub	delta-18O anomaly, Porites sp., 95% confidence interval upper bound, permil VPDB, , Corals and Sclerosponges, , ,N

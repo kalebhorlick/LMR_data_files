@@ -103,7 +103,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	age, , ,y_ad, , Corals and Sclerosponges, data interpolated to monthly resolution, ,N
+##age	age, , ,years AD, , Corals and Sclerosponges, data interpolated to monthly resolution, ,N
 ##d13C	delta 13 Carbon, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
 ##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
 ##d18O_anom	delta 18 Oxygen anomaly, Porites sp., , permil VPDB, , Corals and Sclerosponges, relative to the 1981-1986 mean, ,N

@@ -101,7 +101,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d18O_2	mean delta 18 Oxygen at 2 samples per year, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
 ##d18O_4	mean delta 18 Oxygen at 4 samples per year, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N 
 ##d13C_2	mean delta 13 Carbon at 2 samples per year, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N

@@ -84,7 +84,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d14C	delta 14 Carbon, Ceratoporella nicholsoni, , permil VPDB, , Corals and Sclerosponges, , ,N
 ##err	error calculation per sample, delta 14 Carbon, ,permil, ,Corals and Sclerosponges, , ,N 
 #

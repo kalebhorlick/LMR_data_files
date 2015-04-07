@@ -85,7 +85,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	age, , ,y_ad, ,Climate Reconstructions, , ,N
+##age	age, , ,years AD, ,Climate Reconstructions, , ,N
 ##sst	sea surface temperature,Sr/Ca and d18O Porites sp.,,degrees Celsius,,Climate Reconstructions,1900-93 normalized,,N
 ##sst_err	sea surface temperature,Sr/Ca and d18O Porites sp.,2sigma error,degrees Celsius,,Climate Reconstructions,1900-93 normalized,,N
 ##sst_comp	coral composite,Sr/Ca and d18O Porites sp.,, ,,Climate Reconstructions,1900-93 normalized,,N
