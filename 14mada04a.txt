@@ -15,7 +15,7 @@
 # Description/Documentation lines begin with #
 # Data lines have no #
 #
-# Archive: Corals and Sclerosponges
+# Archive: Climate Reconstructions
 #--------------------
 # Contribution_Date
 #	Date: 2014-05-08
@@ -85,7 +85,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##sst	delta 18o reconstructed sea surface temperature anomaly,delta 18O,, degrees C,, Corals and Sclerosponges, normalized to 1961-90,,N
+##sst	delta 18o reconstructed sea surface temperature anomaly,delta 18O,, degrees C,,Climate Reconstructions, normalized to 1961-90,,N
 #
 #----------------
 # Data:
