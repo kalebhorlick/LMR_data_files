@@ -1,4 +1,4 @@
-# Dunde, China Ice Core Oxygen Isotope Data
+﻿# Dunde, China Ice Core Oxygen Isotope Data
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -43,36 +43,7 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: This paper examines the potential of the stable isotopic ratios, 18O/16O 
-(d18Oice) and 2H/1H (dDice), preserved in mid to low latitude glaciers 
-as a tool for paleoclimate reconstruction. Ice cores are particularly valuable 
-as they contain additional data, such as dust concentrations, aerosol chemistry, 
-and accumulation rates, that can be combined with the isotopic information to 
-assist with inferences about the regional climate conditions prevailing at the 
-time of deposition. We use a collection of multi-proxy ice core histories to 
-explore the d18O-climate relationship over the last 25,000 years that includes 
-both Late Glacial Stage (LGS) and Holocene climate conditions. These results 
-suggest that on centennial to millennial time scales atmospheric temperature 
-is the principal control on the d18Oice of the snowfall that sustains these 
-high mountain ice fields. Decadally averaged d18Oice records from three Andean 
-and three Tibetan ice cores are composited to produce a low latitude d18Oice 
-history for the last millennium. Comparison of this ice core composite with 
-the Northern Hemisphere proxy record (1000–2000 A.D.) reconstructed by 
-Mann et al. (1999) and measured temperatures (1856–2000) reported by 
-Jones et al. (1999) suggests the ice cores have captured the decadal scale 
-variability in the global temperature trends. These ice cores show a 20th 
-century isotopic enrichment that suggests a large scale warming is underway 
-at low latitudes. The rate of this isotopically inferred warming is amplified 
-at higher elevations over the Tibetan Plateau while amplification in the Andes 
-is latitude dependent with enrichment (warming) increasing equatorward. 
-In concert with this apparent warming, in situ observations reveal that 
-tropical glaciers are currently disappearing. A brief overview of the loss 
-of these tropical data archives over the last 30 years is presented along 
-with evaluation of recent changes in mean d18Oice composition. The isotopic 
-composition of precipitation should be viewed not only as a powerful proxy 
-indicator of climate change, but also as an additional parameter to aid our 
-understanding of the linkages between changes in the hydrologic cycle and 
-global climate.
+#	Abstract: This paper examines the potential of the stable isotopic ratios, 18O/16O  (d18Oice) and 2H/1H (dDice), preserved in mid to low latitude glaciers  as a tool for paleoclimate reconstruction. Ice cores are particularly valuable  as they contain additional data, such as dust concentrations, aerosol chemistry,  and accumulation rates, that can be combined with the isotopic information to  assist with inferences about the regional climate conditions prevailing at the  time of deposition. We use a collection of multi-proxy ice core histories to  explore the d18O-climate relationship over the last 25,000 years that includes  both Late Glacial Stage (LGS) and Holocene climate conditions. These results  suggest that on centennial to millennial time scales atmospheric temperature  is the principal control on the d18Oice of the snowfall that sustains these  high mountain ice fields. Decadally averaged d18Oice records from three Andean  and three Tibetan ice cores are composited to produce a low latitude d18Oice  history for the last millennium. Comparison of this ice core composite with  the Northern Hemisphere proxy record (1000–2000 A.D.) reconstructed by  Mann et al. (1999) and measured temperatures (1856–2000) reported by  Jones et al. (1999) suggests the ice cores have captured the decadal scale  variability in the global temperature trends. These ice cores show a 20th  century isotopic enrichment that suggests a large scale warming is underway  at low latitudes. The rate of this isotopically inferred warming is amplified  at higher elevations over the Tibetan Plateau while amplification in the Andes  is latitude dependent with enrichment (warming) increasing equatorward.  In concert with this apparent warming, in situ observations reveal that  tropical glaciers are currently disappearing. A brief overview of the loss  of these tropical data archives over the last 30 years is presented along  with evaluation of recent changes in mean d18Oice composition. The isotopic  composition of precipitation should be viewed not only as a powerful proxy  indicator of climate change, but also as an additional parameter to aid our  understanding of the linkages between changes in the hydrologic cycle and global climate.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
