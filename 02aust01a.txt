@@ -86,10 +86,10 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	pentannual midpoint age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18o_anom	Composite delta-18O anomaly, Porites sp., , permil VPDB, , Corals and Sclerosponges, normalized to 1860-1985, ,N
-##d18o_anom_lb	delta-18O anomaly, Porites sp., 95% confidence interval lower bound, permil VPDB, , Corals and Sclerosponges, , ,N
-##d18o_anom_ub	delta-18O anomaly, Porites sp., 95% confidence interval upper bound, permil VPDB, , Corals and Sclerosponges, , ,N
-##d18o_count	Number of records averaged at each pentannual interval for delta-18O composite, Porites sp., , samples, , Corals and Sclerosponges, , ,N
+##d18O_anom	Composite delta-18O anomaly, Porites sp., , permil VPDB, , Corals and Sclerosponges, normalized to 1860-1985, ,N
+##d18O_anom_lb	delta-18O anomaly, Porites sp., 95% confidence interval lower bound, permil VPDB, , Corals and Sclerosponges, , ,N
+##d18O_anom_ub	delta-18O anomaly, Porites sp., 95% confidence interval upper bound, permil VPDB, , Corals and Sclerosponges, , ,N
+##d18O_count	Number of records averaged at each pentannual interval for delta-18O composite, Porites sp., , samples, , Corals and Sclerosponges, , ,N
 ##Sr/Ca_anom	Composite Strontium/Calcium anomaly, Porites sp., ,mol/mol, ,Corals and Sclerosponges, normalized to 1860-1985, ,N 
 ##Sr/Ca_anom_lb	Strontium/Calcium anomaly, Porites sp., 95% confidence interval lower bound,mol/mol, ,Corals and Sclerosponges, , ,N
 ##Sr/Ca_anom_ub	Strontium/Calcium anomaly, Porites sp., 95% confidence interval upper bound,mol/mol, ,Corals and Sclerosponges, , ,N 
@@ -105,7 +105,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age	d18o_anom	d18o_anom_lb	d18o_anom_ub	d18o_count	Sr/Ca_anom	Sr/Ca_anom_lb	Sr/Ca_anom_ub	Sr/Ca_count	U/Ca_anom	U/Ca_anom_lb	U/Ca_anom_ub	U/Ca_count
+age	d18O_anom	d18O_anom_lb	d18O_anom_ub	d18O_count	Sr/Ca_anom	Sr/Ca_anom_lb	Sr/Ca_anom_ub	Sr/Ca_count	U/Ca_anom	U/Ca_anom_lb	U/Ca_anom_ub	U/Ca_count
 1983	-0.03	0.06	-0.13	4	-2.17E-05	3.45E-07	-4.37E-05	4	-4.13E-08	1.47E-08	-9.73E-08	4
 1978	-0.12	-0.02	-0.21	6	-2.36E-05	-1.94E-06	-4.53E-05	5	-2.17E-08	2.02E-08	-6.35E-08	5
 1973	-0.14	-0.07	-0.21	7	-8.27E-06	8.64E-06	-2.52E-05	6	-1.13E-08	2.54E-08	-4.79E-08	6

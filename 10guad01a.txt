@@ -65,7 +65,7 @@
 #       Site_Name: Isle de Gosier, Guadalupe, Lesser Antilles
 #       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Guadeloupe
 #	Country: France 
-#	Northernmost_Latitude: 16.2
+#	Northernmost_Latitude: 16.20
 # 	Southernmost_Latitude: 16.20
 # 	Easternmost_Longitude: -61.49
 # 	Westernmost_Longitude: -61.49

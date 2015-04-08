@@ -114,7 +114,7 @@
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d14C	delta 13 Carbon, Porites austraiensis, , per mil, , Corals and Sclerosponges, , ,N
-##err	error calculation per sample, d14c, ,per mil, ,Corals and Sclerosponges, , ,N 
+##err	error calculation per sample, d14C, ,permil, ,Corals and Sclerosponges, , ,N 
 #
 #----------------
 # Data:

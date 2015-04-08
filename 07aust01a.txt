@@ -86,7 +86,7 @@
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N
-##d18o	delta 18 Oxygen, Porites sp., , per mil VPDB, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
