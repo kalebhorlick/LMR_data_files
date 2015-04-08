@@ -1,0 +1,84 @@
+# 1000-year ice core records from Berkner Island, Antarctic.
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: 
+#
+# Original_Source_URL: 
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2015
+# --------------------
+# Title 
+#	Study_Name: 1000-year ice core records from Berkner Island, Antarctic.
+# --------------------
+# Investigators
+#	Investigators:  Mulvaney, Robert; Oerter, Hans; Peel, David A; Graf, Wolfgang; Arrowsmith, Carol; Pasteur, Elizabeth C; Knight, Bruce; Littot, Geneviève C; Miners, William D
+# --------------------
+# Description_and_Notes
+# 	Description: 
+#	
+# --------------------
+# Publication
+#	Authors: R. Mulvaney, Hans Oerter, David A. Peel, Wolfgang Graf, Carol Arrowsmith, Elizabeth C. Pasteur, Bruce Knight, Genevieve C. Littot, William D. Miners
+#	Published_Date_or_Year: 2002
+#	Published_Title: 1000-year ice core records from Berkner Island, Antarctic
+#	Journal_Name: Annals of Glaciology
+#	Volume: 35			
+#	Edition: 	
+#	Issue: 
+#	Pages: 45-51
+#	DOI: doi:10.3189/172756402781817176
+#	Online_Resource: 
+#	Full_Citation:  
+#	Abstract: Two medium-depth ice cores were retrieved from Berkner Island by a joint project between the Alfred-Wegener-Institut and the British Antarctic Survey in the 1994/95 field season. A 151m deep core from the northern dome (Reinwarthhöhe) of Berkner Island spans 700 years, while a 181m deep core from the southern dome (Thyssenhöhe) spans approximately 1200 years. Both cores display clear seasonal cycles in electrical conductivity measurements, allowing dating by annual-layer counting and the calculation of accumulation profiles. Stable-isotope measurements (both d18O and dD), together with the accumulation data, allow us to estimate changes in climate for most of the past millennium: the data show multi-decadal variability around a generally stable long-term mean. In addition, a full suite of major chemistry measurements is available to define the history of aerosol deposition at these sites: again, there is little evidence that the chemistry of the sites has changed over the past six centuries. Finally, we suggest that the southern dome, with an ice thickness of 950 m, is an ideal site from which to gain a climate history of the late stages of the last glacial and the deglaciation for comparison with the records from the deep Antarctic ice cores, and with other intermediate-depth cores such asTaylor Dome and Siple Dome.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant:
+# --------------------
+# Site_Information
+#	Site_Name: Berkner Island
+#	Location: Antarctica
+#	Country: 
+#	Northernmost_Latitude: -79.614160
+#	Southernmost_Latitude: -79.614160
+#	Easternmost_Longitude: -45.724330
+#	Westernmost_Longitude: -45.724330
+#	Elevation: 886 m
+# --------------------
+# Data_Collection
+#	Collection_Name: 02Berk01b
+#	Earliest_Year: 1000
+#	Most_Recent_Year: 1994
+#	Time_Unit: y_ad
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	Age,,,year AD,,,,,N 
+##accum	accumulation,,,Accumulation rate ice water equivalent,,ice cores,,,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+
+age d18O
