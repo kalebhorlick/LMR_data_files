@@ -63,7 +63,7 @@
 #	Collection_Name: 95papu01a
 #	Earliest_Year: 1922
 #	Most_Recent_Year: 1991
-#	Time_Unit: Years AD 
+#	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: 
 #------------------
