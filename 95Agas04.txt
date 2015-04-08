@@ -64,7 +64,7 @@
 #	Collection_Name: 95Agas04
 #	Earliest_Year: 177
 #	Most_Recent_Year: 1983 
-#	Time_Unit: AD
+#	Time_Unit: y_ad
 #
 # --------------------
 # Variables
