@@ -86,10 +86,10 @@
 # Site_Name: Ocean>Pacific Ocean>South Pacific Ocean>Polynesia>Fiji
 # Country: Fiji
 # Location: Western Pacific Ocean 
-#	Northernmost_Latitude: -16.82
-# 	Southernmost_Latitude: -16.82
-# 	Easternmost_Longitude: 179.23
-# 	Westernmost_Longitude: 179.23
+#	Northernmost_Latitude: -16.8167
+# 	Southernmost_Latitude: -16.8167
+# 	Easternmost_Longitude: 179.2333
+# 	Westernmost_Longitude: 179.2333
 # 	Elevation: -10 m
 #--------------------------------
 # Data Collection 

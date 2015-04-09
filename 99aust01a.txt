@@ -55,10 +55,10 @@
 #       Site_Name: Houtman Abrolhos Islands
 #       Location: Australia/New Zealand>Australia
 #	Country: Australia
-#	Northernmost_Latitude: -28.46
-# 	Southernmost_Latitude: -28.46
-# 	Easternmost_Longitude: 113.77
-# 	Westernmost_Longitude: 113.77
+#	Northernmost_Latitude: -28.4617
+# 	Southernmost_Latitude: -28.4617
+# 	Easternmost_Longitude: 113.7683
+# 	Westernmost_Longitude: 113.7683
 # 	Elevation: -5 m
 #------------------
 # Data_Collection   

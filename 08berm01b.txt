@@ -15,7 +15,7 @@
 # Description/Documentation lines begin with #
 # Data lines have no #
 #
-# Archive: Climate Reconstructions
+# Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
 #	Date:  2008-10

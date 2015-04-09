@@ -33,7 +33,7 @@
 #--------------------
 # Publication 
 #       Authors: Quinn, T. M.; Crowley, T. J.; Taylor, F. W.; Henin, C.; Joannot, P.; Join, Y.
-#       Published_Date_or_Year:  1999      
+#       Published_Date_or_Year:  1998      
 #       Published_Title: A multicentury stable isotope record from a New Caledonia coral: Interannual and decadal SST variability in the southwest Pacific since 1657
 #       Journal_Name: Paleoceanography
 #       Volume: 13

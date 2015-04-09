@@ -83,10 +83,10 @@
 #       Site_Name: Rarotonga, Cook Islands, South Pacific
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Polynesia>Cook Islands
 #	Country: Cook Islands 
-#	Northernmost_Latitude: -21.23
-# 	Southernmost_Latitude: -21.23
-# 	Easternmost_Longitude: -159.82
-# 	Westernmost_Longitude: -159.82
+#	Northernmost_Latitude: -21.2378
+# 	Southernmost_Latitude: -21.2378
+# 	Easternmost_Longitude: -159.8278
+# 	Westernmost_Longitude: -159.8278
 # 	Elevation:  -18.3 m
 #------------------
 # Data_Collection   

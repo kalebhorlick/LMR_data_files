@@ -76,8 +76,8 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 96vanu01a
-#	Earliest_Year: 1806
-#	Most_Recent_Year: 1980
+#	Earliest_Year: 1807
+#	Most_Recent_Year: 1979
 #	Time_Unit: y_ad
 #	Core_Length: 1.5 m
 #	Notes: 

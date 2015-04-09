@@ -51,10 +51,10 @@
 #       Site_Name: Clipperton Atoll
 #       Location: Ocean>Pacific Ocean>Eastern Pacific Ocean
 #	Country: France  
-#	Northernmost_Latitude: 10.300 
-# 	Southernmost_Latitude: 10.300 
-# 	Easternmost_Longitude: -109.217 
-# 	Westernmost_Longitude: -109.217 
+#	Northernmost_Latitude: 10.2773
+# 	Southernmost_Latitude: 10.2773
+# 	Easternmost_Longitude: -109.2131
+# 	Westernmost_Longitude: -109.2121 
 # 	Elevation: -13.1 m
 #------------------
 # Data_Collection   

@@ -51,10 +51,10 @@
 #       Site_Name: Lombok Strait, Bali, Indonesia
 #       Location: Ocean>Indian Ocean>Indonesia
 #	Country: Indonesia 
-#	Northernmost_Latitude: -8.25 
-# 	Southernmost_Latitude: -8.25 
-# 	Easternmost_Longitude: 115.50
-# 	Westernmost_Longitude: 115.50 
+#	Northernmost_Latitude: -8.2573
+# 	Southernmost_Latitude: -8.2573 
+# 	Easternmost_Longitude: 115.5757
+# 	Westernmost_Longitude: 115.5757
 # 	Elevation: -3 m  
 #------------------
 # Data_Collection   

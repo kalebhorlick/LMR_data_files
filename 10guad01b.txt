@@ -1,4 +1,4 @@
-﻿# Guadeloupe 104 Year Monthly Coral d18O and Sr/Ca Data 
+﻿# Guadeloupe 104 Year Annually Averaged Coral d18O and Sr/Ca Data 
 #----------------------------------------------------------------------- 
 #                World Data Center for Paleoclimatology, Boulder 
 #                                  and 
@@ -99,8 +99,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	delta 18 Oxygen, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, , ,N
-##Sr/Ca	Strontium/Calcium, Diploria strigosa, ,mmol/mol, ,Corals and Sclerosponges, , ,N
+##d18O	annually averaged delta 18 Oxygen, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, annual average, ,N
+##Sr/Ca	annually averaged Strontium/Calcium, Diploria strigosa, ,mmol/mol, ,Corals and Sclerosponges, annual average, ,N
 #
 #----------------
 # Data:
