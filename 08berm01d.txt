@@ -1,0 +1,142 @@
+﻿# Bermuda Coral Sr/Ca and d18O Data and SST Reconstruction 1781-1998
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:6115
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/bermuda2008.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstructions
+#--------------------
+# Contribution_Date
+#	Date: 2008-10
+#--------------------
+# Title
+#	Study_Name: Bermuda Brain Coral Sea Surface Temperature and Salinity Reconstruction 1781-1998 
+#--------------------
+# Investigators
+#       Investigators: Goodkin, N.F.; Hughen, K.A.; Curry, W.B.; Doney, S.C.; Ostermann, D.R.
+#--------------------
+# Description_and_Notes
+#	Description: Five-year smoothed winter records of Sr/Ca and sea surface temperature.Records of past climate and ocean environment derived from stable isotope, trace metal, and other measurements made on corals and sclerosponges. Parameter keywords describe what was measured in this data set. Additional summary information can be found in the abstracts of papers listed in the data set citations. Coral Sr/Ca and d18O data from a 225-year old Diploria labyrinthiformis colony collected on the south shore of Bermuda (64W, 32N), on the southeastern edge of the Bermuda platform, at 16 m water depth.
+#--------------------
+# Publication 
+#       Authors: Goodkin, N.F.; Hughen, K.A.; Curry, W.B.; Doney, S.C.; Ostermann, D.R.
+#       Published_Date_or_Year: 2008-07-08      
+#       Published_Title: Sea surface temperature and salinity variability at Bermuda during the end of the Little Ice Age
+#       Journal_Name: Paleoceanography
+#       Volume: 23
+#       Edition: 
+#       Issue: 
+#       Pages: 
+#       DOI: 10.1029/2007PA001532
+#       Online_Resource: 
+#       Full_Citation: Goodkin, N.F., K.A. Hughen, W.B. Curry, S.C. Doney, and D.R. Ostermann. 2008. Sea surface temperature and salinity variability at Bermuda during the end of the Little Ice Age.  Paleoceanography, 23, PA3203, doi:10.1029/2007PA001532.
+#       Abstract: We use geochemical and isotope measurements on a 225-year old brain coral (Diploria labyrinthiformis) from the south shore of Bermuda (64W, 32N) to construct a record of decadal-to-centennial-scale climate variability. The coral was collected alive, and annual density bands visible in X radiographs delineate cold and warm seasons allowing for precise dating. Coral skeletons incorporate strontium (Sr) and calcium (Ca) in relative proportions inversely to the sea surface temperature (SST) in which the skeleton is secreted. Previous studies on this and other coral colonies from this region document the ability to reconstruct mean annual andwintertime SST using Sr/Ca measurements (Goodkin et al., 2007, 2005). The coral-based records of SST for the past 2 centuries show abrupt shifts at both decadal and centennial timescales and suggest that SST at the end of the Little Ice Age (between 1840 and 1860) was 1.5C-0.4C colder than today (1990s). Coral-reconstructed SST has a greater magnitude change than does a gridded instrumental SST record from this region. This may result from several physical processes including high rates of mesoscale eddy propagation in this region. Oxygen isotope values (d18O) of the coral skeleton reflect changes in both temperature and the d18O of seawater (dOw),where dOw is proportional to sea surface salinity (SSS). We show in this study that mean annual and wintertime d18O of the carbonate (dOc) are correlated to both SST and SSS, but a robust, quantitative measure of SSS is not found with present calibration data. In combination, however, the Sr/Ca and dOc qualitatively reconstruct lower salinities at the end of the Little Ice Age relative to modern day. Temperature changes agree with other records from the Bermuda region. Radiative and atmospheric forcing may explain some of the SST variability, but the scales of implied changes in SST and SSS indicate large-scale ocean circulation impacts as well.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Woods Hole Oceanographic Institution
+#       Grant:
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: U.S. National Science Foundation
+#       Grant: OCE-0402728
+
+#------------------
+# Site_Information 
+#       Site_Name: Bermuda
+#       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Bermuda
+#	Country: Bermuda 
+#	Northernmost_Latitude: 32.325
+# 	Southernmost_Latitude: 32.325
+# 	Easternmost_Longitude: -64.683
+# 	Westernmost_Longitude: -64.683
+# 	Elevation: -16 m
+#------------------
+# Data_Collection   
+#	Collection_Name: 08berm01d
+#	Earliest_Year: 1781
+#	Most_Recent_Year: 1998
+#	Time_Unit: y_ad
+#	Core_Length: 
+#	Notes: Bermuda2008Diploriawinter_Sr_Ca
+#------------------
+# Species 
+#	Species_Name: Diploria labyrinthiformis
+#	Common_Name: Brain Coral
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+#
+# 
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##sst	winter sea surface temperature, , ,degrees Celcius, winter,Corals and Sclerosponges, Sr/Ca Reconstruction, ,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age	sst
+1997	20.329
+1992	20.111
+1987	19.944
+1982	19.444
+1977	20.02
+1972	19.85
+1967	20.786
+1962	21.012
+1957	20.551
+1952	20.635
+1947	19.709
+1942	20.227
+1937	20.53
+1932	20.165
+1927	20.087
+1922	19.975
+1917	19.288
+1912	19.757
+1907	19.406
+1902	19.863
+1897	19.653
+1892	20.493
+1887	19.829
+1882	19.192
+1877	19.841
+1872	19.944
+1867	19.511
+1862	19.171
+1857	18.629
+1852	19.164
+1847	18.789
+1842	18.862
+1837	19.01
+1832	19.137
+1827	18.77
+1822	19.029
+1817	19.271
+1812	19.243
+1807	19.19
+1802	19.804
+1797	19.454
+1792	19.811
+1787	19.85

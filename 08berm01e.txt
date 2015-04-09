@@ -1,0 +1,316 @@
+﻿# Bermuda Coral Sr/Ca and d18O Data and SST Reconstruction 1781-1998
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:6115
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/bermuda2008.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstructions
+#--------------------
+# Contribution_Date
+#	Date:  2008-10
+#--------------------
+# Title
+#	Study_Name: Bermuda Brain Coral Sea Surface Temperature and Salinity Reconstruction 1781-1998 
+#--------------------
+# Investigators
+#       Investigators: Goodkin, N.F.; Hughen, K.A.; Curry, W.B.; Doney, S.C.; Ostermann, D.R.
+#--------------------
+# Description_and_Notes
+#	Description: Records of past climate and ocean environment derived from stable isotope, trace metal, and other measurements made on corals and sclerosponges. Parameter keywords describe what was measured in this data set. Additional summary information can be found in the abstracts of papers listed in the data set citations. Coral Sr/Ca and d18O data from a 225-year old Diploria labyrinthiformis colony collected on the south shore of Bermuda (64W, 32N), on the southeastern edge of the Bermuda platform, at 16 m water depth.
+#--------------------
+# Publication 
+#       Authors: Goodkin, N.F.; Hughen, K.A.; Curry, W.B.; Doney, S.C.; Ostermann, D.R.
+#       Published_Date_or_Year: 2008-07-08      
+#       Published_Title: Sea surface temperature and salinity variability at Bermuda during the end of the Little Ice Age
+#       Journal_Name: Paleoceanography
+#       Volume: 23
+#       Edition: 
+#       Issue: 
+#       Pages: 
+#       DOI: 10.1029/2007PA001532
+#       Online_Resource: 
+#       Full_Citation: Goodkin, N.F., K.A. Hughen, W.B. Curry, S.C. Doney, and D.R. Ostermann. 2008. Sea surface temperature and salinity variability at Bermuda during the end of the Little Ice Age.  Paleoceanography, 23, PA3203, doi:10.1029/2007PA001532.
+#       Abstract: We use geochemical and isotope measurements on a 225-year old brain coral (Diploria labyrinthiformis) from the south shore of Bermuda (64W, 32N) to construct a record of decadal-to-centennial-scale climate variability. The coral was collected alive, and annual density bands visible in X radiographs delineate cold and warm seasons allowing for precise dating. Coral skeletons incorporate strontium (Sr) and calcium (Ca) in relative proportions inversely to the sea surface temperature (SST) in which the skeleton is secreted. Previous studies on this and other coral colonies from this region document the ability to reconstruct mean annual andwintertime SST using Sr/Ca measurements (Goodkin et al., 2007, 2005). The coral-based records of SST for the past 2 centuries show abrupt shifts at both decadal and centennial timescales and suggest that SST at the end of the Little Ice Age (between 1840 and 1860) was 1.5C-0.4C colder than today (1990s). Coral-reconstructed SST has a greater magnitude change than does a gridded instrumental SST record from this region. This may result from several physical processes including high rates of mesoscale eddy propagation in this region. Oxygen isotope values (d18O) of the coral skeleton reflect changes in both temperature and the d18O of seawater (dOw),where dOw is proportional to sea surface salinity (SSS). We show in this study that mean annual and wintertime d18O of the carbonate (dOc) are correlated to both SST and SSS, but a robust, quantitative measure of SSS is not found with present calibration data. In combination, however, the Sr/Ca and dOc qualitatively reconstruct lower salinities at the end of the Little Ice Age relative to modern day. Temperature changes agree with other records from the Bermuda region. Radiative and atmospheric forcing may explain some of the SST variability, but the scales of implied changes in SST and SSS indicate large-scale ocean circulation impacts as well.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Woods Hole Oceanographic Institution
+#       Grant:
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: U.S. National Science Foundation
+#       Grant: OCE-0402728
+
+#------------------
+# Site_Information 
+#       Site_Name: Bermuda
+#       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Bermuda
+#	Country: Bermuda 
+#	Northernmost_Latitude: 32.325
+# 	Southernmost_Latitude: 32.325
+# 	Easternmost_Longitude: -64.683
+# 	Westernmost_Longitude: -64.683
+# 	Elevation: -16 m
+#------------------
+# Data_Collection   
+#	Collection_Name: 08berm01e
+#	Earliest_Year: 1781
+#	Most_Recent_Year: 1998
+#	Time_Unit: y_ad
+#	Core_Length: 
+#	Notes: Bermuda2008Diploria_d18O
+#------------------
+# Species 
+#	Species_Name: Diploria labyrinthiformis
+#	Common_Name: Brain Coral
+#------------------
+# Chronology: 
+# 
+# 
+#
+#
+# 
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age, , ,years AD, , Climate Reconstructions, , ,N
+##sst	sea surface temperature, , ,degrees Celcius, ,Climate Reconstructions, , ,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age	sst
+1998	23.251
+1997	23.413
+1996	23.344
+1995	23.01
+1994	23.475
+1993	23.022
+1992	22.981
+1991	23.145
+1990	23.816
+1989	23.16
+1988	22.176
+1987	23.278
+1986	23.334
+1985	23.278
+1984	23.265
+1983	23.043
+1982	23.144
+1981	21.614
+1980	22.654
+1979	23.478
+1978	22.475
+1977	23.293
+1976	23.491
+1975	23.289
+1974	23.715
+1973	22.568
+1972	23.582
+1971	23.423
+1970	23.601
+1969	23.839
+1968	23.721
+1967	23.274
+1966	25.12
+1965	23.863
+1964	24.11
+1963	23.881
+1962	24.797
+1961	24.655
+1960	23.957
+1959	23.557
+1958	25.187
+1957	23.917
+1956	23.687
+1955	24.143
+1954	25.118
+1953	24.609
+1952	24.195
+1951	23.871
+1950	23.038
+1949	22.289
+1948	22.05
+1947	21.601
+1946	22.837
+1945	22.13
+1944	22.424
+1943	22.302
+1942	23.347
+1941	23.424
+1940	23.456
+1939	24.088
+1938	24.071
+1937	23.861
+1936	23.318
+1935	23.487
+1934	23.695
+1933	23.376
+1932	22.487
+1931	23.761
+1930	23.301
+1929	23.157
+1928	23.955
+1927	24.095
+1926	23.501
+1925	23.243
+1924	23.48
+1923	22.821
+1922	23.089
+1921	23.616
+1920	22.306
+1919	21.858
+1918	21.965
+1917	21.69
+1916	22.78
+1915	22.301
+1914	22.446
+1913	22.382
+1912	21.81
+1911	23.078
+1910	23.697
+1909	23.771
+1908	22.87
+1907	22.839
+1906	21.583
+1905	23.356
+1904	22.444
+1903	22.21
+1902	23.049
+1901	22
+1900	21.019
+1899	23.081
+1898	23.211
+1897	23.325
+1896	22.919
+1895	21.635
+1894	21.428
+1893	22.931
+1892	24.192
+1891	24.77
+1890	24.98
+1889	24.373
+1888	24.299
+1887	23.945
+1886	22.787
+1885	22.923
+1884	22.411
+1883	22.597
+1882	22.298
+1881	21.812
+1880	22.62
+1879	22.475
+1878	23.534
+1877	22.714
+1876	23.534
+1875	22.682
+1874	22.961
+1873	23.548
+1872	23.425
+1871	24.159
+1870	22.292
+1869	21.344
+1868	22.771
+1867	21.888
+1866	21.403
+1865	22.889
+1864	21.184
+1863	21.668
+1862	22.618
+1861	20.376
+1860	21.136
+1859	21.368
+1858	20.754
+1857	22.591
+1856	21.446
+1855	20.932
+1854	22.064
+1853	21.018
+1852	21.858
+1851	21.437
+1850	21.834
+1849	20.531
+1848	20.273
+1847	21.772
+1846	20.287
+1845	21.187
+1844	22.218
+1843	22.713
+1842	23
+1841	22.493
+1840	21.281
+1839	21.339
+1838	22.649
+1837	22.855
+1836	22.068
+1835	21.57
+1834	22.221
+1833	22.618
+1832	20.922
+1831	21.535
+1830	21.499
+1829	21.317
+1828	20.28
+1827	21.95
+1826	20.854
+1825	20.464
+1824	21.261
+1823	22.026
+1822	21.087
+1821	21.195
+1820	22.996
+1819	21.486
+1818	21.535
+1817	21.987
+1816	22.559
+1815	22.882
+1814	22.449
+1813	22.157
+1812	21.851
+1811	22.103
+1810	22.63
+1809	23.112
+1808	21.957
+1807	22.476
+1806	22.005
+1805	22.887
+1804	23.631
+1803	22.351
+1802	22.906
+1801	23.409
+1800	22.586
+1799	22.695
+1798	22.642
+1797	23.113
+1796	22.366
+1795	22.342
+1794	22.888
+1793	23.379
+1792	24.108
+1791	22.856
+1790	22.692
+1789	23.125
+1788	23.753
+1787	23.084
+1786	22.501
+1785	22.335
+1784	22.052
+1783	20.674
+1782	22.19
+1781	NAN
