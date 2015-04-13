@@ -17,7 +17,7 @@
 # Description/Documentation lines begin with #
 # Data lines have no #
 #
-# Archive: Climate Reconstruction
+# Archive: Ice Cores
 # --------------------
 # Contribution_date
 #	Date: 2008
@@ -120,7 +120,7 @@ strongly modulated by the SH Annular Mode in the atmospheric circulation.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,yeara AD,,,,,N
+##age	Age,,,years AD,,,,,N
 ##delD	del D,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
