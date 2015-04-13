@@ -17,7 +17,7 @@
 # Description/Documentation lines begin with #
 # Data lines have no #
 #
-# Archive: Climate Reconstruction
+# Archive: Ice Cores
 # --------------------
 # Contribution_date
 #	Date: 2008
