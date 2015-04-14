@@ -79,7 +79,7 @@ glaciers is not only contributing to global sea-level rise but also threatening 
 # --------------------
 # Variables
 #
-##age	Age,,,year AD,,,,,N
+##age	Age,,,years AD,,,,,N
 ##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
