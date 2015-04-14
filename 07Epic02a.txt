@@ -96,7 +96,7 @@ interglacial periods in ice core records.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years before 1950,,,,,N
+##age	Age,,,years before 1950 AD,,,,,N
 ##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
