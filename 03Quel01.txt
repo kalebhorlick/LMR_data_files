@@ -82,7 +82,7 @@ glaciers is not only contributing to global sea-level rise but also threatening 
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)	
 #
-##age	Age,,,year AD,,,,,N
+##age	Age,,,years AD,,,,,N
 ##accum	accumulation,,,meters water equivalent per year,,ice cores,,,N 
 #
 # --------------------
