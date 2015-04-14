@@ -68,7 +68,7 @@
 # --------------------
 # Variables
 #
-##age	Age,,,year AD,,,,,N
+##age	Age,,,years AD,,,,,N
 ##d18O	dO18,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
