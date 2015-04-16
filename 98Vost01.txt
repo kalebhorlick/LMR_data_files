@@ -9,9 +9,9 @@
 #
 #
 #
-# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2438
+# Online_Resource: 
 #
-# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/grip/synchronization/iso_bl98.txt
+# Original_Source_URL: 
 #
 # Description/Documentation lines begin with #
 # Data lines have no #
@@ -86,8 +86,8 @@
 #	Site_Name: Vostok
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: 78.49
-#	Southernmost_Latitude: 78.49
+#	Northernmost_Latitude: -78.49
+#	Southernmost_Latitude: -78.49
 #	Easternmost_Longitude: 106.833
 #	Westernmost_Longitude: 106.833
 #	Elevation: 3488 m
