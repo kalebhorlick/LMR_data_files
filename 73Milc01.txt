@@ -54,8 +54,8 @@
 #	Country: 
 #	Northernmost_Latitude: 72.56
 #	Southernmost_Latitude: 72.56	 
-#	Easternmost_Longitude: 38.45
-#	Westernmost_Longitude: 38.45
+#	Easternmost_Longitude: -38.45
+#	Westernmost_Longitude: -38.45
 #	Elevation: 3212 m
 # --------------------
 # Data_Collection
