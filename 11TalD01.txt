@@ -110,8 +110,8 @@ and/or rapid bipolar ocean teleconnections.
 #	Site_Name: EDML
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: 72.816
-#	Southernmost_Latitude: 72.816
+#	Northernmost_Latitude: -72.816
+#	Southernmost_Latitude: -72.816
 #	Easternmost_Longitude: 159.183
 #	Westernmost_Longitude: 159.183
 #	Elevation: 2315 m
