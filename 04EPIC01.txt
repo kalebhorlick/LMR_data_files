@@ -76,8 +76,8 @@ maximum of 8 ppm in addition.
 #	Site_Name: EPICA Dome C
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: 75.1 
-#	Southernmost_Latitude: 75.1
+#	Northernmost_Latitude: -75.1 
+#	Southernmost_Latitude: -75.1
 #	Easternmost_Longitude: 123.35
 #	Westernmost_Longitude: 123.35
 #	Elevation: 3233 m
