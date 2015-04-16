@@ -84,8 +84,8 @@ the ability of models to reproduce the GIS response to Holocene climate.
 #	Country: 
 #	Northernmost_Latitude: 65.183
 #	Southernmost_Latitude: 65.183
-#	Easternmost_Longitude: 43.816
-#	Westernmost_Longitude: 43.816
+#	Easternmost_Longitude: -43.816
+#	Westernmost_Longitude: -43.816
 #	Elevation: 2490 m
 # --------------------
 # Data_Collection
