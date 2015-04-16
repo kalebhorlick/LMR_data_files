@@ -84,8 +84,8 @@ was not operating at this time.
 #	Country: 
 #	Northernmost_Latitude: 70.166 
 #	Southernmost_Latitude: 70.166
-#	Easternmost_Longitude: 42.533
-#	Westernmost_Longitude: 42.533
+#	Easternmost_Longitude: -42.533
+#	Westernmost_Longitude: -42.533
 #	Elevation: 3085 m
 # --------------------
 # Data_Collection
