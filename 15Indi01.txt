@@ -61,7 +61,7 @@
 # 	Elevation: 
 #---------------------------------------
 # Data_Collection
-#   	Collection_Name: Tierney2015Indian
+#   	Collection_Name: 15Indi01
 #   	Earliest_Year: 1622
 #   	Most_Recent_Year: 2001
 #   	Time_Unit: y_ad
