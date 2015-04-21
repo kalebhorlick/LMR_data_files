@@ -59,7 +59,7 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 04newc04a
-#	Earliest_Year: 1968
+#	Earliest_Year: 1967
 #	Most_Recent_Year: 1992
 #	Time_Unit: y_ad
 #	Core_Length:
