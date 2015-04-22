@@ -82,7 +82,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	Age,,,years before 1950 AD ,,,,,N
-##d18O	dO18,,,permil SMOW,,ice cores,,,N 
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
@@ -953,7 +953,7 @@ age	d18O
 2.1334	-38.11
 2.136	NAN
 2.1385	-40.37
-2.1411	999999
+2.1411	NAN
 2.1436	-43.66
 2.1462	-41.2
 2.1487	NAN
@@ -2529,12 +2529,12 @@ age	d18O
 21.818	-41.58
 22.038	-42.38
 22.203	-41.2
-22.423	999999
+22.423	NAN
 22.644	-42.84
 22.864	-43.45
 23.084	-42.51
 23.305	-42.92
-23.393	999999
+23.393	NAN
 23.415	-43.55
 23.965	-43.1
 24.516	-42.48
@@ -2561,7 +2561,7 @@ age	d18O
 29.526	-42.21
 29.702	-42.09
 29.879	-42.94
-30.056	999999
+30.056	NANNAN
 30.232	-43.19
 30.409	-42.58
 30.585	-42
@@ -3298,4 +3298,3 @@ age	d18O
 228.43	-39.61
 229.18	-39.64
 230.16	NAN
-
