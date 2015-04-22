@@ -82,8 +82,8 @@ global climate.
 #	Site_Name: Dasuopo
 #	Location: Asia>China
 #	Country: China
-#	Northernmost_Latitude: 23.38
-#	Southernmost_Latitude: 23.38 
+#	Northernmost_Latitude: 28.38
+#	Southernmost_Latitude: 28.38 
 #	Easternmost_Longitude: 85.72
 #	Westernmost_Longitude: 85.72
 #	Elevation: 7200 m
@@ -101,7 +101,7 @@ global climate.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	Age,,,years AD,,,,,N
-##d18O	dO18,,,permil SMOW,,ice cores,,,N 
+##d18O	d18O,,,permil SMOW,,ice cores,,,N 
 #
 # --------------------
 # Data:
