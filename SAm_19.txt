@@ -1,0 +1,205 @@
+# SAm_19 - PAGES 2K Vilches Tree ring width Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:14188
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date:
+#--------------------
+# Title
+#	Study_Name: SAm_19 - Vilches
+#--------------------
+# Investigators
+#	Investigators: PAGES 2k Network
+#--------------------
+# Description_and_Notes
+#	Description:
+#--------------------
+# Publication
+#	Authors: PAGES 2k Consortium
+#	Published_Date_or_Year: 2013
+#	Published_Title: Continental-scale temperature variability during the past two millennia
+#	Journal_Name: Nature Geoscience
+#	Volume: 6
+#	Edition:
+#	Issue:
+#	Pages: 339-346
+#	DOI: 10.1038/NGEO1797
+#	Online_Resource: www.nature.com/naturegeoscience
+#	Full_Citation: Lara, A., Aravena, J. C., Villalba, R., Wolodarsky-Franke, A., Luckman, B. and Wilson, R. 2001. Dendroclimatology of high-elevation Nothofagus pumilio forests at their northern distribution limit in the central Andes of Chile. Canadian Journal of Forest Research-Revue Canadienne De Recherche Forestiere 31 (6): 925-936.  /  PAGES 2k Consortium. 2013. Continental-scale temperature variability during the past two millennia. Nature Geoscience, Vol. 6, pp. 339-346, May 2013. www.nature.com/naturegeoscience DOI: 10.1038/NGEO1797
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Vilches
+#	Location: South America
+#	Country: Chile
+#	Northernmost_Latitude: -35.1
+#	Southernmost_Latitude: -35.1
+#	Easternmost_Longitude: -71.01
+#	Westernmost_Longitude: -71.01
+#	Elevation:
+#--------------------
+# Data_Collection
+#	Collection_Name: SAm_19
+#	Earliest_Year: 1880
+#	Most_Recent_Year: 1996
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"relationship":"Negative"}
+#--------------------
+# Species
+#	Species_Name:
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , Tree Rings, , ,N
+##clim_signal	Tree ring width, , , , , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	clim_signal
+1880.0	0.136443147
+1881.0	-1.064056788
+1882.0	-0.56075441
+1883.0	-0.626761279
+1884.0	-0.016197738
+1885.0	-0.061577461
+1886.0	0.289084032
+1887.0	0.747006688
+1888.0	-0.849534463
+1889.0	-1.60861346
+1890.0	-1.270328255
+1891.0	-1.039304212
+1892.0	-0.985673631
+1893.0	-1.381714847
+1894.0	-0.816531028
+1895.0	0.272582315
+1896.0	0.350965472
+1897.0	0.660372672
+1898.0	1.16367505
+1899.0	-1.559108308
+1900.0	-0.284350645
+1901.0	-0.762900447
+1902.0	-0.43699153
+1903.0	-0.432866101
+1904.0	0.342714613
+1905.0	-0.135835189
+1906.0	-0.06982832
+1907.0	-0.527750975
+1908.0	-0.593757845
+1909.0	-1.109436511
+1910.0	-0.62263585
+1911.0	-1.468348863
+1912.0	-0.767025877
+1913.0	-0.948544767
+1914.0	-1.984027529
+1915.0	-0.412238954
+1916.0	-0.337981226
+1917.0	-0.457618677
+1918.0	-0.218343776
+1919.0	1.514336543
+1920.0	0.082812566
+1921.0	-0.164713194
+1922.0	-1.295080831
+1923.0	-1.579735455
+1924.0	-1.076433076
+1925.0	-1.414718281
+1926.0	-0.630886709
+1927.0	-0.725771583
+1928.0	-0.012072309
+1929.0	1.295688789
+1930.0	3.44503747
+1931.0	1.790740309
+1932.0	0.429348629
+1933.0	1.365821087
+1934.0	0.747006688
+1935.0	0.169446582
+1936.0	0.045683702
+1937.0	0.371592619
+1938.0	0.045683702
+1939.0	-0.490622111
+1940.0	2.89222994
+1941.0	2.347673268
+1942.0	1.398824522
+1943.0	-1.348711412
+1944.0	-1.893268084
+1945.0	-0.028574026
+1946.0	0.837766133
+1947.0	-0.92791762
+1948.0	-0.585506986
+1949.0	-1.600362601
+1950.0	-0.527750975
+1951.0	0.883145856
+1952.0	-0.86603618
+1953.0	-0.696893578
+1954.0	-0.973297343
+1955.0	0.033307414
+1956.0	0.718128683
+1957.0	0.049809131
+1958.0	0.907898432
+1959.0	0.602616661
+1960.0	-0.531876405
+1961.0	0.091063424
+1962.0	-0.87016161
+1963.0	0.747006688
+1964.0	1.59684513
+1965.0	0.945027296
+1966.0	0.573738656
+1967.0	0.383968907
+1968.0	-0.985673631
+1969.0	-0.185340341
+1970.0	1.204929344
+1971.0	0.437599488
+1972.0	-0.936168479
+1973.0	-0.271974357
+1974.0	0.148819435
+1975.0	0.817138987
+1976.0	0.742881259
+1977.0	0.866644138
+1978.0	0.792386411
+1979.0	1.506085685
+1980.0	1.728858869
+1981.0	-0.43699153
+1982.0	0.115816
+1983.0	0.115816
+1984.0	-1.229073962
+1985.0	-0.536001834
+1986.0	0.429348629
+1987.0	-0.040950314
+1988.0	-0.354482943
+1989.0	-0.812405599
+1990.0	0.462352064
+1991.0	-0.012072309
+1992.0	0.095188854
+1993.0	0.157070294
+1994.0	0.169446582

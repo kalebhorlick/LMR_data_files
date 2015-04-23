@@ -1,0 +1,325 @@
+# Aus_15 - PAGES 2K Stewart_Island_HABI_composite Tree ring width Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:14188
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date:
+#--------------------
+# Title
+#	Study_Name: Aus_15 - Stewart_Island_HABI_composite
+#--------------------
+# Investigators
+#	Investigators: PAGES 2k Network
+#--------------------
+# Description_and_Notes
+#	Description:
+#--------------------
+# Publication
+#	Authors: PAGES 2k Consortium
+#	Published_Date_or_Year: 2013
+#	Published_Title: Continental-scale temperature variability during the past two millennia
+#	Journal_Name: Nature Geoscience
+#	Volume: 6
+#	Edition:
+#	Issue:
+#	Pages: 339-346
+#	DOI: 10.1038/NGEO1797
+#	Online_Resource: www.nature.com/naturegeoscience
+#	Full_Citation: D'Arrigo, R., Cook, E., Salinger, M., Palmer, J., Krusic, P., Buckley, B. and Villalba, R. (1998). Tree-ring records from New Zealand: long-term context for recent warming trend. Climate Dynamics 14: 191-199; D'Arrigo, R., Cook, E., Villalba, R., Buckley, B., Salinger, M., Palmer, J. and Allen, K. (2000). Trans-Tasman Sea Climate Variability Since AD 1740 Inferred From Middle-High Latitude Tree-Ring Data. Climate Dynamics 16: 603-610; D'Arrigo, R. D., Buckley, B. M., Cook, E. R. and Wagner, W. S. (1996). Temperature-sensitive tree-ring width chronologies of pink pine (Halocarpus biformis) from Stewart Island, New Zealand. Palaeogeography Palaeoclimatology Palaeoecology 119 (3-4): 293-300.  /  PAGES 2k Consortium. 2013. Continental-scale temperature variability during the past two millennia. Nature Geoscience, Vol. 6, pp. 339-346, May 2013. www.nature.com/naturegeoscience DOI: 10.1038/NGEO1797
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: Stewart_Island_HABI_composite
+#	Location: Australasia
+#	Country: New Zealand
+#	Northernmost_Latitude: -47
+#	Southernmost_Latitude: -47
+#	Easternmost_Longitude: 168
+#	Westernmost_Longitude: 168
+#	Elevation:
+#--------------------
+# Data_Collection
+#	Collection_Name: Aus_15
+#	Earliest_Year: 1758
+#	Most_Recent_Year: 1993
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"relationship":"Positive"}
+#--------------------
+# Species
+#	Species_Name:
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , Tree Rings, , ,N
+##clim_signal	Tree ring width, , , , , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	clim_signal
+1758.0	0.664
+1759.0	0.342
+1760.0	0.31
+1761.0	0.664
+1762.0	-0.297
+1763.0	-0.052
+1764.0	-1.4
+1765.0	-0.574
+1766.0	-0.82
+1767.0	-0.09
+1768.0	-0.962
+1769.0	-1.368
+1770.0	-0.794
+1771.0	-0.31
+1772.0	-0.136
+1773.0	0.51
+1774.0	0.503
+1775.0	-0.581
+1776.0	-0.174
+1777.0	-0.252
+1778.0	-0.516
+1779.0	-0.426
+1780.0	0.071
+1781.0	-0.019
+1782.0	-0.639
+1783.0	-2.613
+1784.0	-0.936
+1785.0	-1.452
+1786.0	-0.942
+1787.0	-1.252
+1788.0	-0.329
+1789.0	-1.116
+1790.0	-1.168
+1791.0	-1.155
+1792.0	-1.207
+1793.0	-1.187
+1794.0	-0.561
+1795.0	-0.742
+1796.0	0.374
+1797.0	1.471
+1798.0	0.464
+1799.0	-0.755
+1800.0	0.755
+1801.0	0.903
+1802.0	1.729
+1803.0	1.419
+1804.0	0.761
+1805.0	1.006
+1806.0	1.355
+1807.0	-1.033
+1808.0	0.039
+1809.0	-0.097
+1810.0	0.652
+1811.0	0.064
+1812.0	0.71
+1813.0	0.11
+1814.0	-0.729
+1815.0	0.135
+1816.0	-1.639
+1817.0	-1.194
+1818.0	-0.891
+1819.0	-0.658
+1820.0	-1.71
+1821.0	-1.174
+1822.0	-0.916
+1823.0	-0.136
+1824.0	-0.032
+1825.0	0.213
+1826.0	-0.51
+1827.0	-0.232
+1828.0	-0.826
+1829.0	-0.865
+1830.0	-0.626
+1831.0	-0.716
+1832.0	-1.091
+1833.0	-2.575
+1834.0	-1.362
+1835.0	-0.923
+1836.0	-0.91
+1837.0	-0.587
+1838.0	-0.323
+1839.0	-0.445
+1840.0	0.297
+1841.0	0.168
+1842.0	0.135
+1843.0	-0.549
+1844.0	-0.29
+1845.0	-0.239
+1846.0	-0.355
+1847.0	-0.284
+1848.0	-0.897
+1849.0	-0.232
+1850.0	-0.116
+1851.0	0.11
+1852.0	-0.065
+1853.0	-1.581
+1854.0	-0.916
+1855.0	-0.839
+1856.0	-0.742
+1857.0	-0.871
+1858.0	-1.387
+1859.0	-1.084
+1860.0	-0.774
+1861.0	-0.929
+1862.0	-0.103
+1863.0	-0.065
+1864.0	-0.626
+1865.0	-0.432
+1866.0	0.271
+1867.0	0.11
+1868.0	-0.381
+1869.0	-0.536
+1870.0	0.051
+1871.0	0.29
+1872.0	-0.407
+1873.0	0.684
+1874.0	-0.129
+1875.0	0.639
+1876.0	0.335
+1877.0	0.116
+1878.0	-1.594
+1879.0	-0.594
+1880.0	-0.155
+1881.0	0.071
+1882.0	0.219
+1883.0	-0.207
+1884.0	-0.574
+1885.0	0.335
+1886.0	0.806
+1887.0	0.258
+1888.0	-0.491
+1889.0	-0.336
+1890.0	-0.019
+1891.0	-0.194
+1892.0	-0.168
+1893.0	-0.29
+1894.0	-0.439
+1895.0	-0.381
+1896.0	-0.407
+1897.0	-0.71
+1898.0	-1.929
+1899.0	-1.116
+1900.0	-0.484
+1901.0	-0.032
+1902.0	-0.807
+1903.0	-0.097
+1904.0	0.748
+1905.0	0.045
+1906.0	-0.658
+1907.0	0.084
+1908.0	1.097
+1909.0	1.258
+1910.0	0.555
+1911.0	0.632
+1912.0	-0.762
+1913.0	0.6
+1914.0	-0.303
+1915.0	0.213
+1916.0	0.258
+1917.0	1.097
+1918.0	0.252
+1919.0	0.039
+1920.0	0.684
+1921.0	1.439
+1922.0	1.594
+1923.0	2.142
+1924.0	1.716
+1925.0	0.864
+1926.0	0.445
+1927.0	1.161
+1928.0	0.652
+1929.0	0.587
+1930.0	-0.4
+1931.0	-0.22
+1932.0	0.245
+1933.0	-0.149
+1934.0	-0.052
+1935.0	0.303
+1936.0	0.381
+1937.0	-0.574
+1938.0	0.232
+1939.0	-0.155
+1940.0	1.058
+1941.0	1.142
+1942.0	0.355
+1943.0	-0.297
+1944.0	0.0
+1945.0	0.103
+1946.0	0.297
+1947.0	0.961
+1948.0	1.477
+1949.0	1.136
+1950.0	0.923
+1951.0	0.387
+1952.0	-0.155
+1953.0	0.264
+1954.0	0.322
+1955.0	1.084
+1956.0	2.155
+1957.0	1.845
+1958.0	1.516
+1959.0	2.555
+1960.0	2.497
+1961.0	2.426
+1962.0	3.045
+1963.0	2.678
+1964.0	1.826
+1965.0	2.168
+1966.0	1.4
+1967.0	1.084
+1968.0	0.71
+1969.0	0.31
+1970.0	1.794
+1971.0	1.807
+1972.0	2.161
+1973.0	2.407
+1974.0	2.019
+1975.0	1.4
+1976.0	-0.097
+1977.0	0.297
+1978.0	1.077
+1979.0	1.374
+1980.0	1.678
+1981.0	2.013
+1982.0	1.477
+1983.0	0.064
+1984.0	1.058
+1985.0	1.419
+1986.0	1.361
+1987.0	1.277
+1988.0	0.981
+1989.0	2.149
+1990.0	2.271
+1991.0	1.206
+1992.0	2.0

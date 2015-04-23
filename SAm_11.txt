@@ -1,0 +1,371 @@
+# SAm_11 - PAGES 2K CAN composite 2 Tree ring width Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:14188
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date:
+#--------------------
+# Title
+#	Study_Name: SAm_11 - CAN composite 2
+#--------------------
+# Investigators
+#	Investigators: PAGES 2k Network
+#--------------------
+# Description_and_Notes
+#	Description:
+#--------------------
+# Publication
+#	Authors: PAGES 2k Consortium
+#	Published_Date_or_Year: 2013
+#	Published_Title: Continental-scale temperature variability during the past two millennia
+#	Journal_Name: Nature Geoscience
+#	Volume: 6
+#	Edition:
+#	Issue:
+#	Pages: 339-346
+#	DOI: 10.1038/NGEO1797
+#	Online_Resource: www.nature.com/naturegeoscience
+#	Full_Citation: LaMarche, V.C., Holmes, R.L., Dunwiddie, P.W. and Drew, L.G. 1979. Tree-ring Chronologies of the Southern Hemisphere: Vol. 1: Argentina. Chronology Series V. Tuczon AZ: Laboratory of Tree-Ring Research, University of Arizona. Mundo, I., Roig Juñent, F., Villalba, R., Kitzberger, T. and Barrera, M. 2012. Araucaria araucana tree-ring chronologies in Argentina: spatial growth variations and climate influences. Trees - Structure and Function 26 (2): 443-458.  /  PAGES 2k Consortium. 2013. Continental-scale temperature variability during the past two millennia. Nature Geoscience, Vol. 6, pp. 339-346, May 2013. www.nature.com/naturegeoscience DOI: 10.1038/NGEO1797
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: CAN composite 2
+#	Location: South America
+#	Country: Argentina
+#	Northernmost_Latitude: -37.14
+#	Southernmost_Latitude: -37.14
+#	Easternmost_Longitude: -71
+#	Westernmost_Longitude: -71
+#	Elevation:
+#--------------------
+# Data_Collection
+#	Collection_Name: SAm_11
+#	Earliest_Year: 1714
+#	Most_Recent_Year: 2006
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"relationship":"Negative"}
+#--------------------
+# Species
+#	Species_Name:
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , Tree Rings, , ,N
+##clim_signal	Tree ring width, , , , , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	clim_signal
+1714.0	0.0
+1715.0	0.279
+1716.0	-0.6
+1717.0	-0.139
+1718.0	-0.315
+1719.0	-1.181
+1720.0	0.654
+1721.0	0.491
+1722.0	0.182
+1723.0	0.2
+1724.0	-0.006
+1725.0	-0.061
+1726.0	-0.539
+1727.0	-1.302
+1728.0	-0.569
+1729.0	-0.478
+1730.0	-0.357
+1731.0	-0.273
+1732.0	-0.303
+1733.0	-0.321
+1734.0	-0.242
+1735.0	-0.055
+1736.0	0.236
+1737.0	-0.902
+1738.0	0.133
+1739.0	0.618
+1740.0	0.878
+1741.0	0.363
+1742.0	0.848
+1743.0	-0.981
+1744.0	-0.884
+1745.0	-0.182
+1746.0	0.273
+1747.0	0.042
+1748.0	0.115
+1749.0	1.89
+1750.0	0.799
+1751.0	-0.394
+1752.0	-0.303
+1753.0	-0.188
+1754.0	-0.4
+1755.0	-0.757
+1756.0	0.073
+1757.0	-0.297
+1758.0	0.2
+1759.0	0.03
+1760.0	0.236
+1761.0	0.551
+1762.0	-0.042
+1763.0	-0.327
+1764.0	-0.454
+1765.0	-0.085
+1766.0	-0.448
+1767.0	-1.011
+1768.0	-1.32
+1769.0	-0.26
+1770.0	-0.793
+1771.0	-0.266
+1772.0	-1.187
+1773.0	-0.703
+1774.0	-0.636
+1775.0	-0.642
+1776.0	-0.194
+1777.0	-0.806
+1778.0	-0.061
+1779.0	-0.606
+1780.0	0.091
+1781.0	0.793
+1782.0	0.46
+1783.0	-0.454
+1784.0	0.902
+1785.0	0.569
+1786.0	-0.012
+1787.0	-0.351
+1788.0	0.575
+1789.0	-0.121
+1790.0	0.6
+1791.0	0.521
+1792.0	0.151
+1793.0	0.836
+1794.0	1.665
+1795.0	0.902
+1796.0	1.871
+1797.0	1.805
+1798.0	1.108
+1799.0	0.515
+1800.0	0.751
+1801.0	-1.066
+1802.0	-0.793
+1803.0	-0.866
+1804.0	-0.236
+1805.0	-0.672
+1806.0	-0.351
+1807.0	-1.193
+1808.0	-0.751
+1809.0	-0.036
+1810.0	-0.678
+1811.0	-0.539
+1812.0	-0.006
+1813.0	-0.569
+1814.0	-0.042
+1815.0	0.557
+1816.0	0.975
+1817.0	0.563
+1818.0	0.061
+1819.0	-0.309
+1820.0	0.696
+1821.0	0.594
+1822.0	0.89
+1823.0	0.896
+1824.0	0.799
+1825.0	0.491
+1826.0	1.078
+1827.0	0.212
+1828.0	1.248
+1829.0	0.969
+1830.0	0.036
+1831.0	-0.055
+1832.0	0.327
+1833.0	0.151
+1834.0	0.472
+1835.0	0.557
+1836.0	-0.369
+1837.0	0.176
+1838.0	0.073
+1839.0	-1.52
+1840.0	-0.842
+1841.0	-1.278
+1842.0	-1.326
+1843.0	-0.745
+1844.0	-0.642
+1845.0	-0.721
+1846.0	-0.575
+1847.0	-0.963
+1848.0	-1.248
+1849.0	-0.751
+1850.0	-1.084
+1851.0	-1.12
+1852.0	-0.345
+1853.0	-1.133
+1854.0	-1.06
+1855.0	-0.533
+1856.0	-0.769
+1857.0	-0.551
+1858.0	-0.824
+1859.0	-1.296
+1860.0	-0.539
+1861.0	-1.102
+1862.0	-0.503
+1863.0	-0.527
+1864.0	-0.684
+1865.0	-1.036
+1866.0	-0.709
+1867.0	-1.175
+1868.0	0.054
+1869.0	-0.945
+1870.0	-1.011
+1871.0	-1.55
+1872.0	-0.587
+1873.0	-0.878
+1874.0	-0.915
+1875.0	-1.926
+1876.0	0.018
+1877.0	-1.017
+1878.0	-1.011
+1879.0	-1.308
+1880.0	0.012
+1881.0	-0.248
+1882.0	-0.309
+1883.0	-0.594
+1884.0	0.164
+1885.0	-0.709
+1886.0	0.097
+1887.0	-0.097
+1888.0	-1.217
+1889.0	-1.381
+1890.0	-1.126
+1891.0	-1.133
+1892.0	-0.569
+1893.0	-1.871
+1894.0	-0.666
+1895.0	-0.254
+1896.0	-0.382
+1897.0	-1.575
+1898.0	1.157
+1899.0	0.799
+1900.0	1.653
+1901.0	1.871
+1902.0	2.38
+1903.0	4.821
+1904.0	3.725
+1905.0	1.884
+1906.0	0.721
+1907.0	1.278
+1908.0	0.357
+1909.0	-0.424
+1910.0	1.351
+1911.0	0.696
+1912.0	0.63
+1913.0	0.224
+1914.0	1.205
+1915.0	1.036
+1916.0	0.818
+1917.0	0.327
+1918.0	0.914
+1919.0	0.509
+1920.0	-0.515
+1921.0	0.484
+1922.0	0.454
+1923.0	0.715
+1924.0	-0.03
+1925.0	1.126
+1926.0	1.345
+1927.0	0.757
+1928.0	0.945
+1929.0	1.98
+1930.0	0.048
+1931.0	1.563
+1932.0	1.514
+1933.0	1.799
+1934.0	0.89
+1935.0	0.242
+1936.0	-0.188
+1937.0	-0.799
+1938.0	1.235
+1939.0	0.696
+1940.0	0.975
+1941.0	0.727
+1942.0	0.2
+1943.0	0.442
+1944.0	1.296
+1945.0	-0.2
+1946.0	0.824
+1947.0	0.2
+1948.0	1.217
+1949.0	0.315
+1950.0	1.296
+1951.0	1.732
+1952.0	0.03
+1953.0	0.654
+1954.0	0.908
+1955.0	-0.103
+1956.0	0.17
+1957.0	-0.382
+1958.0	-0.812
+1959.0	-0.509
+1960.0	-1.048
+1961.0	-0.17
+1962.0	-1.508
+1963.0	0.103
+1964.0	0.569
+1965.0	-0.806
+1966.0	-1.126
+1967.0	-1.205
+1968.0	-0.66
+1969.0	0.006
+1970.0	-1.653
+1971.0	0.472
+1972.0	-0.878
+1973.0	-0.624
+1974.0	0.442
+1975.0	-0.478
+1976.0	-0.254
+1977.0	-0.854
+1978.0	0.109
+1979.0	0.914
+1980.0	0.206
+1981.0	-0.315
+1982.0	0.878
+1983.0	1.163
+1984.0	0.86
+1985.0	0.727
+1986.0	-1.072
+1987.0	-1.435
+1988.0	-1.199
+1989.0	-0.86
+1990.0	-1.042
+1991.0	-0.042
+1992.0	0.2
+1993.0	-0.472
+1994.0	-0.703

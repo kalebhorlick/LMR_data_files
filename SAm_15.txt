@@ -1,0 +1,239 @@
+# SAm_15 - PAGES 2K SAN composite 2 Tree ring width Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:14188
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date:
+#--------------------
+# Title
+#	Study_Name: SAm_15 - SAN composite 2
+#--------------------
+# Investigators
+#	Investigators: PAGES 2k Network
+#--------------------
+# Description_and_Notes
+#	Description:
+#--------------------
+# Publication
+#	Authors: PAGES 2k Consortium
+#	Published_Date_or_Year: 2013
+#	Published_Title: Continental-scale temperature variability during the past two millennia
+#	Journal_Name: Nature Geoscience
+#	Volume: 6
+#	Edition:
+#	Issue:
+#	Pages: 339-346
+#	DOI: 10.1038/NGEO1797
+#	Online_Resource: www.nature.com/naturegeoscience
+#	Full_Citation: Aravena, J. C., Lara, A., Wolodarsky-Franke, A., Villalba, R. and Cuq, E. 2002. Tree-ring growth patterns and temperature reconstruction from Nothofagus pumilio (Fagaceae) forests at the upper tree line of southern Chilean Patagonia. Revista Chilena De Historia Natural 75 (2): 361-376.  /  PAGES 2k Consortium. 2013. Continental-scale temperature variability during the past two millennia. Nature Geoscience, Vol. 6, pp. 339-346, May 2013. www.nature.com/naturegeoscience DOI: 10.1038/NGEO1797
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: SAN composite 2
+#	Location: South America
+#	Country: Chile
+#	Northernmost_Latitude: -54.2
+#	Southernmost_Latitude: -54.2
+#	Easternmost_Longitude: -68.7
+#	Westernmost_Longitude: -68.7
+#	Elevation:
+#--------------------
+# Data_Collection
+#	Collection_Name: SAm_15
+#	Earliest_Year: 1845
+#	Most_Recent_Year: 1996
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"relationship":"Positive"}
+#--------------------
+# Species
+#	Species_Name:
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , Tree Rings, , ,N
+##clim_signal	Tree ring width, , , , , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	clim_signal
+1846.0	-1.912641983
+1847.0	-0.646929512
+1848.0	-0.739133731
+1849.0	-0.961262079
+1850.0	-1.669558131
+1851.0	-0.982217583
+1852.0	-1.728233544
+1853.0	-2.327560972
+1854.0	-2.838875282
+1855.0	-3.102914639
+1856.0	-1.925215286
+1857.0	-2.755053264
+1858.0	-3.224456565
+1859.0	-2.206019046
+1860.0	-1.636029324
+1861.0	-3.375336197
+1862.0	-1.833011066
+1863.0	-1.627647122
+1864.0	-1.94617079
+1865.0	-0.78104474
+1866.0	-0.483476576
+1867.0	-1.250448041
+1868.0	-2.105432624
+1869.0	-1.640220425
+1870.0	-1.049275198
+1871.0	-1.317505655
+1872.0	-2.164108037
+1873.0	-1.828819965
+1874.0	-2.482631705
+1875.0	-2.314987669
+1876.0	-1.908450882
+1877.0	-1.250448041
+1878.0	-1.937788588
+1879.0	-2.189254642
+1880.0	-1.187581528
+1881.0	-1.317505655
+1882.0	-0.998981987
+1883.0	-0.831337951
+1884.0	-0.940306574
+1885.0	0.220628375
+1886.0	-0.127233
+1887.0	-0.190099513
+1888.0	0.090704247
+1889.0	-1.0576574
+1890.0	-2.801155374
+1891.0	-1.535442902
+1892.0	-0.349361348
+1893.0	-0.190099513
+1894.0	-0.554725292
+1895.0	-0.051793184
+1896.0	-0.487667677
+1897.0	-0.374507953
+1898.0	0.375699108
+1899.0	-0.286494834
+1900.0	-0.215246119
+1901.0	0.233201677
+1902.0	0.170335164
+1903.0	-0.030837679
+1904.0	-1.677940333
+1905.0	-0.273921531
+1906.0	-0.50024098
+1907.0	-3.019092621
+1908.0	-1.195963729
+1909.0	-1.170817124
+1910.0	-1.29235905
+1911.0	-0.194290614
+1912.0	0.551725346
+1913.0	-0.169144009
+1914.0	0.275112686
+1915.0	-0.87324896
+1916.0	-2.289841064
+1917.0	-1.485149691
+1918.0	0.325405897
+1919.0	0.300259292
+1920.0	-0.097895294
+1921.0	0.05717544
+1922.0	-0.014073276
+1923.0	-0.160761807
+1924.0	0.233201677
+1925.0	0.006882229
+1926.0	0.023646632
+1927.0	-0.345170247
+1928.0	-0.290685935
+1929.0	-0.558916393
+1930.0	-1.84977547
+1931.0	-0.366125751
+1932.0	-0.366125751
+1933.0	-0.156570706
+1934.0	-0.202672816
+1935.0	-0.877440061
+1936.0	-1.300741252
+1937.0	0.375699108
+1938.0	0.174526265
+1939.0	0.534960942
+1940.0	1.046275252
+1941.0	-0.709796025
+1942.0	-0.060175386
+1943.0	0.706796079
+1944.0	1.239065893
+1945.0	1.255830297
+1946.0	0.949879931
+1947.0	-1.43066538
+1948.0	-1.007364189
+1949.0	-1.418092077
+1950.0	-1.460003086
+1951.0	-1.447429783
+1952.0	0.24577498
+1953.0	-0.332596944
+1954.0	0.690031675
+1955.0	1.54920736
+1956.0	-0.336788045
+1957.0	0.819955803
+1958.0	0.731942684
+1959.0	-1.0576574
+1960.0	-2.063521615
+1961.0	-1.405518774
+1962.0	-1.066039601
+1963.0	0.736133785
+1964.0	1.155243875
+1965.0	0.752898189
+1966.0	-0.403845659
+1967.0	0.773853693
+1968.0	2.383236439
+1969.0	1.22230149
+1970.0	1.599500571
+1971.0	0.425992319
+1972.0	-0.353552449
+1973.0	1.377372223
+1974.0	0.723560483
+1975.0	1.775526808
+1976.0	-0.458329971
+1977.0	-0.814573547
+1978.0	1.213919288
+1979.0	1.239065893
+1980.0	1.482149745
+1981.0	1.477958645
+1982.0	1.452812039
+1983.0	0.937306629
+1984.0	0.497241034
+1985.0	0.002691128
+1986.0	0.312832595
+1987.0	-0.139806303
+1988.0	1.067230756
+1989.0	0.090704247
+1990.0	0.182908467
+1991.0	-0.458329971
+1992.0	0.593636355
+1993.0	0.24577498
+1994.0	0.29187709

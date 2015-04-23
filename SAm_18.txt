@@ -1,0 +1,215 @@
+# SAm_18 - PAGES 2K CAN composite 14 Tree ring width Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:14188
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date:
+#--------------------
+# Title
+#	Study_Name: SAm_18 - CAN composite 14
+#--------------------
+# Investigators
+#	Investigators: PAGES 2k Network
+#--------------------
+# Description_and_Notes
+#	Description:
+#--------------------
+# Publication
+#	Authors: PAGES 2k Consortium
+#	Published_Date_or_Year: 2013
+#	Published_Title: Continental-scale temperature variability during the past two millennia
+#	Journal_Name: Nature Geoscience
+#	Volume: 6
+#	Edition:
+#	Issue:
+#	Pages: 339-346
+#	DOI: 10.1038/NGEO1797
+#	Online_Resource: www.nature.com/naturegeoscience
+#	Full_Citation: Villalba, R., Boninsegna, J. A., Veblen, T. T., Schmelter, A. and Rubulis, S. 1997. Recent trends in tree-ring records from high elevation sites in the Andes of northern Patagonia. Climatic Change 36 (3-4): 425-454.  Schmelter, A. 2000. Climatic response and growth-trends of Nothofagus pumilio along altitudinal gradients from arid to humid sites in northern Patagonia - A progress report. Dendrochronología en América Latina. F. Roig. Mendoza, Editorial Nacional de Cuyo: 193-215.  /  PAGES 2k Consortium. 2013. Continental-scale temperature variability during the past two millennia. Nature Geoscience, Vol. 6, pp. 339-346, May 2013. www.nature.com/naturegeoscience DOI: 10.1038/NGEO1797
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: CAN composite 14
+#	Location: South America
+#	Country: Argentina
+#	Northernmost_Latitude: -41.02
+#	Southernmost_Latitude: -41.02
+#	Easternmost_Longitude: -71.13
+#	Westernmost_Longitude: -71.13
+#	Elevation:
+#--------------------
+# Data_Collection
+#	Collection_Name: SAm_18
+#	Earliest_Year: 1869
+#	Most_Recent_Year: 1994
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"relationship":"Positive"}
+#--------------------
+# Species
+#	Species_Name:
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , Tree Rings, , ,N
+##clim_signal	Tree ring width, , , , , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	clim_signal
+1870.0	-1.422245421
+1871.0	-1.401865186
+1872.0	-2.082055527
+1873.0	-2.11262588
+1874.0	-1.592929889
+1875.0	-0.787910609
+1876.0	-1.012093193
+1877.0	-0.558632966
+1878.0	-1.401865186
+1879.0	-1.129279544
+1880.0	-1.753424239
+1881.0	-1.172587543
+1882.0	-1.799279768
+1883.0	-1.498671302
+1884.0	-1.447720715
+1885.0	-1.134374603
+1886.0	-1.740686592
+1887.0	-1.231180719
+1888.0	-0.594298377
+1889.0	-0.780268021
+1890.0	-0.548442849
+1891.0	0.590302779
+1892.0	-0.968785194
+1893.0	-1.269393659
+1894.0	-0.510229908
+1895.0	-0.859241431
+1896.0	-1.440078127
+1897.0	-0.42361391
+1898.0	-0.377758381
+1899.0	-0.930572254
+1900.0	-1.029925899
+1901.0	-0.497492261
+1902.0	-0.408328733
+1903.0	-0.726769904
+1904.0	-0.489849673
+1905.0	-0.731864963
+1906.0	0.22091102
+1907.0	-0.395591087
+1908.0	-0.441446615
+1909.0	0.536804662
+1910.0	-0.352283087
+1911.0	-0.010914152
+1912.0	-0.507682379
+1913.0	-0.930572254
+1914.0	0.047679023
+1915.0	-1.246465895
+1916.0	-1.18787272
+1917.0	-0.42361391
+1918.0	0.434903487
+1919.0	-0.250381913
+1920.0	-0.777720492
+1921.0	-1.63114283
+1922.0	-1.519051537
+1923.0	-0.563728025
+1924.0	-0.726769904
+1925.0	0.164865374
+1926.0	-0.54080026
+1927.0	-0.311522617
+1928.0	-0.484754614
+1929.0	-0.58410826
+1930.0	-0.482207085
+1931.0	-0.056769681
+1932.0	-0.385400969
+1933.0	-0.128100503
+1934.0	-0.517872496
+1935.0	-0.38030591
+1936.0	-0.609583553
+1937.0	-0.418518851
+1938.0	-0.752245198
+1939.0	-0.818480961
+1940.0	0.918934067
+1941.0	-0.517872496
+1942.0	-1.233728248
+1943.0	0.119009846
+1944.0	-0.158670855
+1945.0	-0.586655789
+1946.0	-0.729317434
+1947.0	0.149580198
+1948.0	0.243838785
+1949.0	-0.759887786
+1950.0	-0.9866179
+1951.0	-2.066770351
+1952.0	-1.315249188
+1953.0	-1.572549654
+1954.0	-1.901180942
+1955.0	-1.22608566
+1956.0	-1.422245421
+1957.0	-0.110267797
+1958.0	0.032393847
+1959.0	0.126652434
+1960.0	0.725321835
+1961.0	0.006918553
+1962.0	0.485854074
+1963.0	1.502318292
+1964.0	1.262850531
+1965.0	1.841139698
+1966.0	1.048858065
+1967.0	1.097261123
+1968.0	0.442546075
+1969.0	0.992812418
+1970.0	0.791557598
+1971.0	-1.470648479
+1972.0	-0.887264254
+1973.0	-0.028746858
+1974.0	-0.907644489
+1975.0	-0.133195562
+1976.0	-0.224906619
+1977.0	0.631063248
+1978.0	1.295968413
+1979.0	1.222090061
+1980.0	1.609314525
+1981.0	1.688287936
+1982.0	1.688287936
+1983.0	1.609314525
+1984.0	2.39395357
+1985.0	1.62969476
+1986.0	2.264029573
+1987.0	0.636158307
+1988.0	0.893458773
+1989.0	1.400417117
+1990.0	2.141748163
+1991.0	1.525246056
+1992.0	0.817032892
+1993.0	0.727869364
+1994.0	0.926576655

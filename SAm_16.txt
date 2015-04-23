@@ -1,0 +1,239 @@
+# SAm_16 - PAGES 2K CAN composite 16 Tree ring width Data
+#-----------------------------------------------------------------------
+#		World Data Center for Paleoclimatology, Boulder
+#				and
+#		NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:14188
+#
+# Original_Source_URL:
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Tree Rings
+#--------------------
+# Contribution_Date
+#	Date:
+#--------------------
+# Title
+#	Study_Name: SAm_16 - CAN composite 16
+#--------------------
+# Investigators
+#	Investigators: PAGES 2k Network
+#--------------------
+# Description_and_Notes
+#	Description:
+#--------------------
+# Publication
+#	Authors: PAGES 2k Consortium
+#	Published_Date_or_Year: 2013
+#	Published_Title: Continental-scale temperature variability during the past two millennia
+#	Journal_Name: Nature Geoscience
+#	Volume: 6
+#	Edition:
+#	Issue:
+#	Pages: 339-346
+#	DOI: 10.1038/NGEO1797
+#	Online_Resource: www.nature.com/naturegeoscience
+#	Full_Citation: Villalba, R., Boninsegna, J. A., Veblen, T. T., Schmelter, A. and Rubulis, S. 1997. Recent trends in tree-ring records from high elevation sites in the Andes of northern Patagonia. Climatic Change 36 (3-4): 425-454.  /  PAGES 2k Consortium. 2013. Continental-scale temperature variability during the past two millennia. Nature Geoscience, Vol. 6, pp. 339-346, May 2013. www.nature.com/naturegeoscience DOI: 10.1038/NGEO1797
+#	Abstract:
+#--------------------
+# Funding_Agency
+#	Funding_Agency_Name:
+#	Grant:
+#--------------------
+# Site_Information
+#	Site_Name: CAN composite 16
+#	Location: South America
+#	Country: Argentina
+#	Northernmost_Latitude: -41.02
+#	Southernmost_Latitude: -41.02
+#	Easternmost_Longitude: -71.13
+#	Westernmost_Longitude: -71.13
+#	Elevation:
+#--------------------
+# Data_Collection
+#	Collection_Name: SAm_16
+#	Earliest_Year: 1845
+#	Most_Recent_Year: 1994
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"relationship":"Positive"}
+#--------------------
+# Species
+#	Species_Name:
+#--------------------
+# Chronology:
+#
+#
+#
+#--------------------
+# Variables
+#
+# Data variables follow that are preceded by ## in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+#
+##age	age, , ,years AD, , Tree Rings, , ,N
+##clim_signal	Tree ring width, , , , , Tree Rings, , ,N
+#
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: nan
+#
+age	clim_signal
+1846.0	-1.392991853
+1847.0	-0.485398367
+1848.0	-1.712232585
+1849.0	-2.276840161
+1850.0	-1.999813079
+1851.0	-0.42999295
+1852.0	-0.722850151
+1853.0	-0.422077891
+1854.0	-1.052644296
+1855.0	-1.334948084
+1856.0	-1.366608321
+1857.0	-1.329671377
+1858.0	-1.889002247
+1859.0	-1.226775604
+1860.0	-1.319117965
+1861.0	-1.907470719
+1862.0	-0.356119062
+1863.0	-1.815128358
+1864.0	-1.939130957
+1865.0	-1.171370188
+1866.0	-1.073751121
+1867.0	-0.952386876
+1868.0	-1.472142448
+1869.0	-1.395630206
+1870.0	-1.327033024
+1871.0	-1.065836061
+1872.0	-2.137007444
+1873.0	-2.303223693
+1874.0	-1.701679173
+1875.0	-1.094857946
+1876.0	-0.535527077
+1877.0	-0.361395768
+1878.0	-0.506505192
+1879.0	-0.23739317
+1880.0	-1.44048221
+1881.0	-0.968216995
+1882.0	-1.53282457
+1883.0	-0.551357196
+1884.0	-1.208307132
+1885.0	-0.778255567
+1886.0	-1.804574946
+1887.0	-0.875874634
+1888.0	-0.572464021
+1889.0	-0.448461422
+1890.0	-0.63842285
+1891.0	1.121358707
+1892.0	5.86e-05
+1893.0	-1.205668779
+1894.0	-0.612039318
+1895.0	-0.596209199
+1896.0	-1.804574946
+1897.0	-0.960301935
+1898.0	-0.691189913
+1899.0	-1.063197708
+1900.0	-1.506441039
+1901.0	-0.988711573
+1902.0	0.109856842
+1903.0	-0.184881026
+1904.0	0.913687389
+1905.0	-0.050909268
+1906.0	1.62105827
+1907.0	0.522489856
+1908.0	0.844022075
+1909.0	1.800580426
+1910.0	0.50909268
+1911.0	1.851489694
+1912.0	1.144118812
+1913.0	-0.042870963
+1914.0	2.355223503
+1915.0	-0.838663204
+1916.0	-0.696653141
+1917.0	0.324211654
+1918.0	1.827374777
+1919.0	1.851489694
+1920.0	0.779715631
+1921.0	0.391197533
+1922.0	-1.095888979
+1923.0	-0.380479792
+1924.0	-0.723447493
+1925.0	1.752350593
+1926.0	-0.136651193
+1927.0	-0.353685441
+1928.0	0.806509982
+1929.0	-0.653782178
+1930.0	0.447465671
+1931.0	0.17684272
+1932.0	0.117895147
+1933.0	0.688614835
+1934.0	-0.353685441
+1935.0	0.359044311
+1936.0	-0.76363902
+1937.0	-0.672538225
+1938.0	-1.036941406
+1939.0	-1.200386951
+1940.0	0.380479792
+1941.0	-0.214354813
+1942.0	-1.446894985
+1943.0	0.471580588
+1944.0	0.380479792
+1945.0	0.032153222
+1946.0	0.085741925
+1947.0	0.519810421
+1948.0	0.67521766
+1949.0	-0.227751988
+1950.0	-0.284020127
+1951.0	-1.819336472
+1952.0	-1.162874858
+1953.0	-1.755030028
+1954.0	-1.701441325
+1955.0	-0.790433371
+1956.0	-1.613019965
+1957.0	-0.988711573
+1958.0	-0.010717741
+1959.0	-0.326891089
+1960.0	-0.069665314
+1961.0	-0.150048369
+1962.0	0.139330628
+1963.0	0.953878916
+1964.0	1.913116702
+1965.0	1.476368772
+1966.0	0.790433371
+1967.0	0.669858789
+1968.0	1.10660672
+1969.0	0.844022075
+1970.0	0.720768057
+1971.0	-1.674646973
+1972.0	-1.907757832
+1973.0	-1.243257913
+1974.0	-1.516560299
+1975.0	-0.994070443
+1976.0	-1.752350593
+1977.0	-1.034261971
+1978.0	0.217034248
+1979.0	0.452824542
+1980.0	0.937802305
+1981.0	-0.849380945
+1982.0	0.061627009
+1983.0	0.560001948
+1984.0	1.253975654
+1985.0	-0.297417303
+1986.0	0.372441487
+1987.0	-0.806509982
+1988.0	-1.055697452
+1989.0	0.233110859
+1990.0	0.868136991
+1991.0	-0.257225775
+1992.0	-1.186989775
+1993.0	-0.514879957
+1994.0	-0.149202087
