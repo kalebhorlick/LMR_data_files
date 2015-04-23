@@ -81,8 +81,6 @@
 # Missing values: NAN
 #
 age d18O
-1994  NAN	
-1993	NAN
 1992	-32.22
 1991	-31.1
 1990	-27.35
