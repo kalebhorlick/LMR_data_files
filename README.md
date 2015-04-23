@@ -16,3 +16,5 @@ Correspondence with Dave A. {and Hakim}, GitHub is a viable option for the housi
 ~100 corals as of 3/25/15, Tree ring files to come
 
 ~130 corals and 311 files total as of 5:40 MST on 4/2/15, tree ring files still to come...
+
+~230 tree ring files written from PAGES data uploaded on 4/23/15.
