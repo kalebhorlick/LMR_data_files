@@ -51,16 +51,16 @@
 #	Site_Name: KUR2LS
 #	Location: Asia
 #	Country: Altai Mountains (AT)
-#	Northernmost_Latitude: 50.30
-#	Southernmost_Latitude: 50.30
+#	Northernmost_Latitude: 50.3
+#	Southernmost_Latitude: 50.3
 #	Easternmost_Longitude: 87.83
 #	Westernmost_Longitude: 87.83
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_4
-#	Earliest_Year: 1538
-#	Most_Recent_Year: 2000
+#	Earliest_Year: 1538.0
+#	Most_Recent_Year: 1999.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

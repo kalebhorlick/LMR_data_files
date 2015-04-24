@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_113
-#	Earliest_Year: 1511
-#	Most_Recent_Year: 1998
+#	Earliest_Year: 1511.0
+#	Most_Recent_Year: 1997.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -51,16 +51,16 @@
 #	Site_Name: MUNATG
 #	Location: Asia
 #	Country: Indonesia (ID)
-#	Northernmost_Latitude: -5.50
-#	Southernmost_Latitude: -5.50
-#	Easternmost_Longitude: 123.00
-#	Westernmost_Longitude: 123.00
+#	Northernmost_Latitude: -5.5
+#	Southernmost_Latitude: -5.5
+#	Easternmost_Longitude: 123
+#	Westernmost_Longitude: 123
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_101
-#	Earliest_Year: 1565
-#	Most_Recent_Year: 2005
+#	Earliest_Year: 1565.0
+#	Most_Recent_Year: 2004.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

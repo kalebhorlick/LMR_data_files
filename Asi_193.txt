@@ -51,16 +51,16 @@
 #	Site_Name: CGPPIG
 #	Location: Asia
 #	Country: Pakistan (PK)
-#	Northernmost_Latitude: 35.90
-#	Southernmost_Latitude: 35.90
+#	Northernmost_Latitude: 35.9
+#	Southernmost_Latitude: 35.9
 #	Easternmost_Longitude: 71.73
 #	Westernmost_Longitude: 71.73
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_193
-#	Earliest_Year: 1260
-#	Most_Recent_Year: 2006
+#	Earliest_Year: 1260.0
+#	Most_Recent_Year: 2005.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

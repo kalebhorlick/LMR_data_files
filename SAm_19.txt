@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: SAm_19
-#	Earliest_Year: 1880
-#	Most_Recent_Year: 1996
+#	Earliest_Year: 1880.0
+#	Most_Recent_Year: 1994.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Negative"}

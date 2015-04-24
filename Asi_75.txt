@@ -51,16 +51,16 @@
 #	Site_Name: DQHZHO
 #	Location: Asia
 #	Country: China (CH)
-#	Northernmost_Latitude: 35.00
-#	Southernmost_Latitude: 35.00
+#	Northernmost_Latitude: 35
+#	Southernmost_Latitude: 35
 #	Easternmost_Longitude: 100.07
 #	Westernmost_Longitude: 100.07
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_75
-#	Earliest_Year: 1433
-#	Most_Recent_Year: 2004
+#	Earliest_Year: 1433.0
+#	Most_Recent_Year: 2003.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

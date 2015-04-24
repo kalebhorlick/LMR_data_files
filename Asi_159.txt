@@ -51,16 +51,16 @@
 #	Site_Name: TUCHLS
 #	Location: Asia
 #	Country: Mongolia (MG)
-#	Northernmost_Latitude: 49.70
-#	Southernmost_Latitude: 49.70
+#	Northernmost_Latitude: 49.7
+#	Southernmost_Latitude: 49.7
 #	Easternmost_Longitude: 91.55
 #	Westernmost_Longitude: 91.55
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_159
-#	Earliest_Year: 1570
-#	Most_Recent_Year: 1995
+#	Earliest_Year: 1570.0
+#	Most_Recent_Year: 1994.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

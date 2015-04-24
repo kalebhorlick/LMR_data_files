@@ -53,14 +53,14 @@
 #	Country: China (CH)
 #	Northernmost_Latitude: 37.32
 #	Southernmost_Latitude: 37.32
-#	Easternmost_Longitude: 98.40
-#	Westernmost_Longitude: 98.40
+#	Easternmost_Longitude: 98.4
+#	Westernmost_Longitude: 98.4
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_94
-#	Earliest_Year: 943
-#	Most_Recent_Year: 2003
+#	Earliest_Year: 943.0
+#	Most_Recent_Year: 2002.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -53,14 +53,14 @@
 #	Country: Vietnam (VM)
 #	Northernmost_Latitude: 21.67
 #	Southernmost_Latitude: 21.67
-#	Easternmost_Longitude: 104.10
-#	Westernmost_Longitude: 104.10
+#	Easternmost_Longitude: 104.1
+#	Westernmost_Longitude: 104.1
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_228
-#	Earliest_Year: 1470
-#	Most_Recent_Year: 2004
+#	Earliest_Year: 1470.0
+#	Most_Recent_Year: 2003.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

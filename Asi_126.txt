@@ -51,16 +51,16 @@
 #	Site_Name: AJTMJT
 #	Location: Asia
 #	Country: Kyrgystan (KG)
-#	Northernmost_Latitude: 40.20
-#	Southernmost_Latitude: 40.20
+#	Northernmost_Latitude: 40.2
+#	Southernmost_Latitude: 40.2
 #	Easternmost_Longitude: 72.58
 #	Westernmost_Longitude: 72.58
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_126
-#	Earliest_Year: 1420
-#	Most_Recent_Year: 1995
+#	Earliest_Year: 1420.0
+#	Most_Recent_Year: 1994.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

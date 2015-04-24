@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Eur_4
-#	Earliest_Year: 1040
-#	Most_Recent_Year: 2011
+#	Earliest_Year: 1040.0
+#	Most_Recent_Year: 2010.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

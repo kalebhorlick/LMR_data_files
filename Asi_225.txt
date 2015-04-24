@@ -53,14 +53,14 @@
 #	Country: Tibet (TB)
 #	Northernmost_Latitude: 29.35
 #	Southernmost_Latitude: 29.35
-#	Easternmost_Longitude: 92.00
-#	Westernmost_Longitude: 92.00
+#	Easternmost_Longitude: 92
+#	Westernmost_Longitude: 92
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_225
-#	Earliest_Year: 1285
-#	Most_Recent_Year: 2008
+#	Earliest_Year: 1285.0
+#	Most_Recent_Year: 2007.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -51,16 +51,16 @@
 #	Site_Name: NARKAB
 #	Location: Asia
 #	Country: India (IN)
-#	Northernmost_Latitude: 31.20
-#	Southernmost_Latitude: 31.20
+#	Northernmost_Latitude: 31.2
+#	Southernmost_Latitude: 31.2
 #	Easternmost_Longitude: 77.23
 #	Westernmost_Longitude: 77.23
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_104
-#	Earliest_Year: 1590
-#	Most_Recent_Year: 1990
+#	Earliest_Year: 1590.0
+#	Most_Recent_Year: 1989.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Arc_13
-#	Earliest_Year: 1107
-#	Most_Recent_Year: 2007
+#	Earliest_Year: 1107.0
+#	Most_Recent_Year: 1999.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"positive"}

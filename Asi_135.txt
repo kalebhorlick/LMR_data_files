@@ -51,16 +51,16 @@
 #	Site_Name: KOELIU
 #	Location: Asia
 #	Country: Kazakhstan (KZ)
-#	Northernmost_Latitude: 42.20
-#	Southernmost_Latitude: 42.20
+#	Northernmost_Latitude: 42.2
+#	Southernmost_Latitude: 42.2
 #	Easternmost_Longitude: 79.05
 #	Westernmost_Longitude: 79.05
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_135
-#	Earliest_Year: 1450
-#	Most_Recent_Year: 2005
+#	Earliest_Year: 1450.0
+#	Most_Recent_Year: 2004.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

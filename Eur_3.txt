@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Eur_3
-#	Earliest_Year: 1
-#	Most_Recent_Year: 2006
+#	Earliest_Year: -138.0
+#	Most_Recent_Year: 2005.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

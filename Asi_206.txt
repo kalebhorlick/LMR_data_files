@@ -51,16 +51,16 @@
 #	Site_Name: MSFCDD
 #	Location: Asia
 #	Country: Pakistan (PK)
-#	Northernmost_Latitude: 35.50
-#	Southernmost_Latitude: 35.50
+#	Northernmost_Latitude: 35.5
+#	Southernmost_Latitude: 35.5
 #	Easternmost_Longitude: 74.08
 #	Westernmost_Longitude: 74.08
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_206
-#	Earliest_Year: 1296
-#	Most_Recent_Year: 2007
+#	Earliest_Year: 1296.0
+#	Most_Recent_Year: 2006.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -53,14 +53,14 @@
 #	Country: Altai Mountains (AT)
 #	Northernmost_Latitude: 49.62
 #	Southernmost_Latitude: 49.62
-#	Easternmost_Longitude: 88.10
-#	Westernmost_Longitude: 88.10
+#	Easternmost_Longitude: 88.1
+#	Westernmost_Longitude: 88.1
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_2
-#	Earliest_Year: 1561
-#	Most_Recent_Year: 2000
+#	Earliest_Year: 1561.0
+#	Most_Recent_Year: 1999.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

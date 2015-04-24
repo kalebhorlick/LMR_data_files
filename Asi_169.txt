@@ -51,16 +51,16 @@
 #	Site_Name: CHDAND
 #	Location: Asia
 #	Country: Nepal (NP)
-#	Northernmost_Latitude: 27.70
-#	Southernmost_Latitude: 27.70
+#	Northernmost_Latitude: 27.7
+#	Southernmost_Latitude: 27.7
 #	Easternmost_Longitude: 86.28
 #	Westernmost_Longitude: 86.28
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_169
-#	Earliest_Year: 1546
-#	Most_Recent_Year: 1998
+#	Earliest_Year: 1546.0
+#	Most_Recent_Year: 1997.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

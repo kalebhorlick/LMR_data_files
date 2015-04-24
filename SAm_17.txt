@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: SAm_17
-#	Earliest_Year: 1865
-#	Most_Recent_Year: 1998
+#	Earliest_Year: 1865.0
+#	Most_Recent_Year: 1994.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -51,16 +51,16 @@
 #	Site_Name: QML
 #	Location: Asia
 #	Country: China (CH)
-#	Northernmost_Latitude: 33.80
-#	Southernmost_Latitude: 33.80
+#	Northernmost_Latitude: 33.8
+#	Southernmost_Latitude: 33.8
 #	Easternmost_Longitude: 96.13
 #	Westernmost_Longitude: 96.13
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_93
-#	Earliest_Year: 1480
-#	Most_Recent_Year: 2002
+#	Earliest_Year: 1480.0
+#	Most_Recent_Year: 2001.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

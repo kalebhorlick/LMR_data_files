@@ -51,16 +51,16 @@
 #	Site_Name: RETIJT
 #	Location: Asia
 #	Country: Tibet (TB)
-#	Northernmost_Latitude: 30.30
-#	Southernmost_Latitude: 30.30
+#	Northernmost_Latitude: 30.3
+#	Southernmost_Latitude: 30.3
 #	Easternmost_Longitude: 91.52
 #	Westernmost_Longitude: 91.52
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_224
-#	Earliest_Year: 1080
-#	Most_Recent_Year: 1998
+#	Earliest_Year: 1080.0
+#	Most_Recent_Year: 1997.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

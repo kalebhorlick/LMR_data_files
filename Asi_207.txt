@@ -51,16 +51,16 @@
 #	Site_Name: MUSPIG
 #	Location: Asia
 #	Country: Pakistan (PK)
-#	Northernmost_Latitude: 35.50
-#	Southernmost_Latitude: 35.50
+#	Northernmost_Latitude: 35.5
+#	Southernmost_Latitude: 35.5
 #	Easternmost_Longitude: 74.75
 #	Westernmost_Longitude: 74.75
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_207
-#	Earliest_Year: 1362
-#	Most_Recent_Year: 2007
+#	Earliest_Year: 1362.0
+#	Most_Recent_Year: 2006.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Arc_15
-#	Earliest_Year: 0
-#	Most_Recent_Year: 2005
+#	Earliest_Year: 0.0
+#	Most_Recent_Year: 1999.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"positive"}

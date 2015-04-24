@@ -51,16 +51,16 @@
 #	Site_Name: ANKHLS
 #	Location: Asia
 #	Country: Mongolia (MG)
-#	Northernmost_Latitude: 48.60
-#	Southernmost_Latitude: 48.60
+#	Northernmost_Latitude: 48.6
+#	Southernmost_Latitude: 48.6
 #	Easternmost_Longitude: 88.37
 #	Westernmost_Longitude: 88.37
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_139
-#	Earliest_Year: 1469
-#	Most_Recent_Year: 2004
+#	Earliest_Year: 1469.0
+#	Most_Recent_Year: 2003.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

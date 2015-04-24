@@ -51,16 +51,16 @@
 #	Site_Name: KERALA
 #	Location: Asia
 #	Country: India (IN)
-#	Northernmost_Latitude: 10.00
-#	Southernmost_Latitude: 10.00
+#	Northernmost_Latitude: 10
+#	Southernmost_Latitude: 10
 #	Easternmost_Longitude: 76.67
 #	Westernmost_Longitude: 76.67
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_106
-#	Earliest_Year: 1481
-#	Most_Recent_Year: 2003
+#	Earliest_Year: 1481.0
+#	Most_Recent_Year: 2002.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

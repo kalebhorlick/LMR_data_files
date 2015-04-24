@@ -51,16 +51,16 @@
 #	Site_Name: HYGJUP
 #	Location: Asia
 #	Country: China (CH)
-#	Northernmost_Latitude: 38.70
-#	Southernmost_Latitude: 38.70
+#	Northernmost_Latitude: 38.7
+#	Southernmost_Latitude: 38.7
 #	Easternmost_Longitude: 99.68
 #	Westernmost_Longitude: 99.68
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_77
-#	Earliest_Year: 540
-#	Most_Recent_Year: 2006
+#	Earliest_Year: 540.0
+#	Most_Recent_Year: 2005.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

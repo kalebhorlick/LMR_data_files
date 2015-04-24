@@ -51,16 +51,16 @@
 #	Site_Name: JOTPIG
 #	Location: Asia
 #	Country: Pakistan (PK)
-#	Northernmost_Latitude: 35.40
-#	Southernmost_Latitude: 35.40
+#	Northernmost_Latitude: 35.4
+#	Southernmost_Latitude: 35.4
 #	Easternmost_Longitude: 74.12
 #	Westernmost_Longitude: 74.12
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_199
-#	Earliest_Year: 1559
-#	Most_Recent_Year: 2007
+#	Earliest_Year: 1559.0
+#	Most_Recent_Year: 2006.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

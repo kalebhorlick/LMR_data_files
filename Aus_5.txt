@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Aus_5
-#	Earliest_Year: 1457
-#	Most_Recent_Year: 1999
+#	Earliest_Year: 1458.0
+#	Most_Recent_Year: 1999.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

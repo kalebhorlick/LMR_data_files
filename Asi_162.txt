@@ -53,14 +53,14 @@
 #	Country: Mongolia (MG)
 #	Northernmost_Latitude: 47.78
 #	Southernmost_Latitude: 47.78
-#	Easternmost_Longitude: 107.50
-#	Westernmost_Longitude: 107.50
+#	Easternmost_Longitude: 107.5
+#	Westernmost_Longitude: 107.5
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_162
-#	Earliest_Year: 1582
-#	Most_Recent_Year: 1996
+#	Earliest_Year: 1582.0
+#	Most_Recent_Year: 1995.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

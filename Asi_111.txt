@@ -53,14 +53,14 @@
 #	Country: Japan (JP)
 #	Northernmost_Latitude: 30.33
 #	Southernmost_Latitude: 30.33
-#	Easternmost_Longitude: 130.50
-#	Westernmost_Longitude: 130.50
+#	Easternmost_Longitude: 130.5
+#	Westernmost_Longitude: 130.5
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_111
-#	Earliest_Year: 1
-#	Most_Recent_Year: 1999
+#	Earliest_Year: 1.0
+#	Most_Recent_Year: 1998.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

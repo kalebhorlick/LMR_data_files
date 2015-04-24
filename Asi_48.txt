@@ -51,16 +51,16 @@
 #	Site_Name: DULAJP
 #	Location: Asia
 #	Country: China (CH)
-#	Northernmost_Latitude: 36.30
-#	Southernmost_Latitude: 36.30
+#	Northernmost_Latitude: 36.3
+#	Southernmost_Latitude: 36.3
 #	Easternmost_Longitude: 98.08
 #	Westernmost_Longitude: 98.08
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_48
-#	Earliest_Year: 159
-#	Most_Recent_Year: 1993
+#	Earliest_Year: 159.0
+#	Most_Recent_Year: 1992.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

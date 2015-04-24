@@ -51,16 +51,16 @@
 #	Site_Name: DENSJT
 #	Location: Asia
 #	Country: Tibet (TB)
-#	Northernmost_Latitude: 29.30
-#	Southernmost_Latitude: 29.30
+#	Northernmost_Latitude: 29.3
+#	Southernmost_Latitude: 29.3
 #	Easternmost_Longitude: 91.97
 #	Westernmost_Longitude: 91.97
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_220
-#	Earliest_Year: 1217
-#	Most_Recent_Year: 1998
+#	Earliest_Year: 1217.0
+#	Most_Recent_Year: 1997.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

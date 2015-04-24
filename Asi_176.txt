@@ -53,14 +53,14 @@
 #	Country: Nepal (NP)
 #	Northernmost_Latitude: 27.67
 #	Southernmost_Latitude: 27.67
-#	Easternmost_Longitude: 87.20
-#	Westernmost_Longitude: 87.20
+#	Easternmost_Longitude: 87.2
+#	Westernmost_Longitude: 87.2
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_176
-#	Earliest_Year: 1546
-#	Most_Recent_Year: 1996
+#	Earliest_Year: 1546.0
+#	Most_Recent_Year: 1995.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -53,14 +53,14 @@
 #	Country: Bhutan (BT)
 #	Northernmost_Latitude: 27.45
 #	Southernmost_Latitude: 27.45
-#	Easternmost_Longitude: 90.00
-#	Westernmost_Longitude: 90.00
+#	Easternmost_Longitude: 90
+#	Westernmost_Longitude: 90
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_34
-#	Earliest_Year: 1280
-#	Most_Recent_Year: 2005
+#	Earliest_Year: 1280.0
+#	Most_Recent_Year: 2004.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

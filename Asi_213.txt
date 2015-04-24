@@ -51,16 +51,16 @@
 #	Site_Name: TKACDD
 #	Location: Asia
 #	Country: Pakistan (PK)
-#	Northernmost_Latitude: 35.00
-#	Southernmost_Latitude: 35.00
+#	Northernmost_Latitude: 35
+#	Southernmost_Latitude: 35
 #	Easternmost_Longitude: 70.78
 #	Westernmost_Longitude: 70.78
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_213
-#	Earliest_Year: 1569
-#	Most_Recent_Year: 2007
+#	Earliest_Year: 1569.0
+#	Most_Recent_Year: 2006.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Aus_2
-#	Earliest_Year: 999
-#	Most_Recent_Year: 2003
+#	Earliest_Year: 999.0
+#	Most_Recent_Year: 2000.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

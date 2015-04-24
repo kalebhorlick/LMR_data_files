@@ -51,16 +51,16 @@
 #	Site_Name: BULGLS
 #	Location: Asia
 #	Country: Mongolia (MG)
-#	Northernmost_Latitude: 47.10
-#	Southernmost_Latitude: 47.10
+#	Northernmost_Latitude: 47.1
+#	Southernmost_Latitude: 47.1
 #	Easternmost_Longitude: 90.97
 #	Westernmost_Longitude: 90.97
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_143
-#	Earliest_Year: 1375
-#	Most_Recent_Year: 2004
+#	Earliest_Year: 1375.0
+#	Most_Recent_Year: 2003.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -51,16 +51,16 @@
 #	Site_Name: KRNKAM
 #	Location: Asia
 #	Country: Kamchatka (KM)
-#	Northernmost_Latitude: 55.00
-#	Southernmost_Latitude: 55.00
-#	Easternmost_Longitude: 160.50
-#	Westernmost_Longitude: 160.50
+#	Northernmost_Latitude: 55
+#	Southernmost_Latitude: 55
+#	Easternmost_Longitude: 160.5
+#	Westernmost_Longitude: 160.5
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_133
-#	Earliest_Year: 1580
-#	Most_Recent_Year: 2001
+#	Earliest_Year: 1580.0
+#	Most_Recent_Year: 2000.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

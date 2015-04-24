@@ -51,16 +51,16 @@
 #	Site_Name: XIANGC
 #	Location: Asia
 #	Country: China (CH)
-#	Northernmost_Latitude: 28.90
-#	Southernmost_Latitude: 28.90
+#	Northernmost_Latitude: 28.9
+#	Southernmost_Latitude: 28.9
 #	Easternmost_Longitude: 99.75
 #	Westernmost_Longitude: 99.75
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_70
-#	Earliest_Year: 1452
-#	Most_Recent_Year: 2007
+#	Earliest_Year: 1452.0
+#	Most_Recent_Year: 2006.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

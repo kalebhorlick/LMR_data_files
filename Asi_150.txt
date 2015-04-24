@@ -51,16 +51,16 @@
 #	Site_Name: KHOVLS
 #	Location: Asia
 #	Country: Mongolia (MG)
-#	Northernmost_Latitude: 48.70
-#	Southernmost_Latitude: 48.70
-#	Easternmost_Longitude: 88.80
-#	Westernmost_Longitude: 88.80
+#	Northernmost_Latitude: 48.7
+#	Southernmost_Latitude: 48.7
+#	Easternmost_Longitude: 88.8
+#	Westernmost_Longitude: 88.8
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_150
-#	Earliest_Year: 1565
-#	Most_Recent_Year: 2004
+#	Earliest_Year: 1565.0
+#	Most_Recent_Year: 2003.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

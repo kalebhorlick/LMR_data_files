@@ -51,16 +51,16 @@
 #	Site_Name: GHUNAB
 #	Location: Asia
 #	Country: Nepal (NP)
-#	Northernmost_Latitude: 27.50
-#	Southernmost_Latitude: 27.50
+#	Northernmost_Latitude: 27.5
+#	Southernmost_Latitude: 27.5
 #	Easternmost_Longitude: 88.02
 #	Westernmost_Longitude: 88.02
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_179
-#	Earliest_Year: 1525
-#	Most_Recent_Year: 1999
+#	Earliest_Year: 1525.0
+#	Most_Recent_Year: 1998.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

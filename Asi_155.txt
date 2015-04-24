@@ -51,16 +51,16 @@
 #	Site_Name: SODAPS
 #	Location: Asia
 #	Country: Mongolia (MG)
-#	Northernmost_Latitude: 48.30
-#	Southernmost_Latitude: 48.30
+#	Northernmost_Latitude: 48.3
+#	Southernmost_Latitude: 48.3
 #	Easternmost_Longitude: 98.93
 #	Westernmost_Longitude: 98.93
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_155
-#	Earliest_Year: 46
-#	Most_Recent_Year: 1999
+#	Earliest_Year: 46.0
+#	Most_Recent_Year: 1998.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

@@ -53,14 +53,14 @@
 #	Country: Pakistan (PK)
 #	Northernmost_Latitude: 35.35
 #	Southernmost_Latitude: 35.35
-#	Easternmost_Longitude: 71.80
-#	Westernmost_Longitude: 71.80
+#	Easternmost_Longitude: 71.8
+#	Westernmost_Longitude: 71.8
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_214
-#	Earliest_Year: 1472
-#	Most_Recent_Year: 2005
+#	Earliest_Year: 1472.0
+#	Most_Recent_Year: 2004.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

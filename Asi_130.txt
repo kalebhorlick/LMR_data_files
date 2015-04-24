@@ -53,14 +53,14 @@
 #	Country: Kyrgystan (KG)
 #	Northernmost_Latitude: 39.83
 #	Southernmost_Latitude: 39.83
-#	Easternmost_Longitude: 71.50
-#	Westernmost_Longitude: 71.50
+#	Easternmost_Longitude: 71.5
+#	Westernmost_Longitude: 71.5
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_130
-#	Earliest_Year: 870
-#	Most_Recent_Year: 1995
+#	Earliest_Year: 870.0
+#	Most_Recent_Year: 1994.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

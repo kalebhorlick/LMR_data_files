@@ -51,16 +51,16 @@
 #	Site_Name: PHUMTD
 #	Location: Asia
 #	Country: Bhutan (BT)
-#	Northernmost_Latitude: 27.70
-#	Southernmost_Latitude: 27.70
+#	Northernmost_Latitude: 27.7
+#	Southernmost_Latitude: 27.7
 #	Easternmost_Longitude: 90.77
 #	Westernmost_Longitude: 90.77
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_27
-#	Earliest_Year: 1520
-#	Most_Recent_Year: 2003
+#	Earliest_Year: 1520.0
+#	Most_Recent_Year: 2002.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}

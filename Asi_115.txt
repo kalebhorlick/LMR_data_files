@@ -51,16 +51,16 @@
 #	Site_Name: TKC
 #	Location: Asia
 #	Country: Japan (JP)
-#	Northernmost_Latitude: 43.50
-#	Southernmost_Latitude: 43.50
-#	Easternmost_Longitude: 143.20
-#	Westernmost_Longitude: 143.20
+#	Northernmost_Latitude: 43.5
+#	Southernmost_Latitude: 43.5
+#	Easternmost_Longitude: 143.2
+#	Westernmost_Longitude: 143.2
 #	Elevation:
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_115
-#	Earliest_Year: 1487
-#	Most_Recent_Year: 1997
+#	Earliest_Year: 1487.0
+#	Most_Recent_Year: 1996.0
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"Positive"}
