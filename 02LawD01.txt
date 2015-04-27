@@ -72,8 +72,8 @@ seesaw.
 #	Site_Name: Law Dome
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: 66.766
-#	Southernmost_Latitude: 66.766
+#	Northernmost_Latitude: -66.766
+#	Southernmost_Latitude: -66.766
 #	Easternmost_Longitude: 112.8
 #	Westernmost_Longitude: 112.8
 #	Elevation: 1370 m
