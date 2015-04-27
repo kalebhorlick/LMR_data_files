@@ -16,13 +16,13 @@
 # Description/Documentation lines begin with #
 # Data lines have no #
 #
-# Archive: Ice Cores
+# Archive: Climate Reconstructions
 # --------------------
 # Contribution_date
 #	Date: 2014-12-10
 # --------------------
 # Title 
-#	Study_Name: # Swiss 517 Year Grain Harvest Date Spring/Summer Temperature Reconstruction
+#	Study_Name: Swiss 517 Year Grain Harvest Date Spring/Summer Temperature Reconstruction
 # --------------------
 # Investigators
 #	Investigators:  Wetter, O.; Pfister, C.
