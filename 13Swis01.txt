@@ -1,0 +1,665 @@
+# Swiss 567 Year Grape Harvest Date Spring/Summer Temperature Reconstruction
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:17615
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/historical/europe/switzerland/swiss-summer-temp2011.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstructions
+# --------------------
+# Contribution_date
+#	Date: 2014-12-10
+# --------------------
+# Title 
+#	Study_Name:  Swiss 567 Year Grape Harvest Date Spring/Summer Temperature Reconstruction
+# --------------------
+# Investigators
+#	Investigators:  Wetter, O.; Pfister, C.
+# --------------------
+# Description_and_Notes
+# 	Description:  567-yr long reconstruction of spring-summer (AMJJ) temperatures from documentary-based grape 
+#	harvest starting dates (GHD).  The new Swiss GHD series is composed from four different kinds of GHD; 
+#	(a) (institutional) wage payment data (WPD) (b) (Institutional) grape harvest ban related data (GHBD)
+#	(c) (individual) historic phenological data (HPD) (d) (institutional) phenological network observation (PNO). 
+#	Assessments of full grape maturity in 1540 is drawn from HPD in combination with narrative information. 
+#	Temperature reconstruction via linear regression between measured temperatures and GHD proxy data series.  
+#	
+# --------------------
+# Publication
+#	Authors: O. Wetter and C. Pfister
+#	Published_Date_or_Year: 2013-01-14
+#	Published_Title:  An underestimated record breaking event - why summer 1540 was likely warmer than 2003
+#	Journal_Name: Climate of the Past
+#	Volume: 9	
+#	Edition: 	
+#	Issue: 1
+#	Pages: 41-56
+#	DOI: 10.5194/cp-9-41-2013
+#	Online_Resource:  http://www.clim-past.net/9/41/2013/cp-9-41-2013.html
+#	Full_Citation:  
+#	Abstract:  The heat of summer 2003 in Western and Central Europe was claimed to be unprecedented since the Middle Ages on the basis of grape harvest data (GHD) and late wood maximum density (MXD) data from trees in the Alps. This paper shows that the authors of these studies overlooked the fact that the heat and drought in Switzerland in 1540 likely exceeded the amplitude of the previous hottest summer of 2003, because the persistent temperature and precipitation anomaly in that year, described in an abundant and coherent body of documentary evidence, severely affected the reliability of GHD and tree-rings as proxy-indicators for temperature estimates. Spring-summer (AMJJ) temperature anomalies of 4.7C to 6.8C being significantly higher than in 2003 were assessed for 1540 from a new long Swiss GHD series (1444 to 2011). During the climax of the heat wave in early August the grapes desiccated on the vine, which caused many vine-growers to interrupt or postpone the harvest despite full grape maturity until after the next spell of rain. Likewise, the leaves of many trees withered and fell to the ground under extreme drought stress as would usually be expected in late autumn. It remains to be determined by further research whether and how far this result obtained from local analyses can be spatially extrapolated. Based on the temperature estimates for Switzerland it is assumed from a great number of coherent qualitative documentary evidence about the outstanding heat drought in 1540 that AMJJ temperatures were likely more extreme in neighbouring regions of Western and Central Europe than in 2003. Considering the significance of soil moisture deficits for record breaking heat waves, these results still need to be validated with estimated seasonal precipitation. It is concluded that biological proxy data may not properly reveal record breaking heat and drought events. Such assessments thus need to be complemented with the critical study of contemporary evidence from documentary sources which provide coherent and detailed data about weather extremes and related impacts on human, ecological and social systems.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant: 100011-120157
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Oeschger Centre for Climatic Change Research (OCCR)
+#	Grant:
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name:  University of Bern
+#	Grant: H.A. Vogelin-Bienz-Stiftung, Institute of History
+# --------------------
+# Site_Information
+#	Site_Name: Swiss GHD
+#	Location: Europe>Western Europe>Switzerland
+#	Country:  Switzerland
+#	Northernmost_Latitude: 47.8
+#	Southernmost_Latitude: 46.5
+#	Easternmost_Longitude: 9.5
+#	Westernmost_Longitude: 6.4
+#	Elevation:  m
+# --------------------
+# Data_Collection
+#	Collection_Name: 11Swis01
+#	Earliest_Year: 1444
+#	Most_Recent_Year: 2011
+#	Time_Unit: y_ad
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	Age,,,years AD,,,,,N 
+##tempanom-MAMJJ	surface temperature anomaly, , , Deg C, March-July, Reconstruction, , ,N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	tempanom-MAMJJ
+age_AD	tempanom-AMJJ
+1444	1.89
+1445	NAN
+1446	NAN
+1447	NAN
+1448	NAN
+1449	NAN
+1450	NAN
+1451	NAN
+1452	NAN
+1453	NAN
+1454	NAN
+1455	NAN
+1456	NAN
+1457	NAN
+1458	0.76
+1459	NAN
+1460	NAN
+1461	1.13
+1462	-0.28
+1463	-0.28
+1464	1.32
+1465	-0.65
+1466	0.38
+1467	0.38
+1468	-0.47
+1469	1.32
+1470	-0.47
+1471	2.07
+1472	NAN
+1473	2.54
+1474	-0.65
+1475	0.1
+1476	1.42
+1477	0.38
+1478	0.85
+1479	1.51
+1480	-1.03
+1481	-1.78
+1482	1.42
+1483	1.51
+1484	0.57
+1485	-1.31
+1486	0.95
+1487	NAN
+1488	-1.03
+1489	NAN
+1490	0.1
+1491	NAN
+1492	1.13
+1493	-0.47
+1494	1.23
+1495	1.32
+1496	-0.56
+1497	0.47
+1498	0.38
+1499	0.57
+1500	1.89
+1501	0.76
+1502	0.76
+1503	1.51
+1504	1.42
+1505	-0.56
+1506	0.38
+1507	1.51
+1508	-0.56
+1509	0.57
+1510	0.29
+1511	0.38
+1512	0.38
+1513	0.19
+1514	0.1
+1515	-0.37
+1516	1.51
+1517	1.13
+1518	0.85
+1519	0.1
+1520	1.32
+1521	1.42
+1522	-0.18
+1523	0.66
+1524	0.47
+1525	NAN
+1526	0.76
+1527	-1.69
+1528	0
+1529	-1.31
+1530	0.29
+1531	-0.84
+1532	NAN
+1533	0
+1534	1.13
+1535	0.47
+1536	NAN
+1537	NAN
+1538	2.17
+1539	0.85
+1540	5.18
+1541	NAN
+1542	-2.63
+1543	-0.75
+1544	-0.28
+1545	0.95
+1546	0.85
+1547	-0.94
+1548	-0.09
+1549	1.13
+1550	-0.18
+1551	0.66
+1552	1.32
+1553	0.19
+1554	0.85
+1555	-0.47
+1556	2.45
+1557	0.19
+1558	0.85
+1559	1.79
+1560	0.38
+1561	1.42
+1562	1.13
+1563	-0.37
+1564	0.19
+1565	0.29
+1566	1.23
+1567	0.85
+1568	-0.18
+1569	-0.37
+1570	-0.84
+1571	1.6
+1572	0.85
+1573	-1.5
+1574	0.47
+1575	0.29
+1576	-0.56
+1577	-0.18
+1578	0.1
+1579	-1.12
+1580	0.47
+1581	0.19
+1582	0.85
+1583	1.51
+1584	0.85
+1585	-0.28
+1586	0.38
+1587	-1.31
+1588	0
+1589	NAN
+1590	1.51
+1591	-0.09
+1592	-1.03
+1593	-0.47
+1594	-0.84
+1595	0.19
+1596	-0.84
+1597	-0.94
+1598	0.66
+1599	1.89
+1600	-1.31
+1601	-0.65
+1602	0.47
+1603	0.95
+1604	0.85
+1605	0.95
+1606	-0.65
+1607	0.19
+1608	-0.47
+1609	0.1
+1610	1.13
+1611	1.79
+1612	-0.18
+1613	-0.09
+1614	-0.56
+1615	0.85
+1616	2.26
+1617	-1.12
+1618	-0.94
+1619	0.66
+1620	-0.28
+1621	-1.41
+1622	-0.28
+1623	0.66
+1624	1.6
+1625	-0.37
+1626	0.47
+1627	-1.5
+1628	-2.44
+1629	1.13
+1630	0.66
+1631	0.76
+1632	-1.22
+1633	-0.47
+1634	0.19
+1635	0.1
+1636	1.42
+1637	1.79
+1638	1.89
+1639	-0.28
+1640	-0.28
+1641	-0.37
+1642	-1.41
+1643	-0.65
+1644	1.04
+1645	0.95
+1646	0.19
+1647	0.29
+1648	-0.37
+1649	-1.12
+1650	-0.56
+1651	0.57
+1652	-0.18
+1653	1.51
+1654	-0.56
+1655	0.1
+1656	0
+1657	0.57
+1658	-0.28
+1659	1.13
+1660	1.32
+1661	0.76
+1662	-0.37
+1663	-0.75
+1664	0
+1665	0.76
+1666	1.23
+1667	-0.94
+1668	0.38
+1669	1.04
+1670	-0.09
+1671	0.38
+1672	-0.18
+1673	-1.41
+1674	-0.18
+1675	-2.35
+1676	1.23
+1677	-0.65
+1678	0.66
+1679	0.38
+1680	0.29
+1681	0.29
+1682	-0.84
+1683	0.47
+1684	1.6
+1685	0.1
+1686	1.51
+1687	-0.09
+1688	-0.37
+1689	-0.75
+1690	-0.56
+1691	0.1
+1692	-2.06
+1693	-0.28
+1694	0.29
+1695	-1.97
+1696	-0.65
+1697	-0.18
+1698	-2.63
+1699	-1.03
+1700	-1.5
+1701	0
+1702	-0.56
+1703	-0.47
+1704	1.23
+1705	-1.22
+1706	1.13
+1707	-0.18
+1708	0.76
+1709	0.29
+1710	0.76
+1711	-0.65
+1712	0.57
+1713	-0.75
+1714	-0.75
+1715	0.85
+1716	-1.03
+1717	0.1
+1718	2.64
+1719	1.6
+1720	-1.22
+1721	0.1
+1722	0.76
+1723	0.76
+1724	0.47
+1725	-0.65
+1726	1.89
+1727	0.47
+1728	0.76
+1729	0.38
+1730	-0.28
+1731	0.29
+1732	0.38
+1733	0.57
+1734	0.57
+1735	0.1
+1736	0.57
+1737	0.47
+1738	0.76
+1739	0.29
+1740	-0.56
+1741	-0.18
+1742	-1.03
+1743	-0.75
+1744	-0.18
+1745	-0.28
+1746	0.57
+1747	0.38
+1748	0
+1749	0.1
+1750	0.29
+1751	-0.75
+1752	-0.56
+1753	0.29
+1754	-0.18
+1755	0.29
+1756	-0.75
+1757	-0.18
+1758	-0.37
+1759	1.04
+1760	1.13
+1761	0.76
+1762	0.95
+1763	-0.18
+1764	0.19
+1765	-0.28
+1766	-0.18
+1767	-0.94
+1768	-0.09
+1769	-0.18
+1770	-0.56
+1771	0.38
+1772	0.29
+1773	-0.84
+1774	0.85
+1775	0.19
+1776	0
+1777	0
+1778	0.76
+1779	0.95
+1780	1.13
+1781	1.6
+1782	0.57
+1783	0.85
+1784	0.95
+1785	-0.56
+1786	0.19
+1787	-0.18
+1788	1.6
+1789	0.19
+1790	0.47
+1791	0.85
+1792	0.19
+1793	1.04
+1794	2.26
+1795	1.13
+1796	-0.09
+1797	0.95
+1798	0.85
+1799	-0.75
+1800	1.32
+1801	0.95
+1802	1.51
+1803	0.47
+1804	0.76
+1805	-0.75
+1806	0.57
+1807	1.79
+1808	0.47
+1809	-0.75
+1810	0.47
+1811	1.6
+1812	-0.56
+1813	-0.47
+1814	-0.18
+1815	0.76
+1816	-1.41
+1817	-0.18
+1818	1.04
+1819	1.13
+1820	0.19
+1821	-0.75
+1822	3.48
+1823	-0.09
+1824	0.1
+1825	1.23
+1826	1.04
+1827	1.13
+1828	0.95
+1829	0
+1830	0.66
+1831	0.47
+1832	0.1
+1833	0.66
+1834	2.17
+1835	0.47
+1836	0.19
+1837	0.1
+1838	0.38
+1839	0.85
+1840	0.76
+1841	1.13
+1842	1.6
+1843	-0.56
+1844	0.76
+1845	-0.09
+1846	2.07
+1847	0.38
+1848	1.13
+1849	1.04
+1850	0.19
+1851	0
+1852	0.66
+1853	0
+1854	0.76
+1855	0.38
+1856	0.38
+1857	0.85
+1858	1.13
+1859	1.42
+1860	-0.18
+1861	1.23
+1862	1.89
+1863	1.13
+1864	0.95
+1865	2.83
+1866	0.47
+1867	0.85
+1868	2.73
+1869	0.57
+1870	1.42
+1871	0
+1872	-0.28
+1873	1.04
+1874	0
+1875	1.42
+1876	-0.28
+1877	0.38
+1878	0.47
+1879	-0.94
+1880	0.66
+1881	1.51
+1882	NAN
+1883	NAN
+1884	NAN
+1885	1.04
+1886	0.85
+1887	0.47
+1888	0.76
+1889	0.57
+1890	0.19
+1891	0.1
+1892	0.57
+1893	1.51
+1894	0.1
+1895	0.57
+1896	0
+1897	1.13
+1898	-0.09
+1899	0.1
+1900	0.47
+1901	1.23
+1902	-0.28
+1903	0.38
+1904	1.23
+1905	0.76
+1906	-0.18
+1907	-0.09
+1908	1.04
+1909	0.57
+1910	0.19
+1911	1.04
+1912	0.19
+1913	0.29
+1914	-0.28
+1915	1.13
+1916	-0.65
+1917	1.6
+1918	-0.09
+1919	-0.18
+1920	1.23
+1921	1.32
+1922	0.19
+1923	-0.75
+1924	0.19
+1925	0
+1926	-0.75
+1927	0.76
+1928	0.1
+1929	0.38
+1930	0.1
+1931	-0.09
+1932	-0.75
+1933	-0.47
+1934	1.6
+1935	0
+1936	0
+1937	0.95
+1938	-0.47
+1939	-1.22
+1940	0.47
+1941	-0.65
+1942	0.57
+1943	0.85
+1944	-0.47
+1945	2.17
+1946	0.47
+1947	1.51
+1948	-0.09
+1949	0.47
+1950	1.13
+1951	-0.47
+1952	1.13
+1953	1.04
+1954	-0.65
+1955	0.1
+1956	-0.56
+1957	0.1
+1958	0.29
+1959	0.57
+1960	0.29
+1961	0.47
+1962	-0.28
+1963	-0.28
+1964	0.85
+1965	-0.65
+1966	0.38
+1967	0.38
+1968	0.1
+1969	0.38
+1970	-0.37
+1971	0.19
+1972	-0.09
+1973	0.1
+1974	-0.65
+1975	0.66
+1976	0.76
+1977	-0.75
+1978	-1.03
+1979	0.19
+1980	-1.31
+1981	0.95
+1982	0.66
+1983	0.85
+1984	-0.56
+1985	0.19
+1986	0.38
+1987	-0.75
+1988	0.38
+1989	1.04
+1990	0.47
+1991	0.19
+1992	0.85
+1993	0.95
+1994	0.85
+1995	-0.18
+1996	-0.28
+1997	0.1
+1998	0.29
+1999	0.1
+2000	0.85
+2001	0.1
+2002	0.57
+2003	2.83
+2004	0
+2005	0.76
+2006	0.76
+2007	1.51
+2008	0.1
+2009	1.32
+2010	0.29
+2011	1.51
