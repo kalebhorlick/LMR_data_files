@@ -1,0 +1,608 @@
+# Swiss 517 Year Grain Harvest Date Spring/Summer Temperature Reconstruction
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:17615
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/historical/europe/switzerland/swiss-summer-temp2011.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores
+# --------------------
+# Contribution_date
+#	Date: 2014-12-10
+# --------------------
+# Title 
+#	Study_Name: # Swiss 517 Year Grain Harvest Date Spring/Summer Temperature Reconstruction
+# --------------------
+# Investigators
+#	Investigators:  Wetter, O.; Pfister, C.
+# --------------------
+# Description_and_Notes
+# 	Description: 17-yr long reconstruction of spring-summer(MAMJJ) temperatures from documentary-based winter rye (secale cereale)harvest starting dates covering the period from 1454 to 1970.
+#	
+# --------------------
+# Publication
+#	Authors: O. Wetter and C. Pfister
+#	Published_Date_or_Year: 2011-11-29
+#	Published_Title: Spring-summer temperatures reconstructed for northern Switzerland and southwestern Germany from winter rye harvest dates, 1454-1970
+#	Journal_Name: Climate of the Past
+#	Volume: 7	
+#	Edition: 	
+#	Issue: 4
+#	Pages: 1307-1326
+#	DOI: 10.5194/cp-7-1307-2011
+#	Online_Resource: http://www.clim-past.net/7/1307/2011/cp-7-1307-2011.html
+#	Full_Citation:  
+#	Abstract: This paper presents a unique 517-yr long documentary data-based reconstruction of spring-summer (MAMJJ) temperatures for northern Switzerland and south-western Germany from 1454 to 1970. It is composed of 25 partial series of winter grain (secale cereale) harvest starting dates (WGHD) that are partly based on harvest related bookkeeping of institutions (hospitals, municipalities), partly on (early) phenological observations. The resulting main Basel WGHD series was homogenised with regard to dating style, data type and altitude. The calibration and verification approach was applied using the homogenous HISTALP temperature series from 1774-1824 for calibration (r = 0.78) and from 1920-1970 for verification (r = 0.75). The latter result even suffers from the weak data base available for 1870-1950. Temperature reconstructions based on WGHD are more influenced by spring temperatures than those based on grape harvest dates (GHD), because rye in contrast to vines already begins to grow as soon as sunlight brings the plant to above freezing. The earliest and latest harvest dates were checked for consistency with narrative documentary weather reports. Comparisons with other European documentary-based GHD and WGHD temperature reconstructions generally reveal significant correlations decreasing with the distance from Switzerland. The new Basel WGHD series shows better skills in representing highly climate change sensitive variations of Swiss Alpine glaciers than available GHD series.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant: 100011-120157
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Oeschger Centre for Climatic Change Research (OCCR)
+#	Grant:
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name:  University of Bern
+#	Grant: H.A. Vogelin-Bienz-Stiftung, Institute of History
+# --------------------
+# Site_Information
+#	Site_Name: Northern Switzerland/Southwest Germany
+#	Location: Europe>Western Europe
+#	Country: 
+#	Northernmost_Latitude: -48.5
+#	Southernmost_Latitude: 47.0
+#	Easternmost_Longitude: 10.0
+#	Westernmost_Longitude: 7.0
+#	Elevation:  m
+# --------------------
+# Data_Collection
+#	Collection_Name: 11Swis01
+#	Earliest_Year: 1454
+#	Most_Recent_Year: 1970
+#	Time_Unit: y_ad
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	Age,,,years AD,,,,,N 
+##tempanom-MAMJJ	surface temperature anomaly, , , Deg C, March-July, Reconstruction, , ,N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age tempanom-MAMJJ
+1454	-0.65
+1455	NAN
+1456	-1.19
+1457	NAN
+1458	0.23
+1459	NAN
+1460	NAN
+1461	0.77
+1462	-0.65
+1463	NAN
+1464	0.44
+1465	-1.08
+1466	-0.32
+1467	-0.76
+1468	NAN
+1469	-0.1
+1470	-0.43
+1471	0.88
+1472	NAN
+1473	2.08
+1474	NAN
+1475	NAN
+1476	0.33
+1477	-0.32
+1478	-0.32
+1479	0.44
+1480	-0.76
+1481	-0.65
+1482	0.44
+1483	1.64
+1484	0.55
+1485	-1.08
+1486	-0.21
+1487	
+1488	-0.76
+1489	NAN
+1490	0.12
+1491	NAN
+1492	-0.21
+1493	-0.32
+1494	0.44
+1495	0.66
+1496	-0.65
+1497	-0.1
+1498	-0.32
+1499	-0.21
+1500	0.55
+1501	0.55
+1502	0.44
+1503	0.88
+1504	0.66
+1505	-0.21
+1506	0.33
+1507	0.77
+1508	0.33
+1509	0.33
+1510	-0.32
+1511	-1.19
+1512	0.33
+1513	NAN
+1514	-0.21
+1515	0.23
+1516	1.43
+1517	0.99
+1518	0.77
+1519	0.44
+1520	-0.1
+1521	0.33
+1522	-1.3
+1523	0.66
+1524	0.01
+1525	NAN
+1526	-0.65
+1527	-0.54
+1528	0.23
+1529	-0.43
+1530	0.33
+1531	-0.65
+1532	0.99
+1533	0.44
+1534	1.1
+1535	0.99
+1536	0.55
+1537	1.43
+1538	NAN
+1539	1.32
+1540	1.86
+1541	NAN
+1542	-1.74
+1543	-0.54
+1544	-0.86
+1545	-0.21
+1546	0.44
+1547	0.77
+1548	NAN
+1549	0.12
+1550	-0.21
+1551	0.66
+1552	1.32
+1553	NAN
+1554	NAN
+1555	NAN
+1556	0.55
+1557	-0.1
+1558	-0.1
+1559	0.44
+1560	-0.43
+1561	0.66
+1562	0.33
+1563	0.12
+1564	-0.65
+1565	-0.32
+1566	-1.19
+1567	0.44
+1568	-0.54
+1569	-0.76
+1570	-1.19
+1571	-0.21
+1572	0.55
+1573	-0.97
+1574	-0.86
+1575	-0.97
+1576	-0.54
+1577	-0.54
+1578	-0.43
+1579	0.01
+1580	-0.1
+1581	-0.32
+1582	-0.21
+1583	0.55
+1584	1.1
+1585	0.33
+1586	-0.21
+1587	-0.86
+1588	0.55
+1589	-0.65
+1590	0.12
+1591	-0.21
+1592	-1.08
+1593	-0.1
+1594	-0.65
+1595	-0.65
+1596	-0.54
+1597	-1.08
+1598	-1.41
+1599	0.99
+1600	-0.97
+1601	NAN
+1602	NAN
+1603	1.43
+1604	0.99
+1605	0.66
+1606	0.44
+1607	-0.65
+1608	-1.19
+1609	0.66
+1610	0.44
+1611	1.53
+1612	0.55
+1613	0.33
+1614	-1.63
+1615	-0.1
+1616	1.97
+1617	0.12
+1618	-0.43
+1619	0.44
+1620	-0.54
+1621	-1.41
+1622	-0.76
+1623	-0.1
+1624	0.44
+1625	0.44
+1626	0.77
+1627	-0.97
+1628	-1.08
+1629	0.12
+1630	0.01
+1631	1.32
+1632	-0.76
+1633	-0.32
+1634	0.12
+1635	0.12
+1636	1.43
+1637	0.88
+1638	1.43
+1639	0.33
+1640	0.77
+1641	-0.54
+1642	0.33
+1643	-0.21
+1644	0.01
+1645	1.53
+1646	0.01
+1647	0.44
+1648	0.23
+1649	-0.86
+1650	0.44
+1651	0.12
+1652	0.33
+1653	1.43
+1654	0.12
+1655	0.33
+1656	0.12
+1657	0.44
+1658	-0.21
+1659	0.77
+1660	0.33
+1661	1.1
+1662	0.77
+1663	0.01
+1664	0.66
+1665	0.44
+1666	0.55
+1667	0.01
+1668	0.33
+1669	0.88
+1670	0.55
+1671	0.77
+1672	0.01
+1673	-0.65
+1674	0.44
+1675	-0.86
+1676	0.99
+1677	0.77
+1678	0.12
+1679	0.66
+1680	0.33
+1681	0.33
+1682	0.44
+1683	1.1
+1684	0.99
+1685	0.55
+1686	1.64
+1687	0.44
+1688	-0.21
+1689	-0.21
+1690	-0.1
+1691	-0.21
+1692	-1.3
+1693	-0.54
+1694	0.55
+1695	-0.43
+1696	-0.54
+1697	0.12
+1698	-1.08
+1699	-0.1
+1700	-0.21
+1701	-0.43
+1702	-0.32
+1703	0.23
+1704	0.23
+1705	-0.32
+1706	0.77
+1707	0.01
+1708	0.23
+1709	-0.21
+1710	0.55
+1711	0.55
+1712	0.33
+1713	0.01
+1714	-0.21
+1715	0.77
+1716	-1.3
+1717	-0.43
+1718	1.53
+1719	1.32
+1720	0.01
+1721	-0.21
+1722	0.33
+1723	0.88
+1724	1.21
+1725	0.01
+1726	0.88
+1727	0.88
+1728	1.21
+1729	0.23
+1730	0.23
+1731	-0.1
+1732	0.33
+1733	0.12
+1734	0.44
+1735	-0.54
+1736	0.44
+1737	0.44
+1738	-0.1
+1739	0.66
+1740	-1.3
+1741	-0.54
+1742	-0.32
+1743	-0.43
+1744	-0.21
+1745	0.01
+1746	0.01
+1747	-0.32
+1748	-0.21
+1749	-0.32
+1750	-0.1
+1751	-0.97
+1752	-0.21
+1753	0.66
+1754	0.23
+1755	0.44
+1756	-0.1
+1757	0.12
+1758	-0.1
+1759	0.66
+1760	0.99
+1761	0.66
+1762	0.66
+1763	-0.43
+1764	0.44
+1765	0.33
+1766	-0.21
+1767	-0.43
+1768	0.01
+1769	-0.1
+1770	-0.97
+1771	0.01
+1772	0.12
+1773	-0.32
+1774	0.55
+1775	-0.32
+1776	-0.32
+1777	-0.43
+1778	0.01
+1779	0.33
+1780	0.23
+1781	0.66
+1782	-0.43
+1783	0.01
+1784	0.01
+1785	-0.86
+1786	-0.1
+1787	-0.86
+1788	0.55
+1789	-0.32
+1790	0.44
+1791	0.44
+1792	-0.32
+1793	-0.32
+1794	0.55
+1795	0.12
+1796	-0.43
+1797	-0.32
+1798	0.88
+1799	-1.63
+1800	-0.43
+1801	-0.32
+1802	0.99
+1803	-0.43
+1804	0.55
+1805	-0.65
+1806	0.33
+1807	0.23
+1808	-0.32
+1809	-0.21
+1810	-0.43
+1811	1.32
+1812	-0.43
+1813	-0.43
+1814	-0.54
+1815	0.33
+1816	-2.06
+1817	-0.76
+1818	0.01
+1819	0.33
+1820	-0.1
+1821	-0.76
+1822	1.86
+1823	-0.54
+1824	-1.3
+1825	0.01
+1826	0.12
+1827	0.66
+1828	0.01
+1829	-0.76
+1830	1.1
+1831	-0.21
+1832	-0.65
+1833	-0.1
+1834	0.99
+1835	1.32
+1836	-0.76
+1837	-0.21
+1838	-0.21
+1839	0.44
+1840	-0.1
+1841	0.12
+1842	1.53
+1843	-1.3
+1844	-0.43
+1845	-0.43
+1846	1.64
+1847	-0.32
+1848	0.33
+1849	-0.1
+1850	-1.3
+1851	-1.52
+1852	-0.21
+1853	-0.1
+1854	-0.21
+1855	-1.19
+1856	0.44
+1857	0.77
+1858	-0.21
+1859	0.88
+1860	-1.19
+1861	0.01
+1862	1.43
+1863	0.77
+1864	0.01
+1865	0.66
+1866	0.77
+1867	0.99
+1868	1.75
+1869	0.33
+1870	0.66
+1871	-0.76
+1872	-0.32
+1873	0.23
+1874	NAN
+1875	NAN
+1876	-0.54
+1877	0.66
+1878	0.12
+1879	-1.19
+1880	-0.43
+1881	0.88
+1882	0.01
+1883	0.33
+1884	0.55
+1885	0.66
+1886	0.55
+1887	0.23
+1888	-0.65
+1889	0.33
+1890	-0.21
+1891	-0.86
+1892	0.23
+1893	1.32
+1894	0.77
+1895	0.33
+1896	-0.32
+1897	0.77
+1898	-0.1
+1899	0.23
+1900	0.23
+1901	1.1
+1902	0.01
+1903	-0.65
+1904	1.1
+1905	0.88
+1906	-0.1
+1907	-0.32
+1908	0.55
+1909	-0.97
+1910	-0.21
+1911	0.66
+1912	0.66
+1913	-0.65
+1914	-0.1
+1915	1.21
+1916	0.01
+1917	0.55
+1918	0.33
+1919	-0.65
+1920	0.66
+1921	1.1
+1922	0.77
+1923	-0.43
+1924	-0.32
+1925	-0.1
+1926	-0.76
+1927	-0.21
+1928	0.12
+1929	-0.21
+1930	NAN
+1931	0.33
+1932	-0.76
+1933	-0.76
+1934	1.32
+1935	0.33
+1936	-0.32
+1937	0.77
+1938	-0.21
+1939	-1.41
+1940	-0.1
+1941	-0.32
+1942	-0.76
+1943	0.12
+1944	-0.32
+1945	0.88
+1946	0.44
+1947	NAN
+1948	-0.76
+1949	-0.21
+1950	1.32
+1951	-0.43
+1952	0.88
+1953	0.66
+1954	-0.1
+1955	0.01
+1956	-1.08
+1957	-0.21
+1958	0.01
+1959	0.88
+1960	0.55
+1961	0.12
+1962	-1.08
+1963	-0.43
+1964	0.77
+1965	-0.86
+1966	0.77
+1967	0.23
+1968	-0.21
+1969	-0.43
+1970	-0.76
