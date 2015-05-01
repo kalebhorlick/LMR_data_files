@@ -23,23 +23,22 @@
 # --------------------
 # Title 
 #	Study_Name:  Global and Hemispheric 400 Year Glacier Length Temperature Reconstructions
-
 # --------------------
 # Investigators
-#	Investigators:  Leclercq, P.W.; Oerlemans, J.
+#	Investigators: Leclercq, P.W.; Oerlemans, J.
 # --------------------
 # Description_and_Notes
-# 	Description:  Global, Northern hemisphere, and Southern hemisphere temperature reconstructions for period 1600 to 2000, based on world-wide glacier length changes. Data are the reconstructed temperature anomaly w.r.t. the 1961-1990 average temperature, plus the uncertainty at 95% confidence interval.
+# 	Description: Global, Northern hemisphere, and Southern hemisphere temperature reconstructions for period 1600 to 2000, based on world-wide glacier length changes. Data are the reconstructed temperature anomaly w.r.t. the 1961-1990 average temperature, plus the uncertainty at 95% confidence interval.
 # --------------------
 # Publication
 #	Authors:  Paul Willem Leclercq and Johannes Oerlemans
 #	Published_Date_or_Year:  2012- 03- 01
 #	Published_Title:  Global and hemispheric temperature reconstruction from glacier length fluctuations
 #	Journal_Name: Climate Dynamics
-#	Volume:  38
-#	Edition:  5-6
-#	Issue:  1065-1079
-#	Pages:  437-449
+#	Volume: 38
+#	Edition: 5-6
+#	Issue: 1065-1079
+#	Pages: 437-449
 #	DOI: 10.1007/s00382-011-1145-7
 #	Online_Resource:  
 #	Full_Citation:  
@@ -55,14 +54,14 @@
 #	Country:  
 #	Northernmost_Latitude: 90
 #	Southernmost_Latitude: -0
-#	Easternmost_Longitude:  180
+#	Easternmost_Longitude: 180
 #	Westernmost_Longitude: -180
-#	Elevation:  m
+#	Elevation: m
 # --------------------
 # Data_Collection
 #	Collection_Name: 12Glob02
-#	Earliest_Year:  1600
-#	Most_Recent_Year:  2000
+#	Earliest_Year: 1600
+#	Most_Recent_Year: 2000
 #	Time_Unit: y_ad
 #
 # --------------------
