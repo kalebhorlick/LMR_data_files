@@ -109,13 +109,13 @@ atmospheric feedback.
 #	Country:  United States
 #	Northernmost_Latitude: 57.4515
 #	Southernmost_Latitude: 57.4515
-#	Easternmost_Longitude:  27.90833
+#	Easternmost_Longitude: 27.90833
 #	Westernmost_Longitude: 27.90833
-#	Elevation:  m
+#	Elevation: m
 # --------------------
 # Data_Collection
 #	Collection_Name: 12SubP01
-#	Earliest_Year:  2
+#	Earliest_Year: 2
 #	Most_Recent_Year: 2004
 #	Time_Unit: y_ad
 #
