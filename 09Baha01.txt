@@ -1,0 +1,559 @@
+# Bahamas Coral SST Reconstruction Since 1552
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:16440
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/bahamas2009sst.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstructions
+# --------------------
+# Contribution_date
+#	Date: 2009
+# --------------------
+# Title 
+#	Study_Name:  Bahamas Coral SST Reconstruction Since 1552
+# --------------------
+# Investigators
+#	Investigators:  Saenger, C.; Cohen, A.L.; Oppo, D.W.; Halley, R.B.; and Carilli, J.E.
+# --------------------
+# Description_and_Notes
+# 	Description:  A low-latitude western Atlantic reconstruction of SST since 1552 
+derived from annual growth variations in the coral Siderastrea siderea 
+sampled at Gingerbreads Reef, Bahamas. 
+
+Gingerbreads Reef, Bahamas: 25.84°N, 78.62°W, 4m. water depth
+
+Unfiltered Siderastrea extension data determined by CT scan, 
+added to this file July 2011. 
+# --------------------
+# Publication
+#	Authors:  C. Saenger, A.L. Cohen, D.W. Oppo, R.B. Halley, and J.E. Carilli
+#	Published_Date_or_Year: 2009-06-21
+#	Published_Title:  Surface-temperature trends and variability in the low-latitude North Atlantic since 1552
+#	Journal_Name: Nature Geoscience
+#	Volume: 	
+#	Edition: 	
+#	Issue: 
+#	Pages: 
+#	DOI: 10.1038/NGEO552
+#	Online_Resource:  
+#	Full_Citation:  
+#	Abstract:  Sea surface temperature variability in the North Atlantic Ocean recorded 
+since about 1850 has been ascribed to a natural multidecadal oscillation 
+superimposed on a background warming trend. It has been suggested that 
+the multidecadal variability may be a persistent feature, raising the 
+possibility that the associated climate impacts may be predictable. 
+However, our understanding of the multidecadal ocean variability before 
+the instrumental record is based on interpretations of high-latitude
+terrestrial proxy records. Here we present an absolutely dated and 
+annually resolved record of sea surface temperature from the Bahamas, 
+based on a 440-year time series of coral growth rates. The reconstruction 
+indicates that temperatures were as warm as today from about 1552 to 1570, 
+then cooled by about 1°C from 1650 to 1730 before warming until the present. 
+Our estimates of background variability suggest that much of the warming 
+since 1900 was driven by anthropogenic forcing. Interdecadal variability 
+with a period of 15-25 years is superimposed on most of the record, but 
+multidecadal variability becomes significant only after 1730. We conclude 
+that the multidecadal variability in sea surface temperatures in the
+low-latitude western Atlantic Ocean may not be persistent, potentially 
+making accurate decadal climate forecasts more difficult to achieve.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: US National Science Foundation
+#	Grant:  
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Woods Hole Oceanographic Institution
+#	Grant:  USA-0002
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Ocean and Climate Change Institude
+#	Grant:  
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Inter-American Institute Global Change Research
+#	Grant:  
+# --------------------
+# Site_Information
+#	Site_Name: Gingerbreads Reef
+#	Location: Ocean>Atlantic Ocean>North Atlantic Ocean> Caribbean Sea> Bahamas
+#	Country:  Bahamas
+#	Northernmost_Latitude: 26.4
+#	Southernmost_Latitude: 26.4
+#	Easternmost_Longitude:  78.033
+#	Westernmost_Longitude: 78.033
+#	Elevation:  m
+# --------------------
+# Data_Collection
+#	Collection_Name: 09Baha01
+#	Earliest_Year:  1552
+#	Most_Recent_Year: 1991
+#	Time_Unit: y_ad
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	Age,,,years AD,,,,,N 
+##SSTanom	sea surface temperature, , , Deg C, , Reconstruction, , ,N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	SSTanom
+1991	-0.144
+1990	-0.129
+1989	-0.088
+1988	-0.062
+1987	-0.1
+1986	-0.179
+1985	-0.228
+1984	-0.206
+1983	-0.127
+1982	-0.049
+1981	-0.02
+1980	-0.048
+1979	-0.08
+1978	-0.083
+1977	-0.079
+1976	-0.074
+1975	-0.041
+1974	0.015
+1973	0.063
+1972	0.09
+1971	0.107
+1970	0.124
+1969	0.104
+1968	0.01
+1967	-0.118
+1966	-0.177
+1965	-0.109
+1964	0.031
+1963	0.119
+1962	0.099
+1961	0.034
+1960	0.003
+1959	0.015
+1958	0.031
+1957	0.02
+1956	-0.022
+1955	-0.06
+1954	-0.053
+1953	0.002
+1952	0.073
+1951	0.124
+1950	0.121
+1949	0.043
+1948	-0.094
+1947	-0.222
+1946	-0.256
+1945	-0.164
+1944	0
+1943	0.131
+1942	0.12
+1941	-0.062
+1940	-0.31
+1939	-0.458
+1938	-0.432
+1937	-0.299
+1936	-0.176
+1935	-0.152
+1934	-0.239
+1933	-0.371
+1932	-0.451
+1931	-0.436
+1930	-0.37
+1929	-0.328
+1928	-0.326
+1927	-0.325
+1926	-0.298
+1925	-0.273
+1924	-0.289
+1923	-0.35
+1922	-0.408
+1921	-0.416
+1920	-0.393
+1919	-0.419
+1918	-0.525
+1917	-0.628
+1916	-0.629
+1915	-0.534
+1914	-0.426
+1913	-0.375
+1912	-0.411
+1911	-0.516
+1910	-0.598
+1909	-0.568
+1908	-0.447
+1907	-0.315
+1906	-0.207
+1905	-0.128
+1904	-0.077
+1903	-0.056
+1902	-0.094
+1901	-0.201
+1900	-0.316
+1899	-0.362
+1898	-0.323
+1897	-0.246
+1896	-0.202
+1895	-0.233
+1894	-0.297
+1893	-0.3
+1892	-0.236
+1891	-0.201
+1890	-0.234
+1889	-0.26
+1888	-0.229
+1887	-0.18
+1886	-0.146
+1885	-0.119
+1884	-0.091
+1883	-0.052
+1882	-0.004
+1881	0.025
+1880	0.019
+1879	-0.015
+1878	-0.087
+1877	-0.196
+1876	-0.289
+1875	-0.306
+1874	-0.247
+1873	-0.17
+1872	-0.14
+1871	-0.162
+1870	-0.178
+1869	-0.157
+1868	-0.126
+1867	-0.114
+1866	-0.143
+1865	-0.24
+1864	-0.388
+1863	-0.5
+1862	-0.51
+1861	-0.444
+1860	-0.388
+1859	-0.397
+1858	-0.438
+1857	-0.423
+1856	-0.32
+1855	-0.187
+1854	-0.101
+1853	-0.099
+1852	-0.208
+1851	-0.443
+1850	-0.738
+1849	-0.961
+1848	-1.049
+1847	-1.046
+1846	-1.003
+1845	-0.924
+1844	-0.792
+1843	-0.62
+1842	-0.467
+1841	-0.39
+1840	-0.396
+1839	-0.445
+1838	-0.495
+1837	-0.52
+1836	-0.515
+1835	-0.529
+1834	-0.651
+1833	-0.885
+1832	-1.126
+1831	-1.243
+1830	-1.164
+1829	-0.929
+1828	-0.673
+1827	-0.51
+1826	-0.421
+1825	-0.318
+1824	-0.225
+1823	-0.234
+1822	-0.321
+1821	-0.393
+1820	-0.474
+1819	-0.637
+1818	-0.798
+1817	-0.792
+1816	-0.664
+1815	-0.616
+1814	-0.663
+1813	-0.62
+1812	-0.441
+1811	-0.304
+1810	-0.357
+1809	-0.545
+1808	-0.715
+1807	-0.776
+1806	-0.715
+1805	-0.57
+1804	-0.412
+1803	-0.312
+1802	-0.308
+1801	-0.392
+1800	-0.491
+1799	-0.524
+1798	-0.491
+1797	-0.443
+1796	-0.405
+1795	-0.398
+1794	-0.458
+1793	-0.576
+1792	-0.645
+1791	-0.579
+1790	-0.454
+1789	-0.433
+1788	-0.561
+1787	-0.728
+1786	-0.789
+1785	-0.68
+1784	-0.497
+1783	-0.398
+1782	-0.431
+1781	-0.523
+1780	-0.602
+1779	-0.648
+1778	-0.659
+1777	-0.651
+1776	-0.645
+1775	-0.619
+1774	-0.528
+1773	-0.406
+1772	-0.355
+1771	-0.392
+1770	-0.458
+1769	-0.516
+1768	-0.557
+1767	-0.581
+1766	-0.609
+1765	-0.645
+1764	-0.643
+1763	-0.588
+1762	-0.528
+1761	-0.495
+1760	-0.471
+1759	-0.429
+1758	-0.363
+1757	-0.286
+1756	-0.23
+1755	-0.251
+1754	-0.384
+1753	-0.55
+1752	-0.597
+1751	-0.468
+1750	-0.287
+1749	-0.246
+1748	-0.411
+1747	-0.666
+1746	-0.837
+1745	-0.844
+1744	-0.745
+1743	-0.657
+1742	-0.661
+1741	-0.745
+1740	-0.826
+1739	-0.866
+1738	-0.92
+1737	-1.024
+1736	-1.121
+1735	-1.135
+1734	-1.068
+1733	-1.018
+1732	-1.062
+1731	-1.184
+1730	-1.294
+1729	-1.307
+1728	-1.196
+1727	-0.989
+1726	-0.77
+1725	-0.652
+1724	-0.692
+1723	-0.833
+1722	-0.964
+1721	-1.027
+1720	-1.003
+1719	-0.886
+1718	-0.723
+1717	-0.631
+1716	-0.7
+1715	-0.888
+1714	-1.055
+1713	-1.093
+1712	-1.026
+1711	-0.929
+1710	-0.821
+1709	-0.702
+1708	-0.602
+1707	-0.536
+1706	-0.493
+1705	-0.497
+1704	-0.589
+1703	-0.703
+1702	-0.702
+1701	-0.593
+1700	-0.557
+1699	-0.691
+1698	-0.907
+1697	-1.075
+1696	-1.16
+1695	-1.207
+1694	-1.232
+1693	-1.186
+1692	-1.047
+1691	-0.851
+1690	-0.628
+1689	-0.43
+1688	-0.341
+1687	-0.395
+1686	-0.514
+1685	-0.568
+1684	-0.507
+1683	-0.406
+1682	-0.355
+1681	-0.374
+1680	-0.444
+1679	-0.525
+1678	-0.586
+1677	-0.653
+1676	-0.771
+1675	-0.917
+1674	-1.049
+1673	-1.158
+1672	-1.191
+1671	-1.102
+1670	-0.93
+1669	-0.745
+1668	-0.618
+1667	-0.609
+1666	-0.7
+1665	-0.812
+1664	-0.88
+1663	-0.863
+1662	-0.772
+1661	-0.697
+1660	-0.705
+1659	-0.774
+1658	-0.846
+1657	-0.885
+1656	-0.881
+1655	-0.858
+1654	-0.82
+1653	-0.748
+1652	-0.659
+1651	-0.606
+1650	-0.612
+1649	-0.655
+1648	-0.676
+1647	-0.612
+1646	-0.48
+1645	-0.398
+1644	-0.465
+1643	-0.643
+1642	-0.773
+1641	-0.748
+1640	-0.606
+1639	-0.465
+1638	-0.395
+1637	-0.404
+1636	-0.491
+1635	-0.615
+1634	-0.66
+1633	-0.581
+1632	-0.489
+1631	-0.466
+1630	-0.463
+1629	-0.452
+1628	-0.508
+1627	-0.659
+1626	-0.809
+1625	-0.862
+1624	-0.85
+1623	-0.856
+1622	-0.894
+1621	-0.91
+1620	-0.859
+1619	-0.746
+1618	-0.613
+1617	-0.503
+1616	-0.413
+1615	-0.325
+1614	-0.258
+1613	-0.227
+1612	-0.206
+1611	-0.181
+1610	-0.195
+1609	-0.268
+1608	-0.335
+1607	-0.337
+1606	-0.336
+1605	-0.431
+1604	-0.599
+1603	-0.73
+1602	-0.764
+1601	-0.724
+1600	-0.656
+1599	-0.604
+1598	-0.617
+1597	-0.715
+1596	-0.829
+1595	-0.855
+1594	-0.745
+1593	-0.543
+1592	-0.352
+1591	-0.232
+1590	-0.157
+1589	-0.112
+1588	-0.157
+1587	-0.347
+1586	-0.615
+1585	-0.795
+1584	-0.771
+1583	-0.596
+1582	-0.421
+1581	-0.309
+1580	-0.204
+1579	-0.083
+1578	0.022
+1577	0.093
+1576	0.109
+1575	0.038
+1574	-0.101
+1573	-0.245
+1572	-0.311
+1571	-0.252
+1570	-0.104
+1569	0.026
+1568	0.02
+1567	-0.138
+1566	-0.328
+1565	-0.413
+1564	-0.362
+1563	-0.262
+1562	-0.202
+1561	-0.181
+1560	-0.146
+1559	-0.068
+1558	0.043
+1557	0.151
+1556	0.208
+1555	0.179
+1554	0.079
+1553	-0.017
+1552	-0.067
