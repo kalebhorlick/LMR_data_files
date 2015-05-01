@@ -11,7 +11,7 @@
 #
 # Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:17615
 #
-# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/historical/europe/switzerland/swiss-summer-temp2011.txt
+# Original_Source_URL:ftp://ftp.ncdc.noaa.gov/pub/data/paleo/historical/europe/switzerland/swiss-summer-temp2011.txt
 #
 # Description/Documentation lines begin with #
 # Data lines have no #
@@ -39,28 +39,28 @@
 # Publication
 #	Authors: O. Wetter and C. Pfister
 #	Published_Date_or_Year: 2013-01-14
-#	Published_Title:  An underestimated record breaking event - why summer 1540 was likely warmer than 2003
+#	Published_Title: An underestimated record breaking event - why summer 1540 was likely warmer than 2003
 #	Journal_Name: Climate of the Past
 #	Volume: 9	
 #	Edition: 	
 #	Issue: 1
 #	Pages: 41-56
 #	DOI: 10.5194/cp-9-41-2013
-#	Online_Resource:  http://www.clim-past.net/9/41/2013/cp-9-41-2013.html
+#	Online_Resource: http://www.clim-past.net/9/41/2013/cp-9-41-2013.html
 #	Full_Citation:  
-#	Abstract:  The heat of summer 2003 in Western and Central Europe was claimed to be unprecedented since the Middle Ages on the basis of grape harvest data (GHD) and late wood maximum density (MXD) data from trees in the Alps. This paper shows that the authors of these studies overlooked the fact that the heat and drought in Switzerland in 1540 likely exceeded the amplitude of the previous hottest summer of 2003, because the persistent temperature and precipitation anomaly in that year, described in an abundant and coherent body of documentary evidence, severely affected the reliability of GHD and tree-rings as proxy-indicators for temperature estimates. Spring-summer (AMJJ) temperature anomalies of 4.7C to 6.8C being significantly higher than in 2003 were assessed for 1540 from a new long Swiss GHD series (1444 to 2011). During the climax of the heat wave in early August the grapes desiccated on the vine, which caused many vine-growers to interrupt or postpone the harvest despite full grape maturity until after the next spell of rain. Likewise, the leaves of many trees withered and fell to the ground under extreme drought stress as would usually be expected in late autumn. It remains to be determined by further research whether and how far this result obtained from local analyses can be spatially extrapolated. Based on the temperature estimates for Switzerland it is assumed from a great number of coherent qualitative documentary evidence about the outstanding heat drought in 1540 that AMJJ temperatures were likely more extreme in neighbouring regions of Western and Central Europe than in 2003. Considering the significance of soil moisture deficits for record breaking heat waves, these results still need to be validated with estimated seasonal precipitation. It is concluded that biological proxy data may not properly reveal record breaking heat and drought events. Such assessments thus need to be complemented with the critical study of contemporary evidence from documentary sources which provide coherent and detailed data about weather extremes and related impacts on human, ecological and social systems.
+#	Abstract: The heat of summer 2003 in Western and Central Europe was claimed to be unprecedented since the Middle Ages on the basis of grape harvest data (GHD) and late wood maximum density (MXD) data from trees in the Alps. This paper shows that the authors of these studies overlooked the fact that the heat and drought in Switzerland in 1540 likely exceeded the amplitude of the previous hottest summer of 2003, because the persistent temperature and precipitation anomaly in that year, described in an abundant and coherent body of documentary evidence, severely affected the reliability of GHD and tree-rings as proxy-indicators for temperature estimates. Spring-summer (AMJJ) temperature anomalies of 4.7C to 6.8C being significantly higher than in 2003 were assessed for 1540 from a new long Swiss GHD series (1444 to 2011). During the climax of the heat wave in early August the grapes desiccated on the vine, which caused many vine-growers to interrupt or postpone the harvest despite full grape maturity until after the next spell of rain. Likewise, the leaves of many trees withered and fell to the ground under extreme drought stress as would usually be expected in late autumn. It remains to be determined by further research whether and how far this result obtained from local analyses can be spatially extrapolated. Based on the temperature estimates for Switzerland it is assumed from a great number of coherent qualitative documentary evidence about the outstanding heat drought in 1540 that AMJJ temperatures were likely more extreme in neighbouring regions of Western and Central Europe than in 2003. Considering the significance of soil moisture deficits for record breaking heat waves, these results still need to be validated with estimated seasonal precipitation. It is concluded that biological proxy data may not properly reveal record breaking heat and drought events. Such assessments thus need to be complemented with the critical study of contemporary evidence from documentary sources which provide coherent and detailed data about weather extremes and related impacts on human, ecological and social systems.
 # --------------------
 # Funding_Agency
-#	Funding_Agency_Name: Swiss National Science Foundation
-#	Grant: 100011-120157
+#	  Funding_Agency_Name: Swiss National Science Foundation
+#	  Grant: 100011-120157
 # --------------------
 # Funding_Agency
-#	Funding_Agency_Name: Oeschger Centre for Climatic Change Research (OCCR)
-#	Grant:
+#	  Funding_Agency_Name: Oeschger Centre for Climatic Change Research (OCCR)
+#	  Grant:
 # --------------------
 # Funding_Agency
-#	Funding_Agency_Name:  University of Bern
-#	Grant: H.A. Vogelin-Bienz-Stiftung, Institute of History
+#	  Funding_Agency_Name:  University of Bern
+#	  Grant: H.A. Vogelin-Bienz-Stiftung, Institute of History
 # --------------------
 # Site_Information
 #	Site_Name: Swiss GHD
@@ -70,7 +70,7 @@
 #	Southernmost_Latitude: 46.5
 #	Easternmost_Longitude: 9.5
 #	Westernmost_Longitude: 6.4
-#	Elevation:  m
+#	Elevation: m
 # --------------------
 # Data_Collection
 #	Collection_Name: 11Swis01
