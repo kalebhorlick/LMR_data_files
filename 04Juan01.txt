@@ -1,0 +1,236 @@
+# Strait of Juan de Fuca Geoduck Clam Growth Increment Data and SST Reconstruction
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:6269
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/strom2004/strom2004.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstructions
+# --------------------
+# Contribution_date
+#	Date: 2014-12-10
+# --------------------
+# Title 
+#	Study_Name:  Strait of Juan de Fuca Geoduck Clam Growth Increment Data and SST Reconstruction
+# --------------------
+# Investigators
+#	Investigators:  Are Strom, Robert C. Francis, Nathan J. Mantua, 
+Edward L. Miles, David L. Peterson.
+# --------------------
+# Description_and_Notes
+# 	Description:  Geoduck clam (Panopea abrupta) growth increment measurements, and 
+mean growth chronology from the Strait of Juan de Fuca, Washington State, USA. 
+Site:  Protection Island, 48.12N, 122.95W, 8-20m water depth.
+
+The chronology was used to reconstruct SST to 1877 for the nearby 
+Race Rocks station. Growth data were obtained by extracting at least 
+three thin cross-sections from the hinge area of each shell. 
+Digital images were captured at magnifications ranging from 25-400x 
+along a straight transect from the origin of growth to the outer edge. 
+Ring widths were measured perpendicular to the growth line axis, 
+and standardized using a modified negative exponential curve. 
+Annual growth indices were computed as the ratio of actual to 
+modeled growth. To compute the growth chronology, measurement series 
+were averaged using a biweight robust mean. The standardized, 
+dimensionless growth measurements are located in the file ‘growthdata’.
+Also given are the instrumental SST data for Race Rocks, the 
+reconstructed Race Rocks SST series, and prediction intervals for the 
+reconstruction. Data is located in the file ‘chronology’ and is 
+reported in degrees Celsius.  
+#	
+# --------------------
+# Publication
+#	Authors:  A.S. Strom, R. C. Francis, N.J. Mantua, E.L. Miles, D. L. Peterson
+#	Published_Date_or_Year: 2004-03-19
+#	Published_Title:  North Pacific Climate recorded in growth rings of geoduck clams: A new tool for paleoenvironmental reconstruction
+#	Journal_Name: Geophysical Research Letters
+#	Volume: 31	
+#	Edition: 	
+#	Issue: L06206
+#	Pages: 
+#	DOI:  10.1029/2004GL019440
+#	Online_Resource:  
+#	Full_Citation:  
+#	Abstract:  To better understand North Pacific climate variability at 
+interannual to interdecadal scales, we have developed a new tool for 
+paleoenvironmental reconstruction. We show that growth rings in 
+long-lived geoduck clams (Panopea abrupta) can provide high quality, 
+annually resolved records of sea-surface temperature (SST). We used 
+shell samples from the Strait of Juan de Fuca, in Washington State, 
+to extend the coastal SST record back to 1877. The spatial correlation 
+pattern between the growth index and gridded SSTs bears a strong 
+resemblance to the leading pattern of interdecadal global SST 
+variations and underscores the remarkable long-distance coherence 
+evident among coastal SST records in the northeast Pacific. 
+Our results also indicate that the 1990s was the warmest decade 
+in this region since at least the 1850s. 
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Joint Institute for the Study of the Atmosphere and Ocean
+#	Grant:  NA17RJ1232
+# --------------------
+# Site_Information
+#	Site_Name: Protection Island, Strait of Juan de Fuca
+#	Location: North America>United States>Washington
+#	Country:  United States
+#	Northernmost_Latitude: 48.12
+#	Southernmost_Latitude: 48.12
+#	Easternmost_Longitude: 122.95
+#	Westernmost_Longitude: 122.95
+#	Elevation:  m
+# --------------------
+# Data_Collection
+#	Collection_Name: 04Juan01
+#	Earliest_Year: 1877
+#	Most_Recent_Year: 1998
+#	Time_Unit: y_ad
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	Age,,,years AD,,,,,N 
+##ReconstSST	sea surface temperature, , , Deg C, , Reconstruction, , ,N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age ReconstSST
+1877	9.755129162
+1878	9.914479891
+1879	9.719781937
+1880	9.63485579
+1881	9.702043277
+1882	9.579797504
+1883	9.616826974
+1884	9.827137837
+1885	9.733154976
+1886	9.714115644
+1887	9.550215408
+1888	9.890910219
+1889	9.699652244
+1890	9.907975847
+1891	9.900956465
+1892	9.749387478
+1893	9.623273343
+1894	9.655608465
+1895	9.651642121
+1896	9.61785022
+1897	9.600364319
+1898	9.484596789
+1899	9.410161655
+1900	9.707136425
+1901	9.810997713
+1902	9.995684765
+1903	9.817321917
+1904	9.780029655
+1905	9.876663808
+1906	9.920449993
+1907	9.845324208
+1908	9.899521221
+1909	9.51082816
+1910	9.385697773
+1911	9.468705317
+1912	9.567210231
+1913	9.575927982
+1914	9.701077245
+1915	9.62316195
+1916	9.649946421
+1917	9.669858464
+1918	9.697847768
+1919	9.531411598
+1920	9.412839945
+1921	9.667579142
+1922	9.351137896
+1923	9.375242284
+1924	9.294091796
+1925	9.737212708
+1926	9.860322028
+1927	9.805978033
+1928	9.79174066
+1929	9.765576779
+1930	9.470092153
+1931	10.00535387
+1932	9.83080695
+1933	9.535677223
+1934	9.708766311
+1935	10.02303494
+1936	9.515722905
+1937	9.756944804
+1938	10.01944368
+1939	10.13801249
+1940	10.02282467
+1941	9.820984325
+1942	9.629321656
+1943	9.535381569
+1944	9.61353673
+1945	9.632962476
+1946	9.433402185
+1947	9.816699457
+1948	9.569857159
+1949	9.412826194
+1950	9.674231746
+1951	9.350497601
+1952	9.269583606
+1953	9.419489051
+1954	9.567209786
+1955	9.121715354
+1956	9.27549323
+1957	9.30174275
+1958	9.875624174
+1959	10.05022393
+1960	9.733413233
+1961	9.940820363
+1962	9.73506929
+1963	9.439212066
+1964	9.703204883
+1965	9.414991699
+1966	9.265067271
+1967	9.514532286
+1968	9.561927215
+1969	9.286171757
+1970	9.598105662
+1971	9.137145393
+1972	9.261979917
+1973	9.166206104
+1974	9.465981664
+1975	9.334178625
+1976	9.145251286
+1977	9.339746759
+1978	9.686924482
+1979	10.0520227
+1980	9.315651576
+1981	9.635562861
+1982	10.00985265
+1983	10.03931877
+1984	10.49508466
+1985	9.81703484
+1986	9.786820311
+1987	9.984632124
+1988	9.763839767
+1989	9.910720811
+1990	9.55963683
+1991	10.261585
+1992	9.989674617
+1993	10.20527648
+1994	10.122428
+1995	10.70518549
+1996	10.1641243
+1997	10.0561854
+1998	10.52067226
