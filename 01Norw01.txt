@@ -1,0 +1,90 @@
+# Coastal Northern Norway Temperature Reconstruction
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:6346
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/norway/norway_recon.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstructions
+# --------------------
+# Contribution_date
+#	Date: 2001
+# --------------------
+# Title 
+#	Study_Name: Coastal Northern Norway Temperature Reconstruction
+# --------------------
+# Investigators
+#	Investigators:  Kirchhefer, A.J. 
+# --------------------
+# Description_and_Notes
+# 	Description:  Coastal Northern Norway (Lofoten/Vesterålen/Troms) tree ring July-August 
+temperature reconstruction.  
+
+The chronologies used in the reconstruction and included in the files 
+Norway_recon.xls and Norway_crn.txt are slightly different from the 
+chronology files NORW008.* - NORW010.* held in the International 
+Tree Ring Data Bank.  This is because some radii were treated 
+individually (straight line if assumed that >100 rings were lacking 
+from the inner part of the core). 
+# --------------------
+# Publication
+#	Authors:  A.J. Kirchhefer
+#	Published_Date_or_Year:  2001
+#	Published_Title: Reconstruction of summer temperatures from tree-rings of Scots pine (Pinus sylvestris L.) in coastal northern Norway.
+#	Journal_Name: The Holocene
+#	Volume:  11
+#	Edition:  
+#	Issue:  1
+#	Pages:  41-52
+#	DOI: 10.1029/2004GL019781
+#	Online_Resource:  
+#	Full_Citation:  
+#	Abstract:  
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Norwegian Research Council
+#	Grant:  
+# --------------------
+# Site_Information
+#	Site_Name: Norway
+#	Location: 
+#	Country:  
+#	Northernmost_Latitude: 68.7833
+#	Southernmost_Latitude: 68.7833
+#	Easternmost_Longitude: 15.71667
+#	Westernmost_Longitude: 15.71667
+#	Elevation: m
+# --------------------
+# Data_Collection
+#	Collection_Name: 01Norw01
+#	Earliest_Year: 1358
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	Age,,,years AD,,,,,N 
+##tempanom-ann	surface temperature anomaly (degrees C), Annual, , , degrees C anomaly w.r.t. the 1961-1980 mean, , , , N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	tempanom-ann
