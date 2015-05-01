@@ -1,0 +1,483 @@
+#  Global and Hemispheric 400 Year Glacier Length Temperature Reconstructions
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13544
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/leclercq2012/leclercq2012global.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstructions
+# --------------------
+# Contribution_date
+#	Date: 2012-11-30
+# --------------------
+# Title 
+#	Study_Name:  Global and Hemispheric 400 Year Glacier Length Temperature Reconstructions
+
+# --------------------
+# Investigators
+#	Investigators:  Leclercq, P.W.; Oerlemans, J.
+# --------------------
+# Description_and_Notes
+# 	Description:  Global, Northern hemisphere, and Southern hemisphere temperature reconstructions for period 1600 to 2000, based on world-wide glacier length changes. Data are the reconstructed temperature anomaly w.r.t. the 1961-1990 average temperature, plus the uncertainty at 95% confidence interval.
+# --------------------
+# Publication
+#	Authors:  Paul Willem Leclercq and Johannes Oerlemans
+#	Published_Date_or_Year:  2012- 03- 01
+#	Published_Title:  Global and hemispheric temperature reconstruction from glacier length fluctuations
+#	Journal_Name: Climate Dynamics
+#	Volume:  38
+#	Edition:  5-6
+#	Issue:  1065-1079
+#	Pages:  437-449
+#	DOI: 10.1007/s00382-011-1145-7
+#	Online_Resource:  
+#	Full_Citation:  
+#	Abstract:  Temperature reconstructions for recent centuries provide a historical context for the warming over the twentieth century. We reconstruct annual averaged surface temperatures of the past 400 years on hemispherical and global scale from glacier length fluctuations. We use the glacier length records of 308 glaciers. The reconstruction is a temperature proxy with decadal resolution that is completely independent of other temperature records. Temperatures are derived from glacier length changes using a linear response equation and an analytical glacier model that is calibrated on numerical model results. The global and hemispherical temperatures reconstructed from glacier length fluctuations are in good agreement with the instrumental record of the last century. Furthermore our results agree with existing multi-proxy reconstructions of temperature in the pre-instrumental period. The temperature record obtained from glacier fluctuations confirms the pronounced warming of the twentieth century, giving a global cumulative warming of 0.94 Â± 0.31 K over the period 1830-2000 and a cumulative warming of 0.84 Â± 0.35 K over the period 1600-2000.
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: 
+#	Grant:  
+# --------------------
+# Site_Information
+#	Site_Name: Global
+#	Location: Geographic Region> Global
+#	Country:  
+#	Northernmost_Latitude: 90
+#	Southernmost_Latitude: -0
+#	Easternmost_Longitude:  180
+#	Westernmost_Longitude: -180
+#	Elevation:  m
+# --------------------
+# Data_Collection
+#	Collection_Name: 12Glob02
+#	Earliest_Year:  1600
+#	Most_Recent_Year:  2000
+#	Time_Unit: y_ad
+#
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	Age,,,years AD,,,,,N 
+##tempanom-ann	surface temperature anomaly (degrees C), Annual, , , degrees C anomaly w.r.t. the 1961-1990 average temperature, , , , N
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	tempanom-ann
+1601	-0.647861
+1602	-0.639141
+1603	-0.628673
+1604	-0.619945
+1605	-0.430137
+1606	-0.423259
+1607	-0.417669
+1608	-0.411863
+1609	-0.404188
+1610	-0.395922
+1611	-0.384674
+1612	-0.370804
+1613	-0.359246
+1614	-0.350119
+1615	-0.343476
+1616	-0.339048
+1617	-0.334994
+1618	-0.329744
+1619	-0.325231
+1620	-0.323749
+1621	-0.326009
+1622	-0.330546
+1623	-0.337138
+1624	-0.343287
+1625	-0.348764
+1626	-0.354149
+1627	-0.359266
+1628	-0.364391
+1629	-0.369662
+1630	-0.374712
+1631	-0.3793
+1632	-0.383309
+1633	-0.387018
+1634	-0.390609
+1635	-0.39338
+1636	-0.395209
+1637	-0.396449
+1638	-0.397062
+1639	-0.397015
+1640	-0.396288
+1641	-0.394861
+1642	-0.395602
+1643	-0.393999
+1644	-0.381801
+1645	-0.367647
+1646	-0.357035
+1647	-0.34617
+1648	-0.335581
+1649	-0.325833
+1650	-0.317355
+1651	-0.310169
+1652	-0.304078
+1653	-0.299444
+1654	-0.296954
+1655	-0.294809
+1656	-0.292429
+1657	-0.294165
+1658	-0.303181
+1659	-0.316947
+1660	-0.330073
+1661	-0.342446
+1662	-0.354958
+1663	-0.363212
+1664	-0.363964
+1665	-0.359917
+1666	-0.35663
+1667	-0.354454
+1668	-0.350996
+1669	-0.34592
+1670	-0.340144
+1671	-0.335009
+1672	-0.330485
+1673	-0.326249
+1674	-0.322604
+1675	-0.319414
+1676	-0.333405
+1677	-0.330951
+1678	-0.329198
+1679	-0.328491
+1680	-0.329437
+1681	-0.331381
+1682	-0.33291
+1683	-0.333529
+1684	-0.333078
+1685	-0.331396
+1686	-0.328112
+1687	-0.323618
+1688	-0.318994
+1689	-0.314526
+1690	-0.309932
+1691	-0.304371
+1692	-0.297898
+1693	-0.292455
+1694	-0.290035
+1695	-0.291062
+1696	-0.295642
+1697	-0.303499
+1698	-0.313017
+1699	-0.322363
+1700	-0.33207
+1701	-0.343726
+1702	-0.357115
+1703	-0.370515
+1704	-0.382986
+1705	-0.394425
+1706	-0.4024
+1707	-0.411135
+1708	-0.419862
+1709	-0.429179
+1710	-0.4371
+1711	-0.442066
+1712	-0.443883
+1713	-0.442593
+1714	-0.439055
+1715	-0.434366
+1716	-0.428784
+1717	-0.423037
+1718	-0.418013
+1719	-0.413054
+1720	-0.388425
+1721	-0.380277
+1722	-0.373872
+1723	-0.369701
+1724	-0.367642
+1725	-0.367375
+1726	-0.367718
+1727	-0.367029
+1728	-0.365099
+1729	-0.362271
+1730	-0.358777
+1731	-0.484721
+1732	-0.480036
+1733	-0.474566
+1734	-0.468761
+1735	-0.462589
+1736	-0.456384
+1737	-0.45102
+1738	-0.446322
+1739	-0.441915
+1740	-0.437738
+1741	-0.425231
+1742	-0.42124
+1743	-0.419072
+1744	-0.435397
+1745	-0.427775
+1746	-0.422217
+1747	-0.418028
+1748	-0.415311
+1749	-0.413473
+1750	-0.411577
+1751	-0.421377
+1752	-0.420171
+1753	-0.419405
+1754	-0.419335
+1755	-0.420138
+1756	-0.421573
+1757	-0.42355
+1758	-0.426026
+1759	-0.429024
+1760	-0.432769
+1761	-0.443557
+1762	-0.448858
+1763	-0.454641
+1764	-0.473583
+1765	-0.479866
+1766	-0.486826
+1767	-0.49525
+1768	-0.505454
+1769	-0.518705
+1770	-0.533918
+1771	-0.561928
+1772	-0.576494
+1773	-0.581805
+1774	-0.583341
+1775	-0.582683
+1776	-0.579602
+1777	-0.573236
+1778	-0.559907
+1779	-0.540937
+1780	-0.523091
+1781	-0.472357
+1782	-0.460557
+1783	-0.450685
+1784	-0.444191
+1785	-0.441749
+1786	-0.441904
+1787	-0.445618
+1788	-0.45134
+1789	-0.455449
+1790	-0.457834
+1791	-0.458436
+1792	-0.458004
+1793	-0.457315
+1794	-0.456348
+1795	-0.455684
+1796	-0.481538
+1797	-0.48237
+1798	-0.484499
+1799	-0.486792
+1800	-0.48578
+1801	-0.482002
+1802	-0.471807
+1803	-0.469173
+1804	-0.466831
+1805	-0.466068
+1806	-0.467579
+1807	-0.470946
+1808	-0.475137
+1809	-0.481119
+1810	-0.489872
+1811	-0.501557
+1812	-0.514036
+1813	-0.524252
+1814	-0.530796
+1815	-0.536382
+1816	-0.539306
+1817	-0.545721
+1818	-0.54691
+1819	-0.538399
+1820	-0.524905
+1821	-0.513325
+1822	-0.504521
+1823	-0.480683
+1824	-0.476822
+1825	-0.474362
+1826	-0.471932
+1827	-0.4687
+1828	-0.465285
+1829	-0.465269
+1830	-0.469614
+1831	-0.475681
+1832	-0.480503
+1833	-0.483591
+1834	-0.534129
+1835	-0.534768
+1836	-0.526428
+1837	-0.524583
+1838	-0.522748
+1839	-0.521214
+1840	-0.519447
+1841	-0.542972
+1842	-0.541618
+1843	-0.541824
+1844	-0.542037
+1845	-0.539911
+1846	-0.536797
+1847	-0.533722
+1848	-0.530273
+1849	-0.5282
+1850	-0.531119
+1851	-0.569557
+1852	-0.56823
+1853	-0.565208
+1854	-0.560669
+1855	-0.555038
+1856	-0.546477
+1857	-0.54004
+1858	-0.534935
+1859	-0.52655
+1860	-0.519659
+1861	-0.539647
+1862	-0.532052
+1863	-0.521921
+1864	-0.523469
+1865	-0.519465
+1866	-0.513916
+1867	-0.512927
+1868	-0.511265
+1869	-0.507943
+1870	-0.523583
+1871	-0.514898
+1872	-0.501572
+1873	-0.494504
+1874	-0.491814
+1875	-0.488272
+1876	-0.432387
+1877	-0.43012
+1878	-0.430344
+1879	-0.435308
+1880	-0.437578
+1881	-0.453442
+1882	-0.454491
+1883	-0.448777
+1884	-0.408645
+1885	-0.42899
+1886	-0.419257
+1887	-0.435209
+1888	-0.409504
+1889	-0.407138
+1890	-0.475821
+1891	-0.363649
+1892	-0.354529
+1893	-0.346428
+1894	-0.348582
+1895	-0.351056
+1896	-0.377904
+1897	-0.382717
+1898	-0.395352
+1899	-0.401045
+1900	-0.391656
+1901	-0.385183
+1902	-0.384601
+1903	-0.38405
+1904	-0.379575
+1905	-0.377359
+1906	-0.373737
+1907	-0.371504
+1908	-0.368501
+1909	-0.36426
+1910	-0.367044
+1911	-0.360621
+1912	-0.355279
+1913	-0.352349
+1914	-0.343884
+1915	-0.33959
+1916	-0.3358
+1917	-0.331303
+1918	-0.323827
+1919	-0.316377
+1920	-0.306643
+1921	-0.282581
+1922	-0.273801
+1923	-0.263421
+1924	-0.252354
+1925	-0.238045
+1926	-0.228365
+1927	-0.213694
+1928	-0.203266
+1929	-0.187763
+1930	-0.173427
+1931	-0.161743
+1932	-0.14914
+1933	-0.110663
+1934	-0.092983
+1935	-0.078107
+1936	-0.062835
+1937	-0.050295
+1938	-0.043025
+1939	-0.031688
+1940	-0.019947
+1941	-0.009301
+1942	0.001883
+1943	0.012735
+1944	0.019034
+1945	0.027323
+1946	0.034876
+1947	0.045449
+1948	0.049578
+1949	0.046652
+1950	0.04553
+1951	0.037978
+1952	0.027568
+1953	0.015746
+1954	0.005375
+1955	-0.002787
+1956	-0.010955
+1957	-0.01576
+1958	-0.018611
+1959	-0.018569
+1960	-0.020969
+1961	-0.025814
+1962	-0.028974
+1963	-0.029595
+1964	-0.034735
+1965	-0.047186
+1966	-0.054796
+1967	-0.06542
+1968	-0.07829
+1969	-0.079728
+1970	-0.093749
+1971	-0.104811
+1972	-0.116976
+1973	-0.12874
+1974	-0.137925
+1975	-0.144488
+1976	-0.143048
+1977	-0.139615
+1978	-0.142113
+1979	-0.133448
+1980	-0.12742
+1981	-0.121705
+1982	-0.112407
+1983	-0.10033
+1984	-0.084797
+1985	-0.066967
+1986	-0.033435
+1987	-0.014433
+1988	0.005284
+1989	0.002775
+1990	0.008305
+1991	0.019119
+1992	0.033367
+1993	0.049448
+1994	0.065574
+1995	0.08923
+1996	0.108937
+1997	0.153604
+1998	0.178214
+1999	0.194102
+2000	0.217297
