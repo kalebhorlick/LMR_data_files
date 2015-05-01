@@ -91,9 +91,9 @@ making accurate decadal climate forecasts more difficult to achieve.
 #	Country:  Bahamas
 #	Northernmost_Latitude: 26.4
 #	Southernmost_Latitude: 26.4
-#	Easternmost_Longitude:  78.033
+#	Easternmost_Longitude: 78.033
 #	Westernmost_Longitude: 78.033
-#	Elevation:  m
+#	Elevation: m
 # --------------------
 # Data_Collection
 #	Collection_Name: 09Baha01
