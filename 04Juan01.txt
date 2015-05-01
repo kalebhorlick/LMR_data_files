@@ -88,7 +88,7 @@ in this region since at least the 1850s.
 #	Southernmost_Latitude: 48.12
 #	Easternmost_Longitude: 122.95
 #	Westernmost_Longitude: 122.95
-#	Elevation:  m
+#	Elevation: m
 # --------------------
 # Data_Collection
 #	Collection_Name: 04Juan01
