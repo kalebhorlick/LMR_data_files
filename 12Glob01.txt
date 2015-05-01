@@ -22,32 +22,31 @@
 #	Date: 2012-11-30
 # --------------------
 # Title 
-#	Study_Name:  Global and Hemispheric 400 Year Glacier Length Temperature Reconstructions
-
+#	  Study_Name:  Global and Hemispheric 400 Year Glacier Length Temperature Reconstructions
 # --------------------
 # Investigators
-#	Investigators:  Leclercq, P.W.; Oerlemans, J.
+#	  Investigators:  Leclercq, P.W.; Oerlemans, J.
 # --------------------
 # Description_and_Notes
 # 	Description:  Global, Northern hemisphere, and Southern hemisphere temperature reconstructions for period 1600 to 2000, based on world-wide glacier length changes. Data are the reconstructed temperature anomaly w.r.t. the 1961-1990 average temperature, plus the uncertainty at 95% confidence interval.
 # --------------------
 # Publication
-#	Authors:  Paul Willem Leclercq and Johannes Oerlemans
-#	Published_Date_or_Year:  2012- 03- 01
-#	Published_Title:  Global and hemispheric temperature reconstruction from glacier length fluctuations
-#	Journal_Name: Climate Dynamics
-#	Volume:  38
-#	Edition:  5-6
-#	Issue:  1065-1079
-#	Pages:  437-449
-#	DOI: 10.1007/s00382-011-1145-7
-#	Online_Resource:  
-#	Full_Citation:  
-#	Abstract:  Temperature reconstructions for recent centuries provide a historical context for the warming over the twentieth century. We reconstruct annual averaged surface temperatures of the past 400 years on hemispherical and global scale from glacier length fluctuations. We use the glacier length records of 308 glaciers. The reconstruction is a temperature proxy with decadal resolution that is completely independent of other temperature records. Temperatures are derived from glacier length changes using a linear response equation and an analytical glacier model that is calibrated on numerical model results. The global and hemispherical temperatures reconstructed from glacier length fluctuations are in good agreement with the instrumental record of the last century. Furthermore our results agree with existing multi-proxy reconstructions of temperature in the pre-instrumental period. The temperature record obtained from glacier fluctuations confirms the pronounced warming of the twentieth century, giving a global cumulative warming of 0.94 Â± 0.31 K over the period 1830-2000 and a cumulative warming of 0.84 Â± 0.35 K over the period 1600-2000.
+#	  Authors:  Paul Willem Leclercq and Johannes Oerlemans
+#	  Published_Date_or_Year:  2012- 03- 01
+#	  Published_Title:  Global and hemispheric temperature reconstruction from glacier length fluctuations
+#	  Journal_Name: Climate Dynamics
+#	  Volume: 38
+#	  Edition: 5-6
+#	  Issue: 1065-1079
+#	  Pages: 437-449
+#	  DOI: 10.1007/s00382-011-1145-7
+#	  Online_Resource:  
+#	  Full_Citation:  
+#	  Abstract:  Temperature reconstructions for recent centuries provide a historical context for the warming over the twentieth century. We reconstruct annual averaged surface temperatures of the past 400 years on hemispherical and global scale from glacier length fluctuations. We use the glacier length records of 308 glaciers. The reconstruction is a temperature proxy with decadal resolution that is completely independent of other temperature records. Temperatures are derived from glacier length changes using a linear response equation and an analytical glacier model that is calibrated on numerical model results. The global and hemispherical temperatures reconstructed from glacier length fluctuations are in good agreement with the instrumental record of the last century. Furthermore our results agree with existing multi-proxy reconstructions of temperature in the pre-instrumental period. The temperature record obtained from glacier fluctuations confirms the pronounced warming of the twentieth century, giving a global cumulative warming of 0.94 Â± 0.31 K over the period 1830-2000 and a cumulative warming of 0.84 Â± 0.35 K over the period 1600-2000.
 # --------------------
 # Funding_Agency
-#	Funding_Agency_Name: 
-#	Grant:  
+#	  Funding_Agency_Name: 
+#	  Grant:  
 # --------------------
 # Site_Information
 #	Site_Name: Global
@@ -55,14 +54,14 @@
 #	Country:  
 #	Northernmost_Latitude: 90
 #	Southernmost_Latitude: -90
-#	Easternmost_Longitude:  180
+#	Easternmost_Longitude: 180
 #	Westernmost_Longitude: -180
-#	Elevation:  m
+#	Elevation: m
 # --------------------
 # Data_Collection
 #	Collection_Name: 12Glob01
-#	Earliest_Year:  1660
-#	Most_Recent_Year:  2000
+#	Earliest_Year: 1660
+#	Most_Recent_Year: 2000
 #	Time_Unit: y_ad
 #
 # --------------------
