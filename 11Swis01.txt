@@ -65,7 +65,7 @@
 #	Southernmost_Latitude: 47.0
 #	Easternmost_Longitude: 10.0
 #	Westernmost_Longitude: 7.0
-#	Elevation:  m
+#	Elevation: m
 # --------------------
 # Data_Collection
 #	Collection_Name: 11Swis01
