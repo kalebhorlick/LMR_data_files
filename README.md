@@ -1,20 +1,8 @@
-# LMR_data_files
-This is a repository of files pertinent to the LMR project. The files include published paleo data from ice core, tree ring, and coral records.
+This repository includes the following proxies:
+      Tree ring width.
+      Ice core del18O, deltaD, and accumulation rate.
+      Coral delta18O, Sr/Ca, d14C, d13C, 11B, U/Ca, Mg/Ca. 
 
-74 coral data files as of 4:28pm 2/5/15, All_173 and PAGES 2K S1 coral files complete, moving to other sources...
+Most records are at least 50 years long, with nearly annual or better resolution.  The data are not constrained with respect to their climate sensitivity.  All the records are in the public domain. The tree ring set corresponds exactly with the ring width and density time series in the PAGES S1 file, corresponding to the PAGES article in Nature Geoscience.
 
-89 coral data files as of 6:08pm 2/10/15, templating from NCDC archive list.
-
-103 coral data files as of 4:38pm 2/11/15, templating from NCDC archive list.
-
-100 coral data files as of 3:30pm 2/12/15, deleted 6 short files after learning (after hangout) that temporal range needs to be ~50+ years to be considered. About to send email to PI group Re: github repository
-
-169 ice core data files as of 1:16pm 2/18/15, all_173, PAGES 2K S1, and NCDC archive list. 
-
-Correspondence with Dave A. {and Hakim}, GitHub is a viable option for the housing of our files. Tree rings still in limbo as of 10:57 MST on 2/17/15.
-
-~100 corals as of 3/25/15, Tree ring files to come
-
-~130 corals and 311 files total as of 5:40 MST on 4/2/15, tree ring files still to come...
-
-~230 tree ring files written from PAGES data uploaded on 4/23/15.
+In April 2015 the archive contained 130 coral records, 180 ice core records, and 425 tree ring records.
