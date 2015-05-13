@@ -1,0 +1,98 @@
+# Torneträsk 1500 Year Tree Ring MXD and TRW Temperature Reconstructions
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original reference when using these data,
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed
+#
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:17175
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc-na-cl-no3.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstructions
+# --------------------
+# Contribution_date
+#	Date: 2014
+# --------------------
+# Title 
+#	Study_Name:  Torneträsk 1500 Year Tree Ring MXD and TRW Temperature Reconstructions
+# --------------------
+# Investigators
+#	Investigators:  Melvin, T.M.; Grudd, H.; Briffa, K.R.  
+# --------------------
+# Description_and_Notes
+# 	Description:  Summer (May to August) temperature reconstructions for Torneträsk in northern Sweden derived
+#	using firstly MXD measurements from 130 pine trees (Pinus sylvestris-Scots Pine) for AD 441 to 2010 
+#	and secondly TRW measurements from 650 pine trees for AD -39 to 2010. MXD data are derived from dry dead wood 
+#	and living trees while the TRW data was also derived from subfossil lake material. The 10-year low pass 
+#	chronologies are similar but the TRW has smaller error margins.
+# 	For further information see Melvin et al. (2012) paper. Metadata, supplementary data, computer programs and
+#	code are all online at: http://www.cru.uea.ac.uk/cru/papers/melvin2012holocene/
+#	
+# --------------------
+# Publication
+#	Authors: Thomas M. Melvin, Håkan Grudd, Keith R. Briffa
+#	Published_Date_or_Year: 2013
+#	Published_Title: Potential bias in 'updating' tree-ring chronologies using regional curve standardisation: Re-processing 1500 years of Torneträsk density and ring-width data.
+#	Journal_Name: The Holocene
+#	Volume: 23
+#	Edition: 	
+#	Issue: 3
+#	Pages: 364-373
+#	DOI: 
+#	Online_Resource: 10.1177/0959683612460791
+#	Full_Citation:  
+#	Abstract:  We describe the analysis of existing and new maximum-latewood-density (MXD) and tree-ring width (TRW) data from the Torneträsk region of northern Sweden and the construction of 1500 year chronologies. Some previous work found that MXD and TRW chronologies from Torneträsk were inconsistent over the most recent 200 years, even though they both reflect predominantly summer temperature influences on tree growth. We show that this was partly a result of systematic bias in MXD data measurements and partly a result of inhomogeneous sample selection from living trees (modern sample bias). We use refinements of the simple Regional Curve Standardisation (RCS) method of chronology construction to identify and mitigate these biases. The new MXD and TRW chronologies now present a largely consistent picture of long-timescale changes in past summer temperature in this region over their full length, indicating similar levels of summer warmth in the medieval period (MWP, c. ce 900-1100) and the latter half of the 20th century. Future work involving the updating of MXD chronologies using differently sourced measurements may require similar analysis and appropriate adjustment to that described here to make the data suitable for the production of un-biased RCS chronologies. The use of 'growth-rate' based multiple RCS curves is recommended to identify and mitigate the problem of 'modern sample bias'. 
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: UK Natural Environment Research Council
+#	Grant: NE/G018831/1
+# --------------------
+# Funding_Agency
+#	Funding_Agency_Name: Swedish Research Councils VR and FORMAS
+#	Grant: Bert Bolin Centre Linnaeus Grant VR70454201
+# --------------------
+#	Funding_Agency_Name: European Union
+#	Grant: FP6 grant 017008, ‘Millennium’ project
+# --------------------
+#	Funding_Agency_Name: The Royal Swedish Academy of Sciences
+#	Grant: FOA09V-063
+# --------------------
+# Site_Information
+#	Site_Name: Torneträsk
+#	Location: Europe>Northern Europe>Scandanavia>Sweden
+#	Country: Sweden
+#	Northernmost_Latitude:  68.31
+#	Southernmost_Latitude: 68.21
+#	Easternmost_Longitude: 19.80
+#	Westernmost_Longitude: 19.45
+#	Elevation: 350 m
+# --------------------
+# Data_Collection
+#	Collection_Name: 13Torn01
+#	Earliest_Year: 441
+#	Most_Recent_Year: 2010
+#	Time_Unit: AD
+# --------------------
+# Variables
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age_AD	age, , , years AD, , , Astronomical calendar year, ,N
+##temp-MJJA	surface temperature, , , degrees C, May-August, , , tree-ring maximum density reconstruction,N 
+#
+# --------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing values: NAN
+#
+age	temp-MJJA
