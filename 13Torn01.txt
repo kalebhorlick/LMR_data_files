@@ -69,7 +69,7 @@
 #	Site_Name: Torneträsk
 #	Location: Europe>Northern Europe>Scandanavia>Sweden
 #	Country: Sweden
-#	Northernmost_Latitude:  68.31
+#	Northernmost_Latitude: 68.31
 #	Southernmost_Latitude: 68.21
 #	Easternmost_Longitude: 19.80
 #	Westernmost_Longitude: 19.45
