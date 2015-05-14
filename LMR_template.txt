@@ -1,0 +1,96 @@
+# Study Title
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http://ncdc.noaa.gov/paleo/study/17 ???
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Cores, Corals, Climate Reconstructions, Tree Rings, etc
+#--------------------
+# Contribution_Date
+#	Date:  YYYY-MM-DD
+#--------------------
+# Title
+#	Study_Name: (Often same as above “Study Title”) Where, When and What - e.g. Fort Stanton Cave, New Mexico 55-11kY Speleothem d18O Data 
+#--------------------
+# Investigators
+#       Investigators:  Last_name, first_initial.Middle_initial.; ... Last_name, first_initial.Middle_initial.; 
+#--------------------
+# Description_and_Notes
+#	Description: copy and past description here. text will wrap, no need to add in additional # to this section. 
+#--------------------
+# Publication 
+#       Authors: 
+#       Published_Date_or_Year:  YYYY-MM-DD or YYYY      
+#       Published_Title: 
+#       Journal_Name: 
+#       Volume: 
+#       Edition: 
+#       Issue: 
+#       Pages: 
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: 
+#       Abstract: copy and past abstract here. text will wrap, no need to add in additional # to this section. 
+#------------------
+# Funding_Agency *Each grant must be listed separately, i.e. for four grants contributing to one project this section should be repeated four times 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: 
+#       Location: i.e Africa>Eastern Africa>Mozambique
+#	Country:  
+#	Northernmost_Latitude: decimal value, with two or more decimal places 00.00
+# 	Southernmost_Latitude: decimal value, with two or more decimal places 
+# 	Easternmost_Longitude: decimal value, with two or more decimal places 
+# 	Westernmost_Longitude: decimal value, with two or more decimal places 
+# 	Elevation: xxx (space) m  (5280 m)
+#------------------
+# Data_Collection   
+#	Collection_Name:  Ice Cores and Corals: YYsiteXX* 
+*Year published, First four letters of site location, number of sample (01, etc)
+Tree rings follow ITRDB format
+#	Earliest_Year: 
+#	Most_Recent_Year: If data continues until present, present is noted as year “ 0”   
+#	Time_Unit:  y_ad, kyb_xxxx, yb_xxxx
+#	Core_Length: m
+#	Notes: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age, , , years AD, , , , ,N
+##var_2	second variable long name,,,units (permil = one word),,archive,,,N
+example:	
+###delD	del D,,,permil SMOW,,ice cores,,,N
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN (must be filled in as NAN - not “0”, blank, 9999, etc)
+#
+age	var_2
+
