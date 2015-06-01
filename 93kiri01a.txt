@@ -1,4 +1,4 @@
-﻿# Tarawa Coral Stable Isotope and Geochemistry Data
+﻿# Tarawa Coral Stable Isotope and Geochemistry Data 
 #----------------------------------------------------------------------- 
 #                World Data Center for Paleoclimatology, Boulder 
 #                                  and 
@@ -8,13 +8,14 @@
 # If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
 #
 #
-# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:1845
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1845
 #
 # Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/readme_tarawa.txt
-# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/image/coral/tar39c13.gif
-# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/image/coral/tar39o18.gif
-# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/image/coral/tar44c13.gif
-# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/image/coral/tar44o18.gif
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/tarawa1.txt
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/image/tar39c13.gif
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/image/tar39o18.gif
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/image/tar44c13.gif
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/image/tar44o18.gif
 # 
 # Description/Documentation lines begin with #
 # Data lines have no #
@@ -25,18 +26,20 @@
 #	Date: 1994-06
 #--------------------
 # Title
-#	Study_Name: Tarawa Coral Stable Isotope and Geochemistry Data
+#	Study_Name: Tarawa Coral Stable Isotope and Geochemistry Data 
 #--------------------
 # Investigators
-#       Investigators: Cole, J. E.; Fairbanks, R. G.; Shen, G. T.
+#       Investigators: Cole, J.E.; Fairbanks, R.G.; Shen, G.T. 
 #--------------------
 # Description_and_Notes
-#	Description: High-resolution (monthly) coral stable isotope and Mn/Ca  from Tarawa Atoll, Republic of Kiribati. Included are 20 year  (1959-1979 AD) records of d13C and d18O (Cole and Fairbanks, 1990)  and Mn/Ca (Shen et al. 1992), plus a 96 year (1894 - 1990 AD)  record of d18O (Cole et al. 1993). Data are stable isotope data presented by Cole and Fairbanks (1990)  and Mn/Ca data presented by Shen et al. (1992) for 1959-1979 AD,  and d18O data presented by Cole, Fairbanks, and Shen (1993) for  the years 1894-1990.  All stable isotopes were measured on  untreated coral samples at Lamont-Doherty Earth Observatory by  J. Cole and R. Fairbanks, on a Finnigan MAT-251 mass spectrometer  with automated Carousel-48 carbonate device.  Raw values are in  standard per mil notation relative to PDB. For normalization in  Cole et al. 1993, we subtracted the monthly mean from each monthly  value and divided by the standard deviation of the full dataset.  Measurement precisions are 0.08 per mil for d18O and 0.04 per mil  for d13C. Mn/Ca measurements were performed at the University of  Washington by G. Shen and L. Linn by graphite furnace atomic  absorption spectrophotometry; only coral LDGO-44 was analyzed  for Mn/Ca. Sample treatment procedures are described in  Shen et al. (1992). Average departures from duplicate means  are 1.6 nmol Mn/mol Ca. Ages for all samples in this file  were derived from annual variations in d13C, assumed to  correspond with annual rainy seasons as described in Cole  and Fairbanks (1990).  Density banding confirms these ages  for LDGO-44 samples, but coral LDGO-39 did not exhibit  clearly annual banding patterns. For Mn/Ca data prior to  1962 in LDGO-44, ages were determined by extrapolation  based on density band data, as isotopic data only extends  to 1962 in LDGO-44. 
+#	Description: High-resolution (monthly) coral stable isotope and Mn/Ca  from Tarawa Atoll, Republic of Kiribati. Included are 20 year  (1959-1979 AD) records of d13C and d18O (Cole and Fairbanks, 1990)  and Mn/Ca (Shen et al. 1992), plus a 96 year (1894 - 1990 AD)  record of d18O (Cole et al. 1993).
+#	Site: Tarawa Atoll, Republic of Kiribati  (1 N, 172 E) Water depth: 2-4m Coral species Hydnophora microconos (short records)  and Porites lobata (long record)
+#	Data are stable isotope data presented by Cole and Fairbanks (1990)  and Mn/Ca data presented by Shen et al. (1992) for 1959-1979 AD,  and d18O data presented by Cole, Fairbanks, and Shen (1993) for  the years 1894-1990.  All stable isotopes were measured on  untreated coral samples at Lamont-Doherty Earth Observatory by  J. Cole and R. Fairbanks, on a Finnigan MAT-251 mass spectrometer  with automated Carousel-48 carbonate device.  Raw values are in  standard per mil notation relative to PDB. For normalization in  Cole et al. 1993, we subtracted the monthly mean from each monthly  value and divided by the standard deviation of the full dataset.  Measurement precisions are 0.08 per mil for d18O and 0.04 per mil  for d13C. Mn/Ca measurements were performed at the University of  Washington by G. Shen and L. Linn by graphite furnace atomic  absorption spectrophotometry; only coral LDGO-44 was analyzed  for Mn/Ca. Sample treatment procedures are described in  Shen et al. (1992). Average departures from duplicate means  are 1.6 nmol Mn/mol Ca. Ages for all samples in this file  were derived from annual variations in d13C, assumed to  correspond with annual rainy seasons as described in Cole  and Fairbanks (1990).  Density banding confirms these ages  for LDGO-44 samples, but coral LDGO-39 did not exhibit  clearly annual banding patterns. For Mn/Ca data prior to  1962 in LDGO-44, ages were determined by extrapolation  based on density band data, as isotopic data only extends  to 1962 in LDGO-44. 
 #--------------------
 # Publication 
-#       Authors: Cole, J. E.; Fairbanks, R. G.; Shen, G. T.
-#       Published_Date_or_Year: 1993-06-18     
-#       Published_Title: The Spectrum of Recent Variability in the Southern Oscillation:  Results from a Tarawa Atoll Coral.
+#       Authors: Cole, J.E.; Fairbanks, R.G.; Shen, G.T. 
+#       Published_Date_or_Year: 1993
+#       Published_Title: The Spectrum of Recent Variability in the Southern Oscillation: Results from a Tarawa Atoll Coral.
 #       Journal_Name: Science
 #       Volume: 260
 #       Edition: 
@@ -44,35 +47,35 @@
 #       Pages: 1790-1793
 #       DOI: 10.1126/science.260.5115.1790
 #       Online_Resource: 
-#       Full_Citation: Cole, J.E., R.G. Fairbanks, and G.T. Shen. 1993.  The Spectrum of Recent Variability in the Southern Oscillation:  Results from a Tarawa Atoll Coral.  Vol. 260, no. 5115, pp. 1790-1793, 18 June 1993.  DOI:10.1126/science.260.5115.1790 
-#       Abstract: In the western tropical Pacific, the interannual migration of  the Indonesian Low convective system causes changes in rainfall  that dominate the regional signature of the El Ni�o-Southern  Oscillation (ENSO) system. A 96-year oxygen isotope record from  a Tarawa Atoll coral (1�N, 172�E) reflects regional convective  activity through rainfall-induced salinity changes. This monthly  resolution record spans twice the length of the local climatological  record and provides a history of ENSO variability comparable  in quality with those derived from instrumental climate data.  Comparison of this coral record with a historical chronology  of EI Ni�o events indicates that climate anomalies in coastal  South America are occasionally decoupled from Pacific-wide ENSO  extremes. Spectral analysis suggests that the distribution of  variance in this record has shifted among annual to interannual  periods during the present century, concurrent with observed  changes in the strength of the Southern Oscillation.
+#       Full_Citation: Cole, J.E., R.G. Fairbanks, and G.T. Shen. 1993. The Spectrum of Recent Variability in the Southern Oscillation: Results from a Tarawa Atoll Coral. Science, Vol. 260, no. 5115, pp. 1790-1793, 18 June 1993. DOI:10.1126/science.260.5115.1790 
+#       Abstract: In the western tropical Pacific, the interannual migration of  the Indonesian Low convective system causes changes in rainfall  that dominate the regional signature of the El Ni�o-Southern  Oscillation (ENSO) system. A 96-year oxygen isotope record from  a Tarawa Atoll coral (1�N, 172�E) reflects regional convective  activity through rainfall-induced salinity changes. This monthly  resolution record spans twice the length of the local climatological  record and provides a history of ENSO variability comparable  in quality with those derived from instrumental climate data.  Comparison of this coral record with a historical chronology  of EI Ni�o events indicates that climate anomalies in coastal  South America are occasionally decoupled from Pacific-wide ENSO  extremes. Spectral analysis suggests that the distribution of  variance in this record has shifted among annual to interannual  periods during the present century, concurrent with observed  changes in the strength of the Southern Oscillation. 
 #--------------------
 # Publication 
-#       Authors: Cole, J. E.; Fairbanks, R. G.
-#       Published_Date_or_Year: 1990     
-#       Published_Title: The Southern Oscillation recorded in the d18O of corals  from Tarawa Atoll. 
+#       Authors: Cole, J.E.; Fairbanks, R.G.
+#       Published_Date_or_Year: 1990
+#       Published_Title: The Southern Oscillation recorded in the d18O of corals from Tarawa Atoll. 
 #       Journal_Name: Paleoceanography
 #       Volume: 5
-#       Edition: 
+#       Edition:
 #       Issue: 5
 #       Pages: 669-683
 #       DOI: 10.1029/PA005i005p00669
 #       Online_Resource: 
-#       Full_Citation: Cole, J.E., and R.G. Fairbanks. 1990.  The Southern Oscillation recorded in the d18O of corals  from Tarawa Atoll.  Paleoceanography, Vol. 5, No. 5, pp. 669-683.  doi:10.1029/PA005i005p00669 
+#       Full_Citation:  Cole, J.E., and R.G. Fairbanks. 1990.  The Southern Oscillation recorded in the d18O of corals  from Tarawa Atoll.  Paleoceanography, Vol. 5, No. 5, pp. 669-683.  doi:10.1029/PA005i005p00669 
 #       Abstract: In the western equatorial Pacific, the El Ni�o/Southern Oscillation  (ENSO) phenomenon is characterized by precipitation variability  associated with the migration of the Indonesian low pressure cell  to the region of the date line and the equator. During ENSO events,  Tarawa Atoll (1�N, 172�E) experiences heavy rainfall which has an  estimated d18O of about -8 to -10� d18OSMOW. At Tarawa, sufficient  precipitation of this composition falls during ENSO events to alter  the d18O and the salinity of the surface waters. Oxygen isotope  records from two corals collected off the reef crest of Tarawa  reflect rainfall variations associated with both weak and strong  ENSO conditions, with approximately monthly resolution.  Coral skeletal d18O variations due to small sea surface temperature  (SST) changes are secondary. These records demonstrate the remarkable  ability of this technique to reconstruct variations in the position  of the Indonesian Low from coral d18O records in the western  equatorial Pacific, a region which has few paleoclimatic records.  The coral isotopic data correctly resolve the relative magnitudes  of recent variations in the Southern Oscillation Index.  Combining the Tarawa record with an oxygen isotopic history  from a Gal�pagos Islands coral demonstrates the ability to  distinguish the meteorologic (precipitation) and oceanographic  (SST) anomalies that characterize ENSO events across the Pacific  Basin over the period of common record (1960�1979). Comparison of  the intensity of climatic anomalies at these two sites yields  insight into the spatial variability of ENSO events.  Isotope records from older corals can provide high-resolution,  Pacific-wide reconstructions of ENSO behavior during periods  of different climate boundary conditions. 
 #--------------------
 # Publication 
-#       Authors: 
-#       Published_Date_or_Year: 1992    
-#       Published_Title: A chemical indicator of trade wind reversal in corals  from the western tropical Pacific.
+#       Authors: Shen, G.T.; Linn, L.J.; Campbell, T.M.; Cole, J.E.
+#       Published_Date_or_Year: 1992
+#       Published_Title: A chemical indicator of trade wind reversal in corals from the western tropical Pacific.
 #       Journal_Name: Journal of Geophysical Research
 #       Volume: 97
 #       Edition: 
-#       Issue: 
+#       Issue: C8
 #       Pages: 12,689-12,697
-#       DOI: 10.1029/92JC00951
+#       DOI: 10.1029/92JC00951 
 #       Online_Resource: 
-#       Full_Citation: Shen, G.T., L.J. Linn, T.M. Campbell, J.E. Cole,  and R.G. Fairbanks. 1992.  A chemical indicator of trade wind reversal in corals  from the western tropical Pacific.  Journal of Geophysical Research, Vol. 97, C8, pp. 12,689-12,697.  doi:10.1029/92JC00951 
+#       Full_Citation: 
 #       Abstract: Historical levels of manganese have been measured in the annual  rings of a reef coral from Tarawa atoll (1�30'N, 173�E) in order  to assess the temporal variability of this trace element in  surface waters of the western tropical Pacific. Seasonal  variability associated with vertical mixing is not apparent  as is the case in the eastern Pacific; however, Mn/Ca ratios  are highly perturbed during three El Ni�o-Southern Oscillation  (ENSO) events (1965, 1972, 1976) that occurred within the growth  period 1960�1977. For approximately 6 months during each of these  events, Mn/Ca ratios increase by 50-80% from a background of 27  nmol Mn/mol Ca. These features co-occur with negative d18O pulses  recorded in the same coral which result from anomalously abundant  rainfall. Wet deposition of Mn, however, does not appear to be an  adequate source to account for the inferred surface ocean  enrichments. The most plausible explanation has to do with the  transient appearance of westerly winds along the equator during  ENSO periods. Particularly vigorous westerly wind "bursts"  (sometimes averaging 10 m/sec or more over 16 hours) during  the aforementioned years may have generated wind waves of  sufficient strength to create an aura of particulate and  diagenetically remobilized Mn from within the shallow westward  facing lagoon of Tarawa. This interpretation is supported by  relatively high Mn concentrations measured in pore waters of  Tarawa lagoon sediments. The results suggest a useful new  chemical tracer of historical ENSO conditions in the western  Pacific basin. 
 #------------------
 # Funding_Agency 
@@ -83,22 +86,22 @@
 #       Site_Name: Tarawa Atoll, Republic of Kiribati
 #       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Kiribati
 #	Country: Republic of Kiribati 
-#	Northernmost_Latitude: 1.4167
-# 	Southernmost_Latitude: 1.4167
-# 	Easternmost_Longitude: 173.0333
-# 	Westernmost_Longitude: 173.0333
-# 	Elevation: -3 m
+#	Northernmost_Latitude: 1.387978 
+# 	Southernmost_Latitude: 1.387978
+# 	Easternmost_Longitude: 173.024976 
+# 	Westernmost_Longitude: 173.024976 
+# 	Elevation: -3 m  
 #------------------
 # Data_Collection   
 #	Collection_Name: 93kiri01a
 #	Earliest_Year: 1894
 #	Most_Recent_Year: 1990
 #	Time_Unit: y_ad
-#	Core_Length:
+#	Core_Length: 
 #	Notes: 
 #------------------
 # Species
-#	Species_Name: Porites lobata
+#	Species_Name: Porites lobata 
 #	Common_Name: 
 #------------------
 # Chronology: 
@@ -109,24 +112,24 @@
 # 
 #
 #
-# 
+#
 #----------------
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	delta 18 Oxygen, Porites lobata, , permil VPDB, , Corals and Sclerosponges, , instrument: Finnigan MAT-251 mass spectrometer,N
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lobata, , permil PDB, , Corals and Sclerosponges, normalized by monthly mean subtracted from each monthly value and divided by the standard deviation of the full dataset, Finnigan MAT-251 mass spectrometer,N
 #
 #----------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
-# Missing Values: NAN 
+# Missing Values: NAN
 #
 age	d18O
-1990.000	-4.870
+1990.000	-4.879
 1989.917	-4.891
 1989.833	-4.902
 1989.750	-4.914
@@ -135,7 +138,7 @@ age	d18O
 1989.500	-4.948
 1989.417	-4.861
 1989.333	-4.818
-1989.250	-4.790
+1989.250	-4.79
 1989.167	-4.737
 1989.083	-4.736
 1989.000	-4.732
@@ -144,11 +147,11 @@ age	d18O
 1988.750	-4.858
 1988.667	-4.955
 1988.583	-4.948
-1988.500	-4.940
+1988.500	-4.94
 1988.417	-4.976
 1988.333	-5.177
 1988.250	-5.155
-1988.167	-5.030
+1988.167	-5.03
 1988.083	-4.993
 1988.000	-5.062
 1987.917	-5.126
@@ -162,7 +165,7 @@ age	d18O
 1987.250	-5.296
 1987.167	-5.404
 1987.083	-5.397
-1987.000	-5.470
+1987.000	-5.47
 1986.917	-5.425
 1986.833	-5.388
 1986.750	-5.362
@@ -170,19 +173,19 @@ age	d18O
 1986.583	-5.217
 1986.500	-5.036
 1986.417	-4.925
-1986.333	-4.910
+1986.333	-4.91
 1986.250	-4.886
 1986.167	-4.863
 1986.083	-4.912
 1986.000	-4.976
 1985.917	-5.106
-1985.833	-5.240
+1985.833	-5.24
 1985.750	-5.179
 1985.667	-5.106
 1985.583	-5.082
 1985.500	-5.057
 1985.417	-5.062
-1985.333	-5.100
+1985.333	-5.1
 1985.250	-4.872
 1985.167	-4.849
 1985.083	-4.888
@@ -192,8 +195,8 @@ age	d18O
 1984.750	-5.152
 1984.667	-5.253
 1984.583	-5.154
-1984.500	-5.100
-1984.417	-5.130
+1984.500	-5.1
+1984.417	-5.13
 1984.333	-5.173
 1984.250	-5.003
 1984.167	-4.888
@@ -202,18 +205,18 @@ age	d18O
 1983.917	-5.003
 1983.833	-5.096
 1983.750	-4.945
-1983.667	-4.940
+1983.667	-4.94
 1983.583	-5.009
 1983.500	-5.071
 1983.417	-5.195
 1983.333	-5.047
 1983.250	-4.969
 1983.167	-4.938
-1983.083	-5.050
+1983.083	-5.05
 1983.000	-5.129
 1982.917	-5.187
 1982.833	-5.206
-1982.750	-5.280
+1982.750	-5.28
 1982.667	-5.078
 1982.583	-5.148
 1982.500	-4.983
@@ -227,9 +230,9 @@ age	d18O
 1981.833	-4.859
 1981.750	-4.758
 1981.667	-4.746
-1981.583	-4.870
+1981.583	-4.87
 1981.500	-5.002
-1981.417	-5.140
+1981.417	-5.14
 1981.333	-5.153
 1981.250	-5.284
 1981.167	-5.437
@@ -237,12 +240,12 @@ age	d18O
 1981.000	-5.101
 1980.917	-5.192
 1980.833	-5.154
-1980.750	-5.080
+1980.750	-5.08
 1980.667	-5.055
 1980.583	-4.989
 1980.500	-4.959
 1980.417	-5.024
-1980.333	-5.100
+1980.333	-5.1
 1980.250	-5.136
 1980.167	-5.072
 1980.083	-5.017
@@ -253,20 +256,20 @@ age	d18O
 1979.667	-4.813
 1979.583	-4.769
 1979.500	-4.802
-1979.417	-4.840
+1979.417	-4.84
 1979.333	-4.893
 1979.250	-4.907
 1979.167	-4.891
 1979.083	-4.897
 1979.000	-4.871
 1978.917	-4.843
-1978.833	-4.810
+1978.833	-4.81
 1978.750	-4.744
 1978.667	-4.715
 1978.583	-4.768
 1978.500	-4.777
 1978.417	-4.749
-1978.333	-4.850
+1978.333	-4.85
 1978.250	-4.991
 1978.167	-5.113
 1978.083	-5.065
@@ -274,11 +277,11 @@ age	d18O
 1977.917	-4.849
 1977.833	-4.964
 1977.750	-4.798
-1977.667	-4.580
+1977.667	-4.58
 1977.583	-4.521
 1977.500	-4.466
 1977.417	-4.561
-1977.333	-4.710
+1977.333	-4.71
 1977.250	-4.679
 1977.167	-4.963
 1977.083	-5.017
@@ -289,19 +292,19 @@ age	d18O
 1976.667	-5.148
 1976.583	-5.137
 1976.500	-5.157
-1976.417	-5.090
-1976.333	-4.770
-1976.250	-4.670
+1976.417	-5.09
+1976.333	-4.77
+1976.250	-4.67
 1976.167	-4.698
 1976.083	-4.657
 1976.000	-4.659
-1975.917	-4.590
+1975.917	-4.59
 1975.833	-4.601
-1975.750	-4.630
+1975.750	-4.63
 1975.667	-4.696
-1975.583	-4.790
+1975.583	-4.79
 1975.500	-4.772
-1975.417	-4.760
+1975.417	-4.76
 1975.333	-4.752
 1975.250	-4.764
 1975.167	-4.813
@@ -319,7 +322,7 @@ age	d18O
 1974.167	-4.531
 1974.083	-4.485
 1974.000	-4.541
-1973.917	-4.610
+1973.917	-4.61
 1973.833	-4.594
 1973.750	-4.669
 1973.667	-4.609
@@ -328,7 +331,7 @@ age	d18O
 1973.417	-4.881
 1973.333	-5.001
 1973.250	-5.108
-1973.167	-5.150
+1973.167	-5.15
 1973.083	-5.216
 1973.000	-5.246
 1972.917	-5.221
@@ -336,7 +339,7 @@ age	d18O
 1972.750	-5.191
 1972.667	-5.073
 1972.583	-4.983
-1972.500	-4.970
+1972.500	-4.97
 1972.417	-4.929
 1972.333	-4.915
 1972.250	-4.863
@@ -346,7 +349,7 @@ age	d18O
 1971.917	-4.745
 1971.833	-4.746
 1971.750	-4.783
-1971.667	-4.780
+1971.667	-4.78
 1971.583	-4.709
 1971.500	-4.642
 1971.417	-4.641
@@ -373,7 +376,7 @@ age	d18O
 1969.667	-4.913
 1969.583	-4.837
 1969.500	-4.866
-1969.417	-4.900
+1969.417	-4.9
 1969.333	-4.996
 1969.250	-5.014
 1969.167	-5.096
@@ -389,7 +392,7 @@ age	d18O
 1968.333	-4.708
 1968.250	-4.565
 1968.167	-4.656
-1968.083	-4.720
+1968.083	-4.72
 1968.000	-4.778
 1967.917	-4.835
 1967.833	-4.836
@@ -415,19 +418,19 @@ age	d18O
 1966.167	-5.088
 1966.083	-5.174
 1966.000	-5.138
-1965.917	-5.120
+1965.917	-5.12
 1965.833	-5.118
 1965.750	-5.123
-1965.667	-5.000
+1965.667	-5
 1965.583	-4.896
 1965.500	-4.936
 1965.417	-4.849
-1965.333	-4.810
+1965.333	-4.81
 1965.250	-4.867
 1965.167	-4.925
 1965.083	-4.872
 1965.000	-4.753
-1964.917	-4.740
+1964.917	-4.74
 1964.833	-4.686
 1964.750	-4.654
 1964.667	-4.697
@@ -437,11 +440,11 @@ age	d18O
 1964.333	-4.606
 1964.250	-4.621
 1964.167	-4.847
-1964.083	-5.010
-1964.000	-5.240
+1964.083	-5.01
+1964.000	-5.24
 1963.917	-5.179
 1963.833	-5.112
-1963.750	-5.030
+1963.750	-5.03
 1963.667	-4.976
 1963.583	-4.934
 1963.500	-4.861
@@ -462,10 +465,10 @@ age	d18O
 1962.250	-4.769
 1962.167	-4.811
 1962.083	-4.679
-1962.000	-4.660
+1962.000	-4.66
 1961.917	-4.718
 1961.833	-4.828
-1961.750	-4.940
+1961.750	-4.94
 1961.667	-4.905
 1961.583	-4.911
 1961.500	-4.877
@@ -478,7 +481,7 @@ age	d18O
 1960.917	-4.977
 1960.833	-4.885
 1960.750	-4.871
-1960.667	-4.860
+1960.667	-4.86
 1960.583	-4.869
 1960.500	-4.739
 1960.417	-4.581
@@ -486,7 +489,7 @@ age	d18O
 1960.250	-4.699
 1960.167	-4.672
 1960.083	-4.777
-1960.000	-4.930
+1960.000	-4.93
 1959.917	-4.958
 1959.833	-5.009
 1959.750	-5.019
@@ -511,11 +514,11 @@ age	d18O
 1958.167	-5.068
 1958.083	-5.101
 1958.000	-5.146
-1957.917	-5.160
+1957.917	-5.16
 1957.833	-5.163
 1957.750	-5.178
 1957.667	-5.207
-1957.583	-5.030
+1957.583	-5.03
 1957.500	-4.803
 1957.417	-4.618
 1957.333	-4.574
@@ -534,11 +537,11 @@ age	d18O
 1956.250	-4.303
 1956.167	-4.275
 1956.083	-4.283
-1956.000	-4.240
+1956.000	-4.24
 1955.917	-4.459
 1955.833	-4.584
 1955.750	-4.576
-1955.667	-4.450
+1955.667	-4.45
 1955.583	-4.271
 1955.500	-4.439
 1955.417	-4.367
@@ -546,12 +549,12 @@ age	d18O
 1955.250	-4.343
 1955.167	-4.472
 1955.083	-4.543
-1955.000	-4.520
+1955.000	-4.52
 1954.917	-4.497
 1954.833	-4.537
 1954.750	-4.511
 1954.667	-4.468
-1954.583	-4.510
+1954.583	-4.51
 1954.500	-4.568
 1954.417	-4.587
 1954.333	-4.628
@@ -575,7 +578,7 @@ age	d18O
 1952.833	-4.842
 1952.750	-4.701
 1952.667	-4.523
-1952.583	-4.520
+1952.583	-4.52
 1952.500	-4.635
 1952.417	-4.679
 1952.333	-4.649
@@ -604,7 +607,7 @@ age	d18O
 1950.417	-4.472
 1950.333	-4.545
 1950.250	-4.574
-1950.167	-4.570
+1950.167	-4.57
 1950.083	-4.527
 1950.000	-4.519
 1949.917	-4.585
@@ -613,7 +616,7 @@ age	d18O
 1949.667	-4.748
 1949.583	-4.768
 1949.500	-4.724
-1949.417	-4.610
+1949.417	-4.61
 1949.333	-4.552
 1949.250	-4.611
 1949.167	-4.704
@@ -628,28 +631,28 @@ age	d18O
 1948.417	-4.703
 1948.333	-4.818
 1948.250	-5.044
-1948.167	-5.080
+1948.167	-5.08
 1948.083	-4.955
-1948.000	-4.870
+1948.000	-4.87
 1947.917	-4.816
 1947.833	-4.738
 1947.750	-4.666
 1947.667	-4.606
-1947.583	-4.570
+1947.583	-4.57
 1947.500	-4.662
 1947.417	-4.735
 1947.333	-4.755
 1947.250	-4.865
 1947.167	-4.969
 1947.083	-5.056
-1947.000	-5.150
+1947.000	-5.15
 1946.917	-5.222
 1946.833	-4.603
 1946.750	-4.466
 1946.667	-4.486
 1946.583	-4.546
 1946.500	-4.751
-1946.417	-4.700
+1946.417	-4.7
 1946.333	-4.703
 1946.250	-4.706
 1946.167	-4.725
@@ -657,7 +660,7 @@ age	d18O
 1946.000	-4.513
 1945.917	-4.467
 1945.833	-4.277
-1945.750	-4.320
+1945.750	-4.32
 1945.667	-4.525
 1945.583	-4.669
 1945.500	-4.743
@@ -677,21 +680,21 @@ age	d18O
 1944.333	-4.729
 1944.250	-4.636
 1944.167	-4.584
-1944.083	-4.640
+1944.083	-4.64
 1944.000	-4.659
-1943.917	-4.650
+1943.917	-4.65
 1943.833	-4.578
 1943.750	-4.552
 1943.667	-4.592
 1943.583	-4.619
 1943.500	-4.626
 1943.417	-4.596
-1943.333	-4.540
+1943.333	-4.54
 1943.250	-4.464
-1943.167	-4.530
+1943.167	-4.53
 1943.083	-4.602
 1943.000	-4.598
-1942.917	-4.650
+1942.917	-4.65
 1942.833	-4.678
 1942.750	-4.672
 1942.667	-4.668
@@ -705,21 +708,21 @@ age	d18O
 1942.000	-4.926
 1941.917	-4.911
 1941.833	-4.953
-1941.750	-5.010
+1941.750	-5.01
 1941.667	-5.085
 1941.583	-5.175
 1941.500	-5.191
 1941.417	-5.164
 1941.333	-5.206
 1941.250	-5.132
-1941.167	-5.200
-1941.083	-5.000
+1941.167	-5.2
+1941.083	-5
 1941.000	-5.003
 1940.917	-5.074
 1940.833	-5.129
 1940.750	-5.276
-1940.667	-5.400
-1940.583	-5.290
+1940.667	-5.4
+1940.583	-5.29
 1940.500	-5.185
 1940.417	-5.114
 1940.333	-5.043
@@ -748,11 +751,11 @@ age	d18O
 1938.417	-4.821
 1938.333	-4.804
 1938.250	-4.697
-1938.167	-4.550
+1938.167	-4.55
 1938.083	-4.726
 1938.000	-4.692
 1937.917	-4.701
-1937.833	-4.700
+1937.833	-4.7
 1937.750	-4.807
 1937.667	-4.926
 1937.583	-4.926
@@ -776,7 +779,7 @@ age	d18O
 1936.083	-4.675
 1936.000	-4.835
 1935.917	-4.931
-1935.833	-4.950
+1935.833	-4.95
 1935.750	-4.977
 1935.667	-4.992
 1935.583	-4.878
@@ -784,7 +787,7 @@ age	d18O
 1935.417	-4.812
 1935.333	-4.737
 1935.250	-4.618
-1935.167	-4.840
+1935.167	-4.84
 1935.083	-4.923
 1935.000	-4.912
 1934.917	-4.847
@@ -834,14 +837,14 @@ age	d18O
 1931.250	-5.033
 1931.167	-5.023
 1931.083	-5.025
-1931.000	-5.110
+1931.000	-5.11
 1930.917	-5.213
 1930.833	-5.188
 1930.750	-5.084
-1930.667	-5.000
-1930.583	-4.970
+1930.667	-5
+1930.583	-4.97
 1930.500	-4.893
-1930.417	-4.790
+1930.417	-4.79
 1930.333	-4.705
 1930.250	-4.657
 1930.167	-4.761
@@ -851,14 +854,14 @@ age	d18O
 1929.833	-4.936
 1929.750	-4.846
 1929.667	-4.855
-1929.583	-4.820
+1929.583	-4.82
 1929.500	-4.803
 1929.417	-4.696
 1929.333	-4.564
 1929.250	-4.595
 1929.167	-4.682
 1929.083	-4.726
-1929.000	-4.760
+1929.000	-4.76
 1928.917	-4.785
 1928.833	-4.832
 1928.750	-4.831
@@ -885,9 +888,9 @@ age	d18O
 1927.000	-4.624
 1926.917	-4.745
 1926.833	-4.831
-1926.750	-4.860
+1926.750	-4.86
 1926.667	-4.867
-1926.583	-4.860
+1926.583	-4.86
 1926.500	-4.866
 1926.417	-4.958
 1926.333	-5.047
@@ -896,7 +899,7 @@ age	d18O
 1926.083	-5.084
 1926.000	-5.006
 1925.917	-4.862
-1925.833	-4.770
+1925.833	-4.77
 1925.750	-4.722
 1925.667	-4.669
 1925.583	-4.638
@@ -928,7 +931,7 @@ age	d18O
 1923.417	-4.827
 1923.333	-4.751
 1923.250	-4.649
-1923.167	-4.620
+1923.167	-4.62
 1923.083	-4.615
 1923.000	-4.622
 1922.917	-4.646
@@ -943,7 +946,7 @@ age	d18O
 1922.167	-4.656
 1922.083	-4.665
 1922.000	-4.843
-1921.917	-4.850
+1921.917	-4.85
 1921.833	-4.835
 1921.750	-4.849
 1921.667	-4.861
@@ -951,9 +954,9 @@ age	d18O
 1921.500	-4.702
 1921.417	-4.582
 1921.333	-4.608
-1921.250	-4.630
+1921.250	-4.63
 1921.167	-4.536
-1921.083	-4.550
+1921.083	-4.55
 1921.000	-4.625
 1920.917	-4.709
 1920.833	-4.736
@@ -961,11 +964,11 @@ age	d18O
 1920.667	-4.703
 1920.583	-4.694
 1920.500	-4.718
-1920.417	-4.640
+1920.417	-4.64
 1920.333	-4.653
 1920.250	-4.741
 1920.167	-4.785
-1920.083	-4.840
+1920.083	-4.84
 1920.000	-4.927
 1919.917	-5.015
 1919.833	-5.093
@@ -974,7 +977,7 @@ age	d18O
 1919.583	-5.152
 1919.500	-5.077
 1919.417	-4.916
-1919.333	-4.710
+1919.333	-4.71
 1919.250	-4.638
 1919.167	-4.731
 1919.083	-4.812
@@ -989,9 +992,9 @@ age	d18O
 1918.333	-4.682
 1918.250	-4.671
 1918.167	-4.696
-1918.083	-4.670
+1918.083	-4.67
 1918.000	-4.688
-1917.917	-4.720
+1917.917	-4.72
 1917.833	-4.673
 1917.750	-4.618
 1917.667	-4.654
@@ -999,33 +1002,33 @@ age	d18O
 1917.500	-4.615
 1917.417	-4.659
 1917.333	-4.683
-1917.250	-4.670
+1917.250	-4.67
 1917.167	-4.735
 1917.083	-4.663
 1917.000	-4.679
 1916.917	-4.657
-1916.833	-4.750
+1916.833	-4.75
 1916.750	-4.756
 1916.667	-4.675
 1916.583	-4.738
 1916.500	-4.761
 1916.417	-4.791
 1916.333	-4.772
-1916.250	-4.730
+1916.250	-4.73
 1916.167	-4.774
 1916.083	-4.844
 1916.000	-4.854
 1915.917	-4.802
-1915.833	-4.760
+1915.833	-4.76
 1915.750	-4.751
 1915.667	-4.778
 1915.583	-4.747
-1915.500	-4.920
+1915.500	-4.92
 1915.417	-5.156
 1915.333	-5.208
 1915.250	-5.201
 1915.167	-5.146
-1915.083	-5.090
+1915.083	-5.09
 1915.000	-5.208
 1914.917	-5.187
 1914.833	-5.261
@@ -1045,15 +1048,15 @@ age	d18O
 1913.667	-5.092
 1913.583	-4.816
 1913.500	-4.674
-1913.417	-4.700
+1913.417	-4.7
 1913.333	-4.614
 1913.250	-4.539
 1913.167	-4.683
-1913.083	-4.890
+1913.083	-4.89
 1913.000	-5.003
 1912.917	-4.962
 1912.833	-5.068
-1912.750	-5.000
+1912.750	-5
 1912.667	-4.865
 1912.583	-4.721
 1912.500	-4.594
@@ -1079,7 +1082,7 @@ age	d18O
 1910.833	-4.722
 1910.750	-4.727
 1910.667	-4.697
-1910.583	-4.610
+1910.583	-4.61
 1910.500	-4.653
 1910.417	-4.648
 1910.333	-4.564
@@ -1091,7 +1094,7 @@ age	d18O
 1909.833	-4.634
 1909.750	-4.645
 1909.667	-4.749
-1909.583	-4.760
+1909.583	-4.76
 1909.500	-4.762
 1909.417	-4.717
 1909.333	-4.746
@@ -1099,7 +1102,7 @@ age	d18O
 1909.167	-4.608
 1909.083	-4.508
 1909.000	-4.505
-1908.917	-4.560
+1908.917	-4.56
 1908.833	-4.656
 1908.750	-4.762
 1908.667	-4.863
@@ -1129,13 +1132,13 @@ age	d18O
 1906.667	-4.837
 1906.583	-4.804
 1906.500	-4.755
-1906.417	-4.800
+1906.417	-4.8
 1906.333	-4.841
 1906.250	-4.843
 1906.167	-4.845
 1906.083	-4.883
 1906.000	-4.931
-1905.917	-5.080
+1905.917	-5.08
 1905.833	-5.209
 1905.750	-5.245
 1905.667	-5.277
@@ -1144,7 +1147,7 @@ age	d18O
 1905.417	-5.179
 1905.333	-5.125
 1905.250	-5.056
-1905.167	-5.020
+1905.167	-5.02
 1905.083	-5.012
 1905.000	-5.079
 1904.917	-5.114
@@ -1152,11 +1155,11 @@ age	d18O
 1904.750	-5.173
 1904.667	-5.076
 1904.583	-5.084
-1904.500	-5.110
+1904.500	-5.11
 1904.417	-5.078
 1904.333	-5.032
 1904.250	-4.958
-1904.167	-4.820
+1904.167	-4.82
 1904.083	-4.608
 1904.000	-4.698
 1903.917	-4.635
@@ -1166,11 +1169,11 @@ age	d18O
 1903.583	-4.823
 1903.500	-4.891
 1903.417	-4.829
-1903.333	-4.790
+1903.333	-4.79
 1903.250	-4.794
 1903.167	-4.759
 1903.083	-4.848
-1903.000	-5.020
+1903.000	-5.02
 1902.917	-5.076
 1902.833	-5.097
 1902.750	-5.207
@@ -1213,10 +1216,10 @@ age	d18O
 1899.667	-5.326
 1899.583	-5.316
 1899.500	-5.306
-1899.417	-5.230
+1899.417	-5.23
 1899.333	-4.859
-1899.250	-4.600
-1899.167	-4.540
+1899.250	-4.6
+1899.167	-4.54
 1899.083	-4.531
 1899.000	-4.434
 1898.917	-4.608
@@ -1230,7 +1233,7 @@ age	d18O
 1898.250	-4.508
 1898.167	-4.487
 1898.083	-4.503
-1898.000	-4.590
+1898.000	-4.59
 1897.917	-4.684
 1897.833	-4.706
 1897.750	-4.728
@@ -1242,7 +1245,7 @@ age	d18O
 1897.250	-4.741
 1897.167	-4.776
 1897.083	-4.943
-1897.000	-5.200
+1897.000	-5.2
 1896.917	-5.279
 1896.833	-5.264
 1896.750	-5.362
@@ -1252,7 +1255,7 @@ age	d18O
 1896.417	-4.928
 1896.333	-4.802
 1896.250	-4.723
-1896.167	-4.780
+1896.167	-4.78
 1896.083	-4.892
 1896.000	-4.977
 1895.917	-4.936
@@ -1272,10 +1275,10 @@ age	d18O
 1894.750	-4.712
 1894.667	-4.614
 1894.583	-4.598
-1894.500	-4.650
+1894.500	-4.65
 1894.417	-4.585
-1894.333	-4.550
-1894.250	-4.660
+1894.333	-4.55
+1894.250	-4.66
 1894.167	-4.618
 1894.083	-4.636
 1894.000	-4.677
