@@ -1,0 +1,339 @@
+﻿# Huangye Cave, China 1860 Year Oxygen Isotope Data 
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:11177
+#
+# Original_Source_URL: http://www1.ncdc.noaa.gov/pub/data/paleo/speleothem/asia/china/huangye2011.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Speleothems
+#--------------------
+# Contribution_Date
+#	Date: 2011-06
+#--------------------
+# Title
+#	Study_Name: Huangye Cave, China 1860 Year Oxygen Isotope Data 
+#--------------------
+# Investigators
+#       Investigators: Tan, L.; Cai, Y.; An, Z.; Edwards, R.L.; Cheng, H.; Shen, C.-C. ; Zhang, H.
+#--------------------
+# Description_and_Notes
+#	Description: Oxygen isotope (d18O) data from three stalagmites from Huangye Cave  in eastern Gansu Province, northern China, combined to construct  a precisely dated, continuous d18O record for the last 1860 years.  To generate the composite record for the last 1860 years from the  three stalagmites, we adjusted the d18O offsets to the HY2 (0.2 per mil)  and HY3 (1.1 per mil) records on the level of HY1. The HY1 record  and the adjusted HY2 and HY3 records were then combined to construct  a new record. The new record was composed of:  (i) the HY3 record from AD 1308 to the present (adjusted to the level of HY1),  (ii) the original HY1 record between AD 760 and 1305, and  (iii) the HY2 record between AD 138 and 754 (adjusted to the level of HY1).  Finally, the new record was normalized and a composite Huangye d18OR record  was generated. 
+#--------------------
+# Publication 
+#       Authors: Tan, L.; Cai, Y.; An, Z.; Edwards, R.L.; Cheng, H.; Shen, C.-C. ; Zhang, H.
+#       Published_Date_or_Year: 2011
+#       Published_Title: Centennial- to decadal-scale monsoon precipitation variability in the semi-humid region, northern China during the last 1860 years: Records from stalagmites in Huangye Cave.
+#       Journal_Name: The Holocene
+#       Volume: 21
+#       Edition: 2
+#       Issue: 
+#       Pages: 287-296
+#       DOI: 10.1177/0959683610378880
+#       Online_Resource: 
+#       Full_Citation: Tan, L., Y. Cai, Z. An, R.L. Edwards, H. Cheng, C.-C. Shen, and H. Zhang. 2011 . Centennial- to decadal-scale monsoon precipitation variability in the semi-humid region, northern China during the last 1860 years: Records from stalagmites in Huangye Cave. The Holocene, Vol. 21(2), 287-296. DOI: 10.1177/0959683610378880
+#       Abstract: We developed a composite oxygen isotopic record of cave calcite for the last 1860 years based on three stalagmites from the Huangye Cave in eastern Gansu Province, northern China. The d18O values reflect monsoon precipitation changes, with lower d18O values representing higher precipitation and vice versa. Three intervals of high precipitation were identified at AD 138-450, AD 730-1200, and AD 1860-1960. Two intervals of low precipitation occurred at AD 1320-1410 and AD 1530-1860. The reconstructed monsoon precipitation variations correlate well with other records further east in the eastern Yellow River Basin, suggesting synchronous precipitation changes during the late Holocene in the semi-humid region of northern China on decadal to centennial scales. Peak periods of warfare in dynastic transition times, such as at AD 391-420, AD 601-630, AD 1111-1140, AD 1351-1380, and AD 1621-1650, correspond to sharp declines in precipitation or temperature in semi-humid northern China, indicating a strong connection between climatic and societal changes. Our study suggests that climatic deterioration in semi-humid northern China has played an important role in Chinese societal evolution. 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: National Basic Research Program of China
+#       Grant: 2010CB833405
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: National Science Foundation of China
+#       Grant: 40773009
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: State Key Laboratory of Loess and Quaternary Geology of China
+#       Grant: 51QDJF0902101, SKLLQG0825
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: U.S. National Science Foundation
+#       Grant: 0502535
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Gary Comer Science and Education Foundation
+#       Grant: CC8
+#------------------
+# Site_Information 
+#       Site_Name: Huangye Cave, Gansu Province, China
+#       Location: Asia>Eastern Asia>China
+#	Country: China
+#	Northernmost_Latitude: 33.5833
+# 	Southernmost_Latitude: 33.5833
+# 	Easternmost_Longitude: 105.1167
+# 	Westernmost_Longitude: 105.1167
+# 	Elevation: 1650 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: 11chin01a
+#	Earliest_Year: 760
+#	Most_Recent_Year: 1982
+#	Time_Unit: y_ad
+#	Core_Length: .0935 m
+#	Notes: Core HY1
+#------------------
+# Species
+#	Species_Name: 
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#1. Huangye Cave U-Th data
+#
+#SampleID      Depth       238U        232Th            d234U       230Th/238U        230ThAge      230ThAge        230ThAge      d234UInitial  
+#               (mm)       (ppb)        (ppt)       (measured)      (activity)   (Years,uncorr.)  (YrBP, corr.)    (YrAD, corr.)  (corrected)
+#HY1
+#HY1-1         1.25       309�1       2534�13       696.9�3.8     0.00314�0.00015      202�10          4�71          1946�71       697.0�3.8
+#HY1-2          2.5       432�1       2968�7        696.8�2.8     0.00346�0.00022      223�14          48�61         1902�61       697.0�2.8
+#HY1-3          4.5       460�1       1961�5        702.2�3.3     0.00324�0.00021      207�14          78�39         1872�39       702.5�3.3
+#HY1-4           7        417�1       826�12        722.3�3.5     0.00356�0.00008       226�5         134�18         1816�18       722.7�3.5
+#HY1-5          11        522�1       3927�9        731.3�3.6     0.00551�0.00029      347�18         164�66         1786�66       731.8�3.7
+#HY1-6         17.5       595�2       6330�59       728.4�8.2     0.01101�0.00027      697�18         460�91         1490�91       729.5�8.3
+#HY1-7         26.75      632�1      14142�38       768.7�3.6     0.01418�0.00062      877�39         451�188       1499�188       769.8�3.6
+#HY1-8         34.5       629�2        507�2        691.9�3.0     0.01110�0.00015      717�10         646�12         1304�12       693.3�3.0
+#HY1-9         34.75      596�1       472�12        688.3�3.5     0.01136�0.00011       737�7         665�10         1285�10       689.7�3.5
+#HY1-10        48.75      612�1       1004�12       698.1�3.3     0.01446�0.00013       933�8         847�16         1103�16       699.8�3.3
+#HY1-11        55.25      837�1       1523�28       716.9�3.2     0.01540�0.00013       983�9         894�18         1056�18       718.8�3.2
+#HY1-12         63        681�1        877�4        858.9�3.5     0.01804�0.00020      1062�12        985�15         966�15        861.4�3.5
+#HY1-13        71.25      669�1       428�12        844.9�4.4     0.01906�0.00016      1133�10        1065�11        885�11        847.6�4.4
+#HY1-14         85        713�1       1528�4        798.8�3.4     0.02027�0.00020      1234�12        1142�21        808�21        801.5�3.4
+#HY2
+#HY2-1         3.25       696�1       1842�13       773.0�3.9     0.01908�0.00015      1181�10        1079�24        871�24        775.5�3.9
+#HY2-2          6.5       690�2       6088�18       714.6�3.5     0.02067�0.00043      1322�28        1116�80        834�80        717.0�3.5
+#HY2-3         24.25      741�1       6530�24       728.9�3.8     0.02057�0.00027      1306�17        1100�76        850�76        731.2�3.9
+#HY2-4         37.25      743�1       3672�20       767.1�3.8     0.02106�0.00030      1308�19        1169�45        781�45        769.7�3.9
+#HY2-5         50.25      853�2       2565�14       768.0�4.3     0.02150�0.00021      1335�13        1227�28        723�28        770.8�4.3
+#HY2-6          84        806�2       4791�12       799.1�3.3     0.02480�0.00035      1511�22        1358�53        592�53        802.3�3.3
+#HY2-7         114.5      649�1       4093�10       777.2�3.0     0.02746�0.00038      1695�24        1535�57        415�57        780.7�3.1
+#HY2-8          129       721�2       1848�4        771.5�3.5     0.02803�0.00025      1736�16        1637�26        313�26        775.2�3.5
+#HY2-9          163       647�1       2617�6        758.2�3.1     0.03002�0.00034      1874�22        1750�40        200�40        762.1�3.2
+#HY2-10        193.5      786�2       2715�6        764.9�3.4     0.03094�0.00027      1925�17        1811�33        139�33        769.0�3.4
+#HY3
+#HY3-1          23        187�0       9616�42       658.6�3.7     0.00808�0.00054      548�33        -419�457       2369�457       657.9�3.8
+#HY3-2         88.5       331�1       2656�14       652.6�3.2     0.00957�0.00020      634�13         434�72         1516�72       653.5�3.2
+#HY3-3          119       363�1      35304�212      646.9�2.4     0.01488�0.00109      990�73        -797�876       2747�876       645.6�2.9
+#HY3-4          145       373�1       3777�11       658.7�3.3     0.01301�0.00055      857�36         623�96         1327�96       660.0�3.4
+#
+#The errors are 2sigma errors. Decay constant values are: lambda230 = 9.1577�10-6/yr, lambda234 = 2.8263�10-6/yr (Cheng et al., 2000)
+#and lambda238 = 1.55125�10-10/yr(Jaffey et al., 1971). Corrected 230Th ages assume the initial 230Th/232Th atomic ratio of 4.4 � 2.2�10-6.
+#Depths along the growth axes are relative to the top (youngest surface) of the stalagmites. Year BP: year before present (AD 1950).
+#
+# 
+#
+# 
+#
+#
+#
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##depth	depth in core, , , cm, , , , ,N
+##age	age, , , years AD, , , , ,N
+##d18O	delta 18 Oxygen,,,permil VPDB,,Speleothems,,,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN
+#
+depth	age	d18O
+0.05	1982	-7.73
+0.1	1955	-7.87
+0.15	1937	-8.27
+0.2	1920	-8.23
+0.25	1902	-8.25
+0.3	1895	-8.23
+0.35	1887	-8.25
+0.4	1880	-8.14
+0.45	1872	-8.23
+0.5	1861	-8.34
+0.55	1850	-8.31
+0.6	1838	-8.32
+0.65	1827	-8.08
+0.7	1816	-8.05
+0.75	1812	-7.92
+0.8	1808	-8.08
+0.85	1805	-8.19
+0.9	1801	-8
+0.95	1797	-7.98
+1	1794	-7.96
+1.05	1790	-8.39
+1.1	1786	-8.11
+1.15	1763	-8.21
+1.2	1741	-8.04
+1.25	1718	-8.12
+1.3	1695	-8.22
+1.35	1672	-8.14
+1.4	1649	-7.92
+1.45	1627	-8.1
+1.5	1604	-7.97
+1.55	1581	-8.06
+1.6	1558	-7.72
+1.65	1535	-8.34
+1.7	1513	-8.23
+1.75	1490	-8.38
+1.8	1484	-8.28
+1.85	1478	-8.49
+1.9	1472	-8.03
+1.95	1466	-7.99
+2	1460	-8.13
+2.05	1454	-7.94
+2.1	1448	-8.18
+2.15	1442	-8.05
+2.2	1436	-8.23
+2.25	1430	-8.17
+2.3	1424	-8.08
+2.35	1419	-7.83
+2.4	1413	-8.06
+2.45	1407	-8.1
+2.5	1401	-7.95
+2.55	1395	-8.13
+2.6	1389	-7.84
+2.65	1383	-8.24
+2.7	1377	-7.87
+2.75	1371	-7.87
+2.8	1365	-8.39
+2.85	1359	-8.33
+2.9	1353	-8.02
+2.95	1347	-7.98
+3	1341	-8.22
+3.05	1335	-8.49
+3.1	1330	-8.52
+3.15	1324	-8.12
+3.2	1318	-8.07
+3.25	1312	-8.09
+3.3	1306	-8.03
+3.35	1300	-8.36
+3.4	1294	-8.38
+3.45	1288	-8.48
+3.5	1282	-8.35
+3.55	1275	-8.32
+3.6	1269	-8.29
+3.65	1262	-8.21
+3.7	1256	-8.12
+3.75	1249	-8.18
+3.8	1243	-8.12
+3.85	1236	-7.84
+3.9	1230	-7.98
+3.95	1223	-8.21
+4	1217	-8.14
+4.05	1210	-8.1
+4.1	1204	-8.25
+4.15	1197	-8.12
+4.2	1191	-8.36
+4.25	1184	-8.37
+4.3	1178	-8.39
+4.35	1171	-8.34
+4.4	1165	-8.44
+4.45	1158	-8.16
+4.5	1152	-8.22
+4.55	1145	-8.48
+4.6	1138	-8.8
+4.65	1132	-8.56
+4.7	1125	-8.54
+4.75	1119	-8.61
+4.8	1112	-8.46
+4.85	1106	-8.44
+4.9	1096	-8.36
+4.95	1093	-8.38
+5	1090	-8.34
+5.05	1086	-8.42
+5.1	1083	-8.33
+5.15	1080	-8.24
+5.2	1077	-8.11
+5.25	1073	-8.23
+5.3	1070	-7.98
+5.35	1067	-8.25
+5.4	1064	-8.57
+5.45	1061	-8.15
+5.5	1057	-8.28
+5.55	1054	-8.04
+5.6	1051	-7.93
+5.65	1041	-8.19
+5.7	1035	-8.07
+5.75	1029	-8.02
+5.8	1024	-8.06
+5.85	1018	-8.09
+5.9	1012	-8.08
+5.95	1006	-8.17
+6	1000	-8.18
+6.05	995	-8.33
+6.1	989	-8.18
+6.15	983	-8.33
+6.2	977	-8.34
+6.25	971	-8.23
+6.3	966	-8.4
+6.35	961	-8.5
+6.4	956	-8.27
+6.45	951	-8.33
+6.5	946	-8.51
+6.55	941	-8.31
+6.6	936	-8.45
+6.65	931	-8.1
+6.7	926	-8.46
+6.75	922	-8.41
+6.8	917	-8.39
+6.85	912	-8.44
+6.9	907	-8.23
+6.95	902	-8.26
+7	897	-8.35
+7.05	892	-8.32
+7.1	887	-8.19
+7.15	883	-7.98
+7.2	881	-8.17
+7.25	878	-8.21
+7.3	875	-8.46
+7.35	872	-8.46
+7.4	870	-8.45
+7.45	867	-8.24
+7.5	864	-8.23
+7.55	861	-8.18
+7.6	858	-8.16
+7.65	855	-8.62
+7.7	853	-8.49
+7.75	850	-8.52
+7.8	847	-8.66
+7.85	844	-8.65
+7.9	841	-8.32
+7.95	839	-8.54
+8	836	-8.63
+8.05	833	-8.63
+8.1	830	-8.32
+8.15	827	-8.32
+8.2	825	-8.45
+8.25	822	-8.73
+8.3	819	-8.53
+8.35	816	-8.64
+8.4	813	-8.61
+8.45	811	-8.52
+8.5	808	-8.5
+8.55	805	-8.3
+8.6	802	-8.51
+8.65	799	-8.5
+8.7	796	-8.39
+8.75	794	-8.36
+8.8	791	-8.32
+8.85	788	-8.47
+8.9	785	-8.54
+8.95	782	-8.43
+9	780	-8.45
+9.05	777	-8.22
+9.1	774	-8.29
+9.15	771	-7.87
+9.2	768	-8.32
+9.25	766	-8.35
+9.3	763	-8.18
+9.35	760	-8.85

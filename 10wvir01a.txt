@@ -1,0 +1,291 @@
+﻿# Buckeye Creek Cave 7000 Year Stalagmite Oxygen Isotope Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:9741
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/northamerica/usa/westvirginia/buckeye-creek2010.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Speleothems
+#--------------------
+# Contribution_Date
+#	Date:  2010-10
+#--------------------
+# Title
+#	Study_Name: Buckeye Creek Cave 7000 Year Stalagmite Oxygen Isotope Data 
+#--------------------
+# Investigators
+#       Investigators: Hardt, B.; Rowe, H.D.; Springer, G.S.; Cheng, H.; Edwards, R.L.
+#--------------------
+# Description_and_Notes
+#	Description: Oxygen isotope data from three stalagmites collected  in Buckeye Creek Cave, West Virginia.  Stalagmites  BCC-2, BCC-4, and BCC-6 were collected >1 km from  the cave entrance and ~35 m below the surface.  Oxygen isotope samples were milled at 1-mm intervals,  with results reported in per mil V-PDB. 
+#--------------------
+# Publication 
+#       Authors: Hardt, B.; Rowe, H.D.; Springer, G.S.; Cheng, H.; Edwards, R.L.
+#       Published_Date_or_Year:  2010    
+#       Published_Title: The seasonality of east central North American precipitation based on  three coeval Holocene speleothems from southern West Virginia.
+#       Journal_Name: Earth and Planetary Science Letters
+#       Volume: 295
+#       Edition: 
+#       Issue: 
+#       Pages: 342-348
+#       DOI: 10.1016/j.epsl.2010.04.002
+#       Online_Resource: 
+#       Full_Citation: Hardt, B., H.D. Rowe, G.S. Springer, H. Cheng, and R.L. Edwards. 2010. The seasonality of east central North American precipitation based on three coeval Holocene speleothems from southern West Virginia. Earth and Planetary Science Letters, Vol. 295, pp. 342-348. doi:10.1016/j.epsl.2010.04.002
+#       Abstract: We present a replicated record of Holocene climate change  from a cave in West Virginia, USA. Based on analysis of stable  isotopes in precipitation (d18Ow) from the closest Global Network  of Isotopes in Precipitation (GNIP) station in Coshocton, OH,  we interpret enriched oxygen isotopes in calcite (d18Oc) as  representing an increase in the relative contribution of summer  precipitation to annual totals. Significant coherence between  local summer (July and August) precipitation and the Summer  North Atlantic Oscillation (SNAO) index on multi-decadal  timescales suggests that summer precipitation in our study area  is strongly influenced by changes in the Bermuda High.  A strengthened Bermuda High circulation would increase summer  precipitation amounts in the region and lead to enriched d18Oc  of speleothem calcite. Our d18Oc record achieves maximum values  during the mid-Holocene, consistent with previous studies  indicating an intensified Bermuda High circulation at that time.  At 4.2 ka, d18Oc transitions to lower values at a time when  numerous records around the globe document significant changes  in the hydrologic budget. Over the last 2000 years, there are  intervals of substantially decreased d18Oc, coincident with  aridity in the Yucatan, Alpine glacial advances, and a weakened  Asian summer monsoon. 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: US National Science Foundation
+#       Grant: 0903071, 0902867
+#------------------
+# Site_Information 
+#       Site_Name: Buckeye Creek Cave, West Virginia 
+#       Location: North America>United States Of America>West Virginia
+#	Country: United States of America 
+#	Northernmost_Latitude: 37.9761
+# 	Southernmost_Latitude: 37.9761 
+# 	Easternmost_Longitude: -80.3997 
+# 	Westernmost_Longitude: -80.3997 
+# 	Elevation: 600 m
+#------------------
+# Data_Collection   
+#	Collection_Name: 10wvir01a 
+#	Earliest_Year: 7848
+#	Most_Recent_Year: -24 
+#	Time_Unit:  yb_1950
+#	Core_Length: .1695 m
+#	Notes: Stalagmite BCC-6
+#------------------
+# Chronology: 
+# 1. Uranium and thorium isotopic compositions and 230Th ages by ICP-MS
+#
+#Sample             238U               232Th             d234U          [230Th/238U]        Age (yr BP)       d234Uinitial      Age(yr BP)
+#  ID                ppb                ppt            measured*a         activity*c        uncorrected        corrected      corrected*c,*e
+#
+#BCC6-2             569 �1.0         7278  �22       1556.6 �2.4      0.00624 �0.0002         212  �8        1557.1 �2.4           70  �70
+#BCC6-14            537 �1.1          677  �4        1569.0 �3.0       0.0352 �0.0015        1450  �60       1576.0 �3.0         1430  �70
+#BCC6-25            628 �1.4          161  �1        1564.0 �3.0       0.0416 �0.0009        1720  �40       1572.0 �3.0         1720  �40
+#BCC6-34            762 �1.3          139  �2        1547.7 �2.5       0.0462 �0.0005        1936  �21       1556.5 �2.5         1934  �21
+#BCC6-38            614 �1.5         1476  �7        1583.0 �4.0       0.0652 �0.0009        2730  �40       1595.0 �4.0         2700  �40
+#BCC6-51            631 �12.0         276  �2        1510.0 �30.0      0.0823 �0.0021        3570  �110      1520.0 �30.0        3570  �110
+#BCC6-62            647 �1.1          118  �2        1573.0 �3.0       0.0922 �0.0013        3910  �60       1591.0 �3.0         3910  �60
+#BCC6-84            725 �1.2          146  �1        1597.4 �2.8       0.1004 �0.0009        4230  �40       1616.8 �2.8         4230  �40
+#BCC6-86.5          783 �1.4           46  �2        1595.0 �3.0       0.1238 �0.0013        5250  �60       1619.0 �3.0         5250  �60
+#BCC6-99.5          665 �1.0           85  �2        1630.1 �2.9       0.1312 �0.0015        5500  �70       1655.9 �2.9         5500  �70
+#BCC6-102           613 �1.0          157  �1        1595.9 �2.9       0.1428 �0.0010        6080  �50       1624.0 �3.0         6080  �50
+#BCC6-109           710 �1.5          694  �4        1623.0 �4.0       0.1496 �0.0014        6310  �60       1652.0 �4.0         6310  �60
+#BCC6-130           928 �2.0          161  �3        1582.0 �4.0       0.1607 �0.0016        6910  �70       1614.0 �4.0         6910  �70
+#BCC6-149.5         986 �1.5          299  �1        1534.5 �2.7       0.1683 �0.0010        7390  �50       1567.1 �2.8         7390  �50
+#BCC6-167          1178 �2.0         3897  �20       1493.1 �1.7       0.1748 �0.0007        7830  �30       1526.7 �1.8         7790  �40
+#
+#Analytical errors are 2s of the mean.
+#*a d234U = ([234U/238U]activity - 1) x 1000.
+#*b d234Uinitial corrected was calculated based on 230Th age (T), i.e., d234Uinitial = d234Umeasured X el234*T, and T is corrected age.
+#*c [230Th/238U]activity = 1 - e-l230T + (d234Umeasured/1000)[l230/(l230 - l234)](1 - e-(l230 - l234) T), where T is the age.
+#   Decay constants are 9.1577 x 10-6 yr-1 for 230Th, 2.8263 x 10-6 yr-1 for 234U, and 1.55125 x 10-10 yr-1 for 238U (Cheng et al., 2000).
+#*d The degree of detrital 230Th contamination is indicated by the [230Th/232Th] atomic ratio instead of the activity ratio.
+#*e Age corrections were calculated using an average crustal 230Th/232Th atomic ratio of 4.4 x 10-6 � 2.2 x 10-6.
+#   Those are the values for a material at secular equilibrium, with the crustal 232Th/238U value of 3.8. The errors are arbitrarily 
+#   assumed to be 50%.
+#
+# 
+#
+# 
+#
+#
+# 
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##depth	depth in core, , , mm, , , , ,N
+##age	age, , , years AD, , , , ,N
+##d18O	delta 18 Oxygen, speleothem calcite,,permil VPDB,,Speleothems,,,N
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+depth	age	d18O
+0.5	-24	-6.47
+1.5	36	-6.47
+2.5	96	-6.58
+3.5	156	-6.36
+4.5	216	-6.2
+5.5	276	-6.08
+6.5	336	-6.09
+7.5	395	-6.05
+8.5	1290	-6.08
+9.5	1316	-6.02
+10.5	1343	-6.15
+11.5	1369	-6.12
+12.5	1395	-6.08
+13.5	1421	-6.09
+14.5	1447	-6.16
+15.5	1473	-6.16
+16.5	1499	-6.15
+17.5	1525	-6.01
+18.5	1551	-5.94
+19.5	1577	-5.88
+20.5	1603	-6.08
+21.5	1629	-6.1
+22.5	1656	-6.25
+23.5	1682	-6.08
+24.5	1708	-6.1
+25.5	1733	-6.11
+26.5	1756	-5.93
+27.5	1780	-6.03
+28.5	1804	-6.07
+29.5	1828	-6.06
+30.5	1851	-6.11
+31.5	1875	-6.3
+32.5	1899	-6.1
+33.5	1922	-6.1
+34.5	1946	-6.15
+35.5	1970	-6.1
+36.5	2600	-6.41
+37.5	2667	-6.17
+38.5	2734	-6.07
+39.5	2801	-6.24
+40.5	2868	-6.1
+41.5	2935	-6.03
+42.5	3002	-6
+43.5	3069	-6.04
+44.5	3136	-6.07
+45.5	3202	-5.88
+46.5	3269	-6.2
+47.5	3336	-5.97
+48.5	3403	-6.02
+49.5	3470	-6.08
+50.5	3537	-5.94
+51.5	3586	-6.2
+52.5	3617	-6.07
+53.5	3648	-6.1
+54.5	3679	-6.02
+55.5	3709	-6
+56.5	3740	-5.92
+57.5	3771	-5.99
+58.5	3802	-6.14
+59.5	3833	-5.99
+60.5	3864	-5.97
+61.5	3895	-6.03
+62.5	3917	-5.98
+63.5	3932	-5.98
+64.5	3946	-5.93
+65.5	3960	-5.97
+66.5	3975	-6.08
+67.5	3989	-6.09
+68.5	4003	-6.01
+69.5	4018	-5.99
+70.5	4032	-5.9
+71.5	4046	-5.84
+72.5	4061	-5.88
+73.5	4075	-5.86
+74.5	4089	-6
+75.5	4104	-5.97
+76.5	4118	-6.06
+77.5	4132	-5.82
+78.5	4147	-5.97
+79.5	4161	-5.89
+80.5	4175	-6.09
+81.5	4190	-5.92
+82.5	4204	-6.05
+83.5	4218	-6.06
+84.5	4233	-6.11
+85.5	5235	-6.1
+86.5	5254	-5.76
+87.5	5273	-6.02
+88.5	5291	-5.7
+89.5	5310	-5.91
+90.5	5329	-5.89
+91.5	5348	-5.95
+92.5	5366	-5.86
+93.5	5385	-5.93
+94.5	5404	-5.8
+95.5	5423	-5.92
+96.5	5441	-5.73
+97.5	5460	-5.76
+98.5	5479	-5.75
+99.5	5498	-5.75
+100.5	6033	-5.68
+101.5	6065	-5.72
+102.5	6097	-5.56
+103.5	6129	-5.73
+104.5	6161	-5.7
+105.5	6193	-5.74
+106.5	6226	-5.47
+107.5	6258	-5.64
+108.5	6290	-5.55
+109.5	6320	-5.65
+110.5	6349	-5.67
+111.5	6378	-5.56
+112.5	6407	-5.59
+113.5	6435	-5.59
+114.5	6464	-5.84
+115.5	6493	-5.89
+116.5	6522	-5.82
+117.5	6550	-5.91
+118.5	6579	-5.99
+119.5	6608	-5.91
+120.5	6637	-5.81
+121.5	6665	-5.95
+122.5	6694	-5.92
+123.5	6723	-5.86
+124.5	6752	-5.9
+125.5	6780	-5.93
+126.5	6809	-6.01
+127.5	6838	-6.05
+128.5	6867	-6.17
+129.5	6895	-5.81
+130.5	6922	-5.71
+131.5	6947	-5.73
+132.5	6971	-5.99
+133.5	6996	-5.93
+134.5	7020	-5.97
+135.5	7045	-6.13
+136.5	7069	-5.98
+137.5	7094	-5.99
+138.5	7119	-5.86
+139.5	7143	-5.89
+140.5	7168	-5.73
+141.5	7192	-5.66
+142.5	7217	-5.74
+143.5	7241	-5.75
+144.5	7266	-5.88
+145.5	7291	-5.88
+146.5	7315	-5.62
+147.5	7340	-5.55
+148.5	7364	-5.68
+149.5	7389	-5.62
+150.5	7412	-5.58
+151.5	7435	-5.88
+152.5	7458	-5.93
+153.5	7481	-5.81
+154.5	7503	-5.89
+155.5	7526	-5.93
+156.5	7549	-5.85
+157.5	7572	-5.78
+158.5	7595	-5.88
+159.5	7618	-5.85
+160.5	7641	-5.98
+161.5	7664	-5.87
+162.5	7687	-5.67
+163.5	7710	-5.75
+164.5	7733	-5.8
+165.5	7756	-5.73
+166.5	7779	-5.64
+167.5	7802	-5.66
+168.5	7825	-5.63
+169.5	7848	-5.53
