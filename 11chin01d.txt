@@ -89,7 +89,7 @@
 # 
 #1. Huangye Cave U-Th data
 #
-#SampleID      Depth       238U        232Th            d234U       230Th/238U        230ThAge      230ThAge        230ThAge      d234UInitial  
+#SampleID      Depth       238U        232Th            d234U       230Th/238U        230ThAge      230ThAge        230ThAge      d234UInitial
 #               (mm)       (ppb)        (ppt)       (measured)      (activity)   (Years,uncorr.)  (YrBP, corr.)    (YrAD, corr.)  (corrected)
 #HY1
 #HY1-1         1.25       309�1       2534�13       696.9�3.8     0.00314�0.00015      202�10          4�71          1946�71       697.0�3.8
@@ -139,7 +139,6 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##depth	depth in core, , , cm, , , , ,N
 ##age	age, , , years AD, , , , ,N
 ##d18O	delta 18 Oxygen,,,permil VPDB,,Speleothems,,,N
 #

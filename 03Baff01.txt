@@ -1,4 +1,4 @@
-# Baffin Island 1250 Year Summer Temperature Reconstruction
+﻿# Baffin Island 1250 Year Summer Temperature Reconstruction
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -76,9 +76,9 @@ Little Ice Age.
 #	Country:  Canada
 #	Northernmost_Latitude: 66.66667
 #	Southernmost_Latitude: 66.66667
-#	Easternmost_Longitude:61.35
-#	Westernmost_Longitude: 61.35
-#	Elevation: m
+#	Easternmost_Longitude: -61.35
+#	Westernmost_Longitude: -61.35
+#	Elevation: 300 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 03Baff01
@@ -93,7 +93,7 @@ Little Ice Age.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	Age,,,years AD,,,,,N 
-##avg_temp	surface temperature anomaly (degrees C), Annual, , , degrees C ,summer , , , N
+##temp_anom	surface temperature anomaly (degrees C), Annual, , , degrees C ,summer , , , N
 #
 # --------------------
 # Data:
@@ -101,7 +101,7 @@ Little Ice Age.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age	avg_temp
+age	temp_anom
 1992	1.983661
 1991	1.742671
 1990	1.839067

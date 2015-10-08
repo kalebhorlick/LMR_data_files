@@ -1,4 +1,4 @@
-# 1000-year ice core records from Berkner Island, Antarctic.
+﻿# 1000-year ice core records from Berkner Island, Antarctic.
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -80,7 +80,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age d18O
+age	d18O
 1992	-32.22
 1991	-31.1
 1990	-27.35
@@ -665,7 +665,7 @@ age d18O
 1411	-26.72
 1410	-27.39
 1409	-28.95
-1408	
+1408	NAN
 1407	-27.47
 1406	-27.99
 1405	-27.42
@@ -929,7 +929,7 @@ age d18O
 1147	-27.41
 1146	-27.98
 1145	-28.03
-1144	
+1144	NAN
 1143	-28.12
 1142	-27.53
 1141	-26.15

@@ -74,8 +74,8 @@ seesaw.
 #	Country: 
 #	Northernmost_Latitude: -66.766
 #	Southernmost_Latitude: -66.766
-#	Easternmost_Longitude: 112.8
-#	Westernmost_Longitude: 112.8
+#	Easternmost_Longitude: 112.80
+#	Westernmost_Longitude: 112.80
 #	Elevation: 1370 m
 # --------------------
 # Data_Collection

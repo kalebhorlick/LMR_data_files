@@ -1,4 +1,4 @@
-# Strait of Juan de Fuca Geoduck Clam Growth Increment Data and SST Reconstruction
+﻿# Strait of Juan de Fuca Geoduck Clam Growth Increment Data and SST Reconstruction
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -88,7 +88,7 @@ in this region since at least the 1850s.
 #	Southernmost_Latitude: 48.12
 #	Easternmost_Longitude: 122.95
 #	Westernmost_Longitude: 122.95
-#	Elevation: m
+#	Elevation:
 # --------------------
 # Data_Collection
 #	Collection_Name: 04Juan01
@@ -103,7 +103,7 @@ in this region since at least the 1850s.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	Age,,,years AD,,,,,N 
-##ReconstSST	sea surface temperature, , , Deg C, , Reconstruction, , ,N
+##sst	sea surface temperature, , , Deg C, , Reconstruction, , ,N
 #
 # --------------------
 # Data:
@@ -111,7 +111,7 @@ in this region since at least the 1850s.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age ReconstSST
+age	sst
 1877	9.755129162
 1878	9.914479891
 1879	9.719781937

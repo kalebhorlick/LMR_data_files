@@ -86,7 +86,7 @@
 # Variables 
 #
 # Data variables follow that are preceded by "##" in columns one and two.
-# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age	age, , , years before 1950, , , , ,N
 ##d18O	delta 18 Oxygen,,,permil VPDB,,Speleothems,,,N
@@ -915,7 +915,7 @@ age	d18O
 6407.7	-6.21
 6421.7	-6.18
 6436.2	-6.32
-6450.8	-5.83	
+6450.8	-5.83
 8537.3	-5.55
 8545	-5.51
 8553	-5.69

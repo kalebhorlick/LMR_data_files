@@ -55,9 +55,9 @@
 # 	Southernmost_Latitude: 19.52 
 # 	Easternmost_Longitude: -155.97 
 # 	Westernmost_Longitude: -155.97
-# 	Elevation: -8 m  
+# 	Elevation: -8
 #------------------
-# Data_Collection   
+# Data_Collection
 #	Collection_Name: 01hawi01a
 #	Earliest_Year: 1893
 #	Most_Recent_Year: 1966

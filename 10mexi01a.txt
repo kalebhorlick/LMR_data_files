@@ -102,7 +102,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age	d18O depth
+age	d18O	depth
 2004.00	-4.65	0
 2001.67	-5.31	0.06
 2000.50	-6.11	0.09
