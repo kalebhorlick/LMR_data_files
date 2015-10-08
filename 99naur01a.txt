@@ -80,7 +80,7 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 99naur01a
-#	Earliest_Year: 1898
+#	Earliest_Year: 1897
 #	Most_Recent_Year: 1995
 #	Time_Unit: y_ad
 #	Core_Length: 1.61 m
