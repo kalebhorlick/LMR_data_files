@@ -79,7 +79,7 @@ statistical methods are applied, based on an index approach.
 #	Southernmost_Latitude: 45
 #	Easternmost_Longitude: 6
 #	Westernmost_Longitude: 20
-#	Elevation: m
+#	Elevation:
 # --------------------
 # Data_Collection
 #	Collection_Name: 09Germ01
@@ -102,7 +102,7 @@ statistical methods are applied, based on an index approach.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age temp_anom
+age	temp_anom
 1005	-0.162
 1006	-0.206
 1007	-0.206

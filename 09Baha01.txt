@@ -1,4 +1,4 @@
-# Bahamas Coral SST Reconstruction Since 1552
+﻿# Bahamas Coral SST Reconstruction Since 1552
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -93,7 +93,7 @@ making accurate decadal climate forecasts more difficult to achieve.
 #	Southernmost_Latitude: 26.4
 #	Easternmost_Longitude: 78.033
 #	Westernmost_Longitude: 78.033
-#	Elevation: m
+#	Elevation:
 # --------------------
 # Data_Collection
 #	Collection_Name: 09Baha01
@@ -108,7 +108,7 @@ making accurate decadal climate forecasts more difficult to achieve.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	Age,,,years AD,,,,,N 
-##SSTanom	sea surface temperature, , , Deg C, , Reconstruction, , ,N
+##sst_anom	sea surface temperature, , , Deg C, , Reconstruction, , ,N
 #
 # --------------------
 # Data:
@@ -116,7 +116,7 @@ making accurate decadal climate forecasts more difficult to achieve.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age	SSTanom
+age	sst_anom
 1991	-0.144
 1990	-0.129
 1989	-0.088

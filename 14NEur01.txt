@@ -1,4 +1,4 @@
-# Northern European 2000 Year Summer Temperature Reconstruction
+﻿# Northern European 2000 Year Summer Temperature Reconstruction
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -58,7 +58,7 @@
 #	Southernmost_Latitude: 50.00
 #	Easternmost_Longitude: 30.00
 #	Westernmost_Longitude: 5.00
-#	Elevation: m
+#	Elevation:
 # --------------------
 # Data_Collection
 #	Collection_Name: 14NEur01
@@ -73,14 +73,14 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	Age,,,years AD,,,,,N 
-##tempanom-JJA  surface temperature anomaly, MXD,,degrees C, Jun-Aug, , , reconstruction,N
+##temp_anom	surface temperature anomaly,,,degrees C, Jun-Aug, Climate Reconstruction, , ,N
 # --------------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age	tempanom-JJA
+age	temp_anom
 -17	1.059273207
 -16	0.22210436
 -15	-1.505386911

@@ -76,14 +76,14 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	Age,,,years AD,,,,,N 
-##temp-JJA	surface temperature, , , degrees C, June-July-August, , , tree-ring width reconstruction,N 
+##temp	surface temperature, , , degrees C, June-August, Climate Reconstructions, , ,N 
 # --------------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age	temp-JJA
+age	temp
 1376	10.815
 1377	10.766
 1378	10.641

@@ -67,7 +67,7 @@
 # 	Southernmost_Latitude: -13.9333
 # 	Easternmost_Longitude: -70.8333
 # 	Westernmost_Longitude: -70.8333
-# 	Elevation: 5670 m 
+# 	Elevation: 5670 m
 #------------------
 # Data_Collection   
 #	Collection_Name: 13Quel01b
@@ -75,7 +75,7 @@
 #	Most_Recent_Year: 2010
 #	Time_Unit: y_ad
 #	Core_Length: 168.68 m
-#	Notes: 
+#	Notes: Oxygen isotope and accumulation values from 2002/2003 to 2009/2010 were derived from pit and shallow core samples recovered each austral winter after 2002. (Note: The pit data year ranges listed in this line were corrected 7/21/2014 - these were originally listed incorrectly as "2003/2004 - 2009/2010" and "austral winter after 2003"). Because the pit and shallow core samples were melted and bottled at the field site, dust and major ions after thermal year 2002/2003 are not included in this data set. Net balance before 683 CE is not included since the time scale from 226 to 682 CE was determined by a polynomial fit to the age/depth relationship described in the Supplementary Materials accompanying the Thompson et al. Science (2013) paper)
 #------------------
 # Chronology: 
 #
@@ -91,12 +91,9 @@
 #
 # Data variables follow (have no #)
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
-# Oxygen isotope and accumulation values from 2002/2003 to 2009/2010 were derived from pit and shallow core samples recovered each austral winter after 2002. (Note: The pit data year ranges listed in this line were corrected 7/21/2014 - these were originally listed incorrectly as "2003/2004 - 2009/2010" and "austral winter after 2003") 
-# Because the pit and shallow core samples were melted and bottled at the field site, dust and major ions after thermal year 2002/2003 are not included in this data set
-# Net balance before 683 CE is not included since the time scale from 226 to 682 CE was determined by a polynomial fit to the age/depth relationship described in the Supplementary Materials accompanying the Thompson et al. Science (2013) paper)
 #
-##age	Age , , , beginning of thermal year (austral winter) AD, , , , ,N
-##accum	Ice accumulation rate, , , meters water equivalent, , , , ,N
+##age	Age , , , years AD, beginning of thermal year (austral winter), , , ,N
+##accum	Ice accumulation rate, , , meters water equivalent, , Ice Cores, , ,N
 #
 #----------------
 # Data:
@@ -1889,5 +1886,3 @@ age	accum
 228	56600
 227	31820
 226	47160
-	
-

@@ -65,7 +65,7 @@
 #	Southernmost_Latitude: 47.0
 #	Easternmost_Longitude: 10.0
 #	Westernmost_Longitude: 7.0
-#	Elevation: m
+#	Elevation:
 # --------------------
 # Data_Collection
 #	Collection_Name: 11Swis01
@@ -80,7 +80,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	Age,,,years AD,,,,,N 
-##tempanom-MAMJJ	surface temperature anomaly, , , Deg C, March-July, Reconstruction, , ,N
+##temp_anom	surface temperature anomaly, , , degrees C, March-July, Climate Reconstruction, , ,N
 #
 # --------------------
 # Data:
@@ -88,7 +88,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age tempanom-MAMJJ
+age	temp_anom
 1454	-0.65
 1455	NAN
 1456	-1.19
@@ -122,7 +122,7 @@ age tempanom-MAMJJ
 1484	0.55
 1485	-1.08
 1486	-0.21
-1487	
+1487	NAN
 1488	-0.76
 1489	NAN
 1490	0.12

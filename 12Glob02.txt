@@ -1,4 +1,4 @@
-#  Global and Hemispheric 400 Year Glacier Length Temperature Reconstructions
+﻿#  Global and Hemispheric 400 Year Glacier Length Temperature Reconstructions
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -56,7 +56,7 @@
 #	Southernmost_Latitude: -0
 #	Easternmost_Longitude: 180
 #	Westernmost_Longitude: -180
-#	Elevation: m
+#	Elevation:
 # --------------------
 # Data_Collection
 #	Collection_Name: 12Glob02
@@ -71,7 +71,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	Age,,,years AD,,,,,N 
-##tempanom-ann	surface temperature anomaly (degrees C), Annual, , , degrees C anomaly w.r.t. the 1961-1990 average temperature, , , , N
+##temp_anom	surface temperature anomaly, , , years AD, degrees C, Climate Reconstructions, , ,  anomaly w.r.t. the 1961-1990 average, N
 #
 # --------------------
 # Data:
@@ -79,7 +79,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age	tempanom-ann
+age	temp_anom
 1601	-0.647861
 1602	-0.639141
 1603	-0.628673

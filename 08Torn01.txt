@@ -1,4 +1,4 @@
-# Torneträsk Tree Ring MXD Temperature Reconstruction AD 500-2004
+﻿# Torneträsk Tree Ring MXD Temperature Reconstruction AD 500-2004
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -108,7 +108,7 @@ northern Fennoscandia was much warmer than previously recognized.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age age, , , years AD, , , , ,N
+##age	age, , , years AD, , , , ,N
 ##temp-recon	surface temperature, , , degrees C, , , , tree-ring maximum density reconstruction,N 
 #
 # --------------------
@@ -117,7 +117,7 @@ northern Fennoscandia was much warmer than previously recognized.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age temp-recon
+age	temp
 500	9.01
 501	8.32
 502	9.09
