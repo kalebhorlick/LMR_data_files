@@ -62,7 +62,7 @@
 # --------------------
 # Data_Collection
 #	Collection_Name: 00NoGr02
-#	Earliest_Year: 1478
+#	Earliest_Year: 871
 #	Most_Recent_Year: 1992
 #	Time_Unit: y_ad
 #

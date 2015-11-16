@@ -1,0 +1,119 @@
+﻿# Bermuda Coral Isotope and Skeletal Density Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http
+#
+# Original_Source_URL: ftp:
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2015-11-11
+#--------------------
+# Title
+#	Study_Name: Bermuda Coral Isotope and Skeletal Density Data
+#--------------------
+# Investigators
+#       Investigators: Draschba, S.; Patzold, J.; Wefer, G.
+#--------------------
+# Description_and_Notes
+#	Description: 
+#--------------------
+# Publication 
+#       Authors: Draschba, S.; Patzold, J.; Wefer, G.
+#       Published_Date_or_Year: 2000
+#       Published_Title: North Atlantic climate variability since AD 1350 recorded in δ 18O and skeletal density of Bermuda corals
+#       Journal_Name: International Journal of Earth Sciences
+#       Volume: 88
+#       Edition: 
+#       Issue: 4
+#       Pages: 733-741
+#       DOI: 10.1007/s005310050301
+#       Online_Resource: http://link.springer.com/article/10.1007%2Fs005310050301
+#       Full_Citation: 
+#       Abstract: The reconstruction of the climatic history during the past several hundred years requires a sufficient geographical coverage of combined climate proxy series. Especially in order to identify causal connections between the atmosphere and the ocean, inclusion of marine records into composite climate time series is of fundamental importance. We present two skeletal δ 18O chronologies of coral skeletons of Diploria labyrinthiformis from Bermuda fore-reef sites covering periods in the nineteenth and twentieth centuries and compare them with instrumental temperature data. Both time series are demonstrated to display sea-surface temperature (SST) variability on inter-annual to decadal time scales. On the basis of a specific modern δ 18O vs instrumental SST calibration we reconstruct a time series of SST anomalies between AD 1350 and 1630 covering periods during the Little Ice Age. The application of the coral δ 18O vs temperature relationship leads to estimates of past SST variability which are comparable to the magnitude of modern variations. Parallel to δ 18O chronologies we present time series of skeletal bulk density. Coral δ 18O and skeletal density reveal a strong similarity during Little Ice Age, confirming the reliability of both proxy climate indicators. The past coral records, presented in this study, share features with a previously published climate proxy record from Bermuda and a composite time series of reconstructed Northern Hemisphere summer temperatures. The coral proxy data presented here represent a valuable contribution to elucidate northern Atlantic subtropical climate variation during the past several centuries.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Northeast Breakers, Bermuda 
+#       Location: Ocean>Atlantic Ocean>North Atlantic Ocean>Bermuda
+#	Country: Bermuda  
+#	Northernmost_Latitude: 32.33 
+# 	Southernmost_Latitude: 32.33 
+# 	Easternmost_Longitude: -64.75 
+# 	Westernmost_Longitude: -64.75 
+# 	Elevation: -25 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: 00berm01b 
+#	Earliest_Year: 1856
+#	Most_Recent_Year: 1920
+#	Time_Unit: y_ad
+#	Core_Length: 
+#	Notes: 
+#------------------
+# Species
+#	Species_Name: Diploria labyrinthiformis 
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+#
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Diploria labyrinthiformis, , permil VPDB, , Corals and Sclerosponges, , Mass spectrometer Finnigan MAT 251,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN
+#
+age	d18O
+1920	-3.22
+1917	-3.28
+1915	-2.93
+1911	-2.76
+1908	-3.04
+1905	-2.96
+1902	-2.85
+1900	-3.02
+1897	-3.17
+1894	-3.24
+1891	-2.82
+1888	-3.24
+1885	-3.13
+1881	-3.06
+1878	-2.83
+1875	-3.18
+1872	-3.35
+1870	-3.45
+1868	-3.24
+1865	-2.92
+1862	-3.24
+1859	-2.95
+1856	-2.69

@@ -90,7 +90,7 @@ global climate.
 # --------------------
 # Data_Collection
 #	Collection_Name: 03Dasu01
-#	Earliest_Year: 1900
+#	Earliest_Year: 1451
 #	Most_Recent_Year: 1996
 #	Time_Unit: y_ad
 #

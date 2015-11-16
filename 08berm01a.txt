@@ -64,8 +64,8 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 08berm01a
-#	Earliest_Year: 1781
-#	Most_Recent_Year: 1998
+#	Earliest_Year: 1787
+#	Most_Recent_Year: 1997
 #	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: Bermuda2008Diploriawinter_Sr_Ca

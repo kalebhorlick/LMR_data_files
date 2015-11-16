@@ -1,0 +1,787 @@
+﻿# Am�d�e Island, New Caledonia 350 Year Coral Sr/Ca SST Reconstruction 92-PAA2
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:13035
+#
+# Original_Source_URL: http://www1.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/amedee2012.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2012-06
+#--------------------
+# Title
+#	Study_Name: Am�d�e Island, New Caledonia 350 Year Coral Sr/Ca SST Reconstruction 
+#--------------------
+# Investigators
+#       Investigators: DeLong, K.; Quinn, T.; Taylor, F.; Lin, K.; Shen, C.
+#--------------------
+# Description_and_Notes
+#	Description: UPDATED RECORDS FROM STEPHANS ET AL 2004. Coral Sr/Ca data and Sea Surface Temperature (SST) reconstruction  for the past 350 years for New Caledonia, western tropical Pacific.  Cores sampled include: two long cores (92-PAA1 and 92-PAA2) and one  shorter core (99-PAA) from a single massive Porites lutea colony (PAA),  and two cores (92-PAC and 92-PAD) from nearby colonies of the same  species, all recovered from colonies offshore of Am�d�e Island,  New Caledonia (Stephans et al., 2004; DeLong et al, 2007; DeLong et al,  2012a; DeLong et al, 2012b). Previous studies with this suite of coral  colonies discuss the location and sampling methods (Quinn et al, 1996;  Quinn et al, 1998; Stephans et al, 2004; DeLong et al, 2007).  Elemental ratio (Sr/Ca) determinations follow the method previously  described by DeLong et al. (2007). The elemental data were analyzed  on a Perkin Elmer Optima 4300DV ICP-OES following the drift-correction  methods of Schrag (1999) at the University of South Florida (USF)  and University of Texas. For cores 92-PAA1 and 92PAA2, the one-sigma  analytical precision of a laboratory internal gravimetric standard  is �0.010 mmol per mol (n = 2,445) and of a homogenized powder from  a Porites lutea coral is �0.018 mmol per mol (n = 3,343), which is an  additional estimate of precision. For cores 99-PAA, 92-PAC and 92-PAD,  the analytical precision is reported by Stephans et al. 2004  and summarized here. Analytical precision (1 sigma) for the Sr/Ca  determinations is 0.2% (0.018 mmol per mol), based on a laboratory  standard solution of dissolved Porites lutea. The isotope data were  analyzed at the University of South Florida College of Marine Science,  on a Finnigan Delta Plus XL mass spectrometer and attached Kiel  Carbonate Device with an analytical precision of 0.04 per mil  for carbon and 0.08 per mil for oxygen (1 sigma) determined by  repeated measurements of NBS 19 relative to VPDB. Stable isotopic  and Sr/Ca determinations on samples from Cores 99-PAA, 92-PAC  and 92-PAD were made at USF. Stable isotopic determinations  on samples from core 92-PAA made at the University of Michigan.  Depth series were converted to time series using AnalySeries  software (Paillard et al., 1996) to match Sr/Ca minima to SST  maxima and vice versa. We established our master chronology with  sclerochronology methods (DeLong et al., 2007; DeLong et al., 2012b)  confirmed with 11 high-precision Th-230 dates (DeLong et al., 2012b;  Shen et al., 2008). Coral Sr/Ca variations were compiled into a  single time series by averaging contemporaneous monthly coral  Sr/Ca variations from sampling paths within each colony, and then  by averaging the coral Sr/Ca variations from the colonies together.  The monthly-resolved coral Sr/Ca variations were converted to SST  with the transfer equation previously determined for these corals,  which were calibrated to 32-years of in situ SST (IRD-SST) from  Institut de Recherche pour le D�veloppement - Etudes Climatiques  de l�Oc�an Pacifique tropical (IRD-ECOP) from Am�d�e Island,  New Caledonia (DeLong et al., 2007). This calibration was verified  with the 1-degree grid centre on our study site (22.5�S, 166.5�E;  HadISST-AI) extracted from the HadISST1.1 database (Rayner et al.,  2003), which was adjusted to match mean and variance of IRD-SST  (DeLong et al., 2007).   The error of the reconstruction was evaluated for varying scales  from a single core to five cores by determining the standard error  of regression (sR) for the calibration interval (1967-1992).  This allows the sR shown by error bars in Fig. 2 of DeLong et al.,  2012 Nature Climate Change to vary with time based on the number  of cores. Time series smoothed with low pass finite impulse response  (LPFIR) filter (Bloomfield, 2000). Anomalies determined with respect  to average monthly values for the given interval. Time were  detrended with a second order polynomial fit, see DeLong et al. 2012  Nature Climate change for equations.  The columns contain reference to figure numbers from cited  references. The data from problematic paths presented in Figure 7  of DeLong et al., 2012 in P3 is given for instructions purposes  ONLY and SHOULD NOT BE USED FOR CLIMATE RECONSTRUCTIONS.    Note: A portion of this data replaces the data previously  reported and archived by Stephans et al., 2004.  Am�d�e Island, New Caledonia:  22�28.5'S, 166�28'E, water depth 3 m.
+#--------------------
+# Publication 
+#       Authors: DeLong, K.; Quinn, T.; Taylor, F.; Lin, K.; Shen, C. 
+#       Published_Date_or_Year: 2012     
+#       Published_Title: Improving coral-based paleoclimate reconstructions by replicating 350 years of coral Sr/Ca variations.
+#       Journal_Name: Palaeogeography, Palaeoclimatology, Palaeoecology
+#       Volume: 
+#       Edition: 
+#       Issue: 
+#       Pages: 
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: 
+#       Abstract: A prime focus of research is differentiating the contributions  of natural climate variability from those that are anthropogenically  forced, especially as it relates to climate prediction. The short  length of instrumental records, particularly from the South Pacific,  hampers this research, specifically for investigations of decadal  to centennial scale variability. Here we present a sea surface  temperature (SST) reconstruction derived from highly reproducible  records of strontium-to-calcium ratios (Sr/Ca) in corals from  New Caledonia to investigate natural SST variability in the southwest  tropical Pacific from AD 1649-1999.  Our results reveal periods  of warmer and colder temperatures of the order of decades during  the Little Ice Age that do not correspond to long-term variations  in solar irradiance or the 11-year sunspot cycle. We suggest that  solar variability does not explain decadal to centennial scale SST  variability in reconstructions from the southwest tropical Pacific.  Our SST reconstruction covaries with the Southern Hemisphere Pacific  decadal oscillation and the South Pacific decadal oscillation,  from which SST anomalies in the southwest Pacific are linked  to precipitation anomalies in the western tropical Pacific.  We find that decadal scale SST variability has changed in strength  and periodicity after 1893, suggesting a shift in natural variability  for this location. 
+#--------------------
+# Publication 
+#       Authors: Stephans, C.; Quinn, T.M.; Taylor, F.W.; Correge, T.
+#       Published_Date_or_Year: 2004     
+#       Published_Title: Assessing the Reproducibility of Coral-based Climate Records.
+#       Journal_Name: Geophysical Research Letters
+#       Volume: 31
+#       Edition: 
+#       Issue: L18210
+#       Pages: 
+#       DOI: 10.1029/2004GL020343
+#       Online_Resource: 
+#       Full_Citation: Stephans, C., T.M. Quinn, F. Taylor, and T. Correge. 2004. Assessing the Reproducibility of Coral-based Climate Records.  Geophysical Research Letters, 31,18, L18210, 10.1029/2004GL020343, 2004
+#       Abstract: We perform replication tests using monthly variations in Sr/Ca and d18O in  four cores from three Porites lutea coral heads from New Caledonia to assess  the reproducibility of coral-based climate records.  Coral Sr/Ca (d18O) records  are well correlated to each other and to the instrumental SST record (1967-1992),  especially in terms of differences in the mean values of 25-year SST records  (~0.2C, Sr/Ca-SST; 0.6C, d18O-SST).  The average error associated with the  coral Sr/Ca-SST (d18O-SST) of any particular month, season or year is ~0.8C  (1.1C), 0.6C (0.8C) and 0.5C (0.6C), respectively.  "Stacking" or averaging  the individual proxy records reduces the error between observed and predicted SST,  although the reduction is small for coral Sr/Ca.  Excellent reproducibility among  the coral proxies implies that reliable climate records can be generated from a  single coral core and that coral Sr/Ca-SST records are not compromised, beyond  the errors stated herein, by non-temperature-related biological effects.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Gulf Oceanographic Charitable Trust
+#       Grant: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Carl Riggs Endowed Fellowships of the College of Marine Science
+#       Grant: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: US National Science Foundation
+#       Grant: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Taiwan ROC NSC
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Amedee Island, New Caledonia
+#       Location: Ocean>Pacific Ocean>South Pacific Ocean>Melanesia>New Caledonia
+#	Country: New Caledonia 
+#	Northernmost_Latitude: -22.48
+# 	Southernmost_Latitude: -22.48
+# 	Easternmost_Longitude: 166.47
+# 	Westernmost_Longitude: 166.47
+# 	Elevation: -3 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: 12newc04b
+#	Earliest_Year: 1937
+#	Most_Recent_Year: 1992
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: core 92PAA2. These data have been updated from Stephans et al. 2004
+#------------------
+# Species
+#	Species_Name: Porites lutea
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+# 
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##Sr/Ca	Strontium/Calcium, Porites lutea, ,mmol/mol, ,Corals and Sclerosponges, , ,N 
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age	Sr/Ca
+1992.625	9.256
+1992.542	9.204
+1992.458	9.17
+1992.375	9.149
+1992.292	9.098
+1992.208	9.051
+1992.125	9.051
+1992.042	9.056
+1991.958	9.14
+1991.875	9.219
+1991.792	9.244
+1991.708	9.273
+1991.625	9.301
+1991.542	9.258
+1991.458	9.227
+1991.375	9.224
+1991.292	9.172
+1991.208	9.061
+1991.125	8.997
+1991.042	9.059
+1990.958	9.133
+1990.875	9.198
+1990.792	9.255
+1990.708	9.311
+1990.625	9.265
+1990.542	9.265
+1990.458	9.239
+1990.375	9.143
+1990.292	9.053
+1990.208	8.987
+1990.125	8.967
+1990.042	9.002
+1989.958	9.067
+1989.875	9.151
+1989.792	9.205
+1989.708	9.236
+1989.625	9.247
+1989.542	9.241
+1989.458	9.218
+1989.375	9.191
+1989.292	9.161
+1989.208	9.098
+1989.125	9.041
+1989.042	9.051
+1988.958	9.057
+1988.875	9.133
+1988.792	9.209
+1988.708	9.251
+1988.625	9.285
+1988.542	9.255
+1988.458	9.186
+1988.375	9.116
+1988.292	9.095
+1988.208	9.017
+1988.125	9.034
+1988.042	9.053
+1987.958	9.115
+1987.875	9.177
+1987.792	9.226
+1987.708	9.274
+1987.625	9.316
+1987.542	9.254
+1987.458	9.237
+1987.375	9.181
+1987.292	9.117
+1987.208	9.081
+1987.125	9.093
+1987.042	9.128
+1986.958	9.182
+1986.875	9.196
+1986.792	9.259
+1986.708	9.332
+1986.625	9.307
+1986.542	9.281
+1986.458	9.222
+1986.375	9.193
+1986.292	9.15
+1986.208	9.008
+1986.125	8.935
+1986.042	8.9
+1985.958	9.086
+1985.875	9.188
+1985.792	9.254
+1985.708	9.295
+1985.625	9.324
+1985.542	9.286
+1985.458	9.23
+1985.375	9.095
+1985.292	9.072
+1985.208	8.982
+1985.125	8.987
+1985.042	8.955
+1984.958	9.054
+1984.875	9.191
+1984.792	9.22
+1984.708	9.322
+1984.625	9.353
+1984.542	9.313
+1984.458	9.263
+1984.375	9.196
+1984.292	9.126
+1984.208	9.082
+1984.125	9.106
+1984.042	9.103
+1983.958	9.156
+1983.875	9.16
+1983.792	9.205
+1983.708	9.284
+1983.625	9.355
+1983.542	9.282
+1983.458	9.212
+1983.375	9.078
+1983.292	9.035
+1983.208	9.043
+1983.125	9.042
+1983.042	9.026
+1982.958	9.079
+1982.875	9.165
+1982.792	9.285
+1982.708	9.329
+1982.625	9.369
+1982.542	9.337
+1982.458	9.262
+1982.375	9.191
+1982.292	9.128
+1982.208	9.076
+1982.125	9.035
+1982.042	9
+1981.958	9.053
+1981.875	9.107
+1981.792	9.194
+1981.708	9.28
+1981.625	9.304
+1981.542	9.323
+1981.458	9.25
+1981.375	9.163
+1981.292	9.108
+1981.208	9.036
+1981.125	8.948
+1981.042	9.065
+1980.958	9.13
+1980.875	9.166
+1980.792	9.263
+1980.708	9.322
+1980.625	9.338
+1980.542	9.25
+1980.458	9.186
+1980.375	9.134
+1980.292	9.081
+1980.208	9.028
+1980.125	8.982
+1980.042	9.04
+1979.958	9.096
+1979.875	9.137
+1979.792	9.254
+1979.708	9.337
+1979.625	9.346
+1979.542	9.308
+1979.458	9.228
+1979.375	9.227
+1979.292	9.158
+1979.208	9.09
+1979.125	9.029
+1979.042	9.101
+1978.958	9.157
+1978.875	9.211
+1978.792	9.298
+1978.708	9.371
+1978.625	9.397
+1978.542	9.291
+1978.458	9.221
+1978.375	9.156
+1978.292	9.112
+1978.208	9.098
+1978.125	9.081
+1978.042	9.142
+1977.958	9.204
+1977.875	9.253
+1977.792	9.302
+1977.708	9.353
+1977.625	9.384
+1977.542	9.342
+1977.458	9.227
+1977.375	9.179
+1977.292	9.136
+1977.208	9.097
+1977.125	9.088
+1977.042	9.065
+1976.958	9.098
+1976.875	9.131
+1976.792	9.212
+1976.708	9.294
+1976.625	9.359
+1976.542	9.424
+1976.458	9.2
+1976.375	9.078
+1976.292	9.035
+1976.208	9.003
+1976.125	9.068
+1976.042	9.08
+1975.958	9.107
+1975.875	9.14
+1975.792	9.165
+1975.708	9.214
+1975.625	9.334
+1975.542	9.324
+1975.458	9.258
+1975.375	9.18
+1975.292	9.164
+1975.208	9.093
+1975.125	9.136
+1975.042	9.068
+1974.958	9.127
+1974.875	9.181
+1974.792	9.269
+1974.708	9.358
+1974.625	9.362
+1974.542	9.282
+1974.458	9.29
+1974.375	9.14
+1974.292	9.097
+1974.208	9.083
+1974.125	9.068
+1974.042	9.085
+1973.958	9.101
+1973.875	9.123
+1973.792	9.215
+1973.708	9.34
+1973.625	9.37
+1973.542	9.294
+1973.458	9.199
+1973.375	9.15
+1973.292	9.118
+1973.208	9.114
+1973.125	9.046
+1973.042	9.116
+1972.958	9.185
+1972.875	9.198
+1972.792	9.238
+1972.708	9.387
+1972.625	9.326
+1972.542	9.363
+1972.458	9.294
+1972.375	9.185
+1972.292	9.125
+1972.208	9.122
+1972.125	9.181
+1972.042	9.12
+1971.958	9.133
+1971.875	9.155
+1971.792	9.226
+1971.708	9.229
+1971.625	9.354
+1971.542	9.417
+1971.458	9.255
+1971.375	9.196
+1971.292	9.137
+1971.208	9.071
+1971.125	9.014
+1971.042	9.091
+1970.958	9.132
+1970.875	9.213
+1970.792	9.291
+1970.708	9.348
+1970.625	9.393
+1970.542	9.361
+1970.458	9.274
+1970.375	9.162
+1970.292	9.145
+1970.208	9.048
+1970.125	9.089
+1970.042	9
+1969.958	9.072
+1969.875	9.156
+1969.792	9.245
+1969.708	9.337
+1969.625	9.4
+1969.542	9.337
+1969.458	9.254
+1969.375	9.214
+1969.292	9.2
+1969.208	9.207
+1969.125	9.195
+1969.042	9.164
+1968.958	9.23
+1968.875	9.287
+1968.792	9.361
+1968.708	9.404
+1968.625	9.396
+1968.542	9.276
+1968.458	9.231
+1968.375	9.178
+1968.292	9.158
+1968.208	9.157
+1968.125	9.124
+1968.042	9.168
+1967.958	9.212
+1967.875	9.198
+1967.792	9.268
+1967.708	9.322
+1967.625	9.355
+1967.542	9.277
+1967.458	9.243
+1967.375	9.172
+1967.292	9.1
+1967.208	9.042
+1967.125	9.059
+1967.042	9.091
+1966.958	9.124
+1966.875	9.221
+1966.792	9.271
+1966.708	9.357
+1966.625	9.396
+1966.542	9.36
+1966.458	9.322
+1966.375	9.214
+1966.292	9.175
+1966.208	9.117
+1966.125	9.119
+1966.042	9.12
+1965.958	9.194
+1965.875	9.252
+1965.792	9.238
+1965.708	9.326
+1965.625	9.42
+1965.542	9.377
+1965.458	9.283
+1965.375	9.213
+1965.292	9.173
+1965.208	9.141
+1965.125	9.135
+1965.042	9.144
+1964.958	9.194
+1964.875	9.195
+1964.792	9.259
+1964.708	9.278
+1964.625	9.266
+1964.542	9.25
+1964.458	9.18
+1964.375	9.194
+1964.292	9.121
+1964.208	9.054
+1964.125	9.048
+1964.042	9.101
+1963.958	9.154
+1963.875	9.242
+1963.792	9.318
+1963.708	9.339
+1963.625	9.363
+1963.542	9.282
+1963.458	9.201
+1963.375	9.191
+1963.292	9.07
+1963.208	9.069
+1963.125	9.054
+1963.042	9.06
+1962.958	9.192
+1962.875	9.224
+1962.792	9.272
+1962.708	9.382
+1962.625	9.328
+1962.542	9.273
+1962.458	9.196
+1962.375	9.134
+1962.292	9.116
+1962.208	9.038
+1962.125	8.943
+1962.042	9.005
+1961.958	9.096
+1961.875	9.181
+1961.792	9.265
+1961.708	9.301
+1961.625	9.326
+1961.542	9.288
+1961.458	9.226
+1961.375	9.15
+1961.292	9.103
+1961.208	9.124
+1961.125	9.065
+1961.042	9.108
+1960.958	9.145
+1960.875	9.182
+1960.792	9.252
+1960.708	9.271
+1960.625	9.285
+1960.542	9.247
+1960.458	9.215
+1960.375	9.182
+1960.292	9.097
+1960.208	9.025
+1960.125	8.979
+1960.042	9.036
+1959.958	9.048
+1959.875	9.144
+1959.792	9.226
+1959.708	9.324
+1959.625	9.363
+1959.542	9.308
+1959.458	9.252
+1959.375	9.134
+1959.292	9.108
+1959.208	9.074
+1959.125	9.037
+1959.042	9.076
+1958.958	9.131
+1958.875	9.174
+1958.792	9.216
+1958.708	9.273
+1958.625	9.284
+1958.542	9.243
+1958.458	9.2
+1958.375	9.109
+1958.292	9.051
+1958.208	8.998
+1958.125	8.946
+1958.042	9.021
+1957.958	9.094
+1957.875	9.202
+1957.792	9.234
+1957.708	9.308
+1957.625	9.384
+1957.542	9.338
+1957.458	9.186
+1957.375	9.105
+1957.292	9.076
+1957.208	9.046
+1957.125	9.069
+1957.042	8.999
+1956.958	9.111
+1956.875	9.191
+1956.792	9.227
+1956.708	9.269
+1956.625	9.3
+1956.542	9.242
+1956.458	9.173
+1956.375	9.121
+1956.292	9.048
+1956.208	8.954
+1956.125	9.097
+1956.042	9.046
+1955.958	9.096
+1955.875	9.153
+1955.792	9.208
+1955.708	9.282
+1955.625	9.357
+1955.542	9.313
+1955.458	9.207
+1955.375	9.141
+1955.292	9.104
+1955.208	9.075
+1955.125	9.051
+1955.042	9.092
+1954.958	9.132
+1954.875	9.206
+1954.792	9.273
+1954.708	9.325
+1954.625	9.359
+1954.542	9.313
+1954.458	9.264
+1954.375	9.183
+1954.292	9.089
+1954.208	9.055
+1954.125	9.073
+1954.042	9.063
+1953.958	9.141
+1953.875	9.209
+1953.792	9.248
+1953.708	9.302
+1953.625	9.363
+1953.542	9.339
+1953.458	9.247
+1953.375	9.224
+1953.292	9.204
+1953.208	9.198
+1953.125	9.17
+1953.042	9.19
+1952.958	9.211
+1952.875	9.233
+1952.792	9.246
+1952.708	9.281
+1952.625	9.323
+1952.542	9.272
+1952.458	9.208
+1952.375	9.179
+1952.292	9.102
+1952.208	9.119
+1952.125	9.094
+1952.042	9.082
+1951.958	9.123
+1951.875	9.194
+1951.792	9.277
+1951.708	9.385
+1951.625	9.366
+1951.542	9.308
+1951.458	9.221
+1951.375	9.175
+1951.292	9.128
+1951.208	9.138
+1951.125	9.119
+1951.042	9.085
+1950.958	9.14
+1950.875	9.189
+1950.792	9.272
+1950.708	9.346
+1950.625	9.341
+1950.542	9.226
+1950.458	9.196
+1950.375	9.126
+1950.292	9.07
+1950.208	9.035
+1950.125	9.007
+1950.042	9.068
+1949.958	9.127
+1949.875	9.184
+1949.792	9.218
+1949.708	9.322
+1949.625	9.337
+1949.542	9.322
+1949.458	9.245
+1949.375	9.15
+1949.292	9.072
+1949.208	9.036
+1949.125	9.059
+1949.042	9.069
+1948.958	9.134
+1948.875	9.21
+1948.792	9.238
+1948.708	9.333
+1948.625	9.321
+1948.542	9.284
+1948.458	9.225
+1948.375	9.166
+1948.292	9.112
+1948.208	9.089
+1948.125	9.113
+1948.042	9.061
+1947.958	9.111
+1947.875	9.235
+1947.792	9.291
+1947.708	9.317
+1947.625	9.35
+1947.542	9.257
+1947.458	9.196
+1947.375	9.066
+1947.292	9.075
+1947.208	9.084
+1947.125	9.08
+1947.042	9.153
+1946.958	9.18
+1946.875	9.21
+1946.792	9.279
+1946.708	9.331
+1946.625	9.365
+1946.542	9.303
+1946.458	9.229
+1946.375	9.153
+1946.292	9.102
+1946.208	9.093
+1946.125	9.014
+1946.042	9.075
+1945.958	9.159
+1945.875	9.218
+1945.792	9.293
+1945.708	9.321
+1945.625	9.366
+1945.542	9.318
+1945.458	9.256
+1945.375	9.182
+1945.292	9.129
+1945.208	9.117
+1945.125	9.048
+1945.042	9.098
+1944.958	9.143
+1944.875	9.232
+1944.792	9.323
+1944.708	9.353
+1944.625	9.36
+1944.542	9.324
+1944.458	9.242
+1944.375	9.175
+1944.292	9.141
+1944.208	9.111
+1944.125	9.061
+1944.042	9.089
+1943.958	9.153
+1943.875	9.207
+1943.792	9.255
+1943.708	9.282
+1943.625	9.313
+1943.542	9.265
+1943.458	9.232
+1943.375	9.201
+1943.292	9.17
+1943.208	9.141
+1943.125	9.092
+1943.042	9.14
+1942.958	9.163
+1942.875	9.232
+1942.792	9.304
+1942.708	9.345
+1942.625	9.357
+1942.542	9.312
+1942.458	9.245
+1942.375	9.193
+1942.292	9.129
+1942.208	9.112
+1942.125	9.099
+1942.042	9.129
+1941.958	9.179
+1941.875	9.212
+1941.792	9.293
+1941.708	9.377
+1941.625	9.408
+1941.542	9.345
+1941.458	9.282
+1941.375	9.222
+1941.292	9.164
+1941.208	9.119
+1941.125	9.114
+1941.042	9.137
+1940.958	9.184
+1940.875	9.234
+1940.792	9.308
+1940.708	9.366
+1940.625	9.383
+1940.542	9.303
+1940.458	9.25
+1940.375	9.217
+1940.292	9.136
+1940.208	9.052
+1940.125	9.084
+1940.042	9.116
+1939.958	9.157
+1939.875	9.203
+1939.792	9.302
+1939.708	9.323
+1939.625	9.365
+1939.542	9.313
+1939.458	9.262
+1939.375	9.195
+1939.292	9.166
+1939.208	9.116
+1939.125	9.106
+1939.042	9.142
+1938.958	9.183
+1938.875	9.212
+1938.792	9.291
+1938.708	9.366
+1938.625	9.315
+1938.542	9.287
+1938.458	9.241
+1938.375	9.122
+1938.292	9.064
+1938.208	9.032
+1938.125	8.984
+1938.042	9.015
+1937.958	9.115
+1937.875	9.213
+1937.792	9.272
+1937.708	9.318
+1937.625	9.351
+1937.542	9.326
+1937.458	9.298
+1937.375	9.205
+1937.292	9.123

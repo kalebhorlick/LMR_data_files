@@ -62,8 +62,8 @@
 # --------------------
 # Data_Collection
 #	Collection_Name: 80Renl01
-#	Earliest_Year: 0
-#	Most_Recent_Year: 1980
+#	Earliest_Year: 3
+#	Most_Recent_Year: 1983
 #	Time_Unit: y_ad
 #
 # --------------------

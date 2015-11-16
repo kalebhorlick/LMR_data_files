@@ -91,7 +91,7 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 06cook02b
-#	Earliest_Year: 1874
+#	Earliest_Year: 1875
 #	Most_Recent_Year: 1999
 #	Time_Unit: y_ad
 #	Core_Length: 
@@ -252,4 +252,3 @@ age	d18O	d13C
 1877.5	-4.2099	-2.1403
 1876.5	-4.2544	-2.0989
 1875.5	-4.2256	-2.1682
-1874.5	NAN	NAN

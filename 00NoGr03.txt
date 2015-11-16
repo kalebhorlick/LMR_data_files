@@ -62,8 +62,8 @@
 # --------------------
 # Data_Collection
 #	Collection_Name: 00NoGr03
-#	Earliest_Year: 1480
-#	Most_Recent_Year: 1994
+#	Earliest_Year: 1397
+#	Most_Recent_Year: 1993
 #	Time_Unit: y_ad
 #
 # --------------------

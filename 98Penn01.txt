@@ -92,7 +92,7 @@ Hudson Bay.
 # --------------------
 # Data_Collection
 #	Collection_Name: 98Penn01
-#	Earliest_Year: 9
+#	Earliest_Year: 34
 #	Most_Recent_Year: 1984
 #	Time_Unit: y_ad
 # --------------------
@@ -2062,27 +2062,3 @@ age	d18O
 36	NAN
 35	NAN
 34	-23.7103
-33	NAN
-32	NAN
-31	NAN
-30	NAN
-29	NAN
-28	NAN
-27	NAN
-26	NAN
-25	NAN
-24	NAN
-23	NAN
-22	NAN
-21	NAN
-20	NAN
-19	NAN
-18	NAN
-17	NAN
-16	NAN
-15	NAN
-14	NAN
-13	NAN
-12	NAN
-11	NAN
-10	NAN
