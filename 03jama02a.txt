@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1991
 #	Time_Unit: y_ad 
 #	Core_Length: 
-#	Notes: Core name- Sclerosponge Ce96
+#	Notes: {"database":"LMR_FM"} Core name- Sclerosponge Ce96
 #------------------
 # Species
 #	Species_Name: Ceratoporella nicholsoni

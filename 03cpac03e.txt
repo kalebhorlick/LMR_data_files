@@ -117,7 +117,7 @@
 #	Most_Recent_Year: 1666 
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Sample ID - SB3, +/- 10 years error in  U/Th age calculation
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} Sample ID - SB3, +/- 10 years error in  U/Th age calculation
 #------------------
 # Species
 #	Species_Name: Porites lutea

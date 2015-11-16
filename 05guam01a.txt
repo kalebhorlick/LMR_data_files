@@ -75,7 +75,7 @@
 #	Most_Recent_Year: 2000
 #	Time_Unit: y_ad
 #	Core_Length: 2.73 m
-#	Notes: previous name- Double2005corald18O
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} previous name- Double2005corald18O
 #------------------
 # Species
 #	Species_Name: Porites lobata

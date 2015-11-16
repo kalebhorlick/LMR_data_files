@@ -95,7 +95,7 @@
 #	Most_Recent_Year: 1994
 #	Time_Unit: y_ad
 #	Core_Length: 1.74 m
-#	Notes: All three time series were detrended and normalized to unit variance over their period of overlap (1873-1994).The November-December-January-February (NDJF) coral Sr/Ca and U/Ca  time series were calculated from the bimonthly resolved coral record  as the average of the corresponding November-December (ND) and  January-February (JF) values. The NDJF value of a given year (e.g., 1901)  includes the ND value of the preceding year (1900).
+#	Notes: {"database":"LMR_FM"} All three time series were detrended and normalized to unit variance over their period of overlap (1873-1994).The November-December-January-February (NDJF) coral Sr/Ca and U/Ca  time series were calculated from the bimonthly resolved coral record  as the average of the corresponding November-December (ND) and  January-February (JF) values. The NDJF value of a given year (e.g., 1901)  includes the ND value of the preceding year (1900).
 #------------------
 # Species
 #	Species_Name: Porites

@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1956
 #	Time_Unit: y_ad 
 #	Core_Length:
-#	Notes: Prevous name - Clipperton F1B Sr/Ca Isotopes Wu14
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Prevous name - Clipperton F1B Sr/Ca Isotopes Wu14
 #------------------
 # Species
 #	Species_Name: Porites lobata

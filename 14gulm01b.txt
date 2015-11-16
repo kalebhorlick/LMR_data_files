@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 2008
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: The average of 08PS-A1 and 08PS-A2.
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} The average of 08PS-A1 and 08PS-A2.
 #------------------
 # Species
 #	Species_Name: Siderastrea siderea 

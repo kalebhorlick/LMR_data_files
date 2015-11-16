@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1992
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Core name- Sclerosponge Pb19
+#	Notes: {"database":"LMR_FM"} Core name- Sclerosponge Pb19
 #------------------
 # Species
 #	Species_Name: Ceratoporella nicholsoni

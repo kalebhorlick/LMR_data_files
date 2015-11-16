@@ -77,7 +77,7 @@
 #	Most_Recent_Year: 1997
 #	Time_Unit: y_ad
 #	Core_Length: 2.1 m
-#	Notes: Core name- NEP
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Core name- NEP
 #------------------
 # Species
 #	Species_Name: Porites sp.

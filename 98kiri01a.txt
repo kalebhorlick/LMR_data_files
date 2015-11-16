@@ -85,7 +85,7 @@
 #	Most_Recent_Year: 1993
 #	Time_Unit: y_ad
 #	Core_Length: .8395 m
-#	Notes: DATA PRECISION (1 standard deviation): COLUMN 1: 1938-1945: +/- 0.5 year; 1946-1955: +/- 0.7 year; 1956-1965: +/-  0.8 year; 1966-1975: +/- 0.8 year; 1976-1985: +/- 0.8 year; 1986-1993: +/-  0.7 year. COLUMN 2: +/- 0.09 per mil COLUMN 3: +/- 0.06 per mil
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} DATA PRECISION (1 standard deviation): COLUMN 1: 1938-1945: +/- 0.5 year; 1946-1955: +/- 0.7 year; 1956-1965: +/-  0.8 year; 1966-1975: +/- 0.8 year; 1976-1985: +/- 0.8 year; 1986-1993: +/-  0.7 year. COLUMN 2: +/- 0.09 per mil COLUMN 3: +/- 0.06 per mil
 #------------------
 # Species
 #	Species_Name: Porites sp. 

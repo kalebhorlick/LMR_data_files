@@ -83,7 +83,7 @@
 #	Most_Recent_Year: 1996
 #	Time_Unit: y_ad
 #	Core_Length: 1.74 m
-#	Notes: See Linsley et al. (2004) for a description of Fiji Core 1F. Previous Collection Name- Fiji 1F d18O Sr/Ca L06
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} See Linsley et al. (2004) for a description of Fiji Core 1F. Previous Collection Name- Fiji 1F d18O Sr/Ca L06
 #--------------------------------
 # Chronology:
 #    The chronologies for all of the coral results presented here are based on the reconstructed annual cycle in millimeter-scale δ18O and/or Sr/Ca down core analyses [Linsley et al., 2000; Ren et al., 2003; Linsley et al., 2004]. 

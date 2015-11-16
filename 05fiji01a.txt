@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 2001
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: normalized to the 1970-1996 mean
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} normalized to the 1970-1996 mean
 #------------------
 # Species
 #	Species_Name: Diploastrea heliopora

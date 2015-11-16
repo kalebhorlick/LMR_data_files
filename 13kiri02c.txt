@@ -89,7 +89,7 @@
 #	Most_Recent_Year: 1248 
 #	Time_Unit: yb_1950 
 #	Core_Length: 
-#	Notes: 
+#	Notes: {"database":"LMR_FM"} 
 #------------------
 # Species
 #	Species_Name:  

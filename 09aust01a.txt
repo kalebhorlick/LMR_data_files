@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 2004
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: 5-year averages through 1939. *e pH values are calculated using the following parameters: a(B3�B4) = 1.0204 (Xiao et al., 2006), pKB = 8.60 (Honisch et al., 2004) and seawater d11B = 40.08& of our measurement for the GBR seawater.
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} 5-year averages through 1939. *e pH values are calculated using the following parameters: a(B3�B4) = 1.0204 (Xiao et al., 2006), pKB = 8.60 (Honisch et al., 2004) and seawater d11B = 40.08& of our measurement for the GBR seawater.
 #------------------
 # Species
 #	Species_Name: Porites sp. 

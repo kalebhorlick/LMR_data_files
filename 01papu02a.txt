@@ -65,7 +65,7 @@
 #	Most_Recent_Year: 1993 
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Core name- (Dur-2). Long-term analytical precision of � 0.16 � d18O (2s) based on analysis of internal consistency standards 
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} Core name- (Dur-2). Long-term analytical precision of � 0.16 � d18O (2s) based on analysis of internal consistency standards 
 #------------------
 # Species
 #	Species_Name: Porites

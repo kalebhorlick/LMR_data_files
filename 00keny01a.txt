@@ -64,7 +64,7 @@
 #	Most_Recent_Year: 1994
 #	Time_Unit: y_ad
 #	Core_Length: 4 m
-#	Notes: precision of -0.24 per mil (‰) d18O per 1°C
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES2"} precision of -0.24 per mil (‰) d18O per 1°C
 #------------------
 # Species
 #	Species_Name: Porites lutea

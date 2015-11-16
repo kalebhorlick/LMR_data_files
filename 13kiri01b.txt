@@ -89,7 +89,7 @@
 #	Most_Recent_Year: 1978
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Fanning	Modern spl
+#	Notes: {"database":"LMR_FM"} Fanning	Modern spl
 #------------------
 # Species
 #	Species_Name:  

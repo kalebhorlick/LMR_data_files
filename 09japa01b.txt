@@ -71,7 +71,7 @@
 #	Most_Recent_Year: 1994
 #	Time_Unit: y_ad
 #	Core_Length: 1.74 m
-#	Notes: 
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} 
 #------------------
 # Species
 #	Species_Name: Porites sp. 

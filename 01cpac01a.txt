@@ -68,7 +68,7 @@
 #	Most_Recent_Year: 1998
 #	Time_Unit: y_ad 
 #	Core_Length: 3 m
-#	Notes: 
+#	Notes: {"database":"LMR_FM"}
 #------------------
 # Species
 #	Species_Name: Porites lutea

@@ -65,7 +65,7 @@
 #	Most_Recent_Year: 1992
 #	Time_Unit: y_ad
 #	Core_Length: 2.8 m
-#	Notes: Core name- aq18. Average precision based on duplicate sample analysis and on multiple analysis of NBS 19 is �0.04 permil for d13C and �0.08 permil for d18O
+#	Notes: {"database":"PAGES2"} Core name- aq18. Average precision based on duplicate sample analysis and on multiple analysis of NBS 19 is �0.04 permil for d13C and �0.08 permil for d18O
 #------------------
 # Species
 #	Species_Name: Porites sp.

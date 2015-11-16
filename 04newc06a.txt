@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1992
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: Four-core stack from cores 92PAC (from 04newc01a), 92PAD (from 04newc02a), 99PAA (from 04newc03a), and 92PAA (from 04newc04a). These data have been updated by DeLong et al. 2012. Please see file: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/amedee2012.txt 
+#	Notes: {"database":"LMR_FM"} Four-core stack from cores 92PAC (from 04newc01a), 92PAD (from 04newc02a), 99PAA (from 04newc03a), and 92PAA (from 04newc04a). These data have been updated by DeLong et al. 2012. Please see file: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/amedee2012.txt 
 #------------------
 # Species
 #	Species_Name: Porites lutea

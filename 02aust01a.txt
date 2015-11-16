@@ -64,7 +64,7 @@
 #	Most_Recent_Year: 1988
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: Post-anomaly average of 8 cores from 8 sites, analyzed in pentannual samples, e.g. 1983 is the 5-year period from mid-1980 to mid-1985).  
+#	Notes: {"database":"LMR_FM"} Post-anomaly average of 8 cores from 8 sites, analyzed in pentannual samples, e.g. 1983 is the 5-year period from mid-1980 to mid-1985).  
 #------------------
 # Species
 #	Species_Name: Porites sp.

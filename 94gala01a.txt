@@ -64,7 +64,7 @@
 #	Most_Recent_Year: 1981
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: Core name- UR-86 (Pavona clavus, 1607-1953) 
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Core name- UR-86 (Pavona clavus, 1607-1953) 
 #------------------
 # Species
 #	Species_Name: Pavona clavus

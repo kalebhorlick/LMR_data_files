@@ -77,7 +77,7 @@
 #	Most_Recent_Year: 1998
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: This is the annual resolution file. Monthly resolution of same dataset is 10guad01a.
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} This is the annual resolution file. Monthly resolution of same dataset is 10guad01a.
 #------------------
 # Species
 #	Species_Name: Diploria strigosa

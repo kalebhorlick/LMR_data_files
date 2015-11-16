@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1995
 #	Time_Unit: y_ad
 #	Core_Length: 4.06 m
-#	Notes: Data are a bimonthly time series interpolated to the mid-month.  Therefore the month of January/February appear in the data as 1660.125;  March/April: 1660.291; may/june: 1660.458; july/august: 1660.625;  september/october: 1660.791; november/december: 1660.958.   This is because meteorological data are also given as mid-month values. 
+#	Notes: {"database":"LMR_FM"} Data are a bimonthly time series interpolated to the mid-month.  Therefore the month of January/February appear in the data as 1660.125;  March/April: 1660.291; may/june: 1660.458; july/august: 1660.625;  september/october: 1660.791; november/december: 1660.958.   This is because meteorological data are also given as mid-month values. 
 #------------------
 # Species
 #	Species_Name: Porites lobata

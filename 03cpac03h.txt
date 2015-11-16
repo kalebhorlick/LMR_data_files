@@ -117,7 +117,7 @@
 #	Most_Recent_Year: 1703
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Sample ID - spl17, spliced sequence made by splicing SB3 (03palm01h) to SB8 (03palm01j) at date 1402.96, with +/- 5 year age-date error
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} Sample ID - spl17, spliced sequence made by splicing SB3 (03palm01h) to SB8 (03palm01j) at date 1402.96, with +/- 5 year age-date error
 #------------------
 # Species
 #	Species_Name: Porites lutea

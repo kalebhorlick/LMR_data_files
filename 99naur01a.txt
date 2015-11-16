@@ -84,7 +84,7 @@
 #	Most_Recent_Year: 1995
 #	Time_Unit: y_ad
 #	Core_Length: 1.61 m
-#	Notes: Core name- Nauru-2. Oxygen isotope data has NOT been corrected for the acid fractionation difference ("acid-alpha") between standards (calcite) and coral samples (aragonite). Cores split and cleaned with distilled water. The whole length sampled at 2mm (discrete) increments.  Samples were not pretreated.  Data normalized to V-PDB, � 0.05 per mil. Oxygen isotope data has not been adjusted for the different acid fractionation between calcite (standards) and aragonite (coral).   The coral's growth rate went from ~8mm/yr to ~21mm/yr and the lower, slow growing portion of the record (1898-1939) shows a strong kinetic overprint.  Due to slow growth and early morphological changes 1900 is extremely truncated.
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Core name- Nauru-2. Oxygen isotope data has NOT been corrected for the acid fractionation difference ("acid-alpha") between standards (calcite) and coral samples (aragonite). Cores split and cleaned with distilled water. The whole length sampled at 2mm (discrete) increments.  Samples were not pretreated.  Data normalized to V-PDB, � 0.05 per mil. Oxygen isotope data has not been adjusted for the different acid fractionation between calcite (standards) and aragonite (coral).   The coral's growth rate went from ~8mm/yr to ~21mm/yr and the lower, slow growing portion of the record (1898-1939) shows a strong kinetic overprint.  Due to slow growth and early morphological changes 1900 is extremely truncated.
 #------------------
 # Species
 #	Species_Name: Porites spp.

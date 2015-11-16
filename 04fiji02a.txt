@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 2001
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Core name LH
+#	Notes: {"database":"LMR_FM"} Core name LH
 #------------------
 # Species
 #	Species_Name: Diploastrea heliopora

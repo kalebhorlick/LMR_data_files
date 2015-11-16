@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 2010
 #	Time_Unit: y_ad
 #	Core_Length: 1.31 m
-#	Notes: Previous name HAB05B Sr/Ca Z14
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Previous name HAB05B Sr/Ca Z14
 #------------------
 # Species
 #	Species_Name: Porites sp. 

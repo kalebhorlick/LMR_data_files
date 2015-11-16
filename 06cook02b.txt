@@ -95,7 +95,7 @@
 #	Most_Recent_Year: 1999
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Core name - 3R, 8 samples per year
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} Core name - 3R, 8 samples per year
 #------------------
 # Species
 #	Species_Name: Porites lutea

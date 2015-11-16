@@ -64,7 +64,7 @@
 #	Most_Recent_Year: 1994 
 #	Time_Unit: y_ad
 #	Core_Length: 1.44 m
-#	Notes: Internal precisions (1 SD) are 0.02 per mil for delta O-18,and 0.015 per mil for delta C-13. External precisions (1 SD) of an internal laboratory standard (Solnhofen limestone) are 0.07 per mil for delta O-18, and 0.05 per mil for delta C-13. Average sampling density is 6.7 samples per year. The bimonthly data were interpolated with an Excel-macro. Based on couplets of annual density bands and seasonality in d18O. Within each year the highest (least depleted) d18O value was tied to mid-September, which is the coldest month on average.
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} Internal precisions (1 SD) are 0.02 per mil for delta O-18,and 0.015 per mil for delta C-13. External precisions (1 SD) of an internal laboratory standard (Solnhofen limestone) are 0.07 per mil for delta O-18, and 0.05 per mil for delta C-13. Average sampling density is 6.7 samples per year. The bimonthly data were interpolated with an Excel-macro. Based on couplets of annual density bands and seasonality in d18O. Within each year the highest (least depleted) d18O value was tied to mid-September, which is the coldest month on average.
 #------------------
 # Species
 #	Species_Name: Porites lutea

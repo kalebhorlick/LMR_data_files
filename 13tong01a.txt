@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 2003
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: The core name is TH1 Wu2013.
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} The core name is TH1 Wu2013.
 #------------------
 # Species
 #	Species_Name: Porites lutea 

@@ -83,7 +83,7 @@
 #	Most_Recent_Year: 1992
 #	Time_Unit: y_ad
 #	Core_Length: 3.5 m
-#	Notes: These data have been interpolated at 4 samples/year using AnalySeries
+#	Notes: {"database":"PAGES1"}{"database":"LMR_FM"} These data have been interpolated at 4 samples/year using AnalySeries
 #------------------
 # Species 
 #	Species_Name: Porites lutea

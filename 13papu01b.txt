@@ -78,7 +78,7 @@
 #	Most_Recent_Year: 1644
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Misima2013MiFraw
+#	Notes: {"database":"LMR_FM"} Misima2013MiFraw
 #------------------
 # Species
 #	Species_Name: Porites sp. 

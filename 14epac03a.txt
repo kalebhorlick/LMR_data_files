@@ -82,7 +82,7 @@
 #	Most_Recent_Year: 1994
 #	Time_Unit: y_ad
 #	Core_Length: 2.97 m
-#	Notes: core name - 4B
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} core name - 4B
 #------------------
 # Species
 #	Species_Name: Porites lobata

@@ -68,7 +68,7 @@
 #	Most_Recent_Year: 1999
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Bermuda2008Diploriawinter_d18O
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} 
 #------------------
 # Species 
 #	Species_Name: Diploria labyrinthiformis

@@ -107,7 +107,7 @@
 #	Most_Recent_Year: 2010
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: Previous name- BUT3-2 Geochemistry Ca14
+#	Notes: {"database":"LMR_FM"} Previous name- BUT3-2 Geochemistry Ca14
 #------------------
 # Species
 #	Species_Name: Porites sp.

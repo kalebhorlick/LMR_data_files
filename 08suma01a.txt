@@ -123,7 +123,7 @@
 #	Most_Recent_Year: 1997
 #	Time_Unit: y_ad
 #	Core_Length: 2.7 m
-#	Notes: ments of +0.27� for the TN99-A-4 coral and -0.09�  for the TM01-A-10 coral were applied to match the mean d18O  values of these shorter records to the PG01-A-2 d18O record.  Followi
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Adjustments of +0.27� for the TN99-A-4 coral and -0.09�  for the TM01-A-10 coral were applied to match the mean d18O values of these shorter records to the PG01-A-2 d18O record.
 #------------------
 # Species
 #	Species_Name: Porites lutea

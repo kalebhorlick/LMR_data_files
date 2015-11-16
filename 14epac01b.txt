@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1993
 #	Time_Unit: y_ad 
 #	Core_Length: 1.26 m
-#	Notes: Core name - 2B. Prevous name - Clipperton 2B Sr/Ca Wu14
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Core name - 2B. Prevous name - Clipperton 2B Sr/Ca Wu14
 #------------------
 # Species
 #	Species_Name: Porites lobata

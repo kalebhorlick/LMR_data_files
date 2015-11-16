@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 2008
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Palau2014UC 
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Palau2014UC 
 #------------------
 # Species
 #	Species_Name: Porites sp.

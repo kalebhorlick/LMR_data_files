@@ -67,7 +67,7 @@
 #	Most_Recent_Year: 2002
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: 
+#	Notes: {"database":"LMR_FM"}
 #------------------
 # Species
 #	Species_Name: Siderastrea radians 

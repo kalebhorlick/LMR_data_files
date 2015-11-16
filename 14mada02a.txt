@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1994
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: From Ifaty Core 4. Annual mean is from March-February. Previous name Ifaty-4 d18O Z14
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} From Ifaty Core 4. Annual mean is from March-February. Previous name Ifaty-4 d18O Z14
 #------------------
 # Species
 #	Species_Name: Porites sp.

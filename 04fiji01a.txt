@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1997 
 #	Time_Unit: y_ad
 #	Core_Length: .304 m
-#	Notes: Core name 4F1
+#	Notes: {"database":"LMR_FM"} Core name 4F1
 #------------------
 # Species
 #	Species_Name: Diploastrea heliopora

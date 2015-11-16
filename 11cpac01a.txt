@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1998
 #	Time_Unit: y_ad
 #	Core_Length: 3 m
-#	Notes: +/- .05 PPM precision on delta18O values and +/- .006 mmol/mol precision on Sr/Ca values and +/- .3 precision on age values. Prevous name- Palmyra2011Poritesd18O_Sr_Ca
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"}  +/- .05 PPM precision on delta18O values and +/- .006 mmol/mol precision on Sr/Ca values and +/- .3 precision on age values. Prevous name- Palmyra2011Poritesd18O_Sr_Ca
 #------------------
 # Species 
 #	Species_Name: Porites lutea 

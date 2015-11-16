@@ -98,7 +98,7 @@
 #	Most_Recent_Year: 2001
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: Previous Collection Name- Fiji AB d18O L06
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} Previous Collection Name- Fiji AB d18O L06
 #------------------
 # Species
 #	Species_Name: Porites lutea

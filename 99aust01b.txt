@@ -66,7 +66,7 @@
 #	Earliest_Year: 1794
 #	Most_Recent_Year: 1994
 #	Time_Unit: y_ad
-#	Notes: The coral core was originally sampled in half-yearly resolution. For the published chronology additional samples were taken (2-3 new samples between two "old" samples). Average sampling density is 7.7 samples per year. The bimonthly data were interpolated with an Excel-macro. Internal precisions (1 SD) are 0.02 per mil for delta O-18, and 0.015 per mil for delta C-13. External precisions (1 SD) of an internal laboratory standard (Solnhofen limestone) are 0.07 per mil for delta O-18, and 0.05 per mil for delta C-13.
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} The coral core was originally sampled in half-yearly resolution. For the published chronology additional samples were taken (2-3 new samples between two "old" samples). Average sampling density is 7.7 samples per year. The bimonthly data were interpolated with an Excel-macro. Internal precisions (1 SD) are 0.02 per mil for delta O-18, and 0.015 per mil for delta C-13. External precisions (1 SD) of an internal laboratory standard (Solnhofen limestone) are 0.07 per mil for delta O-18, and 0.05 per mil for delta C-13.
 #------------------
 # Species 
 #	Species_Name: Porites lutea

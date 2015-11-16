@@ -91,7 +91,7 @@
 #	Most_Recent_Year: 1991
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: Abraham core-1 Collected December 1985 by Peter Isdale. Abraham core-2 coll. May 1991 by Druffel
+#	Notes: {"database":"PAGES2"} Abraham core-1 Collected December 1985 by Peter Isdale. Abraham core-2 coll. May 1991 by Druffel
 #------------------
 # Species
 #	Species_Name: Porites austraiensis

@@ -117,7 +117,7 @@
 #	Most_Recent_Year: 1937
 #	Time_Unit: y_ad 
 #	Core_Length: 
-#	Notes: Sample ID - NB9, +/- .25 years error in age calculation
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} Sample ID - NB9, +/- .25 years error in age calculation
 #------------------
 # Species
 #	Species_Name: Porites lutea

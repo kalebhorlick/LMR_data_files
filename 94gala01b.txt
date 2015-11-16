@@ -64,7 +64,7 @@
 #	Most_Recent_Year: 1953
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: Core name- UR-87 (Pavona gigantea, 1962-1981) P. Clavus produces aragonite about 0.40 parts per mil enriched  in O-18 relative to P. Gigantea.  This amount has been added to the UR-87  PDB values to produce Figure 8 in Dunbar, et al, 1994.
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Core name- UR-87 (Pavona gigantea, 1962-1981) P. Clavus produces aragonite about 0.40 parts per mil enriched  in O-18 relative to P. Gigantea.  This amount has been added to the UR-87  PDB values to produce Figure 8 in Dunbar, et al, 1994.
 #------------------
 # Species
 #	Species_Name: Pavona gigantea

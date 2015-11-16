@@ -84,7 +84,7 @@
 #	Most_Recent_Year: 1995
 #	Time_Unit: y_ad
 #	Core_Length: 1.85 m
-#	Notes: Core name- Nauru-1 Oxygen isotope data has NOT been corrected for the acid fractionation difference ("acid-alpha") between standards (calcite) and coral samples (aragonite). Cores split and cleaned with distilled water. This sequence sampled at 1mm discrete intervals (high-resolution).  Samples were not pretreated.  Data normalized to V-PDB, � 0.05 per mil. Oxygen isotope data has not been adjusted for the different acid fractionation between calcite (standards) and aragonite (coral).
+#	Notes: {"database":"LMR_FM"} Core name- Nauru-1 Oxygen isotope data has NOT been corrected for the acid fractionation difference ("acid-alpha") between standards (calcite) and coral samples (aragonite). Cores split and cleaned with distilled water. This sequence sampled at 1mm discrete intervals (high-resolution).  Samples were not pretreated.  Data normalized to V-PDB, � 0.05 per mil. Oxygen isotope data has not been adjusted for the different acid fractionation between calcite (standards) and aragonite (coral).
 #------------------
 # Species
 #	Species_Name: Porites australiensis

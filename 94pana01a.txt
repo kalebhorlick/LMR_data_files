@@ -64,7 +64,7 @@
 #	Most_Recent_Year: 1984
 #	Time_Unit: y_ad
 #	Core_Length: 2.74 m
-#	Notes: Core name S1
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Core name S1
 #------------------
 # Species
 #	Species_Name: Porites lobata

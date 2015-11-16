@@ -67,7 +67,7 @@
 #	Most_Recent_Year: 2004
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: 
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} 
 #------------------
 # Species
 #	Species_Name: Diploria strigosa 

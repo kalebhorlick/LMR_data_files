@@ -89,7 +89,7 @@
 #	Most_Recent_Year: 434
 #	Time_Unit: yb_1950 
 #	Core_Length: 
-#	Notes: Christmas Modern spl
+#	Notes: {"database":"LMR_FM"} Christmas Modern spl
 #------------------
 # Species
 #	Species_Name:  
