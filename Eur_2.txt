@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 2006.0
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: {"relationship":"Positive"}
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"relationship":"Positive"}
 #--------------------
 # Species
 #	Species_Name:

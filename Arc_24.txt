@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1993.0
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: {"relationship":"positive"}
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"}{"relationship":"positive"}
 #--------------------
 # Species
 #	Species_Name:
