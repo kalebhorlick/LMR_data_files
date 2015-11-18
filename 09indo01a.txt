@@ -67,7 +67,7 @@
 #	Most_Recent_Year: -52
 #	Time_Unit: yb_1950
 #	Core_Length: 
-#	Notes: core LR06-B1
+#	Notes: {"database":"LMR_FM"} core LR06-B1
 #------------------
 # Species
 #	Species_Name: 

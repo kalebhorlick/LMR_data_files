@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1967
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} 
+#	Notes: {"database":"PAGES2"} 
 #------------------
 # Species
 #	Species_Name: Siderastrea siderea 

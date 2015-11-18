@@ -128,7 +128,7 @@
 #	Most_Recent_Year: 2006
 #	Time_Unit: y_ad
 #	Core_Length: 0.415 m 
-#	Notes: 
+#	Notes: {"database":"LMR_FM"} 
 #------------------
 # Species
 #	Species_Name: 

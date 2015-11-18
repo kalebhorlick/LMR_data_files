@@ -79,7 +79,7 @@
 #	Most_Recent_Year: 877
 #	Time_Unit: y_ad
 #	Core_Length: .194 m
-#	Notes: Core HY2
+#	Notes: {"database":"LMR_FM"} Core HY2
 #------------------
 # Species
 #	Species_Name: 

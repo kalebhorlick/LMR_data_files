@@ -58,12 +58,12 @@
 # 	Elevation: 2531 m  
 #------------------
 # Data_Collection   
-#	Collection_Name: 
+#	Collection_Name: 13aust01a
 #	Earliest_Year: 9930
 #	Most_Recent_Year: -13
 #	Time_Unit: yb_2000
 #	Core_Length: 
-#	Notes: composite of Spa 12, 70, 127 and 128
+#	Notes: {"database":"LMR_FM"} composite of Spa 12, 70, 127 and 128
 #------------------
 # Species
 #	Species_Name: 

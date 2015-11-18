@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 37 
 #	Time_Unit:  yb_1950
 #	Core_Length: 
-#	Notes: Time series is a composite of Stalagmites BCC-2 (filename 10wvir03a), BCC-4 (filename 10wvir02a), BCC-6 (filename 10wvir01a)
+#	Notes: {"database":"LMR_FM"} Time series is a composite of Stalagmites BCC-2 (filename 10wvir03a), BCC-4 (filename 10wvir02a), BCC-6 (filename 10wvir01a)
 #------------------
 # Chronology: 
 # 1. Uranium and thorium isotopic compositions and 230Th ages by ICP-MS

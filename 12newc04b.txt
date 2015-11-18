@@ -89,7 +89,7 @@
 #	Most_Recent_Year: 1992
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: core 92PAA2. These data have been updated from Stephans et al. 2004
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} core 92PAA2. These data have been updated from Stephans et al. 2004
 #------------------
 # Species
 #	Species_Name: Porites lutea

@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 78 
 #	Time_Unit:  yb_1950
 #	Core_Length: .1995 m
-#	Notes: Stalagmite BCC-2
+#	Notes: {"database":"LMR_FM"} Stalagmite BCC-2
 #------------------
 # Chronology: 
 # 1. Uranium and thorium isotopic compositions and 230Th ages by ICP-MS

@@ -79,7 +79,7 @@
 #	Most_Recent_Year: 2002
 #	Time_Unit: y_ad
 #	Core_Length: .16 m
-#	Notes: Combination of cores HY1, HY2, and HY3
+#	Notes: {"database":"LMR_FM"} Combination of cores HY1, HY2, and HY3
 #------------------
 # Species
 #	Species_Name: 

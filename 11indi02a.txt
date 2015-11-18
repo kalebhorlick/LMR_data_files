@@ -66,7 +66,7 @@
 #	Most_Recent_Year: 2006 
 #	Time_Unit:  y_ad
 #	Core_Length: m
-#	Notes: Stalagmite WS-B
+#	Notes: {"database":"LMR_FM"} Stalagmite WS-B
 #------------------
 # Chronology: Stalagmite U-Th data for stalagmite WS-B
 #

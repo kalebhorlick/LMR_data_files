@@ -79,7 +79,7 @@
 #	Most_Recent_Year: -56
 #	Time_Unit: yb_1950
 #	Core_Length: 1.694 m
-#	Notes: 
+#	Notes: {"database":"LMR_FM"} 
 #------------------
 # Species
 #	Species_Name: 

@@ -59,11 +59,11 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 00cana01a 
-#	Earliest_Year: 514
+#	Earliest_Year: 1514
 #	Most_Recent_Year: 1992
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: 
+#	Notes: {"database":"PAGES2"} 
 #------------------
 # Species
 #	Species_Name:  

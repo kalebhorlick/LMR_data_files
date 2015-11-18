@@ -80,7 +80,7 @@
 #	Most_Recent_Year: 2007 
 #	Time_Unit:  y_ad
 #	Core_Length: 
-#	Notes: Composite of Jhumar Cave (filename 11indi01a), and Berkelhammer 2010's Dandak Cave (filename 10indi01a)
+#	Notes: {"database":"LMR_FM"} Composite of Jhumar Cave (filename 11indi01a), and Berkelhammer 2010's Dandak Cave (filename 10indi01a)
 #------------------
 # Chronology: Stalagmite U-Th data for stalagmite JHU-1 
 #Table S2

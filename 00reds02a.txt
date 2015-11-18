@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 1993
 #	Time_Unit: y_ad
 #	Core_Length: .999 m
-#	Notes: Ras Um Sidd RUS-93a 
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Ras Um Sidd RUS-93a 
 #------------------
 # Species
 #	Species_Name: Porites spp.

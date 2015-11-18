@@ -71,7 +71,7 @@
 #	Most_Recent_Year: 2007 
 #	Time_Unit:  y_ad
 #	Core_Length: m
-#	Notes: 
+#	Notes: {"database":"LMR_FM"} 
 #------------------
 # Chronology: Supplementary Table 2. 230Th dating results for stalagmite CRC-3.										
 # 										

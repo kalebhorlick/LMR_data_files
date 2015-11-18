@@ -66,7 +66,7 @@
 #	Most_Recent_Year: 2008 
 #	Time_Unit:  y_ad
 #	Core_Length: m
-#	Notes: Stalagmite JHU-1
+#	Notes: {"database":"LMR_FM"} Stalagmite JHU-1
 #------------------
 # Chronology: Stalagmite U-Th data for stalagmite JHU-1 
 #Table S2

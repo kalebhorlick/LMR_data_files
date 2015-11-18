@@ -67,7 +67,7 @@
 #	Most_Recent_Year: 1562 
 #	Time_Unit:  y_ad
 #	Core_Length: 
-#	Notes: Stalagmite core DAN-D
+#	Notes: {"database":"LMR_FM"} Stalagmite core DAN-D
 #------------------
 # Chronology: 
 # 
