@@ -51,22 +51,7 @@
 #	DOI: 10.1029/2004GL020338
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: An extended high-resolution ice core record of dust
-deposition over the past 60 ka from Dome C, Antarctica, is
-presented. The data are in conflict with the idea that changes
-in aeolian iron input into the Southern Ocean were the major
-cause for the 80 ppm glacial-interglacial CO2 increase.
-During the deglaciation, the CO2 increase shows a linear
-relationship with the fall of the logarithm of the nss-Ca2+
-flux, a proxy for dust deposition. However, the very large
-variations in the nss-Ca2+ flux related to the glacial
-Antarctic warm events A1 to A4 were accompanied by
-small CO2 variations only. Our data-based analysis suggests
-that decreased Southern Ocean dust deposition caused at
-most a 20 ppm increase in CO2 at the last glacial-interglacial
-transition. Rapid decreases in dust deposition to the
-northern Pacific could have been responsible for a
-maximum of 8 ppm in addition.
+#	Abstract: An extended high-resolution ice core record of dust deposition over the past 60 ka from Dome C, Antarctica, is presented. The data are in conflict with the idea that changes in aeolian iron input into the Southern Ocean were the major cause for the 80 ppm glacial-interglacial CO2 increase. During the deglaciation, the CO2 increase shows a linear relationship with the fall of the logarithm of the nss-Ca2+ flux, a proxy for dust deposition. However, the very large variations in the nss-Ca2+ flux related to the glacial Antarctic warm events A1 to A4 were accompanied by small CO2 variations only. Our data-based analysis suggests that decreased Southern Ocean dust deposition caused at most a 20 ppm increase in CO2 at the last glacial-interglacial transition. Rapid decreases in dust deposition to the northern Pacific could have been responsible for a maximum of 8 ppm in addition.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -94,8 +79,8 @@ maximum of 8 ppm in addition.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years before 1950 AD,,,,,N 
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years before 1950 AD,,,,,N 
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:
