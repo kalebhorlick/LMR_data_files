@@ -94,7 +94,7 @@
 #---------------------
 # Site_Information 
 #       Site_Name: Das2
-#	Location: >Geographic Region>Greenland
+#	Location: North America>Greenland
 #	Country:  
 #	Northernmost_Latitude: 67.5273
 # 	Southernmost_Latitude: 67.5273

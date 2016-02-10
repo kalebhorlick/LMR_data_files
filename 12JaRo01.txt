@@ -77,7 +77,7 @@
 #	Most_Recent_Year: -58
 #	Time_Unit: yb_1950
 #	Core_Length: 359 m  
-#	Notes: 
+#	Notes: {"database":"LMR_FM"}
 #------------------
 # Chronology 
 #
@@ -133,8 +133,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: material, error, units, anomaly, period, archive, detail, method, C or N for Character or Numeric data) 
 # Data line format: tab-delimited text, variable short name as header
 #
-##age	Age,,,years before 1950 AD,,,,,N
-##delD	del D,,,permil VSMOW,,ice cores,,,N
+##age	age,,,years before 1950 AD,,,,,N
+##delD	delta deuterium,,,permil VSMOW,,Ice Cores,,,N
 #
 # ------------------
 # Data:

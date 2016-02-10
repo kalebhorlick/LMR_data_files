@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_23
-#	Earliest_Year: 1581.0
-#	Most_Recent_Year: 1993.0
+#	Earliest_Year: 1581
+#	Most_Recent_Year: 1993
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"relationship":"Positive"}
@@ -79,7 +79,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age	age, , ,years AD, , Tree Rings, , ,N
-##clim_signal	Minimum density, , , , , Tree Rings, , ,N
+##min_d	minimum density, , , , , Tree Rings, , ,N
 #
 #--------------------
 # Data:
@@ -87,7 +87,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: nan
 #
-age	clim_signal
+age	min_d
 1581.0	0.947
 1582.0	0.983
 1583.0	1.002

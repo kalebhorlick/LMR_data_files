@@ -45,16 +45,11 @@ Anthony J. GOW, Christopher A. SHUMAN, James W.C. WHITE, Sharon SNEED,Joseph FLA
 #	DOI:  
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Shallow ice cores were obtained from widely distributed sites across the West Antarctic ice
-sheet, as part of the United States portion of the International Trans-Antarctic Scientific Expedition(US ITASE) program. The US ITASE cores have been dated by annual-layer counting, primarily through
-the identification of summer peaks in non-sea-salt sulfate (nssSO42–) concentration. Absolute dating accuracy of better than 2 years and relative dating accuracy better than 1 year is demonstrated by theidentification of multiple volcanic marker horizons in each of the cores, Tambora, Indonesia (1815),being the most prominent. Independent validation is provided by the tracing of isochronal layers from site to site using high-frequency ice-penetrating radar observations, and by the timing of mid-winterwarming events in stable-isotope ratios, which demonstrate significantly better than 1 year accuracy in
-the last 20 years. Dating precision to 1 month is demonstrated by the occurrence of summer nitrate peaks and stable-isotope ratios in phase with nssSO4 2–, and winter-time sea-salt peaks out of phase, with
-phase variation of <1 month. Dating precision and accuracy are uniform with depth, for at least the last 100 years.
+#	Abstract: Shallow ice cores were obtained from widely distributed sites across the West Antarctic ice sheet, as part of the United States portion of the International Trans-Antarctic Scientific Expedition(US ITASE) program. The US ITASE cores have been dated by annual-layer counting, primarily through the identification of summer peaks in non-sea-salt sulfate (nssSO42–) concentration. Absolute dating accuracy of better than 2 years and relative dating accuracy better than 1 year is demonstrated by theidentification of multiple volcanic marker horizons in each of the cores, Tambora, Indonesia (1815),being the most prominent. Independent validation is provided by the tracing of isochronal layers from site to site using high-frequency ice-penetrating radar observations, and by the timing of mid-winterwarming events in stable-isotope ratios, which demonstrate significantly better than 1 year accuracy in the last 20 years. Dating precision to 1 month is demonstrated by the occurrence of summer nitrate peaks and stable-isotope ratios in phase with nssSO4 2–, and winter-time sea-salt peaks out of phase, with phase variation of <1 month. Dating precision and accuracy are uniform with depth, for at least the last 100 years.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
 #	Grant: 
-
 # --------------------
 # Site_Information
 #	Site_Name: US ITASE 2002-4
@@ -68,23 +63,24 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # --------------------
 # Data_Collection
 #	Collection_Name: 00ITAS03
-#	Earliest_Year: 1592
+#	Earliest_Year: 1593
 #	Most_Recent_Year: 2002
 #	Time_Unit: y_ad
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"}
 # --------------------
 # Variables
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,midpoint year AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,midpoint year AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
-# Missing values: nan
+# Missing values: NAN
 #
 age	d18O
 2002.9398	-38.8163
@@ -101,7 +97,7 @@ age	d18O
 2001.3980	-41.5971
 2001.2099	-40.4680
 2001.0218	-37.7282
-2000.8337	nan
+2000.8337	NAN
 2000.6456	-41.5223
 2000.4575	-43.0526
 2000.2694	-44.0896
@@ -109,7 +105,7 @@ age	d18O
 1999.8168	-43.9594
 1999.4944	-41.4588
 1999.1733	-40.6540
-1998.8855	nan
+1998.8855	NAN
 1998.6321	-38.9711
 1998.3813	-41.2076
 1998.1352	-40.6434
@@ -2334,12 +2330,12 @@ age	d18O
 1759.4637	-44.5563
 1759.2738	-44.5563
 1759.0867	-44.5312
-1758.9112	nan
-1758.7466	nan
-1758.5839	nan
-1758.4212	nan
+1758.9112	NAN
+1758.7466	NAN
+1758.5839	NAN
+1758.4212	NAN
 1758.2585	-43.2060
-1758.0888	nan
+1758.0888	NAN
 1757.8964	-42.8797
 1757.6784	-42.8844
 1757.4506	-43.2284
@@ -2349,7 +2345,7 @@ age	d18O
 1756.7840	-46.1220
 1756.6773	-47.6870
 1756.5705	-47.9641
-1756.4638	nan
+1756.4638	NAN
 1756.3570	-47.8104
 1756.2502	-47.4410
 1756.1434	-47.2134
@@ -3380,7 +3376,7 @@ age	d18O
 1622.7293	-44.6824
 1622.5928	-44.7030
 1622.4563	-44.5915
-1622.3199	nan
+1622.3199	NAN
 1622.1834	-43.8773
 1622.0477	-43.8550
 1621.9169	-43.9210
@@ -3518,7 +3514,7 @@ age	d18O
 1603.1086	-43.8842
 1602.9336	-43.8835
 1602.7104	-44.0345
-1602.4688	nan
+1602.4688	NAN
 1602.2272	-44.4204
 1602.0059	-44.6537
 1601.8181	-44.8210
@@ -3530,11 +3526,11 @@ age	d18O
 1600.8715	-46.7882
 1600.7698	-47.1384
 1600.6681	-47.2266
-1600.5665	nan
+1600.5665	NAN
 1600.4649	-46.5532
 1600.3632	-45.9376
-1600.2616	nan
-1600.1599	nan
+1600.2616	NAN
+1600.1599	NAN
 1600.0564	-44.2673
 1599.9446	-43.2151
 1599.8237	-42.7685
@@ -3567,7 +3563,7 @@ age	d18O
 1596.2156	-44.7905
 1596.0815	-45.1485
 1595.9413	-45.2995
-1595.7942	nan
+1595.7942	NAN
 1595.6451	-44.4818
 1595.4960	-44.5584
 1595.3469	-44.7175
@@ -3586,10 +3582,3 @@ age	d18O
 1593.8086	-42.9094
 1593.6595	-42.8502
 1593.5104	-42.9412
-1593.3613	nan
-1593.2122	nan
-1593.0631	nan
-1592.9141	nan
-1592.7650	nan
-1592.6160	nan
-1592.4657	nan

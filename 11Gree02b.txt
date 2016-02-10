@@ -105,7 +105,7 @@
 # Data_Collection  
 #	Collection_Name: 11Gree02b
 #	Earliest_Year: 1936
-#	Most_recent_year: 2002
+#	Most_recent_year: 2009
 #	Time_Unit: y_ad 
 #	Core_Length:
 #	Notes:
@@ -123,8 +123,8 @@
 # Data line format: tab-delimited text, variable short name as header
 #
 #
-##age	Age,,,years AD,,,,,N
-##accum	Ice accumulation rate,,,m ice equiv/year,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##accum	ice accumulation rate,,,m ice equiv/year,,Ice Cores,,,N
 #
 #----------------
 # Data:

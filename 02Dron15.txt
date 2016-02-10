@@ -54,10 +54,10 @@
 #	Site_Name: Dronning Maud Land
 #	Location: Antarctica
 #	Country:  
-#	Northernmost_Latitude: -75.08400
-#	Southernmost_Latitude: -75.08400
-#	Easternmost_Longitude: 6.500
-#	Westernmost_Longitude: 6.500
+#	Northernmost_Latitude: -75.084
+#	Southernmost_Latitude: -75.084
+#	Easternmost_Longitude: 6.50
+#	Westernmost_Longitude: 6.50
 #	Elevation: 3160 m
 # --------------------
 # Data_Collection
@@ -65,6 +65,7 @@
 #	Earliest_Year: 1801
 #	Most_Recent_Year: 1997
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -72,8 +73,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:
@@ -165,7 +166,7 @@ age	d18O
 1917	-48.12
 1916	-47.05
 1915	-47.14
-1914	nan
+1914	NAN
 1913	-49.88
 1912	-48.17
 1911	-48.5
@@ -225,10 +226,10 @@ age	d18O
 1857	-48.87
 1856	-49.26
 1855	-50.31
-1854	nan
+1854	NAN
 1853	-52.1
 1852	-51.15
-1851	nan
+1851	NAN
 1850	-49.59
 1849	-49.11
 1848	-46.46
@@ -260,7 +261,7 @@ age	d18O
 1822	-49.95
 1821	-48.83
 1820	-48.21
-1819	nan
+1819	NAN
 1818	-47.17
 1817	-46.74
 1816	-47.09

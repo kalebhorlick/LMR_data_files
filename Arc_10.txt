@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Arc_10
-#	Earliest_Year: 778.0
-#	Most_Recent_Year: 1989.0
+#	Earliest_Year: 778
+#	Most_Recent_Year: 1989
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"database":"PAGES2"}{"relationship":"positive"}

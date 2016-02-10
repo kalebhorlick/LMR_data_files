@@ -19,7 +19,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 1995-08
+#	Date: 1995-08-01
 #--------------------
 # Title
 #	Study_Name: Urvina Bay Coral Stable Isotope Data
@@ -64,7 +64,7 @@
 #	Most_Recent_Year: 1981
 #	Time_Unit: y_ad
 #	Core_Length:
-#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Core name- UR-86 (Pavona clavus, 1607-1953) 
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Oxygen Isotopic time series averaged from 2 cores-UR-86 (Pavona clavus, 1607-1953)  and UR-87 (Pavona gigantea, 1962-1981).
 #------------------
 # Species
 #	Species_Name: Pavona clavus
@@ -123,7 +123,6 @@ age	d18O
 1956	NAN
 1955	NAN
 1954	NAN
-1953	NAN
 1953	-4.18
 1952	-3.94
 1951	-3.92

@@ -12,7 +12,7 @@
 # Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:2430
 #
 #
-# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/gisp/dye2/dye2ad77.txt
+# Original_Source_URL: http://www1.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/gisp/dye3/dye3-1yr.txt
 #
 # Description/Documentation lines begin with #
 # Data lines have no #
@@ -63,6 +63,7 @@
 #	Earliest_Year: -1899
 #	Most_Recent_Year: 1872
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -70,8 +71,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:
@@ -1945,7 +1946,7 @@ age	d18O
 10	-28.16
 9	-28.53
 8	-27.91
-27-Jul	
+7	-27
 6	-27.64
 5	-28.43
 4	-27.22

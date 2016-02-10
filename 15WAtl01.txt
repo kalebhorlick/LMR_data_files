@@ -20,10 +20,10 @@
 #    Date: 2015-03-03
 #---------------------------------------
 # Title
-#    Study_Name: PAGES Ocean2K 400 Year Regional SST Reconstructions
+#    	Study_Name: PAGES Ocean2K 400 Year Regional SST Reconstructions
 #---------------------------------------
 # Investigators
-#      Investigators: Tierney, J.E; Abram, N.J.; Anchukaitis, K.J.; Evans, M.N.; Giry, C.; Kilbourne, K.H.; Saenger, C.P.; Wu, H.C.; Zinke, J.
+#      	Investigators: Tierney, J.E; Abram, N.J.; Anchukaitis, K.J.; Evans, M.N.; Giry, C.; Kilbourne, K.H.; Saenger, C.P.; Wu, H.C.; Zinke, J.
 #---------------------------------------
 # Description and Notes
 #        Description: This data set contains both the coral data and the resulting SST reconstructions compiled and produced by the PAGES Ocean2K project. 
@@ -35,38 +35,38 @@
 #        Provided Keywords: paleoceanography, SST, past millennium climate, tropical climate, corals
 #---------------------------------------
 # Publication
-# Authors: Jessica E. Tierney, Nerilie J. Abram, Kevin J. Anchukaitis, Michael N. Evans, Cyril Giry, K. Halimeda Kilbourne, Casey P. Saenger, Henry C. Wu and Jens Zinke
-# Published_Date_or_Year: 2015-02-16
-# Published_Title: Tropical sea-surface temperatures for the past four centuries reconstructed from coral archives
-# Journal_Name: Paleoceanography
-# Volume: 
-# Issue: 
-# Pages: 
-# Report Number: 
-# DOI: 10.1002/2014PA002717
-# Abstract: Most annually resolved climate reconstructions of the Common Era are based on terrestrial data, making it a challenge to independently assess how recent climate changes have affected the oceans. Here, as part of the Past Global Changes (PAGES) Ocean2K project, we present four regionally calibrated and validated reconstructions of sea-surface temperatures in the tropics, based on fifty-seven published and publicly archived marine paleoclimate datasets derived exclusively from tropical coral archives. Validation exercises suggest that our reconstructions are interpretable for much of the past 400 years, depending on the availability of paleoclimate data within, and the reconstruction validation statistics for, each target region. Analysis of the trends in the data suggests that the Indian, western Pacific, and western Atlantic ocean regions were cooling until modern warming began around the 1830s. The early 1800s were an exceptionally cool period in the Indo-Pacific region, likely due to multiple large tropical volcanic eruptions occurring in the early 19th century. Decadal-scale variability is a quasi-persistent feature of all basins. 20th century warming associated with greenhouse gas emissions is apparent in the Indian, West Pacific, and Western Atlantic Oceans, but we find no evidence that either natural or anthropogenic forcings have altered El Nino-Southern Oscillation (ENSO)-related variance in tropical SSTs. Our marine-based regional paleoclimate reconstructions serve as benchmarks against which terrestrial reconstructions as well as climate model simulations can be compared, and as a basis for studying the processes by which the tropical oceans mediate climate variability and change.
+# 	Authors: Jessica E. Tierney, Nerilie J. Abram, Kevin J. Anchukaitis, Michael N. Evans, Cyril Giry, K. Halimeda Kilbourne, Casey P. Saenger, Henry C. Wu and Jens Zinke
+# 	Published_Date_or_Year: 2015-02-16
+# 	Published_Title: Tropical sea-surface temperatures for the past four centuries reconstructed from coral archives
+# 	Journal_Name: Paleoceanography
+# 	Volume: 
+# 	Issue: 
+# 	Pages: 
+# 	Report Number: 
+# 	DOI: 10.1002/2014PA002717
+# 	Abstract: Most annually resolved climate reconstructions of the Common Era are based on terrestrial data, making it a challenge to independently assess how recent climate changes have affected the oceans. Here, as part of the Past Global Changes (PAGES) Ocean2K project, we present four regionally calibrated and validated reconstructions of sea-surface temperatures in the tropics, based on fifty-seven published and publicly archived marine paleoclimate datasets derived exclusively from tropical coral archives. Validation exercises suggest that our reconstructions are interpretable for much of the past 400 years, depending on the availability of paleoclimate data within, and the reconstruction validation statistics for, each target region. Analysis of the trends in the data suggests that the Indian, western Pacific, and western Atlantic ocean regions were cooling until modern warming began around the 1830s. The early 1800s were an exceptionally cool period in the Indo-Pacific region, likely due to multiple large tropical volcanic eruptions occurring in the early 19th century. Decadal-scale variability is a quasi-persistent feature of all basins. 20th century warming associated with greenhouse gas emissions is apparent in the Indian, West Pacific, and Western Atlantic Oceans, but we find no evidence that either natural or anthropogenic forcings have altered El Nino-Southern Oscillation (ENSO)-related variance in tropical SSTs. Our marine-based regional paleoclimate reconstructions serve as benchmarks against which terrestrial reconstructions as well as climate model simulations can be compared, and as a basis for studying the processes by which the tropical oceans mediate climate variability and change.
 #---------------------------------------
 # Funding_Agency
-#    Funding_Agency_Name: IGBP PAGES (Past Global Changes)
-#    Grant: 
+#    	Funding_Agency_Name: IGBP PAGES (Past Global Changes)
+#    	Grant: 
 #---------------------------------------
 # Site Information
-# Site_Name: Western Atlantic
-# Location: Western Atlantic ocean
-# Country: 
-# Northernmost_Latitude: 30
-# Southernmost_Latitude: 15
-# Easternmost_Longitude: -90
-# Westernmost_Longitude: -60
-# Elevation: 
+# 	Site_Name: Western Atlantic
+# 	Location: Western Atlantic ocean
+# 	Country: 
+# 	Northernmost_Latitude: 30
+# 	Southernmost_Latitude: 15
+# 	Easternmost_Longitude: -90
+# 	Westernmost_Longitude: -60
+# 	Elevation: 
 #---------------------------------------
 # Data_Collection
-#   Collection_Name: 15WAtl01
-#   Earliest_Year: 1552
-#   Most_Recent_Year: 2007
-#   Time_Unit: y_ad
-#   Core_Length: 
-#   Notes: 
+#   	Collection_Name: 15WAtl01
+#   	Earliest_Year: 1552
+#   	Most_Recent_Year: 2007
+#   	Time_Unit: y_ad
+#   	Core_Length: 
+#   	Notes: 
 #---------------------------------------
 # Chronology: 
 #---------------------------------------
@@ -76,7 +76,7 @@
 # Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age	age,,,years AD,Apr-Mar,,,,N
-##sst_anom	sea-surface temperature anomaly,,,degree C,Apr-Mar,,,reference period: 1961-1990 A.D.,Weighted CPS reconstruction,N
+##sst_anom	sea-surface temperature anomaly,,,degree C,Apr-Mar,Climate Reconstructions,,reference period: 1961-1990 A.D.,Weighted CPS reconstruction,N
 #
 #---------------------------------------
 # Data:

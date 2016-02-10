@@ -68,7 +68,7 @@
 #	These match points are available for download at http://www.icecores.dk.
 #	The maximum counting error in column 6 does not include uncertainty from this interpolation.
 #
- --------------------
+# --------------------
 # Publication
 #	Authors: A. Svensson, K.K. Andersen, M. Bigler, H.B. Clausen, D. Dahl-Jensen, S.M. Davies, S.J. Johnsen, R. Muscheler, F. Parrenin, S.O. Rasmussen, R. Röthlisberger, I. Seierstad, J.P. Steffensen, and B.M. Vinther
 #	Published_Date_or_Year: 2008
@@ -85,6 +85,7 @@
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name:
+#	Grant:
 # --------------------
 # Site_Information
 #	Site_Name: GRIP
@@ -101,6 +102,7 @@
 #	Earliest_Year: 41760
 #	Most_Recent_Year: 20
 #	Time_Unit: yb_2000
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -108,8 +110,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
-##age	Age,,,years before 2000 AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N
+##age	age,,,years before 2000 AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:

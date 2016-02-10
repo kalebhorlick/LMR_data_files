@@ -64,6 +64,7 @@
 #	Earliest_Year: 1804
 #	Most_Recent_Year: 1997
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -71,19 +72,19 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
-# Missing values: nan
+# Missing values: NAN
 #
 age	d18O
 1997	-45.93
 1996	-41.05
-1995	nan
+1995	NAN
 1994	-44.44
 1993	-45.24
 1992	-44.64
@@ -119,7 +120,7 @@ age	d18O
 1962	-42.08
 1961	-44.44
 1960	-42.62
-1959	nan
+1959	NAN
 1958	-43.06
 1957	-40.33
 1956	-41.31
@@ -144,7 +145,7 @@ age	d18O
 1937	-43.98
 1936	-40.63
 1935	-45.93
-1934	nan
+1934	NAN
 1933	-45.95
 1932	-45.99
 1931	-45.73
@@ -174,7 +175,7 @@ age	d18O
 1907	-44.37
 1906	-45.47
 1905	-43.9
-1904	nan
+1904	NAN
 1903	-46.04
 1902	-44.11
 1901	-46.98
@@ -189,7 +190,7 @@ age	d18O
 1892	-46.11
 1891	-46.96
 1890	-47.68
-1889	nan
+1889	NAN
 1888	-45.58
 1887	-45.11
 1886	-43
@@ -206,7 +207,7 @@ age	d18O
 1875	-43.48
 1874	-43.79
 1873	-43.69
-1872	nan
+1872	NAN
 1871	-43.31
 1870	-43.3
 1869	-44.03
@@ -216,7 +217,7 @@ age	d18O
 1865	-41.35
 1864	-42.1
 1863	-44.52
-1862	nan
+1862	NAN
 1861	-43.99
 1860	-43.43
 1859	-43.81

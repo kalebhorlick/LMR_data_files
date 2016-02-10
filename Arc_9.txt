@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Arc_9
-#	Earliest_Year: 1046.0
-#	Most_Recent_Year: 1999.0
+#	Earliest_Year: 1046
+#	Most_Recent_Year: 1999
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"relationship":"positive"}
@@ -79,7 +79,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age	age, , ,years AD, , Tree Rings, , ,N
-##clim_signal	Ring width, , , , , Tree Rings, , ,N
+##TRW	total ring width, , , , , Tree Rings, , ,N
 #
 #--------------------
 # Data:

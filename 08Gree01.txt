@@ -83,9 +83,10 @@
 # --------------------
 # Data_Collection
 #	Collection_Name: 08Gree01
-#	Earliest_Year: 60
-#	Most_Recent_Year: 0
-#	Time_Unit: kyb_2000
+#	Earliest_Year: 60000
+#	Most_Recent_Year: 20
+#	Time_Unit: yb_2000
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -93,8 +94,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age		Age,,,thousand years before 2000 AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years before 2000 AD,,,,,N
+##d18O	d18O,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:

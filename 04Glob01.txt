@@ -45,22 +45,7 @@ Resources for New Insights into Climate Change in the Past and Future
 #	DOI: 10.1029/2004GL019781
 #	Online_Resource:  
 #	Full_Citation:  
-#	Abstract:  An understanding of climate history prior to industrialization is 
-crucial to understanding the nature of the 20th century warming and 
-to predicting the climate change in the near future. This study 
-integrates the complementary information preserved in the global 
-database of borehole temperatures [Huang et al., 2000], the 20th 
-century meteorological record [Jones et al., 1999], and an annually 
-resolved multi proxy model [Mann et al., 1999] for a more complete 
-picture of the Northern Hemisphere temperature change over the past 
-five centuries. The integrated reconstruction shows that the 
-20th century warming is a continuation to a long-term warming 
-started before the onset of industrialization. However, the warming 
-appears to have been accelerated towards the present day. Analysis 
-of the reconstructed temperature and radiative forcing [Crowley, 2000] 
-series offers an independent estimate of the transient climate-forcing 
-response rate of 0.4 - 0.7 K per Wm-2 and predicts a temperature 
-increase of 1.0-1.7 K in 50 years.
+#	Abstract: An understanding of climate history prior to industrialization is  crucial to understanding the nature of the 20th century warming and  to predicting the climate change in the near future. This study  integrates the complementary information preserved in the global  database of borehole temperatures [Huang et al., 2000], the 20th  century meteorological record [Jones et al., 1999], and an annually  resolved multi proxy model [Mann et al., 1999] for a more complete  picture of the Northern Hemisphere temperature change over the past  five centuries. The integrated reconstruction shows that the  20th century warming is a continuation to a long-term warming  started before the onset of industrialization. However, the warming  appears to have been accelerated towards the present day. Analysis  of the reconstructed temperature and radiative forcing [Crowley, 2000]  series offers an independent estimate of the transient climate-forcing  response rate of 0.4 - 0.7 K per Wm-2 and predicts a temperature  increase of 1.0-1.7 K in 50 years.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name:  US National Science Foundation
@@ -81,6 +66,7 @@ increase of 1.0-1.7 K in 50 years.
 #	Earliest_Year:  1500
 #	Most_Recent_Year:  1980
 #	Time_Unit: y_ad
+#	Notes:
 #
 # --------------------
 # Variables
@@ -88,8 +74,8 @@ increase of 1.0-1.7 K in 50 years.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N 
-##tempanom-ann	surface temperature anomaly (degrees C), Annual, , , degrees C anomaly w.r.t. the 1961-1980 mean, , , , N
+##age	age,,,years AD,,,,,N 
+##temp_anom	surface temperature anomaly (degrees C), , , , degrees C anomaly w.r.t. the 1961-1980 mean, Climate Reconstructions, , , N
 #
 # --------------------
 # Data:
@@ -97,7 +83,7 @@ increase of 1.0-1.7 K in 50 years.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age	tempanom-ann
+age	temp_anom
 1500	-0.732762
 1501	-0.845924
 1502	-0.896539

@@ -79,7 +79,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age	age, , ,years AD, , Tree Rings, , ,N
-##clim_signal	Total ring width, , , , , Tree Rings, , ,N
+##TRW	total ring width, , , , , Tree Rings, , ,N
 #
 #--------------------
 # Data:
@@ -87,7 +87,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: nan
 #
-age	clim_signal
+age	TRW
 1568.0	1.371
 1569.0	1.091
 1570.0	0.872

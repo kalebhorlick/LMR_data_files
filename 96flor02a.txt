@@ -33,11 +33,11 @@
 #       Authors: Swart, P.K.; Healy, G.F.; Dodge, R.E.; Kramer, P.; Hudson, H.J.; Halley, R.B.; Robblee, M.B. 
 #       Published_Date_or_Year: 1996
 #       Published_Title: The Stable Oxygen and Carbon Isotopic Record from a Coral Growing in  Florida Bay: A 160 Year Record of Climatic and Anthropogenic Influence
-#       Journal_Name: Palaeogeography, Palaeoclimatology, Palaeoecology, 123:219-238.
-#       Volume: 
+#       Journal_Name: Palaeogeography, Palaeoclimatology, Palaeoecology
+#       Volume: 123
 #       Edition: 
 #       Issue: 
-#       Pages: 123:219-238
+#       Pages: 219-238
 #       DOI: 
 #       Online_Resource: 
 #       Full_Citation: Swart, P.K., G.F. Healy, R.E. Dodge, P. Kramer,  J.H. Hudson, R.B. Halley, and M.B. Robblee. 1996.  The Stable Oxygen and Carbon Isotopic Record from a Coral Growing in  Florida Bay: A 160 Year Record of Climatic and Anthropogenic Influence.  Palaeogeography, Palaeoclimatology, Palaeoecology, 123:219-238.

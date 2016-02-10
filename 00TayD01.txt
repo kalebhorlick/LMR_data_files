@@ -53,8 +53,8 @@
 #	Pages: 213-235
 #	DOI: 
 #	Online_Resource: 
-#	Full_Citation: 
-#	Abstract: Geochemical data and geophysical measurements from a 554-m ice-core from Taylor Dome, East Antarctica, provide the basis for climate reconstruction in the western Ross Embayment through the entire Wisconsinan and Holecene. In comparison with ice cores from central East and West Antarctica, Taylor Dome shows greater variance of temperature, snow accumulation, and aerosol concentrations, reflecting significant variability in atmospheric ciculation and air mass moisture content. Extreme aridity during the last glacial maximum at Taylor Dome reflects both colder temperatures and a shift in atmospheric circulation patterns associated with the advance of the Ross Sea ice sheet and accounts for regional alpine glacier retreats and high lake levels in the Dry Valleys. Inferred relationships between spatial accumulation gradients and ice sheet configuration indicate that advance of the Ross Sea ice sheet began in late marine isotope stage 5 or early stage 4. Precise dating of the Taylor Dome core achieved by trac-gas correlation with central Greenland ice cores shows that abrupt deglacial warming at Taylor Dome was near synchronous with the ~14.6ka warming in central Greenland and lags the general warming trend in other Antarctic ice cores by at least 3000 years. Delcaicl warming was following by a warm interval and transient cooling between 14.6 and 11.7ka, synchronous with the Bolling/Allerod warming and Younger Dryas cooling events in central Greenland, and out of phase with the Antarctic Cold Reversal recorded in the Byrd (West Antarctica) ice core. Rapid climate changes during marine isotope stages 4 and 3 at Taylor Dome are similar in character to, and may be in phase with, the Northern Hemisphere stadial-interstadial (Dansgaard-Oeschger) events. Results from Taylor Dome illustrate the importance of obtraining ice cores from multiple Anractic sites, to provide wide spatial coverage of past climate and ice dynamics. 
+#	Full_Citation:  Steig EJ, Morse DL, Waddington ED, Stuiver M, Grootes PM. 1999. Wisconsinan and Holocene climate history from an ice core at Taylor Dome, western Ross Embayment, Antarctica. Geografiska Annaler.
+#	Abstract: Geochemical data and geophysical measurements from a 554-m ice-core from Taylor Dome, East Antarctica, provide the basis for climate reconstruction in the western Ross Embayment through the entire Wisconsinan and Holecene. In comparison with ice cores from central East and West Antarctica, Taylor Dome shows greater variance of temperature, snow accumulation, and aerosol concentrations, reflecting significant variability in atmospheric ciculation and air mass moisture content. Extreme aridity during the last glacial maximum at Taylor Dome reflects both colder temperatures and a shift in atmospheric circulation patterns associated with the advance of the Ross Sea ice sheet and accounts for regional alpine glacier retreats and high lake levels in the Dry Valleys. Inferred relationships between spatial accumulation gradients and ice sheet configuration indicate that advance of the Ross Sea ice sheet began in late marine isotope stage 5 or early stage 4. Precise dating of the Taylor Dome core achieved by trace-gas correlation with central Greenland ice cores shows that abrupt deglacial warming at Taylor Dome was near synchronous with the ~14.6ka warming in central Greenland and lags the general warming trend in other Antarctic ice cores by at least 3000 years. Deglacial warming was following by a warm interval and transient cooling between 14.6 and 11.7ka, synchronous with the Bolling/Allerod warming and Younger Dryas cooling events in central Greenland, and out of phase with the Antarctic Cold Reversal recorded in the Byrd (West Antarctica) ice core. Rapid climate changes during marine isotope stages 4 and 3 at Taylor Dome are similar in character to, and may be in phase with, the Northern Hemisphere stadial-interstadial (Dansgaard-Oeschger) events. Results from Taylor Dome illustrate the importance of obtraining ice cores from multiple Anractic sites, to provide wide spatial coverage of past climate and ice dynamics. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -73,7 +73,8 @@
 #	Collection_Name: 00TayD01
 #	Earliest_Year: 230.16
 #	Most_Recent_Year: 0.0107 
-#	Time_Unit: yb_1950
+#	Time_Unit: kyb_1950
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES2"}
 #
 # --------------------
 # Variables
@@ -81,8 +82,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years before 1950 AD ,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,thousand years before 1950 AD ,,,,,N
+##d18O	delta 18 Oxygen,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:
@@ -2561,7 +2562,7 @@ age	d18O
 29.526	-42.21
 29.702	-42.09
 29.879	-42.94
-30.056	NANNAN
+30.056	NAN
 30.232	-43.19
 30.409	-42.58
 30.585	-42

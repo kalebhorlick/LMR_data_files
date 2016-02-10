@@ -49,6 +49,8 @@
 # Funding_Agency
 #	Funding_Agency_Name: Carlsberg Foundation
 #	Grant:
+# --------------------
+# Funding_Agency
 #	Funding_Agency_Name: United states Department of Energy
 #	Grant: DE-FGO2-98ER62601
 # --------------------
@@ -67,6 +69,7 @@
 #	Earliest_Year: 1
 #	Most_Recent_Year: 1979
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES1"}{"database":"PAGES2"}
 #
 # --------------------
 # Variables
@@ -74,8 +77,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:

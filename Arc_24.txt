@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Arc_24
-#	Earliest_Year: 1408.0
-#	Most_Recent_Year: 1993.0
+#	Earliest_Year: 1408
+#	Most_Recent_Year: 1993
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"}{"relationship":"positive"}
@@ -79,7 +79,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age	age, , ,years AD, , Tree Rings, , ,N
-##clim_signal	Ring width ARS, , , , , Tree Rings, , ,N
+##TRW	total ring width, , , , , Tree Rings, , ARSTAN,N
 #
 #--------------------
 # Data:
@@ -87,7 +87,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: nan
 #
-age	clim_signal
+age	TRW
 1408.0	687.0
 1409.0	944.0
 1410.0	744.0

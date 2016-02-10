@@ -44,27 +44,7 @@ from Donard Lake, Baffin Island, Canada.
 #	DOI: 
 #	Online_Resource:  
 #	Full_Citation:  
-#	Abstract:  Clastic varved sediments from Donard Lake, in the Cape Dyer region of 
-Baffin Island, provide a 1250 yr record of decadal-to-centennial scale 
-climate variability. Donard Lake experiences strong seasonal fluctuations 
-in runoff and sediment fluxes due to the summer melting of the Caribou 
-Glacier, which presently dominates its catchment. The seasonal variation 
-in sediment supply results in the annual deposition of laminae couplets. 
-A radiocarbon date measured on moss fragments, with a calibrated age of 
-860 ± 80 yrs before present (BP), is in close agreement with the age 
-based on paired-layer counts. Together with the fabric of the laminae 
-determined from microscope analysis, the age agreement demonstrates that 
-the laminae couplets are annually deposited varves. Comparisons of varve 
-thickness and average summer temperature from nearby Cape Dyer show a 
-significant positive correlation (r= 0.57 for annual records, r = 0.82 
-for 3-yr averages), indicating that varve thickness reflects changes 
-in average summer temperature. Varve thickness was used to reconstruct 
-average summer temperatures for the past 1250 yrs, and shows abrupt 
-shifts and large amplitude decadal-to-centennial scale variability 
-throughout the record. The most prominent feature of the record is 
-a period of elevated summer temperatures from 1200-1375 AD, followed 
-by cooler conditions from 1375-1820 AD, coincident with the 
-Little Ice Age. 
+#	Abstract: Clastic varved sediments from Donard Lake, in the Cape Dyer region of  Baffin Island, provide a 1250 yr record of decadal-to-centennial scale  climate variability. Donard Lake experiences strong seasonal fluctuations  in runoff and sediment fluxes due to the summer melting of the Caribou  Glacier, which presently dominates its catchment. The seasonal variation  in sediment supply results in the annual deposition of laminae couplets.  A radiocarbon date measured on moss fragments, with a calibrated age of  860 ± 80 yrs before present (BP), is in close agreement with the age  based on paired-layer counts. Together with the fabric of the laminae  determined from microscope analysis, the age agreement demonstrates that  the laminae couplets are annually deposited varves. Comparisons of varve  thickness and average summer temperature from nearby Cape Dyer show a  significant positive correlation (r= 0.57 for annual records, r = 0.82  for 3-yr averages), indicating that varve thickness reflects changes  in average summer temperature. Varve thickness was used to reconstruct  average summer temperatures for the past 1250 yrs, and shows abrupt  shifts and large amplitude decadal-to-centennial scale variability  throughout the record. The most prominent feature of the record is  a period of elevated summer temperatures from 1200-1375 AD, followed  by cooler conditions from 1375-1820 AD, coincident with the  Little Ice Age. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name:  
@@ -92,7 +72,7 @@ Little Ice Age.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N 
+##age	age,,,years AD,,,,,N 
 ##temp_anom	surface temperature anomaly (degrees C), Annual, , , degrees C ,summer , , , N
 #
 # --------------------

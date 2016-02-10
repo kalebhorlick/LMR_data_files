@@ -31,7 +31,7 @@
 # 	Description: This data set contains 55cm average delta 18-O values from the GRIP core. These data were used in the construction of the glaciological timescale given in the file gripage.dat and reproduced here.
 # --------------------
 # Publication
-#	Authors: igfus J. Johnsen, Henrik B. Clausen, Willi Dansgaard, Niels S. Gundestrup, Claus U. Hammer, Uffe Andersen, Katrine K. Andersen, Christine S. Hvidberg, Dorthe Dahl‐Jensen, Jorgen P. Steffensen, Hitoshi Shoji, Arny E. Sveinbjornsdottir, Jim White, Jean Jouzel, David Fisher
+#	Authors: Sigfus J. Johnsen, Henrik B. Clausen, Willi Dansgaard, Niels S. Gundestrup, Claus U. Hammer, Uffe Andersen, Katrine K. Andersen, Christine S. Hvidberg, Dorthe Dahl‐Jensen, Jorgen P. Steffensen, Hitoshi Shoji, Arny E. Sveinbjornsdottir, Jim White, Jean Jouzel, David Fisher
 #	Published_Date_or_Year: 1997
 #	Published_Title: The d18O record along the Greenland Ice Core Project deep ice core and the problem of possible Eemian climatic instability
 #	Journal_Name: Jounral of Geophysical Research, Oceans
@@ -62,7 +62,8 @@
 #	Collection_Name: 97GRIP01
 #	Earliest_Year: 248763
 #	Most_Recent_Year: -39.0
-#	Time_Unit: yb_
+#	Time_Unit: yb_1950
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -70,8 +71,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years before ,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years before ,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:

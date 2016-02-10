@@ -28,30 +28,7 @@
 #	Investigators:  Miettinen, A.; Divine, N.; Koc, N.; Godtliebsen, F.; Hall, I.R.
 # --------------------
 # Description_and_Notes
-# 	Description:  A 2000-year-long (0-2004 AD) August Sea Surface Temperature (aSST) 
-record with high-resolution. The aSST reconstruction is based on 
-fossil diatom assemblages and the weighted averaging partial 
-least squares (WA-PLS) transfer function method. 
-
-Core Rapid 21-COM represents a composite of two individual sediment 
-cores (Rapid 21-12B and Rapid 21-3K), which were recovered from the 
-southern limb of the Gardar Drift, south of Iceland, during the RRS 
-Charles Darwin cruise 159 in 2004. The age model for core Rapid 21-COM 
-is based on 210Pb dating for the 54.3-cm-long sediment box-core 
-Rapid 21-12B (Boessenkool et al. 2007) and on 14C dating for the 
-372.5-cm-long kasten core Rapid 21-3K (Boessenkool et al. 2007; 
-Sicre et al. 2011). The previously published diatom-based aSST 
-record from core Rapid 21–12B has 2-yr-average resolution for 
-the last 230 years (Miettinen et al. 2011). Core Rapid 21-3K 
-was sampled continuously at 1.0-cm intervals and analyzed at 
-1- to 5-cm intervals with a resolution of 8-10 yr for the interval 
-AD 800-1770, representing the highest-resolution diatom SST 
-reconstruction from the subpolar North Atlantic for this period, 
-and 40 yr for interval 0-AD 800. 
-
-Composite core Rapid 21-COM: 
-57°27.09'N, 27°54.53'W, 2,630 m water depth 
-
+# 	Description:  A 2000-year-long (0-2004 AD) August Sea Surface Temperature (aSST)  record with high-resolution. The aSST reconstruction is based on  fossil diatom assemblages and the weighted averaging partial  least squares (WA-PLS) transfer function method.   Core Rapid 21-COM represents a composite of two individual sediment  cores (Rapid 21-12B and Rapid 21-3K), which were recovered from the  southern limb of the Gardar Drift, south of Iceland, during the RRS  Charles Darwin cruise 159 in 2004. The age model for core Rapid 21-COM  is based on 210Pb dating for the 54.3-cm-long sediment box-core  Rapid 21-12B (Boessenkool et al. 2007) and on 14C dating for the  372.5-cm-long kasten core Rapid 21-3K (Boessenkool et al. 2007;  Sicre et al. 2011). The previously published diatom-based aSST  record from core Rapid 21–12B has 2-yr-average resolution for  the last 230 years (Miettinen et al. 2011). Core Rapid 21-3K  was sampled continuously at 1.0-cm intervals and analyzed at  1- to 5-cm intervals with a resolution of 8-10 yr for the interval  AD 800-1770, representing the highest-resolution diatom SST  reconstruction from the subpolar North Atlantic for this period,  and 40 yr for interval 0-AD 800.   Composite core Rapid 21-COM:  57°27.09'N, 27°54.53'W, 2,630 m water depth 
 # --------------------
 # Publication
 #	Authors:  A. Miettinen, D. Divine, N. Koc, F. Godtliebsen, and I.R. Hall
@@ -66,38 +43,7 @@ across the subpolar North Atlantic over the last 2.8 kyr.
 #	DOI: 10.1175/JCLI-D-11-00581.1
 #	Online_Resource:  
 #	Full_Citation:  
-#	Abstract:  A 2800-yr-long August sea surface temperature (aSST) record 
-based on fossil diatom assemblages is generated from a marine 
-sediment core from the northern subpolar North Atlantic. 
-The record is compared with the aSST record from the Norwegian 
-Sea to explore the variability of the aSST gradient between 
-these areas during the late Holocene. 
-
-The aSST records demonstrate the opposite climate tendencies 
-toward a persistent warming in the core site in the subpolar 
-North Atlantic and cooling in the Norwegian Sea. At the 
-multicentennial scale of aSST variability of 600-900 yr, 
-the records are nearly in antiphase with warmer (colder) 
-periods in the subpolar North Atlantic corresponding to 
-the colder (warmer) periods in the Norwegian Sea. At the 
-shorter time scale of 200-450 yr, the records display 
-a phase-locked behavior with a tendency for the positive 
-aSST anomalies in the Norwegian Sea to lead, by ~30 yr, 
-the negative aSST anomalies in the subpolar North Atlantic. 
-This apparent aSST seesaw might have an effect on two major 
-anomalies of the European climate of the past Millennium: 
-Medieval Warm Period (MWP) and the Little Ice Age (LIA). 
-During the MWP warming of the sea surface in the Norwegian 
-Sea occurred in parallel with cooling in the northern 
-subpolar North Atlantic, whereas the opposite pattern 
-emerged during the LIA.  
-
-The results suggest that the observed aSST seesaw between 
-the subpolar North Atlantic and the Norwegian Sea could be 
-a surface expression of the variability of the eastern 
-and western branches of the Atlantic meridional overturning 
-circulation (AMOC) with a possible amplification through 
-atmospheric feedback. 
+#	Abstract:  A 2800-yr-long August sea surface temperature (aSST) record  based on fossil diatom assemblages is generated from a marine  sediment core from the northern subpolar North Atlantic.  The record is compared with the aSST record from the Norwegian  Sea to explore the variability of the aSST gradient between  these areas during the late Holocene.   The aSST records demonstrate the opposite climate tendencies  toward a persistent warming in the core site in the subpolar  North Atlantic and cooling in the Norwegian Sea. At the  multicentennial scale of aSST variability of 600-900 yr,  the records are nearly in antiphase with warmer (colder)  periods in the subpolar North Atlantic corresponding to  the colder (warmer) periods in the Norwegian Sea. At the  shorter time scale of 200-450 yr, the records display  a phase-locked behavior with a tendency for the positive  aSST anomalies in the Norwegian Sea to lead, by ~30 yr,  the negative aSST anomalies in the subpolar North Atlantic.  This apparent aSST seesaw might have an effect on two major  anomalies of the European climate of the past Millennium:  Medieval Warm Period (MWP) and the Little Ice Age (LIA).  During the MWP warming of the sea surface in the Norwegian  Sea occurred in parallel with cooling in the northern  subpolar North Atlantic, whereas the opposite pattern  emerged during the LIA.    The results suggest that the observed aSST seesaw between  the subpolar North Atlantic and the Norwegian Sea could be  a surface expression of the variability of the eastern  and western branches of the Atlantic meridional overturning  circulation (AMOC) with a possible amplification through  atmospheric feedback. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: Joint Institute for the Study of the Atmosphere and Ocean
@@ -125,7 +71,7 @@ atmospheric feedback.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N 
+##age	age,,,years AD,,,,,N 
 ##sst	August sea surface temperature, , , degrees C, August, Climate Reconstruction, , ,N
 #
 # --------------------

@@ -44,18 +44,13 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: The 550-year records of 5 180 and dust concentrationsfrom Siple Station, Antarctica suggest warmer and less dusty
-atmospheric conditions from 1600 to 1830 A.D. which encompasses much of the northern hemisphere Little Ice
-Age (LIA). Dust and d18O data from South Pole Station indicate that the opposite conditions (e.g. cooler and more
-dusty) were prevalent there during the LIA. Meteorological data from 1945-85 show that the LIA temperature
-opposition between Amundsen-Scott and Siple, inferred from d18O, is consistent with the present spatial distribution of
-surface temperature. There is some observational evidence suggesting that under present conditions stronger zonal
-westerlies produce a temperature pattern similar to that of the LIA. These regional differences demonstrate that a suite
-of spatially distributed, high resolution ice-core records will be necessary to characterize the LIA in Antarctica
+#	Abstract: The 550-year records of 5 180 and dust concentrationsfrom Siple Station, Antarctica suggest warmer and less dusty atmospheric conditions from 1600 to 1830 A.D. which encompasses much of the northern hemisphere Little Ice Age (LIA). Dust and d18O data from South Pole Station indicate that the opposite conditions (e.g. cooler and more dusty) were prevalent there during the LIA. Meteorological data from 1945-85 show that the LIA temperature opposition between Amundsen-Scott and Siple, inferred from d18O, is consistent with the present spatial distribution of surface temperature. There is some observational evidence suggesting that under present conditions stronger zonal westerlies produce a temperature pattern similar to that of the LIA. These regional differences demonstrate that a suite of spatially distributed, high resolution ice-core records will be necessary to characterize the LIA in Antarctica.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: United States National Science Foundation
 #	Grant: DPP-841032A04
+# --------------------
+# Funding_Agency
 #	Funding_Agency_Name: United States National Science Foundation
 #	Grant: DPP-8400574
 # --------------------
@@ -74,6 +69,7 @@ of spatially distributed, high resolution ice-core records will be necessary to 
 #	Earliest_Year: 1417
 #	Most_Recent_Year: 1983
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES2"}
 #
 # --------------------
 # Variables
@@ -81,8 +77,8 @@ of spatially distributed, high resolution ice-core records will be necessary to 
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:

@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Eur_1
-#	Earliest_Year: 500.0
-#	Most_Recent_Year: 2003.0
+#	Earliest_Year: 500
+#	Most_Recent_Year: 2003
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"database":"PAGES1"}{"relationship":"Positive"}
@@ -79,7 +79,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age	age, , ,years AD, , Tree Rings, , ,N
-##clim_signal	MXD, , , , , Tree Rings, , ,N
+##MXD	maximum latewood density, , , , , Tree Rings, , ,N
 #
 #--------------------
 # Data:
@@ -87,7 +87,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: nan
 #
-age	clim_signal
+age	MXD
 500.0	2.565004959
 501.0	0.714414133
 502.0	0.994154607

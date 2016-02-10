@@ -65,6 +65,7 @@
 #	Earliest_Year: 1801
 #	Most_Recent_Year: 1997
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -72,8 +73,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:
@@ -105,7 +106,7 @@ age	d18O
 1977	-44.78
 1976	-45.73
 1975	-44.5
-1974	nan
+1974	NAN
 1973	-46.78
 1972	-46.98
 1971	-47.32

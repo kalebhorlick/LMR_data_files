@@ -44,28 +44,7 @@
 #	DOI: doi:10.1029/2007JD008652
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Estimating the spatial extent of past climate changes has been an ongoing challenge
-for paleoclimatology. For such estimates to be made with confidence, it is important to
-establish an understanding of the spatial coherence of proxy records during an interval of
-known climate change. We use water stable isotopes from high-resolution ice cores and
-twentieth-century observations of sea level pressures and sea surface temperatures to
-assess the covariance among isotopic records and its link to organized patterns of climate
-variability. Covarying signals in the cores are identified using empirical orthogonal
-function analysis. Results from regression analysis show that the leading signals
-are consistent with key climate patterns including the Northern Atlantic Oscillation and
-Southern Annular Mode and variability in tropical Pacific sea surface temperatures
-associated with the El Nin˜o–Southern Oscillation. Patterns that have recently been
-identified in instrumental data, such as positive tropical Pacific SST anomalies associated
-with the negative phase of the SAM, are evident in the ice cores. These explanations for
-the variance of stable isotopes are consistent with recent studies using isotope-enabled
-general circulation models and provide a physical basis for interpreting the observed
-isotopic signals. While there is also a global change signal that is evident when analyzing
-the records collectively, there are some limitations in reconstructing global temperatures
-due to the geographic coverage of the available records and the current lack of
-modeling studies to explain the observed global-scale changes. Still, water stable isotope
-ratios preserved in ice cores provide a sufficiently rich sampling of large-scale climate
-variability that they can be more widely used in physically based paleoclimate
-reconstructions covering the last millennium and other periods.
+#	Abstract: Estimating the spatial extent of past climate changes has been an ongoing challenge for paleoclimatology. For such estimates to be made with confidence, it is important to establish an understanding of the spatial coherence of proxy records during an interval of known climate change. We use water stable isotopes from high-resolution ice cores and twentieth-century observations of sea level pressures and sea surface temperatures to assess the covariance among isotopic records and its link to organized patterns of climate variability. Covarying signals in the cores are identified using empirical orthogonal function analysis. Results from regression analysis show that the leading signals are consistent with key climate patterns including the Northern Atlantic Oscillation and Southern Annular Mode and variability in tropical Pacific sea surface temperatures associated with the El Nin˜o–Southern Oscillation. Patterns that have recently been identified in instrumental data, such as positive tropical Pacific SST anomalies associated with the negative phase of the SAM, are evident in the ice cores. These explanations for the variance of stable isotopes are consistent with recent studies using isotope-enabled general circulation models and provide a physical basis for interpreting the observed isotopic signals. While there is also a global change signal that is evident when analyzing the records collectively, there are some limitations in reconstructing global temperatures due to the geographic coverage of the available records and the current lack of modeling studies to explain the observed global-scale changes. Still, water stable isotope ratios preserved in ice cores provide a sufficiently rich sampling of large-scale climate variability that they can be more widely used in physically based paleoclimate reconstructions covering the last millennium and other periods.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -86,6 +65,7 @@ reconstructions covering the last millennium and other periods.
 #	Earliest_Year: 1719
 #	Most_Recent_Year: 2000
 #	Time_Unit: y_ad
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -93,8 +73,8 @@ reconstructions covering the last millennium and other periods.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##delD	delD,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##delD	delta deuterium,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:

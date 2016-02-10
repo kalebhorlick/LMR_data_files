@@ -50,20 +50,7 @@
 #	DOI: 10.1029/2008GL035930
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: The role of the sun on Earth's climate variability is still 
-much debated. Here we present an ice core oxygen isotope 
-record from the continental Siberian Altai, serving as a 
-high-resolution temperature proxy for the last 750 years. 
-The strong correlation between reconstructed temperature 
-and solar activity suggests solar forcing as a main driver 
-for temperature variations during the period 1250-1850 
-in this region. The precisely dated record allowed for 
-the identification of a 10-30 year lag between solar forcing 
-and temperature response, underlining the importance of 
-indirect sun-climate mechanisms involving ocean-induced 
-changes in atmospheric circulation. Solar contribution 
-to temperature change became less important during 
-industrial period 1850-2000 in the Altai region.
+#	Abstract: The role of the sun on Earth's climate variability is still  much debated. Here we present an ice core oxygen isotope  record from the continental Siberian Altai, serving as a  high-resolution temperature proxy for the last 750 years.  The strong correlation between reconstructed temperature  and solar activity suggests solar forcing as a main driver  for temperature variations during the period 1250-1850  in this region. The precisely dated record allowed for  the identification of a 10-30 year lag between solar forcing  and temperature response, underlining the importance of  indirect sun-climate mechanisms involving ocean-induced  changes in atmospheric circulation. Solar contribution  to temperature change became less important during  industrial period 1850-2000 in the Altai region.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: Swiss National Science Foundation (SNSF), Marie-Heim Vögtlin program
@@ -84,6 +71,7 @@ industrial period 1850-2000 in the Altai region.
 #	Earliest_Year: 1255
 #	Most_Recent_Year: 1975
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -91,8 +79,8 @@ industrial period 1850-2000 in the Altai region.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:

@@ -45,21 +45,7 @@ Anthony J. GOW, Christopher A. SHUMAN, James W.C. WHITE, Sharon SNEED,Joseph FLA
 #	DOI:  
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Shallow ice cores were obtained from widely distributed sites across the West Antarctic ice
-sheet, as part of the United States portion of the International Trans-Antarctic Scientific Expedition
-(US ITASE) program. The US ITASE cores have been dated by annual-layer counting, primarily through
-the identification of summer peaks in non-sea-salt sulfate (nssSO4
-2–) concentration. Absolute dating
-accuracy of better than 2 years and relative dating accuracy better than 1 year is demonstrated by the
-identification of multiple volcanic marker horizons in each of the cores, Tambora, Indonesia (1815),
-being the most prominent. Independent validation is provided by the tracing of isochronal layers from
-site to site using high-frequency ice-penetrating radar observations, and by the timing of mid-winter
-warming events in stable-isotope ratios, which demonstrate significantly better than 1 year accuracy in
-the last 20 years. Dating precision to 1 month is demonstrated by the occurrence of summer nitrate
-peaks and stable-isotope ratios in phase with nssSO4
-2–, and winter-time sea-salt peaks out of phase, with
-phase variation of <1 month. Dating precision and accuracy are uniform with depth, for at least the last
-100 years.
+#	Abstract: Shallow ice cores were obtained from widely distributed sites across the West Antarctic ice sheet, as part of the United States portion of the International Trans-Antarctic Scientific Expedition (US ITASE) program. The US ITASE cores have been dated by annual-layer counting, primarily through the identification of summer peaks in non-sea-salt sulfate (nssSO4 2–) concentration. Absolute dating accuracy of better than 2 years and relative dating accuracy better than 1 year is demonstrated by the identification of multiple volcanic marker horizons in each of the cores, Tambora, Indonesia (1815), being the most prominent. Independent validation is provided by the tracing of isochronal layers from site to site using high-frequency ice-penetrating radar observations, and by the timing of mid-winter warming events in stable-isotope ratios, which demonstrate significantly better than 1 year accuracy in the last 20 years. Dating precision to 1 month is demonstrated by the occurrence of summer nitrate peaks and stable-isotope ratios in phase with nssSO4 2–, and winter-time sea-salt peaks out of phase, with phase variation of <1 month. Dating precision and accuracy are uniform with depth, for at least the last 100 years.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -78,21 +64,22 @@ phase variation of <1 month. Dating precision and accuracy are uniform with dept
 # --------------------
 # Data_Collection
 #	Collection_Name: 02ITAS01
-#	Earliest_Year: 1800
-#	Most_Recent_Year: 1999
+#	Earliest_Year: 1592
+#	Most_Recent_Year: 2002
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 # --------------------
 # Variables
 #
-##age	Age,,,midpoint year AD,,,,,N
-##delD	del D,,,permil SMOW,,ice cores,,,N 
+##age	age,,,midpoint year AD,,,,,N
+##delD	delta deuterium,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
-#
+
 age	delD
 2002.9398	-313.0681
 2002.8193	-345.4067
@@ -192,7 +179,7 @@ age	delD
 1995.4880	-340.8786
 1995.4426	-350.1584
 1995.3973	-353.2247
-1995.3520	nan
+1995.3520	NAN
 1995.3066	-343.9487
 1995.2613	-340.9606
 1995.2160	-335.6408
@@ -586,9 +573,9 @@ age	delD
 1961.8150	-329.5484
 1961.7284	-339.6101
 1961.6418	-347.7635
-1961.5551	nan
-1961.4685	nan
-1961.3819	nan
+1961.5551	NAN
+1961.4685	NAN
+1961.3819	NAN
 1961.2953	-329.7167
 1961.2087	-322.9579
 1961.1220	-318.1889
@@ -1352,7 +1339,7 @@ age	delD
 1880.8984	-329.3998
 1880.7983	-330.1707
 1880.6982	-330.8559
-1880.5981	nan
+1880.5981	NAN
 1880.4980	-324.4624
 1880.3979	-321.4386
 1880.2978	-317.7449
@@ -2020,7 +2007,7 @@ age	delD
 1801.4391	-346.3733
 1801.3665	-344.3256
 1801.2939	-340.7387
-1801.1971	nan
+1801.1971	NAN
 1801.0988	-337.5882
 1800.9999	-333.4242
 1800.8170	-328.5407

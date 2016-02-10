@@ -26,7 +26,7 @@
 #	Study_Name: Greenland B16 d18O
 # --------------------
 # Investigators
-#	Investigators: Schwager, M.; Miller, Heinz 
+#	Investigators: Schwager, M.; Miller, H. 
 # --------------------
 # Description_and_Notes
 # 	Description: 
@@ -44,18 +44,7 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Atmospheric blocking is a large-scale, mid-latitude atmospheric phenomenon often associated with persistent
-quasi-stationary, synoptic-scale, high-pressure systems. The formation, maintenance and collapse of atmospheric blocking
-cause large-scale circulation anomalies and strongly impact weather patterns. Therefore, blocking regimes constitute a
-significant climatological feature.
-Northern hemisphere blocking shows important variability at different time-scales. Blocking frequencies have shown a
-downward (upward) trend over Atlantic and European (west Pacific) sectors. Superimposed on these linear trends, blocking
-frequencies show significant interannual and decadal variation (Barriopedro et al., 2006). However, in these studies, the
-blocking variability was derived over the relatively short time period covered by observational data with daily resolution. Here,
-we present the first attempt to directly relate interannual and decadal variability of several high-resolution snow accumulation
-records from northern Greenland with northern hemisphere atmospheric blocking. First, we investigate the relationship
-between atmospheric blocking and accumulation variability during the period covered by both accumulation and
-high-resolution (daily) observational data. Base
+#	Abstract: Atmospheric blocking is a large-scale, mid-latitude atmospheric phenomenon often associated with persistent quasi-stationary, synoptic-scale, high-pressure systems. The formation, maintenance and collapse of atmospheric blocking cause large-scale circulation anomalies and strongly impact weather patterns. Therefore, blocking regimes constitute a significant climatological feature. Northern hemisphere blocking shows important variability at different time-scales. Blocking frequencies have shown a downward (upward) trend over Atlantic and European (west Pacific) sectors. Superimposed on these linear trends, blocking frequencies show significant interannual and decadal variation (Barriopedro et al., 2006). However, in these studies, the blocking variability was derived over the relatively short time period covered by observational data with daily resolution. Here, we present the first attempt to directly relate interannual and decadal variability of several high-resolution snow accumulation records from northern Greenland with northern hemisphere atmospheric blocking. First, we investigate the relationship between atmospheric blocking and accumulation variability during the period covered by both accumulation and high-resolution (daily) observational data. Base
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -76,6 +65,7 @@ high-resolution (daily) observational data. Base
 #	Earliest_Year: 1478
 #	Most_Recent_Year: 1992
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES1"}{"database":"PAGES2"}
 #
 # --------------------
 # Variables
@@ -83,8 +73,8 @@ high-resolution (daily) observational data. Base
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:

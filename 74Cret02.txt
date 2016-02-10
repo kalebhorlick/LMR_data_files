@@ -42,11 +42,7 @@
 #	DOI:
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: The results of the 1984-85 post-GISP campaigns incentral Greenland are presented. Eight ice cores were obtained, some spanning up to 360 years. We present:
-I. Geographical positions and elevations at the drill sites, Il. Density and temperature in the bore holes, Ill. Filtered 6180 profiles and accumulation-rate
-variations along the ice cores.The 6180 and accumulation profiles, along with those from the 400 m Crete ice core obtained in 1974, are compared.
-The accumulation-rate series over a large region have a very high coherence. This indicates that a single bore hole in this region would give a representative accumulation time
-series over a long period. Further, it appears that for this region there is a linear relation between the measured annual accumulation rate and the mean annual 6 180 values. Thus the area between Crete and Summit, just west of the ice divide, seems to be favorable for a deep-drilling operation. 
+#	Abstract: The results of the 1984-85 post-GISP campaigns incentral Greenland are presented. Eight ice cores were obtained, some spanning up to 360 years. We present: I. Geographical positions and elevations at the drill sites, Il. Density and temperature in the bore holes, Ill. Filtered 6180 profiles and accumulation-rate variations along the ice cores.The 6180 and accumulation profiles, along with those from the 400 m Crete ice core obtained in 1974, are compared. The accumulation-rate series over a large region have a very high coherence. This indicates that a single bore hole in this region would give a representative accumulation time series over a long period. Further, it appears that for this region there is a linear relation between the measured annual accumulation rate and the mean annual 6 180 values. Thus the area between Crete and Summit, just west of the ice divide, seems to be favorable for a deep-drilling operation. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name:
@@ -67,14 +63,15 @@ series over a long period. Further, it appears that for this region there is a l
 #	Earliest_Year: 1858
 #	Most_Recent_Year: 1973
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 # --------------------
 # Variables
 #
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:

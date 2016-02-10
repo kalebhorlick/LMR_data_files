@@ -55,12 +55,7 @@
 #	DOI: 10.1073/pnas.0803627105
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Although the 20th Century warming of global climate is well known, climate change in the high-latitude Southern Hemisphere (SH), 
-especially in the first half of the century, remains poorly documented. 
-We present a composite of water stable isotope data from high-resolution ice cores from the West Antarctic Ice Sheet. This record, representative of West Antarctic surface temperature, shows extreme positive anomalies 
-in the 1936–45 decade that are significant in the context of the background 20th Century warming trend. We interpret these anomalies - previously undocumented in the high-latitude SH - as indicative of 
-strong teleconnections in part driven by the major 1939–42 El Niño. These anomalies are coherent with tropical sea-surface temperature, mean SH air temperature, and North Pacific sea-level pressure, underscoring the sensitivity of West Antarctica's climate, and potentially its ice sheet, to large-scale changes in the 
-global climate.ith phase variation of <1 month. Dating precision and accuracy are uniform with depth, for at least the last 100 years.
+#	Abstract: Although the 20th Century warming of global climate is well known, climate change in the high-latitude Southern Hemisphere (SH),  especially in the first half of the century, remains poorly documented.  We present a composite of water stable isotope data from high-resolution ice cores from the West Antarctic Ice Sheet. This record, representative of West Antarctic surface temperature, shows extreme positive anomalies  in the 1936–45 decade that are significant in the context of the background 20th Century warming trend. We interpret these anomalies - previously undocumented in the high-latitude SH - as indicative of  strong teleconnections in part driven by the major 1939–42 El Niño. These anomalies are coherent with tropical sea-surface temperature, mean SH air temperature, and North Pacific sea-level pressure, underscoring the sensitivity of West Antarctica's climate, and potentially its ice sheet, to large-scale changes in the  global climate.ith phase variation of <1 month. Dating precision and accuracy are uniform with depth, for at least the last 100 years.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: United States National Science Foundation, Office of Polar Programs
@@ -72,10 +67,10 @@ global climate.ith phase variation of <1 month. Dating precision and accuracy ar
 #	Site_Name: US ITASE 01-2
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: -77.840
-#	Southernmost_Latitude: -77.840 
-#	Easternmost_Longitude: -102.910
-#	Westernmost_Longitude: -102.910
+#	Northernmost_Latitude: -77.84
+#	Southernmost_Latitude: -77.84
+#	Easternmost_Longitude: -102.91
+#	Westernmost_Longitude: -102.91
 #	Elevation: 1336 m
 # --------------------
 # Data_Collection
@@ -83,6 +78,7 @@ global climate.ith phase variation of <1 month. Dating precision and accuracy ar
 #	Earliest_Year: 1900
 #	Most_Recent_Year: 1999
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -90,8 +86,8 @@ global climate.ith phase variation of <1 month. Dating precision and accuracy ar
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:
@@ -100,103 +96,103 @@ global climate.ith phase variation of <1 month. Dating precision and accuracy ar
 # Missing values: NAN
 #
 age	d18O
-1999.0000	-30.0440
-1998.0000	-29.1880
-1997.0000	-30.8480
-1996.0000	-30.0940
-1995.0000	-29.7210
-1994.0000	-29.2070
-1993.0000	-28.4850
-1992.0000	-30.9280
-1991.0000	-31.1290
-1990.0000	-28.6720
-1989.0000	-29.9170
-1988.0000	-30.4590
-1987.0000	-28.9260
-1986.0000	-30.5930
-1985.0000	-30.7040
-1984.0000	-29.9020
-1983.0000	-28.4980
-1982.0000	-29.5520
-1981.0000	-29.5940
-1980.0000	-30.1500
-1979.0000	-28.2340
-1978.0000	-31.2880
-1977.0000	-28.8680
-1976.0000	-29.9080
-1975.0000	-30.5300
-1974.0000	-31.2640
-1973.0000	-29.1240
-1972.0000	-30.0420
-1971.0000	-31.6130
-1970.0000	-30.8810
-1969.0000	-28.5620
-1968.0000	-29.0800
-1967.0000	-30.9370
-1966.0000	-31.0400
-1965.0000	-30.3510
-1964.0000	-30.2710
-1963.0000	-29.8360
-1962.0000	-29.7660
-1961.0000	-29.7690
-1960.0000	-29.7610
-1959.0000	-30.2710
-1958.0000	-31.4540
-1957.0000	-29.6870
-1956.0000	-29.9100
-1955.0000	-29.7730
-1954.0000	-29.8550
-1953.0000	-30.2490
-1952.0000	-30.8830
-1951.0000	-30.7090
-1950.0000	-29.8890
-1949.0000	-29.2580
-1948.0000	-28.3420
-1947.0000	-28.6490
-1946.0000	-29.9140
-1945.0000	-29.9690
-1944.0000	-27.7830
-1943.0000	-26.6170
-1942.0000	-28.7000
-1941.0000	-29.5760
-1940.0000	-30.2460
-1939.0000	-29.8580
-1938.0000	-28.8150
-1937.0000	-28.8910
-1936.0000	-30.2970
-1935.0000	-30.8040
-1934.0000	-30.0520
-1933.0000	-30.0720
-1932.0000	-30.6820
-1931.0000	-29.4710
-1930.0000	-29.1360
-1929.0000	-28.9000
-1928.0000	-30.5690
-1927.0000	-30.2880
-1926.0000	-30.1190
-1925.0000	-29.2320
-1924.0000	-29.5650
-1923.0000	-29.6230
-1922.0000	-29.2020
-1921.0000	-30.0460
-1920.0000	-29.9540
-1919.0000	-29.5030
-1918.0000	-30.0460
-1917.0000	-28.8570
-1916.0000	-28.4720
-1915.0000	-28.9610
-1914.0000	-28.1560
-1913.0000	-29.3420
-1912.0000	-31.1360
-1911.0000	-31.7710
-1910.0000	-32.4390
-1909.0000	-28.9730
-1908.0000	-28.4800
-1907.0000	-30.5780
-1906.0000	-29.2240
-1905.0000	-28.3960
-1904.0000	-29.1290
-1903.0000	-30.2280
-1902.0000	-28.4130
-1901.0000	-29.6270
-1900.0000	-29.5690
+1999	-30.044
+1998	-29.188
+1997	-30.848
+1996	-30.094
+1995	-29.721
+1994	-29.207
+1993	-28.485
+1992	-30.928
+1991	-31.129
+1990	-28.672
+1989	-29.917
+1988	-30.459
+1987	-28.926
+1986	-30.593
+1985	-30.704
+1984	-29.902
+1983	-28.498
+1982	-29.552
+1981	-29.594
+1980	-30.15
+1979	-28.234
+1978	-31.288
+1977	-28.868
+1976	-29.908
+1975	-30.53
+1974	-31.264
+1973	-29.124
+1972	-30.042
+1971	-31.613
+1970	-30.881
+1969	-28.562
+1968	-29.08
+1967	-30.937
+1966	-31.04
+1965	-30.351
+1964	-30.271
+1963	-29.836
+1962	-29.766
+1961	-29.769
+1960	-29.761
+1959	-30.271
+1958	-31.454
+1957	-29.687
+1956	-29.91
+1955	-29.773
+1954	-29.855
+1953	-30.249
+1952	-30.883
+1951	-30.709
+1950	-29.889
+1949	-29.258
+1948	-28.342
+1947	-28.649
+1946	-29.914
+1945	-29.969
+1944	-27.783
+1943	-26.617
+1942	-28.7
+1941	-29.576
+1940	-30.246
+1939	-29.858
+1938	-28.815
+1937	-28.891
+1936	-30.297
+1935	-30.804
+1934	-30.052
+1933	-30.072
+1932	-30.682
+1931	-29.471
+1930	-29.136
+1929	-28.9
+1928	-30.569
+1927	-30.288
+1926	-30.119
+1925	-29.232
+1924	-29.565
+1923	-29.623
+1922	-29.202
+1921	-30.046
+1920	-29.954
+1919	-29.503
+1918	-30.046
+1917	-28.857
+1916	-28.472
+1915	-28.961
+1914	-28.156
+1913	-29.342
+1912	-31.136
+1911	-31.771
+1910	-32.439
+1909	-28.973
+1908	-28.48
+1907	-30.578
+1906	-29.224
+1905	-28.396
+1904	-29.129
+1903	-30.228
+1902	-28.413
+1901	-29.627
+1900	-29.569

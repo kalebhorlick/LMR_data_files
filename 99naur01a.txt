@@ -21,7 +21,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 1999-08
+#	Date: 1999-08-01
 #--------------------
 # Title
 #	Study_Name: Nauru Island Coral Isotope Data

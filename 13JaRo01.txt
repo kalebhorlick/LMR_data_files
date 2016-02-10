@@ -75,7 +75,7 @@
 #	Most_recent_Year: 2007
 #	Time_Unit: y_ad
 #	Core_Length:    
-#	Notes: 
+#	Notes: {"database":"LMR_FM"}
 #------------------
 # Chronology 
 #
@@ -86,14 +86,14 @@
 # Data variables follow (have no #)
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age, , , years AD, , , mid-annual range, ,N
-##delD	delD, , , permil VSMOW, , , , , N
+##age	midpoint age, , , years AD, , , mid-annual range, ,N
+##delD	delta deuterium, , , permil VSMOW, Ice Cores, , , , N
 #
 #----------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
-# Missing Values: NaN
+# Missing Values: NAN
 #
 age	delD
 2007.5	-159.87
@@ -239,7 +239,7 @@ age	delD
 1867.5	-162.09
 1866.5	-156.05
 1865.5	-157.63
-1864.5	NaN
+1864.5	NAN
 1863.5	-150.79
 1862.5	-145.76
 1861.5	-136.56

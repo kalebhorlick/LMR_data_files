@@ -45,21 +45,7 @@
 #	DOI: 10.5194/cp-8-1929-2012
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: Volcanic eruptions are an important cause of naturalclimate variability. In order to improve the accuracy of
-climate models, precise dating and magnitude of the climatic effects of past volcanism are necessary. Here we present a
-2000-yr record of Southern Hemisphere volcanism recorded in ice cores from the high accumulation Law Dome site, East Antarctica. The ice cores were analysed for a suite of
-chemistry signals and are independently dated via annual layer counting, with 11 ambiguous years at 23 BCE, which
-has presently the lowest error of all published long Antarctic ice cores. Independently dated records are important to avoid circular dating where volcanic signatures are assigned
-a date from some external information rather than using the date it is found in the ice core. Forty-five volcanic events
-have been identified using the sulphate chemistry of the Law Dome record. The low dating error and comparison with the NGRIP (North Greenland Ice Core Project) volcanic records (on the GICC05 timescale) suggest Law Dome is the most
-accurately dated Antarctic volcanic dataset, which will improve the dating of individual volcanic events and potentially
-allow better correlation between ice core records, leading to improvements in global volcanic forcing datasets. One of the
-most important volcanic events of the last two millennia is the large 1450s CE event, usually assigned to the eruption of
-Kuwae, Vanuatu. In this study, we review the evidence surrounding the presently accepted date for this event, and make
-the case that two separate eruptions have caused confusion in the assignment of this event. Volcanic sulphate deposition estimates
-are important for modelling the climatic response to eruptions. The largest volcanic sulphate events in our record are dated at 1458 CE (Kuwae?, Vanuatu), 1257 and 422 CE
-(unidentified).
-
+#	Abstract: Volcanic eruptions are an important cause of naturalclimate variability. In order to improve the accuracy of climate models, precise dating and magnitude of the climatic effects of past volcanism are necessary. Here we present a 2000-yr record of Southern Hemisphere volcanism recorded in ice cores from the high accumulation Law Dome site, East Antarctica. The ice cores were analysed for a suite of chemistry signals and are independently dated via annual layer counting, with 11 ambiguous years at 23 BCE, which has presently the lowest error of all published long Antarctic ice cores. Independently dated records are important to avoid circular dating where volcanic signatures are assigned a date from some external information rather than using the date it is found in the ice core. Forty-five volcanic events have been identified using the sulphate chemistry of the Law Dome record. The low dating error and comparison with the NGRIP (North Greenland Ice Core Project) volcanic records (on the GICC05 timescale) suggest Law Dome is the most accurately dated Antarctic volcanic dataset, which will improve the dating of individual volcanic events and potentially allow better correlation between ice core records, leading to improvements in global volcanic forcing datasets. One of the most important volcanic events of the last two millennia is the large 1450s CE event, usually assigned to the eruption of Kuwae, Vanuatu. In this study, we review the evidence surrounding the presently accepted date for this event, and make the case that two separate eruptions have caused confusion in the assignment of this event. Volcanic sulphate deposition estimates are important for modelling the climatic response to eruptions. The largest volcanic sulphate events in our record are dated at 1458 CE (Kuwae?, Vanuatu), 1257 and 422 CE (unidentified).
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -80,6 +66,7 @@ are important for modelling the climatic response to eruptions. The largest volc
 #	Earliest_Year: 174
 #	Most_Recent_Year: 2007
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES2"}
 #
 # --------------------
 # Variables
@@ -87,8 +74,8 @@ are important for modelling the climatic response to eruptions. The largest volc
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:

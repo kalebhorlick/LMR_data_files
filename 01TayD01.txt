@@ -61,9 +61,10 @@
 #	Collection_Name: 01TayD01 
 #	Earliest_Year: 212.73 
 #	Most_Recent_Year: 0.0185
-#	Time_Unit: yb_1950 
+#	Time_Unit: kyb_1950 
 #	Core_Length:
-#	Notes: 
+#	Notes: {"database":"LMR_FM"}
+# 
 #------------------
 # Species
 #	Species_Name: 
@@ -84,8 +85,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##yage	Age,,,years before 1950 ,,,,,N
-##d18O	dO18,,,permil SMOW,,ice cores,,,N
+##age	age,,,thousand years before 1950 ,,,,,N
+##d18O	delta 18 Oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 #----------------
 # Data:

@@ -52,10 +52,10 @@
 #	Site_Name: Guliya
 #	Location: Asia>China
 #	Country: China
-#	Northernmost_Latitude: 35.280
-#	Southernmost_Latitude: 35.280	 
-#	Easternmost_Longitude: 81.480
-#	Westernmost_Longitude: 81.480
+#	Northernmost_Latitude: 35.28
+#	Southernmost_Latitude: 35.28	 
+#	Easternmost_Longitude: 81.48
+#	Westernmost_Longitude: 81.48
 #	Elevation: 6710 m
 # --------------------
 # Data_Collection
@@ -63,6 +63,7 @@
 #	Earliest_Year: 1010
 #	Most_Recent_Year: 1990
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES2"}
 #
 # --------------------
 # Variables
@@ -70,8 +71,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,age at top of interval,,N
-##d18O	delta 18 Oxygen,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,age at top of interval,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:

@@ -49,25 +49,7 @@ added to this file July 2011.
 #	DOI: 10.1038/NGEO552
 #	Online_Resource:  
 #	Full_Citation:  
-#	Abstract:  Sea surface temperature variability in the North Atlantic Ocean recorded 
-since about 1850 has been ascribed to a natural multidecadal oscillation 
-superimposed on a background warming trend. It has been suggested that 
-the multidecadal variability may be a persistent feature, raising the 
-possibility that the associated climate impacts may be predictable. 
-However, our understanding of the multidecadal ocean variability before 
-the instrumental record is based on interpretations of high-latitude
-terrestrial proxy records. Here we present an absolutely dated and 
-annually resolved record of sea surface temperature from the Bahamas, 
-based on a 440-year time series of coral growth rates. The reconstruction 
-indicates that temperatures were as warm as today from about 1552 to 1570, 
-then cooled by about 1°C from 1650 to 1730 before warming until the present. 
-Our estimates of background variability suggest that much of the warming 
-since 1900 was driven by anthropogenic forcing. Interdecadal variability 
-with a period of 15-25 years is superimposed on most of the record, but 
-multidecadal variability becomes significant only after 1730. We conclude 
-that the multidecadal variability in sea surface temperatures in the
-low-latitude western Atlantic Ocean may not be persistent, potentially 
-making accurate decadal climate forecasts more difficult to achieve.
+#	Abstract: Sea surface temperature variability in the North Atlantic Ocean recorded  since about 1850 has been ascribed to a natural multidecadal oscillation  superimposed on a background warming trend. It has been suggested that  the multidecadal variability may be a persistent feature, raising the  possibility that the associated climate impacts may be predictable.  However, our understanding of the multidecadal ocean variability before  the instrumental record is based on interpretations of high-latitude terrestrial proxy records. Here we present an absolutely dated and  annually resolved record of sea surface temperature from the Bahamas,  based on a 440-year time series of coral growth rates. The reconstruction  indicates that temperatures were as warm as today from about 1552 to 1570,  then cooled by about 1°C from 1650 to 1730 before warming until the present.  Our estimates of background variability suggest that much of the warming  since 1900 was driven by anthropogenic forcing. Interdecadal variability  with a period of 15-25 years is superimposed on most of the record, but  multidecadal variability becomes significant only after 1730. We conclude  that the multidecadal variability in sea surface temperatures in the low-latitude western Atlantic Ocean may not be persistent, potentially  making accurate decadal climate forecasts more difficult to achieve.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: US National Science Foundation
@@ -89,8 +71,8 @@ making accurate decadal climate forecasts more difficult to achieve.
 #	Site_Name: Gingerbreads Reef
 #	Location: Ocean>Atlantic Ocean>North Atlantic Ocean> Caribbean Sea> Bahamas
 #	Country:  Bahamas
-#	Northernmost_Latitude: 26.4
-#	Southernmost_Latitude: 26.4
+#	Northernmost_Latitude: 26.40
+#	Southernmost_Latitude: 26.40
 #	Easternmost_Longitude: 78.033
 #	Westernmost_Longitude: 78.033
 #	Elevation:
@@ -107,8 +89,8 @@ making accurate decadal climate forecasts more difficult to achieve.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N 
-##sst_anom	sea surface temperature, , , Deg C, , Reconstruction, , ,N
+##age	age,,,years AD,,,,,N 
+##sst_anom	sea surface temperature anomaly, , , degrees C, , Climate Reconstructions, , ,N
 #
 # --------------------
 # Data:

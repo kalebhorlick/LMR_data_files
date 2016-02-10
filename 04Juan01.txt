@@ -25,29 +25,10 @@
 #	Study_Name:  Strait of Juan de Fuca Geoduck Clam Growth Increment Data and SST Reconstruction
 # --------------------
 # Investigators
-#	Investigators:  Are Strom, Robert C. Francis, Nathan J. Mantua, 
-Edward L. Miles, David L. Peterson.
+#	Investigators:  Strom, A.S.; Francis, R.C.; Mantua, N.J.; Miles, E.L.; Peterson, D.L.
 # --------------------
 # Description_and_Notes
-# 	Description:  Geoduck clam (Panopea abrupta) growth increment measurements, and 
-mean growth chronology from the Strait of Juan de Fuca, Washington State, USA. 
-Site:  Protection Island, 48.12N, 122.95W, 8-20m water depth.
-
-The chronology was used to reconstruct SST to 1877 for the nearby 
-Race Rocks station. Growth data were obtained by extracting at least 
-three thin cross-sections from the hinge area of each shell. 
-Digital images were captured at magnifications ranging from 25-400x 
-along a straight transect from the origin of growth to the outer edge. 
-Ring widths were measured perpendicular to the growth line axis, 
-and standardized using a modified negative exponential curve. 
-Annual growth indices were computed as the ratio of actual to 
-modeled growth. To compute the growth chronology, measurement series 
-were averaged using a biweight robust mean. The standardized, 
-dimensionless growth measurements are located in the file ‘growthdata’.
-Also given are the instrumental SST data for Race Rocks, the 
-reconstructed Race Rocks SST series, and prediction intervals for the 
-reconstruction. Data is located in the file ‘chronology’ and is 
-reported in degrees Celsius.  
+# 	Description:  Geoduck clam (Panopea abrupta) growth increment measurements, and  mean growth chronology from the Strait of Juan de Fuca, Washington State, USA.  Site:  Protection Island, 48.12N, 122.95W, 8-20m water depth.  The chronology was used to reconstruct SST to 1877 for the nearby  Race Rocks station. Growth data were obtained by extracting at least  three thin cross-sections from the hinge area of each shell.  Digital images were captured at magnifications ranging from 25-400x  along a straight transect from the origin of growth to the outer edge.  Ring widths were measured perpendicular to the growth line axis,  and standardized using a modified negative exponential curve.  Annual growth indices were computed as the ratio of actual to  modeled growth. To compute the growth chronology, measurement series  were averaged using a biweight robust mean. The standardized,  dimensionless growth measurements are located in the file ‘growthdata’. Also given are the instrumental SST data for Race Rocks, the  reconstructed Race Rocks SST series, and prediction intervals for the  reconstruction. Data is located in the file ‘chronology’ and is  reported in degrees Celsius.  
 #	
 # --------------------
 # Publication
@@ -62,19 +43,7 @@ reported in degrees Celsius.
 #	DOI:  10.1029/2004GL019440
 #	Online_Resource:  
 #	Full_Citation:  
-#	Abstract:  To better understand North Pacific climate variability at 
-interannual to interdecadal scales, we have developed a new tool for 
-paleoenvironmental reconstruction. We show that growth rings in 
-long-lived geoduck clams (Panopea abrupta) can provide high quality, 
-annually resolved records of sea-surface temperature (SST). We used 
-shell samples from the Strait of Juan de Fuca, in Washington State, 
-to extend the coastal SST record back to 1877. The spatial correlation 
-pattern between the growth index and gridded SSTs bears a strong 
-resemblance to the leading pattern of interdecadal global SST 
-variations and underscores the remarkable long-distance coherence 
-evident among coastal SST records in the northeast Pacific. 
-Our results also indicate that the 1990s was the warmest decade 
-in this region since at least the 1850s. 
+#	Abstract: To better understand North Pacific climate variability at  interannual to interdecadal scales, we have developed a new tool for  paleoenvironmental reconstruction. We show that growth rings in  long-lived geoduck clams (Panopea abrupta) can provide high quality,  annually resolved records of sea-surface temperature (SST). We used  shell samples from the Strait of Juan de Fuca, in Washington State,  to extend the coastal SST record back to 1877. The spatial correlation  pattern between the growth index and gridded SSTs bears a strong  resemblance to the leading pattern of interdecadal global SST  variations and underscores the remarkable long-distance coherence  evident among coastal SST records in the northeast Pacific.  Our results also indicate that the 1990s was the warmest decade  in this region since at least the 1850s. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: Joint Institute for the Study of the Atmosphere and Ocean
@@ -95,6 +64,7 @@ in this region since at least the 1850s.
 #	Earliest_Year: 1877
 #	Most_Recent_Year: 1998
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -102,8 +72,8 @@ in this region since at least the 1850s.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N 
-##sst	sea surface temperature, , , Deg C, , Reconstruction, , ,N
+##age	age,,,years AD,,,,,N 
+##sst	sea surface temperature, , , degrees C, , Climate Reconstructions, , ,N
 #
 # --------------------
 # Data:

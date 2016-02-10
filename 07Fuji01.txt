@@ -55,34 +55,13 @@
 #	DOI: 10.1038/nature06015
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: The Milankovitch theory of climate change proposes that glacial-
-interglacial cycles are driven by changes in summer insolation at
-high northern latitudes. The timing of climate change in the Southern 
-Hemisphere at glacial-interglacial transitions (which are known as 
-terminations) relative to variations in summer insolation in the 
-Northern Hemisphere is an important test of this hypothesis. So far, 
-it has only been possible to apply this test to the most recent 
-termination, because the dating uncertainty associated with older 
-terminations is too large to allow phase relationships to be determined. 
-Here we present a new chronology of Antarctic climate change over the 
-past 360,000 years that is based on the ratio of oxygen to nitrogen 
-molecules in air trapped in the Dome Fuji and Vostok ice cores. 
-This ratio is a proxy for local summer insolation, and thus allows 
-the chronology to be constructed by orbital tuning without the need 
-to assume a lag between a climate record and an orbital parameter. 
-The accuracy of the chronology allows us to examine the phase 
-relationships between climate records from the ice cores and changes 
-in insolation. Our results indicate that orbital-scale Antarctic 
-climate change lags Northern Hemisphere insolation by a few millennia,
-and that the increases in Antarctic temperature and atmospheric
-carbon dioxide concentration during the last four terminations
-occurred within the rising phase of Northern Hemisphere summer insolation. 
-These results support the Milankovitch theory that Northern Hemisphere 
-summer insolation triggered the last four deglaciations. 
+#	Abstract: The Milankovitch theory of climate change proposes that glacial- interglacial cycles are driven by changes in summer insolation at high northern latitudes. The timing of climate change in the Southern  Hemisphere at glacial-interglacial transitions (which are known as  terminations) relative to variations in summer insolation in the  Northern Hemisphere is an important test of this hypothesis. So far,  it has only been possible to apply this test to the most recent  termination, because the dating uncertainty associated with older  terminations is too large to allow phase relationships to be determined.  Here we present a new chronology of Antarctic climate change over the  past 360,000 years that is based on the ratio of oxygen to nitrogen  molecules in air trapped in the Dome Fuji and Vostok ice cores.  This ratio is a proxy for local summer insolation, and thus allows  the chronology to be constructed by orbital tuning without the need  to assume a lag between a climate record and an orbital parameter.  The accuracy of the chronology allows us to examine the phase  relationships between climate records from the ice cores and changes  in insolation. Our results indicate that orbital-scale Antarctic  climate change lags Northern Hemisphere insolation by a few millennia, and that the increases in Antarctic temperature and atmospheric carbon dioxide concentration during the last four terminations occurred within the rising phase of Northern Hemisphere summer insolation.  These results support the Milankovitch theory that Northern Hemisphere  summer insolation triggered the last four deglaciations. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: Grant-in-Aid for Creative Scientific Research
 #	Grant:
+# --------------------
+# Funding_Agency
 #	Funding_Agency_Name: The Gary Comer Abrupt Climate Change Fellowship
 #	Grant: 2122102
 # --------------------
@@ -92,7 +71,7 @@ summer insolation triggered the last four deglaciations.
 #	Country: 
 #	Northernmost_Latitude: -77.31667
 #	Southernmost_Latitude: -77.31667
-#	Easternmost_Longitude: 38.0
+#	Easternmost_Longitude: 38.70
 #	Westernmost_Longitude: 38.70
 #	Elevation: 3810 m
 # --------------------
@@ -101,6 +80,7 @@ summer insolation triggered the last four deglaciations.
 #	Earliest_Year: 339500
 #	Most_Recent_Year: 125
 #	Time_Unit: yb_2000
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -108,8 +88,8 @@ summer insolation triggered the last four deglaciations.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years before 2000 AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years before 2000 AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:
@@ -411,12 +391,12 @@ age	d18O
 72625	-58.81
 72875	-59.34
 73125	-58.91
--57.99	
--58.27	
--58.2	
--57.67	
--57.76	
--57.8	
+73375	-57.99
+73625	-58.27
+73875	-58.2
+74125	-57.67
+74375	-57.76
+74625	-57.8
 74875	-57.33
 75125	-57.15
 75375	-57.76

@@ -63,8 +63,9 @@
 # Data_Collection
 #	Collection_Name: 02Dron05
 #	Earliest_Year: 1000
-#	Most_Recent_Year: 1997
+#	Most_Recent_Year: 1994
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES2"}
 #
 # --------------------
 # Variables
@@ -72,8 +73,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:
@@ -82,9 +83,6 @@
 # Missing values: NAN
 #
 age	d18O
-1997	nan
-1996	nan
-1995	nan
 1994	-43.32
 1993	-42.15
 1992	-43.04
@@ -97,7 +95,7 @@ age	d18O
 1985	-46.42
 1984	-47.57
 1983	-47.85
-1982	nan
+1982	NAN
 1981	-42.72
 1980	-42.88
 1979	-45.72
@@ -202,7 +200,7 @@ age	d18O
 1880	-44.46
 1879	-44.5
 1878	-45.43
-1877	nan
+1877	NAN
 1876	-44.03
 1875	-43.97
 1874	-45.38
@@ -483,7 +481,7 @@ age	d18O
 1599	-44.59
 1598	-45.22
 1597	-45.63
-1596	nan
+1596	NAN
 1595	-44.44
 1594	-44.84
 1593	-45.5
@@ -632,7 +630,7 @@ age	d18O
 1450	-45.74
 1449	-45.12
 1448	-44.49
-1447	nan
+1447	NAN
 1446	-46.48
 1445	-47.1
 1444	-46.82
@@ -725,7 +723,7 @@ age	d18O
 1357	-44.06
 1356	-44.69
 1355	-44.47
-1354	nan
+1354	NAN
 1353	-45.79
 1352	-47.15
 1351	-47.41
@@ -826,7 +824,7 @@ age	d18O
 1256	-46.58
 1255	-45.48
 1254	-44.55
-1253	nan
+1253	NAN
 1252	-45
 1251	-45.08
 1250	-44.36
@@ -928,8 +926,8 @@ age	d18O
 1154	-41.01
 1153	-41.52
 1152	-42.16
-1151	nan
-1150	nan
+1151	NAN
+1150	NAN
 1149	-45.33
 1148	-45.39
 1147	-45.62
@@ -964,7 +962,7 @@ age	d18O
 1118	-43.1
 1117	-43
 1116	-43.16
-1115	nan
+1115	NAN
 1114	-45.04
 1113	-45.3
 1112	-45.05

@@ -28,17 +28,7 @@
 #	Investigators:  Glaser, R.;  Riemann, D. 
 # --------------------
 # Description_and_Notes
-# 	Description:  Temperature indices and reconstruction for Germany and Central 
-Europe over the past 1000 years, based on documentary data. 
-Three time series are presented: seasonally resolved indices 
-for 1000-1500 A.D., monthly resolved indices for 1500-2006 A.D., 
-and 11-year smoothed temperature reconstruction for 1000-2000 A.D. 
-
-Large parts of the underlying historical data on which the 
-reconstruction is based can be accessed at HISKLID (Historische 
-Klimadatenbank Deutschland - Historical Climate Database Germany), 
-database of climate and environment related information from 
-documentary sources for Central Europe: www.hisklid.de 
+# 	Description:  Temperature indices and reconstruction for Germany and Central  Europe over the past 1000 years, based on documentary data.  Three time series are presented: seasonally resolved indices  for 1000-1500 A.D., monthly resolved indices for 1500-2006 A.D.,  and 11-year smoothed temperature reconstruction for 1000-2000 A.D.   Large parts of the underlying historical data on which the  reconstruction is based can be accessed at HISKLID (Historische  Klimadatenbank Deutschland - Historical Climate Database Germany),  database of climate and environment related information from  documentary sources for Central Europe: www.hisklid.de 
 # --------------------
 # Publication
 #	Authors:  R. Glaser and D. Riemann
@@ -52,27 +42,14 @@ documentary sources for Central Europe: www.hisklid.de
 #	DOI: 10.1002/jqs.1302 
 #	Online_Resource:  
 #	Full_Citation:  
-#	Abstract:  This paper presents a temperature reconstruction of the past 
-1000 years for Central Europe, based on chronological records. 
-The advantages and limitations of this hermeneutic, text-based 
-approach are discussed and the statistic methodology is introduced. 
-Historical documents represent direct observation of weather 
-and atmospheric conditions with highest temporal resolution 
-available and precise dating.  A major advantage of these 
-extensive data is that they allow the reconstruction of large 
-numbers of variables such as winter temperature, precipitation, 
-pressure patterns or climate extremes as well as floods or storms. 
-Within this hermeneutic climatological research approach, 
-even human impacts and social dimensions of climate development 
-can be examined. In order to quantify the historical information, 
-statistical methods are applied, based on an index approach. 
+#	Abstract: This paper presents a temperature reconstruction of the past  1000 years for Central Europe, based on chronological records.  The advantages and limitations of this hermeneutic, text-based  approach are discussed and the statistic methodology is introduced.  Historical documents represent direct observation of weather  and atmospheric conditions with highest temporal resolution  available and precise dating.  A major advantage of these  extensive data is that they allow the reconstruction of large  numbers of variables such as winter temperature, precipitation,  pressure patterns or climate extremes as well as floods or storms.  Within this hermeneutic climatological research approach,  even human impacts and social dimensions of climate development  can be examined. In order to quantify the historical information,  statistical methods are applied, based on an index approach. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: European Community research contract
 #	Grant:  017008-2
 # --------------------
 # Site_Information
-#	Site_Name: Germany/Central Europe
+#	Site_Name: Central Europe
 #	Location: Europe>Central Europe>Germany
 #	Country:  Germany
 #	Northernmost_Latitude: 53
@@ -93,8 +70,8 @@ statistical methods are applied, based on an index approach.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N 
-##temp_anom	temperature anomaly, , , Deg C, , Reconstruction,11 year moving average , ,N
+##age	age,,,years AD,,,,,N 
+##temp_anom	temperature anomaly, , , degrees C, , Climate Reconstructions,11 year moving average , ,N
 #
 # --------------------
 # Data:

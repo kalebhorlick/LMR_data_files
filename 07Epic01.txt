@@ -42,22 +42,10 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: A high-resolution deuterium profile is now available along the entire 
-European Project for Ice Coring in Antarctica Dome C ice core, extending 
-this climate record back to marine isotope stage 20.2, ~800,000 years ago. 
-Experiments performed with an atmospheric general circulation model 
-including water isotopes support its temperature interpretation. 
-We assessed the general correspondence between Dansgaard-Oeschger 
-events and their smoothed Antarctic counterparts for this Dome C record, 
-which reveals the presence of such features with similar amplitudes 
-during previous glacial periods. We suggest that the interplay between 
-obliquity and precession accounts for the variable intensity of 
-interglacial periods in ice core records.
+#	Abstract: A high-resolution deuterium profile is now available along the entire  European Project for Ice Coring in Antarctica Dome C ice core, extending  this climate record back to marine isotope stage 20.2, ~800,000 years ago.  Experiments performed with an atmospheric general circulation model  including water isotopes support its temperature interpretation.  We assessed the general correspondence between Dansgaard-Oeschger  events and their smoothed Antarctic counterparts for this Dome C record,  which reveals the presence of such features with similar amplitudes  during previous glacial periods. We suggest that the interplay between  obliquity and precession accounts for the variable intensity of  interglacial periods in ice core records.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name:
-#	Grant:
-#	Funding_Agency_Name: 
 #	Grant:
 # --------------------
 # Site_Information
@@ -73,8 +61,9 @@ interglacial periods in ice core records.
 # Data_Collection
 #	Collection_Name: 07Epic01
 #	Earliest_Year: 801662	
-#	Most_Recent_Year: 38.37379
+#	Most_Recent_Year: 38
 #	Time_Unit: yb_1950
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -82,8 +71,8 @@ interglacial periods in ice core records.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years before 1950 AD,,,,,N
-##delD	delD,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years before 1950 AD,,,,,N
+##delD	delta deuterium,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:

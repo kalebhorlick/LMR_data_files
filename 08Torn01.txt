@@ -28,13 +28,7 @@
 #	Investigators:  Grudd, H. 
 # --------------------
 # Description_and_Notes
-# 	Description:  Tree ring maximum density temperature reconstruction for AD 500-2004, 
-based on a total of 100 pine trees from Torneträsk in northern Sweden.
-Sample materials cover the period AD 441–2004. Dry dead wood covers 
-the period AD 441–1789 and living trees cover the period AD 1336–2004. 
-No subfossil lake material is included in the MXD data. 
-Torneträsk area, northern Sweden (68.21-68.31°N, 19.45-19.80°E, 
-350-450 m a.s.l.).
+# 	Description:  Tree ring maximum density temperature reconstruction for AD 500-2004,  based on a total of 100 pine trees from Torneträsk in northern Sweden. Sample materials cover the period AD 441–2004. Dry dead wood covers  the period AD 441–1789 and living trees cover the period AD 1336–2004.  No subfossil lake material is included in the MXD data.  Torneträsk area, northern Sweden (68.21-68.31°N, 19.45-19.80°E,  350-450 m a.s.l.).
 #	
 # --------------------
 # Publication
@@ -49,35 +43,7 @@ Torneträsk area, northern Sweden (68.21-68.31°N, 19.45-19.80°E,
 #	DOI: 
 #	Online_Resource: 10.1007/s00382-007-0358-2 
 #	Full_Citation:  
-#	Abstract:  This paper presents updated tree-ring width (TRW) and maximum density (MXD) 
-from Torneträsk in northern Sweden, now covering the period AD 500-2004. 
-By including data from relatively young trees for the most recent period, 
-a previously noted decline in recent MXD is eliminated. Non-climatological 
-growth trends in the data are removed using Regional Curve Standardization 
-(RCS), thus producing TRW and MXD chronologies with preserved low-frequency
-variability. The chronologies are calibrated using local and regional 
-instrumental climate records. A boot-strapped response function analysis 
-using regional climate data shows that tree growth is forced by April-August 
-temperatures and that the regression weights for MXD are much stronger than 
-for TRW. The robustness of the reconstruction equation is verified by 
-independent temperature data and shows that 63-64% of the instrumental 
-inter-annual variation is captured by the tree-ring data. This is a 
-significant improvement compared to previously published reconstructions
-based on tree-ring data from Torneträsk. A divergence phenomenon around 
-AD 1800, expressed as an increase in TRW that is not paralleled by 
-temperature and MXD, is most likely an effect of major changes in the 
-density of the pine population at this northern tree-line site. The bias
-introduced by this TRW phenomenon is assessed by producing a summer 
-temperature reconstruction based on MXD exclusively. The new data show 
-generally higher temperature estimates than previous reconstructions 
-based on Torneträsk tree-ring data. The late-twentieth century, however,
-is not exceptionally warm in the new record: On decadal-to-centennial 
-timescales, periods around AD 750, 1000, 1400, and 1750 were equally warm, 
-or warmer. The 200-year long warm period centered on AD 1000 was 
-significantly warmer than the late-twentieth century (p < 0.05) and is 
-supported by other local and regional paleoclimate data. The new tree-ring 
-evidence from Torneträsk suggests that this "Medieval Warm Period" in 
-northern Fennoscandia was much warmer than previously recognized. 
+#	Abstract: This paper presents updated tree-ring width (TRW) and maximum density (MXD)  from Torneträsk in northern Sweden, now covering the period AD 500-2004.  By including data from relatively young trees for the most recent period,  a previously noted decline in recent MXD is eliminated. Non-climatological  growth trends in the data are removed using Regional Curve Standardization  (RCS), thus producing TRW and MXD chronologies with preserved low-frequency variability. The chronologies are calibrated using local and regional  instrumental climate records. A boot-strapped response function analysis  using regional climate data shows that tree growth is forced by April-August  temperatures and that the regression weights for MXD are much stronger than  for TRW. The robustness of the reconstruction equation is verified by  independent temperature data and shows that 63-64% of the instrumental  inter-annual variation is captured by the tree-ring data. This is a  significant improvement compared to previously published reconstructions based on tree-ring data from Torneträsk. A divergence phenomenon around  AD 1800, expressed as an increase in TRW that is not paralleled by  temperature and MXD, is most likely an effect of major changes in the  density of the pine population at this northern tree-line site. The bias introduced by this TRW phenomenon is assessed by producing a summer  temperature reconstruction based on MXD exclusively. The new data show  generally higher temperature estimates than previous reconstructions  based on Torneträsk tree-ring data. The late-twentieth century, however, is not exceptionally warm in the new record: On decadal-to-centennial  timescales, periods around AD 750, 1000, 1400, and 1750 were equally warm,  or warmer. The 200-year long warm period centered on AD 1000 was  significantly warmer than the late-twentieth century (p < 0.05) and is  supported by other local and regional paleoclimate data. The new tree-ring  evidence from Torneträsk suggests that this "Medieval Warm Period" in  northern Fennoscandia was much warmer than previously recognized. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: EU projects PINE
@@ -109,7 +75,7 @@ northern Fennoscandia was much warmer than previously recognized.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , , years AD, , , , ,N
-##temp-recon	surface temperature, , , degrees C, , , , tree-ring maximum density reconstruction,N 
+##temp	surface temperature, , , degrees C, , , , tree-ring maximum density reconstruction,N 
 #
 # --------------------
 # Data:

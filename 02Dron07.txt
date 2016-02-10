@@ -63,9 +63,9 @@
 # Data_Collection
 #	Collection_Name: 02Dron07
 #	Earliest_Year: 1801
-#	Most_Recent_Year: 1997
+#	Most_Recent_Year: 1996
 #	Time_Unit: y_ad
-#	Notes: 
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -73,8 +73,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,, Ice Cores,,,N
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,, Ice Cores,,,N
 #
 # --------------------
 # Data:
@@ -83,7 +83,6 @@
 # Missing values: NAN
 #
 age	d18O
-1997	NAN
 1996	-44.45
 1995	-44.93
 1994	-42.96

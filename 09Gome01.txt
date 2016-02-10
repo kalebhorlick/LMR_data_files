@@ -47,21 +47,7 @@
 #	DOI: doi:10.1029/2009GL040104
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: We present a new 150-year, high-resolution, stable isotope record 
-(d18O) from the Gomez ice core, drilled on the data sparse south 
-western Antarctic Peninsula, revealing a ~2.7°C rise in surface 
-temperatures since the 1950s. The record is highly correlated 
-with satellite-derived temperature reconstructions and instrumental 
-records from Faraday station on the north west coast, thus making it 
-a robust proxy for local and regional temperatures since the 1850s.
-We conclude that the exceptional 50-year warming, previously only 
-observed in the northern Peninsula, is not just a local phenomena 
-but part of a statistically significant 100-year regional warming 
-trend that began around 1900. A suite of coupled climate models 
-are employed to demonstrate that the 50 and 100 year temperature 
-trends are outside of the expected range of variability from 
-pre-industrial control runs, indicating that the warming is likely 
-the result of external climate forcing.
+#	Abstract: We present a new 150-year, high-resolution, stable isotope record  (d18O) from the Gomez ice core, drilled on the data sparse south  western Antarctic Peninsula, revealing a ~2.7°C rise in surface  temperatures since the 1950s. The record is highly correlated  with satellite-derived temperature reconstructions and instrumental  records from Faraday station on the north west coast, thus making it  a robust proxy for local and regional temperatures since the 1850s. We conclude that the exceptional 50-year warming, previously only  observed in the northern Peninsula, is not just a local phenomena  but part of a statistically significant 100-year regional warming  trend that began around 1900. A suite of coupled climate models  are employed to demonstrate that the 50 and 100 year temperature  trends are outside of the expected range of variability from  pre-industrial control runs, indicating that the warming is likely  the result of external climate forcing.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: British Antarctic Survey
@@ -82,6 +68,7 @@ the result of external climate forcing.
 #	Earliest_Year: 2005
 #	Most_Recent_Year: 1857
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -89,8 +76,8 @@ the result of external climate forcing.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:

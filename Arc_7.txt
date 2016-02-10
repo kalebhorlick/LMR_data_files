@@ -21,7 +21,7 @@
 #	Date:
 #--------------------
 # Title
-#	Study_Name: Arc_7 - 
+#	Study_Name: Arc_7 - PAGES 2K  Ring width Data 
 #--------------------
 # Investigators
 #	Investigators: PAGES 2k Network
@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Arc_7
-#	Earliest_Year: 724.0
-#	Most_Recent_Year: 1999.0
+#	Earliest_Year: 724
+#	Most_Recent_Year: 1999
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"}{"relationship":"positive"}
@@ -79,7 +79,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age	age, , ,years AD, , Tree Rings, , ,N
-##clim_signal	Ring width, , , , , Tree Rings, , ,N
+##TRW	total ring width, , , , , Tree Rings, , ,N
 #
 #--------------------
 # Data:
@@ -87,7 +87,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: nan
 #
-age	clim_signal
+age	TRW
 724.0	4.63
 725.0	5.79
 726.0	5.66

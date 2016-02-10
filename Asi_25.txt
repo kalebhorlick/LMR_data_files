@@ -59,8 +59,8 @@
 #--------------------
 # Data_Collection
 #	Collection_Name: Asi_25
-#	Earliest_Year: 1294.0
-#	Most_Recent_Year: 2002.0
+#	Earliest_Year: 1294
+#	Most_Recent_Year: 2002
 #	Time_Unit: y_ad
 #	Core_Length:
 #	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"}{"relationship":"Positive"}
@@ -79,7 +79,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
 #
 ##age	age, , ,years AD, , Tree Rings, , ,N
-##clim_signal	Total ring width, , , , , Tree Rings, , ,N
+##TRW	total ring width, , , , , Tree Rings, , ,N
 #
 #--------------------
 # Data:
@@ -87,6 +87,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: nan
 #
+age	TRW
 age	clim_signal
 1294.0	0.939
 1295.0	1.015

@@ -1,4 +1,4 @@
-# Dome Fuji 360KYr Stable Isotope Data and Temperature Reconstruction
+﻿# Dome Fuji 360KYr Stable Isotope Data and Temperature Reconstruction
 #-----------------------------------------------------------------------
 #               World Data Center for Paleoclimatology, Boulder
 #                                  and
@@ -55,35 +55,14 @@
 #	DOI: 10.5194/cp-8-1109-2012 
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: A single isotope ratio (dD or d18O) of water is widely used as an 
-air-temperature proxy in Antarctic ice core records. These isotope 
-ratios, however, do not solely depend on air-temperature but also 
-on the extent of distillation of heavy isotopes out of atmospheric 
-water vapor from an oceanic moisture source to a precipitation site. 
-The temperature changes at the oceanic moisture source (DeltaTsource) 
-and at the precipitation site (DeltaTsite) can be retrieved by using 
-deuterium-excess (d) data. A new d record from Dome Fuji, Antarctica 
-spanning the past 360 000 yr is presented and compared with records 
-from Vostok and EPICA Dome C ice cores. In previous studies, to retrieve 
-DeltaTsource and DeltaTsite information, different linear regression 
-equations were proposed using theoretical isotope distillation models. 
-A major source of uncertainty lies in the coefficient of regression, 
-Bsite which is related to the sensitivity of d to DeltaTsite. We show 
-that different ranges of temperature and selections of isotopic 
-model outputs may increase the value of Bsite by more than 
-a factor of two. To explore the impacts of this coefficient on 
-reconstructed temperatures, we apply for the first time the exact 
-same methodology to the isotope records from the three 
-Antarctica ice cores. We show that uncertainties in the Bsite 
-coefficient strongly affect (i) the glacial-interglacial magnitude 
-of DeltaTsource; (ii) the imprint of obliquity in DeltaTsource 
-and in the site-source temperature gradient. By contrast, we 
-highlight the robustness of DeltaTsite reconstruction using water 
+#	Abstract: A single isotope ratio (dD or d18O) of water is widely used as an  air-temperature proxy in Antarctic ice core records. These isotope  ratios, however, do not solely depend on air-temperature but also  on the extent of distillation of heavy isotopes out of atmospheric  water vapor from an oceanic moisture source to a precipitation site.  The temperature changes at the oceanic moisture source (DeltaTsource)  and at the precipitation site (DeltaTsite) can be retrieved by using  deuterium-excess (d) data. A new d record from Dome Fuji, Antarctica  spanning the past 360 000 yr is presented and compared with records  from Vostok and EPICA Dome C ice cores. In previous studies, to retrieve  DeltaTsource and DeltaTsite information, different linear regression  equations were proposed using theoretical isotope distillation models.  A major source of uncertainty lies in the coefficient of regression,  Bsite which is related to the sensitivity of d to DeltaTsite. We show  that different ranges of temperature and selections of isotopic  model outputs may increase the value of Bsite by more than  a factor of two. To explore the impacts of this coefficient on  reconstructed temperatures, we apply for the first time the exact  same methodology to the isotope records from the three  Antarctica ice cores. We show that uncertainties in the Bsite  coefficient strongly affect (i) the glacial-interglacial magnitude  of DeltaTsource; (ii) the imprint of obliquity in DeltaTsource  and in the site-source temperature gradient. By contrast, we  highlight the robustness of DeltaTsite reconstruction using water 
 isotopes records. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: JSPS Postdoctoral Fellowships for Resarch Abroad
 #	Grant:
+# --------------------
+# Funding_Agency
 #	Funding_Agency_Name: Grant-in-Aid for scientific research
 #	Grant: 2122102
 # --------------------
@@ -102,6 +81,7 @@ isotopes records.
 #	Earliest_Year: 360.9
 #	Most_Recent_Year: 0.03
 #	Time_Unit: kyb_2000
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -109,8 +89,8 @@ isotopes records.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,thousand years before 2000 AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,thousand years before 2000 AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:
@@ -1480,285 +1460,3 @@ age	d18O
 339.15	-54.45
 339.38	-54.98
 339.6	-54.71
-	
-	
-	
-	
-	
-core	water
-	
-	
-(m)	
-(m)	
-(m)	
-years	before
-(permil	with
-(permil	with
-(permil	with
-	
-age(kyrb2k)	del_18O
-296.89	-57.95
-297.14	-58.23
-297.39	-57.53
-297.63	-58.01
-297.88	-58.05
-298.13	-58.42
-298.38	-58.62
-298.63	-58.54
-298.87	-58.24
-299.12	-58.38
-299.37	-58.2
-299.61	-58.25
-299.85	-58.57
-300.09	-58.3
-300.32	-57.88
-300.55	-57.97
-300.79	-57.97
-301.02	-57.73
-301.26	-57.63
-301.5	-58.11
-301.74	-58.29
-301.98	-59.02
-302.21	-58.57
-302.45	-58.57
-302.68	-58.63
-302.9	-58.36
-303.13	-58.58
-303.36	-58.21
-303.58	-58.18
-303.81	-57.47
-304.04	-57.57
-304.26	-57.69
-304.49	-57.63
-304.71	-58.47
-304.92	-57.36
-305.14	-57.88
-305.35	-57.51
-305.56	-56.59
-305.77	-56.64
-305.99	-58.15
-306.22	-58.35
-306.45	-58
-306.69	-58.16
-306.92	-57.77
-307.15	-57.97
-307.37	-57.93
-307.61	-59.26
-307.82	-59.04
-308.04	-58.23
-308.28	-57.95
-308.51	-58.16
-308.74	-57.72
-308.98	-57.49
-309.2	-57.67
-309.41	-57.54
-309.62	-58.49
-309.83	-58.53
-310.04	-57.83
-310.25	-57.55
-310.47	-57.71
-310.7	-57.76
-310.92	-57.92
-311.14	-57.39
-311.35	-56.94
-311.56	-57.55
-311.76	-57.53
-311.96	-56.81
-312.17	-57.3
-312.39	-57.15
-312.6	-57.7
-312.83	-56.83
-313.05	-56.34
-313.27	-56.82
-313.5	-56.62
-313.72	-56.7
-313.95	-56.17
-314.17	-56.95
-314.39	-56.62
-314.61	-56.7
-314.84	-56.86
-315.06	-57.55
-315.27	-56.01
-315.48	-55.83
-315.68	-56.64
-315.91	-56.79
-316.11	-57.03
-316.32	-55.94
-316.52	-55.93
-316.72	-56.37
-316.92	-55.88
-317.13	-56.88
-317.35	-57.31
-317.58	-57.03
-317.82	-57.33
-318.07	-57.39
-318.32	-57.74
-318.57	-57.71
-318.82	-57.75
-319.08	-57.52
-319.35	-57.98
-319.64	-58.39
-319.92	-58.57
-320.21	-57.95
-320.5	-58.99
-320.78	-58.38
-321.06	-58.42
-321.33	-57.8
-321.6	-58.57
-321.84	-57.59
-322.09	-57.31
-322.35	-57.67
-322.61	-57.47
-322.87	-58.45
-323.13	-57.69
-323.38	-57.23
-323.63	-57.32
-323.88	-57.14
-324.13	-57.07
-324.37	-56.95
-324.61	-57.12
-324.84	-57.08
-325.08	-56.74
-325.32	-56.16
-325.57	-56.49
-325.81	-56.23
-326.05	-56.24
-326.28	-56
-326.51	-56.49
-326.73	-56.07
-326.96	-56.31
-327.19	-55.69
-327.4	-55.78
-327.63	-55.69
-327.85	-55.48
-328.07	-55.58
-328.29	-55.14
-328.51	-55.8
-328.73	-55.62
-328.94	-55.46
-329.16	-55.24
-329.37	-54.66
-329.58	-55
-329.79	-54.18
-330	-54.42
-330.2	-54.76
-330.39	-54.68
-330.59	-54.15
-330.78	-54.52
-330.97	-54.27
-331.17	-54.84
-331.36	-54.4
-331.56	-54.31
-331.75	-54.28
-331.95	-54.18
-332.14	-54.33
-332.32	-54.44
-332.52	-54.32
-332.71	-53.77
-332.91	-54.39
-333.1	-53.66
-333.27	-53.58
-333.47	-53.92
-333.68	-53.78
-333.87	-54.1
-334.07	-54.17
-334.25	-53.92
-334.43	-53.04
-334.61	-53.18
-334.8	-52.34
-334.97	-52.91
-335.14	-52.17
-335.31	-51.41
-335.47	-51.89
-335.63	-51.84
-335.78	-50.83
-335.94	-50.87
-336.09	-50.38
-336.24	-50.71
-336.4	-51.99
-336.55	-51.06
-336.7	-50.86
-336.84	-50.85
-336.99	-50.96
-337.14	-51.44
-337.3	-51.33
-337.46	-51.74
-337.62	-52.21
-337.79	-52.09
-337.97	-52.67
-338.15	-52.44
-338.34	-53.16
-338.54	-54.04
-338.75	-54.2
-338.97	-54.91
-339.19	-54.58
-339.42	-55.2
-339.66	-55.12
-339.92	-55.05
-340.2	-55.71
-340.5	-55.57
-340.79	-55.98
-341.1	-56.02
-341.41	-56.46
-341.72	-56.42
-341.94	-56.6
-342.16	-57.52
-342.38	-57.35
-342.6	-57.56
-342.83	-57.92
-343.06	-58.74
-343.29	-58.62
-343.53	-58.84
-343.78	-59.44
-344.06	-59.75
-344.35	-59.33
-344.7	-59.92
-345.04	-60.03
-345.36	-59.79
-345.69	-58.76
-346.02	-59.62
-346.35	-59.92
-346.68	-59.38
-347.01	-59.77
-347.33	-59.27
-347.66	-59.41
-347.98	-58.81
-348.3	-58.96
-348.63	-59.51
-348.95	-59.3
-349.28	-58.75
-349.6	-58.95
-349.93	-59.37
-350.25	-58.93
-350.57	-57.83
-350.89	-58.42
-351.2	-58.17
-351.52	-58.26
-351.85	-58.44
-352.18	-58.59
-352.5	-58.48
-352.83	-58.62
-353.15	-58.64
-353.48	-59.03
-353.81	-58.81
-354.14	-58.69
-354.46	-58.63
-354.79	-58.96
-355.12	-58.85
-355.46	-58.92
-355.79	-59.4
-356.13	-59.61
-356.47	-58.79
-356.81	-59.28
-357.15	-59.51
-357.49	-59.38
-357.83	-59.37
-358.18	-59.57
-358.52	-59.52
-358.87	-59.34
-359.21	-59.09
-359.55	-59.6
-359.89	-59.09
-360.23	-59.15
-360.56	-58.2
-360.9	-59.15

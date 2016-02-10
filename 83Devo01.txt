@@ -62,9 +62,10 @@
 # --------------------
 # Data_Collection
 #	Collection_Name: 83Devo01
-#	Earliest_Year: -727
+#	Earliest_Year: 1
 #	Most_Recent_Year: 1971
 #	Time_Unit: y_ad
+#	Notes: {"database":"PAGES1"}
 #
 # --------------------
 # Variables
@@ -72,8 +73,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##proxy	proxy,,,,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##accum	accumulation,,,cm,,ice cores,,,N 
 #
 # --------------------
 # Data:

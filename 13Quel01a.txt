@@ -72,10 +72,10 @@
 # Data_Collection   
 #	Collection_Name: 13Quel01a
 #	Earliest_Year: 226
-#	Most_Recent_Year: 2010
+#	Most_Recent_Year: 2009
 #	Time_Unit: y_ad
 #	Core_Length: 168.68 m
-#	Notes: 
+#	Notes: {"database":"LMR_FM"}
 #------------------
 # Chronology: 
 #
@@ -95,8 +95,8 @@
 # Because the pit and shallow core samples were melted and bottled at the field site, dust and major ions after thermal year 2002/2003 are not included in this data set
 # Net balance before 683 CE is not included since the time scale from 226 to 682 CE was determined by a polynomial fit to the age/depth relationship described in the Supplementary Materials accompanying the Thompson et al. Science (2013) paper)
 #
-##age	Age , , , beginning of thermal year (austral winter) AD, , , , ,N
-##d18O	d18O, ice, , permil SMOW, , , , ,N 
+##age	age , , , years AD, , , beginning of thermal year (austral winter), ,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 #----------------
 # Data:

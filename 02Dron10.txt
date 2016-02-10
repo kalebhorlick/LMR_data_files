@@ -65,6 +65,7 @@
 #	Earliest_Year: 1000
 #	Most_Recent_Year: 1997
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES2"}
 #
 # --------------------
 # Variables
@@ -72,14 +73,14 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:
 # Data lines follow (have no #)
 # Data line format - tab-delimited text, variable short name as header
-# Missing values: nan
+# Missing values: NAN
 #
 age	d18O
 1997	-43.73
@@ -87,7 +88,7 @@ age	d18O
 1995	-44.77
 1994	-45.45
 1993	-49.46
-1992	nan
+1992	NAN
 1991	-47.32
 1990	-47.54
 1989	-49.5
@@ -97,13 +98,13 @@ age	d18O
 1985	-46.46
 1984	-45.75
 1983	-44.74
-1982	nan
-1981	nan
+1982	NAN
+1981	NAN
 1980	-45.38
 1979	-44.95
 1978	-45.75
 1977	-47.59
-1976	nan
+1976	NAN
 1975	-46.7
 1974	-46.31
 1973	-46.87
@@ -167,7 +168,7 @@ age	d18O
 1915	-45.31
 1914	-45.53
 1913	-45.53
-1912	nan
+1912	NAN
 1911	-48.89
 1910	-48.65
 1909	-48.25
@@ -180,7 +181,7 @@ age	d18O
 1902	-47.34
 1901	-48.62
 1900	-48.27
-1899	nan
+1899	NAN
 1898	-47.82
 1897	-47.5
 1896	-48.01
@@ -213,7 +214,7 @@ age	d18O
 1869	-46.97
 1868	-45.9
 1867	-45.21
-1866	nan
+1866	NAN
 1865	-47.43
 1864	-45.92
 1863	-45.42
@@ -279,7 +280,7 @@ age	d18O
 1803	-47.48
 1802	-46.84
 1801	-46.24
-1800	nan
+1800	NAN
 1799	-46.33
 1798	-46.08
 1797	-45.7
@@ -292,10 +293,10 @@ age	d18O
 1790	-49.37
 1789	-48.92
 1788	-48.92
-1787	nan
+1787	NAN
 1786	-48.43
 1785	-46.79
-1784	nan
+1784	NAN
 1783	-47.5
 1782	-48.45
 1781	-48.58
@@ -824,7 +825,7 @@ age	d18O
 1258	-46.94
 1257	-47.29
 1256	-47.37
-1255	nan
+1255	NAN
 1254	-48.34
 1253	-48.54
 1252	-48.45
@@ -832,7 +833,7 @@ age	d18O
 1250	-47.28
 1249	-46.99
 1248	-46.77
-1247	nan
+1247	NAN
 1246	-46.68
 1245	-46.94
 1244	-47.08
@@ -876,7 +877,7 @@ age	d18O
 1206	-47.54
 1205	-47.48
 1204	-47.49
-1203	nan
+1203	NAN
 1202	-48.3
 1201	-48.3
 1200	-48.21
@@ -1055,7 +1056,7 @@ age	d18O
 1027	-48.06
 1026	-47.85
 1025	-47.36
-1024	nan
+1024	NAN
 1023	-47.76
 1022	-47.9
 1021	-47.92

@@ -44,39 +44,7 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract:  The 3-km-long Greenland Ice Sheet Project 2 (GISP2) ice core presents a 100,000 +-
-year detailed oxygen isotope profile covering almost a full glacial-interglacial cycle. Measuranents
-of isotopic fluctuations in snow, frost, and atmospheric water vapor samples collected during
-summer field seasons (up to 20%0) are compatible with the large and abrupt d80/d160 changes
-observed in accumulatedim. Snow pit 15•80 profiles from the GISP2 summit area, however, show
-rapid smoothing of the 180/160 signal near the surface. Beyond about 2-m depth the smoothedi5180
-signal is fairly well preserved and can be interpreted in terms of average local weather conditions
-and climate. The longer climate fluctuations also have regional and often global significance. Inthe
-older part of the record, corresponding tomarine isotope stages (MIS) 5a to 5d, the effect of orbital
-climate forcing via the 19- and 23-kyr precession cycles and the 41-kyr obliquity cycle is obvious.
-From the end ofMIS 5a, at about 75,000 years B.P., till the end of the glacial at the Younger
-Dryas-Preboreal transition, at 11,650 years B.P., the O180/160 record shows frequent, rapid
-switches between intermediate interstadial and low stadial values. Fourier spectra of the
-oscillations that are superimposed onthe orbitally induced changes contain a strong periodicity at
-1.5 kyr, a broad peak at 4.0 kyr, and additional shorter periods. Detailed comparison of the GISP2
-d180/160 record with the Vostok, Antarctica, 15D record; Pacific Ocean foraminiferal d180/160;
-Grande Pile, France, tree pollen; and insolation indicates that a counterpart tomany of the rapid
-d180/160 fluctuations of GISP2 can be found in the other records, and that the GISP2 isotopic
-changes clearly are the local expression of climate changes of worldwide extent. Correlation of
-events on the independent GISP2 and SPECMAP time scales for the interval 10,000-50,000 years
-B.P. shows excellent chronometric agreement, except possibly for the event labeled 3.1. The
-glacial to interglacial transition evidently started simultaneously inthe Arctic and the Antarctic, but
-its development and its expression in Greenland isotopes was later suppressed bythe influence of
-meltwater, especially from the Barents Sea ice sheet, on deep water formation and ocean
-circulation. Meltwaters from different ice sheets bordering the North Atlantic also influenced ocean
-circulation during the Bolling-Allerod interstadial complex and the Younger Dryas and led to a
-distinct development of European climate and Greenland 180/160 values. The Holocene interval
-with long-term stable mean isotopic values contains several fluauations with periods from years to
-millennia. Dominant is a 6.3-year oscillation with amplitude up to 3 to 4%0. Periodicities of 11 and
-210 years, also found in the solar-modulated records of the cosmogenic isotopes 1øBe and 14C,
-suggest solar processes as the cause of these cycles. Depression of d180/160 values (cooling) by
-volcanic eruptions is observed in stacked GISP215•80 records, buthe effect is small and not likely
-to trigger major climate changes. 
+#	Abstract:  The 3-km-long Greenland Ice Sheet Project 2 (GISP2) ice core presents a 100,000 +- year detailed oxygen isotope profile covering almost a full glacial-interglacial cycle. Measuranents of isotopic fluctuations in snow, frost, and atmospheric water vapor samples collected during summer field seasons (up to 20%0) are compatible with the large and abrupt d80/d160 changes observed in accumulatedim. Snow pit 15•80 profiles from the GISP2 summit area, however, show rapid smoothing of the 180/160 signal near the surface. Beyond about 2-m depth the smoothedi5180 signal is fairly well preserved and can be interpreted in terms of average local weather conditions and climate. The longer climate fluctuations also have regional and often global significance. Inthe older part of the record, corresponding tomarine isotope stages (MIS) 5a to 5d, the effect of orbital climate forcing via the 19- and 23-kyr precession cycles and the 41-kyr obliquity cycle is obvious. From the end ofMIS 5a, at about 75,000 years B.P., till the end of the glacial at the Younger Dryas-Preboreal transition, at 11,650 years B.P., the O180/160 record shows frequent, rapid switches between intermediate interstadial and low stadial values. Fourier spectra of the oscillations that are superimposed onthe orbitally induced changes contain a strong periodicity at 1.5 kyr, a broad peak at 4.0 kyr, and additional shorter periods. Detailed comparison of the GISP2 d180/160 record with the Vostok, Antarctica, 15D record; Pacific Ocean foraminiferal d180/160; Grande Pile, France, tree pollen; and insolation indicates that a counterpart tomany of the rapid d180/160 fluctuations of GISP2 can be found in the other records, and that the GISP2 isotopic changes clearly are the local expression of climate changes of worldwide extent. Correlation of events on the independent GISP2 and SPECMAP time scales for the interval 10,000-50,000 years B.P. shows excellent chronometric agreement, except possibly for the event labeled 3.1. The glacial to interglacial transition evidently started simultaneously inthe Arctic and the Antarctic, but its development and its expression in Greenland isotopes was later suppressed bythe influence of meltwater, especially from the Barents Sea ice sheet, on deep water formation and ocean circulation. Meltwaters from different ice sheets bordering the North Atlantic also influenced ocean circulation during the Bolling-Allerod interstadial complex and the Younger Dryas and led to a distinct development of European climate and Greenland 180/160 values. The Holocene interval with long-term stable mean isotopic values contains several fluauations with periods from years to millennia. Dominant is a 6.3-year oscillation with amplitude up to 3 to 4%0. Periodicities of 11 and 210 years, also found in the solar-modulated records of the cosmogenic isotopes 1øBe and 14C, suggest solar processes as the cause of these cycles. Depression of d180/160 values (cooling) by volcanic eruptions is observed in stacked GISP215•80 records, buthe effect is small and not likely to trigger major climate changes. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -97,6 +65,7 @@ to trigger major climate changes.
 #	Earliest_Year: 818
 #	Most_Recent_Year: 1987
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES1"}
 #
 # --------------------
 # Variables
@@ -104,8 +73,8 @@ to trigger major climate changes.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:

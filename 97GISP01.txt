@@ -63,7 +63,8 @@
 #	Collection_Name: 97GISP01
 #	Earliest_Year: 679.94
 #	Most_Recent_Year: -36.7942
-#	Time_Unit: yb_2000
+#	Time_Unit: yb_1950
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -71,8 +72,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years before 1950 AD,,,,,N
-##delD	delD,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years before 1950 AD,,,,,N
+##delD	delta deuterium,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:

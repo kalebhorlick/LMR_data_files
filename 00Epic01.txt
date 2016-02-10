@@ -68,8 +68,9 @@
 # Data_Collection
 #	Collection_Name: 00Epic01
 #	Earliest_Year: 44799
-#	Most_Recent_Year: 38.1
+#	Most_Recent_Year: 46
 #	Time_Unit: yb_1950
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -77,8 +78,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years before 1950 AD,,,,,N 
-##delD	del D,,,permil SMOW,,ice cores,,,N 
+##age	adge,,,years before 1950 AD,,,,,N 
+##delD	delta deuterium,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:
@@ -87,7 +88,6 @@
 # Missing values: NAN
 #
 age	delD
-38.1	NaN
 46.8	-390.9
 55.5	-385.1
 64.7	-377.8
@@ -245,7 +245,7 @@ age	delD
 2170.4	-402
 2188.1	-398.7
 2205.8	-398.6
-2223.5	NaN
+2223.5	NAN
 2241.3	-390.6
 2259.2	-394
 2277.5	-397.9
@@ -294,7 +294,7 @@ age	delD
 3043.7	-394.7
 3061.8	-395.8
 3080.1	-391.8
-3098.6	NaN
+3098.6	NAN
 3117.3	-387.9
 3136.1	-404.4
 3155.1	-401.1
@@ -611,7 +611,7 @@ age	delD
 9210.1	-392.4
 9227.9	-393.5
 9245.7	-390
-9263.4	nan
+9263.4	NAN
 9281.2	-388.5
 9299	-394.3
 9316.8	-403.6
@@ -712,7 +712,7 @@ age	delD
 11023.7	-387.9
 11042.6	-390.7
 11061.5	-402
-11080.3	
+11080.3	NAN
 11099.2	-390.8
 11118	-394.6
 11136.8	-381
@@ -824,7 +824,7 @@ age	delD
 13775.2	-414.8
 13802.3	-412
 13829.2	-407.5
-13856	
+13856	NAN
 13882.7	-402.3
 13909.2	-405.9
 13935.7	-410.4
@@ -954,7 +954,7 @@ age	delD
 18491	-441.4
 18540.9	-442.3
 18590.8	-441.6
-18640.7	
+18640.7	NAN
 18690.5	-437.2
 18740.3	-440.8
 18790.2	-436.5

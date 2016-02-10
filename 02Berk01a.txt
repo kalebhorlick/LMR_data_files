@@ -53,17 +53,18 @@
 #	Site_Name: Berkner Island
 #	Location: Antarctica
 #	Country: 
-#	Northernmost_Latitude: -79.614160
-#	Southernmost_Latitude: -79.614160
-#	Easternmost_Longitude: -45.724330
-#	Westernmost_Longitude: -45.724330
+#	Northernmost_Latitude: -79.61416
+#	Southernmost_Latitude: -79.61416
+#	Easternmost_Longitude: -45.72433
+#	Westernmost_Longitude: -45.72433
 #	Elevation: 886 m
 # --------------------
 # Data_Collection
 #	Collection_Name: 02Berk01a
 #	Earliest_Year: 1000
-#	Most_Recent_Year: 1994
+#	Most_Recent_Year: 1992
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}{"database":"PAGES2"}
 #
 # --------------------
 # Variables
@@ -71,8 +72,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,year AD,,,,,N 
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,year AD,,,,,N 
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:

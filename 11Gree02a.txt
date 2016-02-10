@@ -105,10 +105,10 @@
 # Data_Collection  
 #	Collection_Name: 11Gree02a
 #	Earliest_Year: 1936
-#	Most_recent_year: 2002
+#	Most_recent_year: 2009
 #	Time_Unit: y_ad 
 #	Core_Length:
-#	Notes:
+#	Notes: {"database":"LMR_FM"}
 #------------------
 # Chronology 
 #
@@ -123,8 +123,8 @@
 # Data line format: tab-delimited text, variable short name as header
 #
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil VSMOW,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 #----------------
 # Data:

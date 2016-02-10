@@ -53,27 +53,7 @@
 #	DOI: doi:10.1029/2009GL040104
 #	Online_Resource: 
 #	Full_Citation:  
-#	Abstract: On entering an era of global warming, the stability of the Greenland 
-ice sheet (GIS) is an important concern, especially in the light of 
-new evidence of rapidly changing flow and melt conditions at the GIS 
-margins. Studying the response of the GIS to past climatic change may 
-help to advance our understanding of GIS dynamics. The previous 
-interpretation of evidence from stable isotopes (d18O) in water from 
-GIS ice cores was that Holocene climate variability on the GIS differed 
-spatially and that a consistent Holocene climate optimum - the unusually 
-warm period from about 9,000 to 6,000 years ago found in many northern 
-latitude palaeoclimate records - did not exist. Here we extract both 
-the Greenland Holocene temperature history and the evolution of GIS 
-surface elevation at four GIS locations. We achieve this by comparing 
-d18O from GIS ice cores with d18O from ice cores from small marginal 
-icecaps. Contrary to the earlier interpretation of d18O evidence from 
-ice cores, our new temperature history reveals a pronounced Holocene 
-climatic optimum in Greenland coinciding with maximum thinning near 
-the GIS margins. Our d18O-based results are corroborated by the air 
-content of ice cores, a proxy for surface elevation. State-of-the-art 
-ice sheet models are generally found to be underestimating the extent 
-and changes in GIS elevation and area; our findings may help to improve 
-the ability of models to reproduce the GIS response to Holocene climate.
+#	Abstract: On entering an era of global warming, the stability of the Greenland  ice sheet (GIS) is an important concern, especially in the light of  new evidence of rapidly changing flow and melt conditions at the GIS  margins. Studying the response of the GIS to past climatic change may  help to advance our understanding of GIS dynamics. The previous  interpretation of evidence from stable isotopes (d18O) in water from  GIS ice cores was that Holocene climate variability on the GIS differed  spatially and that a consistent Holocene climate optimum - the unusually  warm period from about 9,000 to 6,000 years ago found in many northern  latitude palaeoclimate records - did not exist. Here we extract both  the Greenland Holocene temperature history and the evolution of GIS  surface elevation at four GIS locations. We achieve this by comparing  d18O from GIS ice cores with d18O from ice cores from small marginal  icecaps. Contrary to the earlier interpretation of d18O evidence from  ice cores, our new temperature history reveals a pronounced Holocene  climatic optimum in Greenland coinciding with maximum thinning near  the GIS margins. Our d18O-based results are corroborated by the air  content of ice cores, a proxy for surface elevation. State-of-the-art  ice sheet models are generally found to be underestimating the extent  and changes in GIS elevation and area; our findings may help to improve  the ability of models to reproduce the GIS response to Holocene climate.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: 
@@ -94,6 +74,7 @@ the ability of models to reproduce the GIS response to Holocene climate.
 #	Earliest_Year: 11700
 #	Most_Recent_Year: 100
 #	Time_Unit: yb_2000
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -101,8 +82,8 @@ the ability of models to reproduce the GIS response to Holocene climate.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age		Age,,,years before 2k AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N 
+##age	age,,,years before 2000 AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:
@@ -116,10 +97,10 @@ age	d18O
 140	-29.6
 160	-29.58
 180	-29.61
-200	NaN
-220	NaN
+200	NAN
+220	NAN
 240	-29.02
-260	NaN
+260	NAN
 280	-29.52
 300	-29.27
 320	-30.41
@@ -145,10 +126,10 @@ age	d18O
 720	-29.23
 740	-29.23
 760	-29.24
-780	NaN
-800	NaN
-820	NaN
-840	NaN
+780	NAN
+800	NAN
+820	NAN
+840	NAN
 860	-29.44
 880	-28.77
 900	-29.44
@@ -499,9 +480,9 @@ age	d18O
 7800	-29.38
 7820	-29.49
 7840	-29.76
-7860	NaN
-7880	NaN
-7900	NaN
+7860	NAN
+7880	NAN
+7900	NAN
 7920	-29.44
 7940	-29.14
 7960	-29.13

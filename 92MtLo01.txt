@@ -44,34 +44,23 @@
 #	DOI: 
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: The relatively short length of most instrumental climate records
-restricts the study of climate variability, and it is therefore
-essential to extend the record into the past with the help of proxy
-data. Only since the late 1940s have atmospheric data been available
-that are sufficient in quality and spatial resolution to identify the
-dominant patterns of climate variability, such as the Pacific North
-America pattern and the Pacific Decadal Oscillation. Here we present
-a 301-year snow accumulation record from an ice core at a height of
-5,340 m above sea level - from Mount Logan, in northwestern North
-America. This record shows features that are closely linked with the
-Pacific North America pattern for the period of instrumental data
-availability. Our record extends back in time to cover the period from
-the closing stages of the Little Ice Age to the warmest decade in the
-past millennium. We find a positive, accelerating trend in snow
-accumulation after the middle of the nineteenth century. This trend is
-paralleled by a warming over northwestern North America which has been
-associated with secular changes in both the Pacific North America
-pattern and the Pacific Decadal Oscillation. 
+#	Abstract: The relatively short length of most instrumental climate records restricts the study of climate variability, and it is therefore essential to extend the record into the past with the help of proxy data. Only since the late 1940s have atmospheric data been available that are sufficient in quality and spatial resolution to identify the dominant patterns of climate variability, such as the Pacific North America pattern and the Pacific Decadal Oscillation. Here we present a 301-year snow accumulation record from an ice core at a height of 5,340 m above sea level - from Mount Logan, in northwestern North America. This record shows features that are closely linked with the Pacific North America pattern for the period of instrumental data availability. Our record extends back in time to cover the period from the closing stages of the Little Ice Age to the warmest decade in the past millennium. We find a positive, accelerating trend in snow accumulation after the middle of the nineteenth century. This trend is paralleled by a warming over northwestern North America which has been associated with secular changes in both the Pacific North America pattern and the Pacific Decadal Oscillation. 
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name:International Arctic Research Center, Fairbanks
+#	Grant:
+# --------------------
 # Funding_Agency
 #	Funding_Agency_Name: Geological Survey of Canada
+#	Grant:
+# --------------------
 # Funding_Agency
 #	Funding_Agency_Name: National Institute of Polar Research, Tokyo
+#	Grant:
+# --------------------
 # Funding_Agency
 #	Funding_Agency_Name: Natural Sciences and Engineering Research COuncil of Canada
-#	
+#	Grant:	
 # --------------------
 # Site_Information
 #	Site_Name: Mount Logan
@@ -88,6 +77,7 @@ pattern and the Pacific Decadal Oscillation.
 #	Earliest_Year: 1736
 #	Most_Recent_Year: 1987
 #	Time_Unit: y_ad
+#	Notes: {"database":"LMR_FM"}
 #
 # --------------------
 # Variables
@@ -95,9 +85,9 @@ pattern and the Pacific Decadal Oscillation.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##accum	accumulation,,,meters,,ice cores,,,N
-##d18O	Delta O18,,,permil SMOW,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##accum	accumulation,,,meters,,Ice Cores,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N 
 #
 # --------------------
 # Data:
