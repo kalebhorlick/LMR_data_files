@@ -48,20 +48,7 @@
 #	DOI: 10.1029/2007GL030440
 #	Online_Resource: 
 #	Full_Citation: 
-#	Abstract: A highly resolved Mt. Everest ice core reveals a decrease in marine 
-and increase in continental air masses related to relatively high 
-summer surface pressure over Mongolia, and reduction in northward 
-incursions of the summer South Asian monsoon since ~1400 AD. 
-Previously published proxy records from lower sites south of the
-Himalayas indicate strengthening of the monsoon since this time. 
-These regional differences are consistent with a south–north seesaw 
-in convective activity in the Asian monsoon region, and reflect a 
-southward shift in the mean summer position of the monsoon trough 
-since~1400 AD. The change in monsoonal circulation at 1400 AD is 
-synchronous with a reduction in solar irradiance and the onset 
-of the LIA. This demonstrates a hemispheric scale circulation 
-reorganization at this time, and the potential for future large 
-shifts in monsoonal circulation.
+#	Abstract: A highly resolved Mt. Everest ice core reveals a decrease in marine  and increase in continental air masses related to relatively high  summer surface pressure over Mongolia, and reduction in northward  incursions of the summer South Asian monsoon since ~1400 AD.  Previously published proxy records from lower sites south of the Himalayas indicate strengthening of the monsoon since this time.  These regional differences are consistent with a south–north seesaw  in convective activity in the Asian monsoon region, and reflect a  southward shift in the mean summer position of the monsoon trough  since~1400 AD. The change in monsoonal circulation at 1400 AD is  synchronous with a reduction in solar irradiance and the onset  of the LIA. This demonstrates a hemispheric scale circulation  reorganization at this time, and the potential for future large  shifts in monsoonal circulation.
 # --------------------
 # Funding_Agency
 #	Funding_Agency_Name: United States National Science Foundation
@@ -105,8 +92,8 @@ shifts in monsoonal circulation.
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil SMOW,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil SMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:
@@ -114,7 +101,7 @@ shifts in monsoonal circulation.
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age	d18O
+age d18O
 1997.5	-120.4
 1992.5	-120.67
 1987.5	-143.54
