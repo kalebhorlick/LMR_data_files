@@ -1,4 +1,4 @@
-﻿# Law Dome, Antarctica High Resolution 1999-2009 10Be Data, Revised Dating
+# Law Dome, Antarctica High Resolution 1999-2009 10Be Data, Revised Dating
 #----------------------------------------------------------------------- 
 #               World Data Center for Paleoclimatology, Boulder 
 #                                  and 
@@ -108,8 +108,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: material, error, units, anomaly, period, archive, detail, method, C or N for Character or Numeric data) 
 # Data line format: tab-delimited text, variable short name as header
 #
-##age	Age,,,years AD,,,,,N
-##d18O	d18O,,,permil VSMOW,,ice cores,,,N
+##age	age,,,years AD,,,,,N
+##d18O	delta 18 oxygen,,,permil VSMOW,,Ice Cores,,,N
 #
 # --------------------
 # Data:
