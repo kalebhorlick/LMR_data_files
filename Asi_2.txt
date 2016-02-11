@@ -87,7 +87,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: nan
 #
-age	TRWS
+age	TRW
 1561.0	1.002
 1562.0	0.676
 1563.0	1.035

@@ -87,7 +87,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: nan
 #
-age	clim_signal
+age	TRW
 1046.0	0.841
 1047.0	0.581
 1048.0	1.064

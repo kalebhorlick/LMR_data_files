@@ -88,7 +88,6 @@
 # Missing Values: nan
 #
 age	TRW
-age	clim_signal
 1500.0	1304.0
 1501.0	185.0
 1502.0	87.0
