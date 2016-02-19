@@ -18,7 +18,7 @@
 # Archive: Lake Cores
 #--------------------
 # Contribution_Date
-#	Date: 2003-10
+#	Date: 2003-10-01
 #--------------------
 # Title
 #	Study_Name: Baffin Island 500 Year Summer Temperature Reconstruction

@@ -21,7 +21,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 1995-06
+#	Date: 1995-06-01
 #--------------------
 # Title
 #	Study_Name: Abraham Reef Biannual Coral Isotope Data

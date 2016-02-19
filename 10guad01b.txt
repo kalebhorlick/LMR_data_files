@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2012-04
+#	Date: 2012-04-01
 #--------------------
 # Title
 #	Study_Name: Guadeloupe 104 Year Monthly Coral d18O and Sr/Ca Data 
@@ -99,8 +99,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	annually averaged delta 18 Oxygen, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, annual average, ,N
-##Sr/Ca	annually averaged Strontium/Calcium, Diploria strigosa, ,mmol/mol, ,Corals and Sclerosponges, annual average, ,N
+##d18O	delta 18 Oxygen annually averaged, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, annual average, ,N
+##Sr/Ca	Strontium/Calcium annually averaged, Diploria strigosa, ,mmol/mol, ,Corals and Sclerosponges, annual average, ,N
 #
 #----------------
 # Data:

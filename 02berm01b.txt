@@ -59,8 +59,8 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 02berm01b
-#	Earliest_Year: 1520
-#	Most_Recent_Year: 1603
+#	Earliest_Year: 1519
+#	Most_Recent_Year: 1604
 #	Time_Unit: y_ad
 #	Core_Length: 
 #	Notes: {"database":"PAGES2"}{"database":"LMR_FM"}

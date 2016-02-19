@@ -88,7 +88,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	Winter seasonal delta 18 Oxygen, Diploria labyrinthiformis, ,permil VPDB,winter,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
+##d18O	delta 18 Oxygen seasonal, Diploria labyrinthiformis, ,permil VPDB,winter,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
 #
 #----------------
 # Data:

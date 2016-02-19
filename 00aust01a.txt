@@ -19,7 +19,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2001-11
+#	Date: 2001-11-01
 #--------------------
 # Title
 #	Study_Name: Ningaloo Reef Coral Stable Isotope Data

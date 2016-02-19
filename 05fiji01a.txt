@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2005-06
+#	Date: 2005-06-01
 #--------------------
 # Title
 #	Study_Name: Savusavu Bay, Fiji Diploastrea Coral Oxygen Isotope Data
@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 2001
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} normalized to the 1970-1996 mean
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"}
 #------------------
 # Species
 #	Species_Name: Diploastrea heliopora
@@ -85,7 +85,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O_norm	normalized annual delta 18 Oxygen, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, normalized to the 1970-1996 mean, instrument: isotope ratio mass spectrometer,N
+##d18O_anom	delta 18 Oxygen anomaly, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, normalized to the 1970-1996 mean, instrument: isotope ratio mass spectrometer,N
 #
 #----------------
 # Data:
@@ -93,7 +93,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age	d18O_norm
+age	d18O_anom
 2001	-0.046
 2000	-0.134
 1999	0.030

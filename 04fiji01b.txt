@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2004-03
+#	Date: 2004-03-01
 #--------------------
 # Title
 #	Study_Name: Savusavu Bay, Fiji Diploastrea Coral Stable Isotope and Sr/Ca Data
@@ -63,7 +63,7 @@
 #	Most_Recent_Year: 2000
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: {"database":"LMR_FM"} Core name LH
+#	Notes: {"database":"LMR_FM"} Composite of cores LH and 4F1
 #------------------
 # Species
 #	Species_Name: Diploastrea heliopora
@@ -85,8 +85,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	normalized annual delta 18 Oxygen, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, average of the two cores both normalized to the 1970-1996 mean, ,N
-##Sr/Ca	normalized annual Strontium/Calcium, Diploastrea heliopora, , mmol/mol, , Corals and Sclerosponges, average of the two cores both normalized to the 1970-1996 mean, ,N
+##d18O_anom	delta 18 Oxygen anomaly, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, average of the two cores both normalized to the 1970-1996 mean, ,N
+##Sr/Ca_anom	Strontium/Calcium anomaly, Diploastrea heliopora, , mmol/mol, , Corals and Sclerosponges, average of the two cores both normalized to the 1970-1996 mean, ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age	d18O	Sr/Ca
+age	d18O_anom	Sr/Ca_anom
 2000	-0.13	-0.1
 1999	0.03	0.01
 1998	0.36	-0.01

@@ -88,7 +88,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##Sr/Ca	Winter seasonal Strontium/Calcium, Diploria labyrinthiformis, , mmol/mol, winter, Corals and Sclerosponges, , inductively coupled plasma–atomic emission spectrometry,N
+##Sr/Ca	Strontium/Calcium seasonal, Diploria labyrinthiformis, , mmol/mol, winter, Corals and Sclerosponges, , inductively coupled plasma–atomic emission spectrometry,N
 #
 #----------------
 # Data:

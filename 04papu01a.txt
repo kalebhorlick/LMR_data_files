@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2010-11
+#	Date: 2010-11-01
 #--------------------
 # Title
 #	Study_Name: Papua New Guinea Holocene and Modern Coral Oxygen Isotope Data
@@ -86,7 +86,7 @@
 #
 ##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
 ##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
-##d18O_norm	normalized delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, normalized to series mean, ,N
+##d18O_anom	delta 18 Oxygen anomaly, Porites sp., , permil VPDB, , Corals and Sclerosponges, normalized to series mean, ,N
 #
 #----------------
 # Data:

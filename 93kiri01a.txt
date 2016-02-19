@@ -23,7 +23,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 1994-06
+#	Date: 1994-06-01
 #--------------------
 # Title
 #	Study_Name: Tarawa Coral Stable Isotope and Geochemistry Data 
@@ -119,8 +119,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
-##d18O	delta 18 Oxygen, Porites lobata, , permil PDB, , Corals and Sclerosponges, normalized by monthly mean subtracted from each monthly value and divided by the standard deviation of the full dataset, Finnigan MAT-251 mass spectrometer,N
+##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lobata, , permil PDB, , Corals and Sclerosponges, , Finnigan MAT-251 mass spectrometer,N
 #
 #----------------
 # Data:

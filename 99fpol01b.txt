@@ -10,7 +10,7 @@
 #
 # Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1876
 #
-# Original_Source_URL: ftp:
+# Original_Source_URL: http://www1.ncdc.noaa.gov/pub/data/paleo/coral/east_pacific/moorea_1999.txt
 # 
 # Description/Documentation lines begin with #
 # Data lines have no #
@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2003-08
+#	Date: 2003-08-01
 #--------------------
 # Title
 #	Study_Name: Moorea Coral Stable Isotope Data
@@ -85,7 +85,7 @@
 #	Most_Recent_Year: 1990
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} 
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} ANNUAL AVERAGES OF DATA FROM 99fpol01a.txt
 #------------------
 # Species
 #	Species_Name:  
@@ -106,9 +106,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
-##d18O	Annual average delta 18 Oxygen, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
-##d13C	Annual average  delta 13 Carbon, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen annual, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon annual, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:

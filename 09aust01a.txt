@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2010-06
+#	Date: 2010-06-01
 #--------------------
 # Title
 #	Study_Name: Great Barrier Reef Coral 200 Year Isotope Data

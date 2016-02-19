@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2009-04
+#	Date: 2009-04-01
 #--------------------
 # Title
 #	Study_Name: Mayotte Coral Coupled Sr/Ca and d18O Data

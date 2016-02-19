@@ -10,7 +10,7 @@
 #
 # Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:6203
 #
-# Original_Source_URL: ftp:
+# Original_Source_URL: http://www1.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/canada/baffin/big-round2008.txt
 # 
 # Description/Documentation lines begin with #
 # Data lines have no #
@@ -18,7 +18,7 @@
 # Archive: Lake Cores
 #--------------------
 # Contribution_Date
-#	Date: 2008-11
+#	Date: 2008-11-01
 #--------------------
 # Title
 #	Study_Name: Big Round Lake, Baffin Island Varve Thickness Data

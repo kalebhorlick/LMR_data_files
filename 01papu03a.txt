@@ -20,7 +20,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2001-10
+#	Date: 2001-10-01
 #--------------------
 # Title
 #	Study_Name: Papua New Guinea Fossil and Living Coral Isotope Data
@@ -86,8 +86,8 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	seasonal age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	seasonally averaged delta 18 Oxygen, Porites, , permil VPDB, , Corals and Sclerosponges, average: seasonal (midpoint), instrument: isotope ratio mass spectrometer,N
+##age	age, , ,years AD, , Corals and Sclerosponges, age: seasonal (midpoint), ,N
+##d18O	delta 18 Oxygen, Porites, , permil VPDB, , Corals and Sclerosponges, average: seasonal (midpoint), instrument: isotope ratio mass spectrometer,N 
 #
 #----------------
 # Data:

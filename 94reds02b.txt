@@ -20,7 +20,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 1995-08
+#	Date: 1995-08-01
 #--------------------
 # Title
 #	Study_Name: Aqaba Jordan Coral Isotope Data

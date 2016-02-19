@@ -18,7 +18,7 @@
 # Archive: Speleothems
 #--------------------
 # Contribution_Date
-#	Date: 2006-10
+#	Date: 2006-10-01
 #--------------------
 # Title
 #	Study_Name: Dongge Cave Stalagmite High-Resolution Holocene d18O Data

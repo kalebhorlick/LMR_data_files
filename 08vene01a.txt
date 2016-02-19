@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2012-04
+#	Date: 2012-04-01
 #--------------------
 # Title
 #	Study_Name: Los Roques, Venezuela 90 Year Monthly Coral d18O Data 

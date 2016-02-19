@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2008-03
+#	Date: 2008-03-01
 #--------------------
 # Title
 #	Study_Name: Rarotonga Subseasonal Coral d18O and Sr/Ca Data

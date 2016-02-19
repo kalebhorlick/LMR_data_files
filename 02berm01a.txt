@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2002-12
+#	Date: 2002-12-01
 #--------------------
 # Title
 #	Study_Name: Bermuda Coral d18O and Sr/Ca Data
@@ -59,10 +59,10 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 02berm01a
-#	Earliest_Year: 1520
-#	Most_Recent_Year: 1603
+#	Earliest_Year: 1519
+#	Most_Recent_Year: 1604
 #	Time_Unit: y_ad
-#	Core_Length: 
+#	Core_Length: 0.26879 m
 #	Notes: {"database":"PAGES2"}{"database":"LMR_FM"}
 #------------------
 # Species
@@ -88,7 +88,7 @@
 ##d18O	delta 18 Oxygen, Diploria labyrinthiformis, , permil VPDB, , Corals and Sclerosponges, , ,N
 ##Sr/Ca	Strontium/Calcium, Diploria labyrinthiformis, ,mmol/mol, ,Corals and Sclerosponges, , analytical technique: ICP-AES,N
 ##d13C	delta 13 Carbon, Diploria labyrinthiformis, , permil VPDB, , Corals and Sclerosponges, , ,N
-##depth	depth, , , mm, , , , ,N
+##depth	depth, Diploria labyrinthiformis, , mm, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:

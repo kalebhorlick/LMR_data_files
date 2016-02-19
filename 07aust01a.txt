@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2007-07
+#	Date: 2007-07-01
 #--------------------
 # Title
 #	Study_Name: Flinders Reef Coral Sr/Ca and Oxygen Isotope Data
@@ -85,8 +85,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##Sr/Ca	Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N
 ##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
+##Sr/Ca	Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:

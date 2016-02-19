@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date:  1999-07
+#	Date:  1999-07-01
 #--------------------
 # Title
 #	Study_Name: Abrolhos Houtman Coral Isotope Data
@@ -88,8 +88,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	assigned age date, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	delta 18 oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: isotope ratio mass spectrometer,N
-##d13C	delta 13 carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: isotope ratio mass spectrometer,N
+##d18O	interpolated delta 18 oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: isotope ratio mass spectrometer,N
+##d13C	interpolated delta 13 carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , instrument: isotope ratio mass spectrometer,N
 ##depth	depth, , ,cm, , Corals and Sclerosponges, , ,N
 #
 #----------------

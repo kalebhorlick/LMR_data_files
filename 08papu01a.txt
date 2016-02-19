@@ -65,10 +65,10 @@
 #       Site_Name: Kavieng, Papua New Guinea
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Melanesia>Papua New Guinea
 #	Country: Papua New Guinea 
-#	Northernmost_Latitude: -2.700
-# 	Southernmost_Latitude: -2.700
-# 	Easternmost_Longitude: 151.050
-# 	Westernmost_Longitude: 151.050
+#	Northernmost_Latitude: -2.70
+# 	Southernmost_Latitude: -2.70
+# 	Easternmost_Longitude: 151.05
+# 	Westernmost_Longitude: 151.05
 # 	Elevation:   
 #------------------
 # Data_Collection   
@@ -99,8 +99,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##Sr/Ca	Strontium/Calcium, Porites sp., ,mol/mol, ,Corals and Sclerosponges, , ,N 
-##Ba/Ca	Barium/Calcium, Porites sp., ,mol/mol, ,Corals and Sclerosponges, , ,N 
+##Sr/Ca_anom	Strontium/Calcium, Porites sp., ,mol/mol, ,Corals and Sclerosponges, , ,N 
+##Ba/Ca_anom	Barium/Calcium, Porites sp., ,mol/mol, ,Corals and Sclerosponges, , ,N 
 #
 #----------------
 # Data:
@@ -108,7 +108,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age	Sr/Ca	Ba/Ca
+age	Sr/Ca_anom	Ba/Ca_anom
 1997.2500	0.0086	NAN
 1997.1667	0.00869	NAN
 1997.0833	0.00871	0.00003800

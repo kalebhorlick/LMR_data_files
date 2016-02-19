@@ -20,7 +20,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 1998
+#	Date: 1998-01-01
 #--------------------
 # Title
 #	Study_Name: Papua New Guinea Coral Stable Isotope Data

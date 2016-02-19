@@ -8,9 +8,9 @@
 # If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
 #
 #
-# Online_Resource: http
+# Online_Resource: 
 #
-# Original_Source_URL: ftp:
+# Original_Source_URL: 
 # 
 # Description/Documentation lines begin with #
 # Data lines have no #

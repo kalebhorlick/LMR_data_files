@@ -18,7 +18,7 @@
 # Archive: Speleothems
 #--------------------
 # Contribution_Date
-#	Date: 2009-09
+#	Date: 2009-09-01
 #--------------------
 # Title
 #	Study_Name: Wanxiang Cave, China Stalagmite Oxygen Isotope Data

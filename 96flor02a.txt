@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2004-08
+#	Date: 2004-08-01
 #--------------------
 # Title
 #	Study_Name: Florida Bay Coral Isotope Data

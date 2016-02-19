@@ -8,7 +8,7 @@
 # If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
 #
 #
-# Online_Resource: http
+# Online_Resource: 
 #
 # Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/east_pacific/readme_kiritimati.txt
 # Original_Source_URL: http://www.ncdc.noaa.gov/paleo/image/coral/kirit13c.gif
@@ -21,7 +21,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 1998-10
+#	Date: 1998-10-01
 #--------------------
 # Title
 #	Study_Name: Kiritimati Coral Isotope Data

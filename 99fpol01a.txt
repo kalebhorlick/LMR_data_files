@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2003-08
+#	Date: 2003-08-01
 #--------------------
 # Title
 #	Study_Name: Moorea Coral Stable Isotope Data
@@ -106,9 +106,9 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
-##d18O	Delta 18 Oxygen, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
-##d13C	Delta 13 Carbon, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
+##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Porites lutea, , permil PDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:

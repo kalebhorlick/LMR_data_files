@@ -85,7 +85,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	delta 18 Oxygen annual average, Porites sp., , permil VPDB, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Porites sp., , permil VPDB, March to February, Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:

@@ -21,7 +21,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 1994-08
+#	Date: 1994-08-01
 #--------------------
 # Title
 #	Study_Name: Vanuatu Coral Stable Isotope Data
@@ -76,7 +76,7 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 96vanu01a
-#	Earliest_Year: 1807
+#	Earliest_Year: 1806
 #	Most_Recent_Year: 1979
 #	Time_Unit: y_ad
 #	Core_Length: 1.5 m

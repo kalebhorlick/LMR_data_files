@@ -19,7 +19,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2000-12
+#	Date: 2000-12-01
 #--------------------
 # Title
 #	Study_Name: Ras Umm Sidd Coral Oxygen Isotope Data

@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2013-01
+#	Date: 2013-01-01
 #--------------------
 # Title
 #	Study_Name: Line Islands Modern and Fossil Coral d18O Data
@@ -89,7 +89,7 @@
 #	Most_Recent_Year: 1978
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: {"database":"LMR_FM"} Fanning	Modern spl
+#	Notes: {"database":"LMR_FM"} Fanning Modern spl
 #------------------
 # Species
 #	Species_Name:  

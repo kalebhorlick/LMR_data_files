@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2003-10
+#	Date: 2003-10-01
 #--------------------
 # Title
 #	Study_Name: Caribbean Sclerosponge Oxygen Isotope and Sr/Ca Data

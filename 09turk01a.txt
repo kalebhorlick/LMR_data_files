@@ -18,7 +18,7 @@
 # Archive: Speleothems
 #--------------------
 # Contribution_Date
-#	Date: 2009-11 
+#	Date: 2009-11-01
 #--------------------
 # Title
 #	Study_Name: Sofular Cave, Turkey 50KYr Stalagmite Stable Isotope Data

@@ -20,7 +20,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date:  1999-01
+#	Date:  1999-01-01
 #--------------------
 # Title
 #	Study_Name: Amedee Coral Elemental Ratios and Isotope Data

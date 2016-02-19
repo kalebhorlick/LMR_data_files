@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2005-02
+#	Date: 2005-02-01
 #--------------------
 # Title
 #	Study_Name: Gulf of Guinea Coral Isotope, Luminescence and Density Data
@@ -86,7 +86,7 @@
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d18O	delta 18 Oxygen, Siderastrea spp., , permil VPDB, , Corals and Sclerosponges, , ,N
-##d13C	delta 13 Carvib, Siderastrea spp., , permil VPDB, , Corals and Sclerosponges, , ,N
+##d13C	delta 13 Carbon, Siderastrea spp., , permil VPDB, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:

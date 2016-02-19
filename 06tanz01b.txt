@@ -67,7 +67,7 @@
 #	Most_Recent_Year: 1998
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} 
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} Anomalies were calculated by subtracting the mean value for the  1 or 2 month period as appropriate for dataset resolution
 #------------------
 # Species
 #	Species_Name: Diploastrea heliopora 
@@ -90,7 +90,7 @@
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d18O	delta 18 Oxygen, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, , ,N
-##d18O_anom	delta 18 Oxygen anomalies, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, anomaly, ,N
+##d18O_anom	delta 18 Oxygen anomalies, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, anomaly calculation: subtracting the mean value for the  1 or 2 month period, ,N
 #
 #----------------
 # Data:

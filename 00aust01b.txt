@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2011-10
+#	Date: 2011-10-01
 #--------------------
 # Title
 #	Study_Name: Ningaloo Reef Coral Stable Isotope Data
@@ -59,7 +59,7 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 00aust01b
-#	Earliest_Year: 1878 
+#	Earliest_Year: 1879 
 #	Most_Recent_Year: 1994 
 #	Time_Unit: y_ad 
 #	Core_Length: 1.44 m

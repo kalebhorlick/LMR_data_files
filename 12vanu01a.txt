@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2012-10
+#	Date: 2012-10-01
 #--------------------
 # Title
 #	Study_Name: Sabine Bank, Vanuatu stable isotope salinity reconstruction from 1842-2007 CE
@@ -87,7 +87,7 @@
 ##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
 ##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
 ##d13C	delta 13 Carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
-##d18O_norm	normalized delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, normalized relative to 1961-1990 base period, ,N
+##d18O_anom	delta 18 Oxygen anomaly, Porites lutea, , permil VPDB, , Corals and Sclerosponges, anomaly calculation: relative to 1961-1990 base period, ,N
 ##sss	delta 18 Oxygen based sea surface salinity reconstruction, Porites lutea, ,degrees C, , Corals and Sclerosponges, , ,N
 #
 #----------------
@@ -96,7 +96,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age	d18O	d13C	d18O_norm	sss
+age	d18O	d13C	d18O_anom	sss
 1842.625	-4.12	-1.15	0.6	35.92
 1842.708	-4.42	-1.22	0.35	35.48
 1842.792	-4.6	-1.28	0.25	35.31

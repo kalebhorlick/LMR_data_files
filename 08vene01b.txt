@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2012-04
+#	Date: 2012-04-01
 #--------------------
 # Title
 #	Study_Name: Los Roques, Venezuela 90 Year Monthly Coral d18O Data 
@@ -67,7 +67,7 @@
 #	Most_Recent_Year: 2004
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} 
+#	Notes: {"database":"PAGES2"}{"database":"LMR_FM"} ANNUAL AVERAGES OF DATA FROM 08vene01a.txt
 #------------------
 # Species
 #	Species_Name: Diploria strigosa 
@@ -89,9 +89,9 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	annual delta 18 Oxygen, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, , ,N
-##d18O_seas	annual delta 18 Oxygen, Diploria strigosa, , permil VPDB, August-October, Corals and Sclerosponges, , ,N
-##d18O_norm	annual delta 18 Oxygen, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, normalized, ,N
+##d18O	delta 18 Oxygen, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, , annually averaged,N
+##d18O_seas	delta 18 Oxygen seasonal, Diploria strigosa, , permil VPDB, August-October, Corals and Sclerosponges, , annually averaged,N
+##d18O_anom	delta 18 Oxygen anomaly, Diploria strigosa, , permil VPDB, , Corals and Sclerosponges, normalized, annually averaged,N
 #
 #----------------
 # Data:
@@ -99,7 +99,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age	d18O	d18O_seas	d18O_norm
+age	d18O	d18O_seas	d18O_anom
 1918	-3.726	-3.851	0.265
 1919	-3.852	-3.982	0.175
 1920	-3.632	-3.726	0.335

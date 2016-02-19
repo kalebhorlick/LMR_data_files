@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2000-11
+#	Date: 2000-11-01
 #--------------------
 # Title
 #	Study_Name: Rarotonga Sr/Ca and SST Reconstruction Data

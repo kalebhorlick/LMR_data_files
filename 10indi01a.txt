@@ -18,7 +18,7 @@
 # Archive: Speleothems
 #--------------------
 # Contribution_Date
-#	Date:  2010-1
+#	Date:  2010-01-01
 #--------------------
 # Title
 #	Study_Name: Dandak Cave, India Speleothem Oxygen Isotope Data

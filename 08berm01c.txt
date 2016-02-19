@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date:  2008-10
+#	Date:  2008-10-01
 #--------------------
 # Title
 #	Study_Name: Bermuda Brain Coral Sea Surface Temperature and Salinity Reconstruction 1781-1998 
@@ -87,8 +87,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	delta 18O,Diploria labyrinthiformis, ,permil PDB, ,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
-##Sr/Ca	Strontium Calcium, Diploria labyrinthiformis, , mmol/mol, , Corals and Sclerosponges, ,instrument: inductively coupled plasma–atomic emission spectrometry,N
+##d18O	delta 18 Oxygen,Diploria labyrinthiformis, ,permil PDB, ,Corals and Sclerosponges, ,instrument: isotope ratio mass spectrometer,N
+##Sr/Ca	Strontium/Calcium, Diploria labyrinthiformis, , mmol/mol, , Corals and Sclerosponges, ,instrument: inductively coupled plasma–atomic emission spectrometry,N
 ##ext	mean extension rate, Diploria labyrinthiformis, ,mm/yr, ,Corals and Sclerosponges, , smooth: 3 year running mean,N 
 #
 #----------------

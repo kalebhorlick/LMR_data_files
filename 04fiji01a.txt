@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2004-03
+#	Date: 2004-03-01
 #--------------------
 # Title
 #	Study_Name: Savusavu Bay, Fiji Diploastrea Coral Stable Isotope and Sr/Ca Data
@@ -85,9 +85,9 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	delta 18 Oxygen, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, normalized to the 1970-1996 mean, ,N
-##Sr/Ca	Strontium/Calcium, Diploastrea heliopora, , mmol/mol, , Corals and Sclerosponges, normalized to the 1970-1996 mean, ,N
-##d13C	delta Carbon 13, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, average of the two cores both normalized to the 1970-1996 mean, ,N
+##d18O	delta 18 Oxygen, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, , ,N
+##Sr/Ca	Strontium/Calcium, Diploastrea heliopora, , mmol/mol, , Corals and Sclerosponges, , ,N
+##d13C	delta Carbon 13, Diploastrea heliopora, , permil VPDB, , Corals and Sclerosponges, , ,N
 ##depth	depth of core, Diploastrea heliopora, ,mm, , Corals and Sclerosponges, , ,N
 #
 #----------------

@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2003-10
+#	Date: 2003-10-01
 #--------------------
 # Title
 #	Study_Name: Caribbean Sclerosponge Oxygen Isotope and Sr/Ca Data
@@ -85,7 +85,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	delta 18 Oxygen of transect one, Ceratoporella nicholsoni, , permil PDB, , Corals and Sclerosponges, , ,N
+##d18O	delta 18 Oxygen, Ceratoporella nicholsoni, , permil PDB, , Corals and Sclerosponges, , ,N
 
 #----------------
 # Data:

@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2008-03
+#	Date: 2008-03-01
 #--------------------
 # Title
 #	Study_Name: Rarotonga Subseasonal Coral d18O and Sr/Ca Data
@@ -80,7 +80,7 @@
 #       Grant: NA96GP0406, NA96GP0470
 #------------------
 # Site_Information 
-#       Site_Name: Rarotonga, Cook Islands, South Pacific
+#       Site_Name: Rarotonga, Cook Islands
 #       Location: Ocean>Pacific Ocean>South Pacific Ocean>Polynesia>Cook Islands
 #	Country: Cook Islands 
 #	Northernmost_Latitude: -21.2378

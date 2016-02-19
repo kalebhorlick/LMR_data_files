@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2004-12
+#	Date: 2004-12-01
 #--------------------
 # Title
 #	Study_Name: Southern Great Barrier Reef Coral Radiocarbon Data

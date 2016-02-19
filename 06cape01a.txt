@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2009-01
+#	Date: 2009-01-01
 #--------------------
 # Title
 #	Study_Name: Pedra de Lume, Cape Verde Islands Coral Oxygen Isotope Data 

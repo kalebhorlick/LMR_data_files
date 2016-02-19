@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date:  1999-07
+#	Date:  1999-07-01
 #--------------------
 # Title
 #	Study_Name: Abrolhos Houtman Coral Isotope Data
@@ -98,7 +98,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age_AD	d18O	d13C
+age	d18O	d13C
 1993.9167	-4.163073644	-2.953931113
 1993.7500	-3.860750918	-3.14779926
 1993.5833	-3.850605294	-3.232123358

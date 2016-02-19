@@ -85,8 +85,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##Sr/Ca_norm	Normalized Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, normalized to 1900-1993, ,N
-##Sr/Ca	Annual mean Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N
+##Sr/Ca_anom	Strontium/Calcium anomaly, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, anomaly calculation: normalized to 1900-1993 mean, ,N
+##Sr/Ca	Strontium/Calcium, Porites sp., ,mmol/mol, ,Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:
@@ -94,7 +94,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age	Sr/Ca_norm	Sr/Ca
+age	Sr/Ca_anom	Sr/Ca
 1798	3.319743602	9.411761693
 1799	2.17990568	9.348158737
 1800	4.231051882	9.462612695

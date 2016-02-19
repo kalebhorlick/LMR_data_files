@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2012-06
+#	Date: 2012-06-01
 #--------------------
 # Title
 #	Study_Name: Am�d�e Island, New Caledonia 350 Year Coral Sr/Ca SST Reconstruction 

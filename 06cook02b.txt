@@ -27,7 +27,7 @@
 #       Investigators: Linsley, B.K.; Kaplan, A.; Gouriou, Y.; Salinger, J.; deMenocal, P.B.; Wellington, G.M.; Howe, S.S.
 #--------------------
 # Description_and_Notes
-#	Description: Subannual stable isotope and Sr/Ca data for coral cores from Rarotonga, Cook Islands, 21�14'16"S, 159�49'40"E.
+#	Description: Annual stable isotope and Sr/Ca data for coral cores from Rarotonga, Cook Islands, 21�14'16"S, 159�49'40"E.
 #--------------------
 # Publication 
 #       Authors: Linsley, B.K.; Kaplan, A.; Gouriou, Y.; Salinger, J.; deMenocal, P.B.; Wellington, G.M.; Howe, S.S.
@@ -95,7 +95,7 @@
 #	Most_Recent_Year: 1999
 #	Time_Unit: y_ad
 #	Core_Length: 
-#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} Core name - 3R, 8 samples per year
+#	Notes: {"database":"PAGES1"}{"database":"PAGES2"}{"database":"LMR_FM"} ANNUAL AVERAGES OF DATA IN 06cook02a.txt,   Core name - 3R, 8 samples per year, 
 #------------------
 # Species
 #	Species_Name: Porites lutea
@@ -117,8 +117,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
-##d18O	annually averaged delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, average: annually with 8 samples per year, instrument: Micromass Optima gas source mass spectrometer,N
-##d13C	annually averaged delta 13 Carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, average: annually with 8 samples per year, instrument: Micromass Optima gas source mass spectrometer,N
+##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, average: annually with 8 samples per year, instrument: Micromass Optima gas source mass spectrometer,N
+##d13C	delta 13 Carbon, Porites lutea, , permil VPDB, , Corals and Sclerosponges, average: annually with 8 samples per year, instrument: Micromass Optima gas source mass spectrometer,N
 #
 #----------------
 # Data:

@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2009-11
+#	Date: 2009-11-01
 #--------------------
 # Title
 #	Study_Name: Mentawai Coral d18O Data and DMI Reconstruction
@@ -111,8 +111,8 @@
 # 	Site_Name: Mantawai Islands, West Sumatra, Indonesia
 # 	Location: Ocean>Indian Ocean>Indonesia>Sumatra
 #	Country: Indonesia 
-#	Northernmost_Latitude: -.13
-# 	Southernmost_Latitude: -.13
+#	Northernmost_Latitude: -0.13
+# 	Southernmost_Latitude: -0.13
 # 	Easternmost_Longitude: 98.52
 # 	Westernmost_Longitude: 98.52
 # 	Elevation:  -6 m 
@@ -146,7 +146,7 @@
 #
 ##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
 ##d18O	delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, , ,N
-##d18O_norm	normalized delta 18 Oxygen, Porites lutea, , permil VPDB, , Corals and Sclerosponges, normalized to seasonal mean, ,N
+##d18O_anom	delta 18 Oxygen anomaly, Porites lutea, , permil VPDB, , Corals and Sclerosponges, normalized to seasonal mean, ,N
 #
 #----------------
 # Data:
@@ -154,7 +154,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age	d18O	d18O_norm
+age	d18O	d18O_anom
 1858.29	-5.5	0.21
 1858.37	-5.46	0.27
 1858.46	-5.52	0.2

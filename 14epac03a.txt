@@ -19,7 +19,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2000-09 
+#	Date: 2000-09-01
 #--------------------
 # Title
 #	Study_Name: Clipperton Atoll Coral Stable Isotope Data

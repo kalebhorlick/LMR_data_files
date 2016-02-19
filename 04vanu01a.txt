@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2007-03
+#	Date: 2007-03-01
 #--------------------
 # Title
 #	Study_Name: Malo Channel, Vanuatu Coral Stable Isotope and Elemental Data 1928-1992

@@ -113,7 +113,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-nine components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 ##age	age,,,years AD,,Corals and Sclerosponges,,,N
 ##d18O	annually averaged delta 18 Oxygen,Porites lutea,,permil VPDB,,Corals and Sclerosponges,,,N
-##d18O_norm	normalized delta 18O,Porites lutea,,permil VPDB,,Corals and Sclerosponges,anomaly calculation: minus 1900-1999 mean,,N
+##d18O_anom	delta 18 Oxygen anomaly,Porites lutea,,permil VPDB,,Corals and Sclerosponges,anomaly calculation: minus 1900-1999 mean,,N
 #
 #----------------
 # Data:
@@ -121,7 +121,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN 
 #
-age	d18O	d18O_norm
+age	d18O	d18O_anom
 2001.5	-4.81	-0.16
 2000.5	-4.98	-0.33
 1999.5	-4.96	-0.31

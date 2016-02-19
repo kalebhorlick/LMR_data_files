@@ -85,8 +85,8 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age,,,years AD,,Corals and Sclerosponges,,,N
-##Sr/Ca	Strontium Calcium ratio,Siderastrea siderea,, mmol/mol,,Corals and Sclerosponges,,,N
-##Sr/Ca_err	error in Strontium Calcium ratio,Siderastrea siderea,standard error, mmol/mol,,Corals and Sclerosponges,,,N
+##Sr/Ca	Strontium Calcium,Siderastrea siderea,, mmol/mol,,Corals and Sclerosponges,,,N
+##Sr/Ca_err	error in Strontium Calcium,Siderastrea siderea,standard error, mmol/mol,,Corals and Sclerosponges,,,N
 #
 #----------------
 # Data:

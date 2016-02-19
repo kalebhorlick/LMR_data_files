@@ -24,7 +24,7 @@
 #	Study_Name: Ras Um Sidd Coral Oxygen Isotope Data
 #--------------------
 # Investigators
-#       Investigators: Moustafa, Y.
+#       Investigators: Moustafa, Y.; Wefer, G.; Henrich, R.; Hempel, G.; Patzold, J.
 #--------------------
 # Description_and_Notes
 #	Description: 
@@ -86,7 +86,7 @@
 #
 ##age	age, , ,y_ad, , Corals and Sclerosponges, , ,N
 ##d18O	delta 18 Oxygen, Porites spp, , permil VPDB, , Corals and Sclerosponges, , Mass spectrometer Finnigan MAT 251,N
-##depth	depth, Porites lutea, , cm, , , , ,N
+##depth	depth, Porites lutea, , cm, , Corals and Sclerosponges, , ,N
 #
 #----------------
 # Data:

@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2003-07
+#	Date: 2003-07-01
 #--------------------
 # Title
 #	Study_Name: Palmyra Island Fossil Coral Oxygen Isotope Data
@@ -109,7 +109,7 @@
 # 	Southernmost_Latitude: 5.87 
 # 	Easternmost_Longitude: -162.13 
 # 	Westernmost_Longitude: -162.13 
-# 	Elevation:  +11 m  
+# 	Elevation:  11 m  
 #------------------
 # Data_Collection   
 #	Collection_Name: 03cpac03a

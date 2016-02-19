@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2008-03
+#	Date: 2008-03-01
 #--------------------
 # Title
 #	Study_Name: Rarotonga Subseasonal Coral d18O and Sr/Ca Data
@@ -126,7 +126,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values:  
 #
-age_AD	d18O	d13C
+age	d18O	d13C
 2000.18	-4.88	-3.16
 2000.06	-4.79	-2.7
 1999.93	-4.61	-3.14

@@ -18,7 +18,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2012-06
+#	Date: 2012-06-01
 #--------------------
 # Title
 #	Study_Name: Malindi, Kenya 115 Year Monthly Coral d18O Data 

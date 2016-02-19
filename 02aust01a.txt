@@ -19,7 +19,7 @@
 # Archive: Corals and Sclerosponges
 #--------------------
 # Contribution_Date
-#	Date: 2002-02
+#	Date: 2002-02-22
 #--------------------
 # Title
 #	Study_Name: Great Barrier Reef Composite Sr/Ca, U/Ca and d18O Data
