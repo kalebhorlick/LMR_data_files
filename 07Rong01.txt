@@ -101,7 +101,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing values: NAN
 #
-age d18O
+age	d18O
 1997.5	-120.4
 1992.5	-120.67
 1987.5	-143.54
