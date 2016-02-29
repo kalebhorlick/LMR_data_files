@@ -18,7 +18,7 @@
 # Archive: Speleothems
 #--------------------
 # Contribution_Date
-#	Date:  2011-08
+#	Date:  2011-08-01
 #--------------------
 # Title
 #	Study_Name: Central and Northeast India 1000 Year Stalagmite Oxygen Isotope Data 

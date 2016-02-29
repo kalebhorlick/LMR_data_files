@@ -105,7 +105,7 @@
 # Data variables follow that are preceded by "##" in columns one and two.
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
-##age	age, , , Years AD, , , , ,N
+##age	age, , , years AD, , , , ,N
 ##d18O	delta 18 Oxygen, , , permil VPDB, , Speleothems, , ,N 
 ##sst	Sea Surface Temperature anomaly - Kuroshio Extension, , , deg C, , , SST anomaly vs. Kaplan SST AD 1857-2007, ,N
 #----------------
@@ -114,7 +114,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age	18O	sst
+age	d18O	sst
 854	-8.69	0.16
 855	-8.69	0.16
 856	-8.76	0.13

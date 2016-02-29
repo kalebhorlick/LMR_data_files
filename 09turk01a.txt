@@ -75,7 +75,7 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 09turk01a
-#	Earliest_Year: 50274
+#	Earliest_Year: 2190
 #	Most_Recent_Year: -56
 #	Time_Unit: yb_1950
 #	Core_Length: 1.694 m

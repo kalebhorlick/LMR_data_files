@@ -18,7 +18,7 @@
 # Archive: Speleothems
 #--------------------
 # Contribution_Date
-#	Date: 2010-09
+#	Date: 2010-09-01
 #--------------------
 # Title
 #	Study_Name: Tzabnah Cave, Mexico 1500 Year Speleothem Oxygen Isotope Data

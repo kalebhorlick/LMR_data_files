@@ -86,7 +86,7 @@
 #
 ##age	age, , , years AD, , , , ,N
 ##d18O	delta 18 Oxygen, , , permil VPDB, , Speleothems, , ,N
-##age_err	error in age model, , , years, , , , ,N
+##age_err	age model uncertainty, , , years, , , , ,N
 #----------------
 # Data:
 # Data lines follow (have no #)

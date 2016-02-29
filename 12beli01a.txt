@@ -124,8 +124,8 @@
 #------------------
 # Data_Collection   
 #	Collection_Name: 12beli01a
-#	Earliest_Year: -40
-#	Most_Recent_Year: 2006
+#	Earliest_Year: -38
+#	Most_Recent_Year: 2003
 #	Time_Unit: y_ad
 #	Core_Length: 0.415 m 
 #	Notes: {"database":"LMR_FM"} 

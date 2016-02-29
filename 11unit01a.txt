@@ -18,7 +18,7 @@
 # Archive: Speleothems
 #--------------------
 # Contribution_Date
-#	Date: 2011-01
+#	Date: 2011-01-01
 #--------------------
 # Title
 #	Study_Name: Uamh an Tartair, Scotland 1000Yr Stalagmite SU967 Stable Isotope Data 

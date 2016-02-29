@@ -18,7 +18,7 @@
 # Archive: Speleothems
 #--------------------
 # Contribution_Date
-#	Date: 2011-06
+#	Date: 2011-06-01
 #--------------------
 # Title
 #	Study_Name: Huangye Cave, China 1860 Year Oxygen Isotope Data 
@@ -140,7 +140,7 @@
 # Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
 #
 ##age	age, , , years AD, , , , ,N
-##d18O	delta 18 Oxygen,,,permil VPDB,,Speleothems,,,N
+##d18O_anom	delta 18 Oxygen anomaly,,,permil VPDB,,Speleothems,,normalized,N
 #
 #----------------
 # Data:
@@ -148,7 +148,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: NAN
 #
-age	d18O
+age	d18O_anom
 2002	0.46
 1998	0.56
 1993	0.35
