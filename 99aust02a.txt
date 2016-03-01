@@ -1,0 +1,312 @@
+﻿# Southern Great Barrier Reef Coral Radiocarbon Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1911
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/abraham1999.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2004-12-01
+#--------------------
+# Title
+#	Study_Name: Southern Great Barrier Reef Coral Radiocarbon Data
+#--------------------
+# Investigators
+#       Investigators: Druffel, E.R.M.; Griffin, S. 
+#--------------------
+# Description_and_Notes
+#	Description: 
+#--------------------
+# Publication 
+#       Authors: Druffel, E.R.M.; Griffin, S. 
+#       Published_Date_or_Year: 1999     
+#       Published_Title: Variability of surface ocean radiocarbon and stable isotopes  in the southwestern Pacific.
+#       Journal_Name: Journal of Geophysical Research - Ocean
+#       Volume: 104
+#       Edition: 
+#       Issue: C10
+#       Pages: 23, 607-613
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Druffel, E.R.M. and S. Griffin.  1999. Variability of surface ocean radiocarbon and stable isotopes  in the southwestern Pacific. Journal of Geophysical Research - Ocean v.104 (C10) pp. 23,607-613.
+#       Abstract: We present high-precision radiocarbon (D14C) results and stable isotope  (d18O and d13C) records for a coral from Heron Island (23�S, 152�E) and  new stable isotope (d18O and d13C) records for annual coral bands from  Abraham Reef (22�S, 153�E) in the southern Great Barrier Reef studied  earlier [Druffel and Griffin, 1993]. These tracers provide unique  information on the regional water mass history, and together these data  allow us to constrain the variability of circulation in the upper Pacific  over the past four centuries. First, we observe decreases in d18O of coral  from Abraham Reef and Heron Island, indicating an increase in sea surface  temperature and/or a decrease in surface salinity since 1850. Second, the  small Suess effect value (D14C decrease from 1880 to 1955, due mostly to  fossil fuel CO2) observed previously at Abraham Reef [Druffel and Griffin,  1993] is confirmed in the measurements reported here from the Heron Island  coral. This value is low compared to those observed in other areas of the  ocean [Druffel, 1997; Druffel and Linick, 1978; Nozaki et al., 1978]  between 1880 and 1955. Third, we report alterations in the correlation  between El Nino events and the occurrence of low D14C, which is indicative  of long-term change(s) in circulation in the SW Pacific. The D14C shifts  reported here are not large, but even small temporal changes in prebomb  D14C suggest that important changes in the large-scale state of the ocean  have occurred, such as a temporal change in circulation. 
+#--------------------
+# Publication 
+#       Authors: Druffel, E.R.M.; Griffin, S. 
+#       Published_Date_or_Year: 1995     
+#       Published_Title: Regional variability of surface ocean radiocarbon from southern great barrier reef corals.
+#       Journal_Name: Radiocarbon
+#       Volume: 37
+#       Edition: 
+#       Issue: 
+#       Pages: 517-524
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Druffel, E.R.M. and S. Griffin.  1995. Regional variability of surface ocean radiocarbon from southern great barrier reef corals. Radiocarbon 37:517-524.
+#       Abstract: 
+#--------------------
+# Publication 
+#       Authors: Druffel, E.R.M.; Griffin, S. 
+#       Published_Date_or_Year: 1993     
+#       Published_Title: Large Variations of Surface Ocean Radiocarbon: Evidence of Circulation  Changes in the Southwestern pacific.
+#       Journal_Name: Journal of Geophysical Research
+#       Volume: 98
+#       Edition: 
+#       Issue: C11
+#       Pages: 20, 249, 259
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Druffel, E.R.M. and S. Griffin. 1993.  Large Variations of Surface Ocean Radiocarbon: Evidence of Circulation  Changes in the Southwestern pacific. Journal of Geophysical Research, Vol.98, NO.C11, pg20,249-20,259.
+#       Abstract: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Abraham Reef, Great Barrier Reef, Australia
+#       Location: Australia/New Zealand>Australia
+#	Country: Australia 
+#	Northernmost_Latitude: -22.096667
+# 	Southernmost_Latitude: -22.096667
+# 	Easternmost_Longitude: 152.492621
+# 	Westernmost_Longitude: 152.492621
+# 	Elevation: -10 m
+#------------------
+# Data_Collection   
+#	Collection_Name: 99aust02a
+#	Earliest_Year: 1635 
+#	Most_Recent_Year: 1991
+#	Time_Unit: y_ad
+#	Core_Length:
+#	Notes: {"database":"PAGES2"} Abraham core-1 Collected December 1985 by Peter Isdale. Abraham core-2 coll. May 1991 by Druffel
+#------------------
+# Species
+#	Species_Name: Porites austraiensis
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+# 
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	two-year band midpoint age, , ,years AD, , Corals and Sclerosponges, , ,N
+##d14C	delta 13 Carbon, Porites austraiensis, , permil, , Corals and Sclerosponges, , ,N
+##err	error calculation per sample, delta 14 Carbon, ,permil, ,Corals and Sclerosponges, , ,N 
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age	d14C	err
+1635.3	-51.3	2
+1637.3	-56.1	2.6
+1639.3	-46.9	2.1
+1641.3	-51.5	2.2
+1643.3	-48	1.9
+1645.3	-42.4	3.6
+1647.3	-47.4	1.9
+1649.3	-49.8	2.2
+1651.3	-46.8	2.3
+1653.3	-54.5	2.2
+1655.3	-41.1	2.3
+1657.3	-43.7	2.2
+1659.3	-42.8	2.2
+1663.3	-44.9	2.2
+1665.3	-53.2	2.3
+1667.3	-44.1	2.2
+1669.3	-45.3	2.1
+1671.3	-49.8	1.9
+1673.3	-44.3	2.2
+1675.3	-49.3	3.4
+1677.3	-33.2	2.3
+1679.3	-42.4	2
+1681.3	-41.6	2.1
+1683.3	-45.3	2.1
+1685.3	-35	2.1
+1687.3	-55	2.4
+1689.3	-48	2.7
+1691.3	-30.3	2.6
+1693.3	-39	2.1
+1695.3	-40	2.3
+1697.3	-38.1	2.7
+1699.3	-47	2.3
+1703.3	-50.6	4.1
+1705.3	-48.3	2.4
+1707.3	-38.4	2.3
+1709.3	-42.9	2.3
+1711.3	-38.5	2.3
+1713.3	-40.7	2.1
+1715.3	-40.5	2.2
+1719.3	-36.6	2.2
+1721.3	-38.1	2.2
+1723.3	-40.8	2
+1725.3	-45.3	2.2
+1727.3	-34.5	2.1
+1729.3	-54.6	2.2
+1731.3	-44.1	2.1
+1735.3	-44.1	2.3
+1737.3	-46.1	2.1
+1741.3	-41.1	2.2
+1743.3	-47.5	1.9
+1747.3	-41.3	2
+1749.3	-53.7	2
+1751.3	-43.4	2.1
+1753.3	-46.8	2.3
+1755.3	-48.1	1.9
+1757.3	-39	2
+1759.3	-40.1	2.2
+1761.3	-42.3	2.1
+1763.3	-45.6	2
+1767.3	-42.6	2.3
+1769.3	-56	2
+1771.3	-37.7	2.2
+1773.3	-44.6	2.8
+1775.3	-44.1	2.1
+1777.3	-48.9	2.1
+1779.3	-46.7	2.3
+1783.3	-46.5	2
+1785.3	-40.4	1.9
+1787.3	-45.7	2
+1789.3	-42.2	2
+1791.3	-52.6	2.1
+1793.3	-43.4	2.2
+1795.3	-50.8	2
+1797.3	-53.4	2
+1799.3	-51.4	2.2
+1801.3	-50.6	2.1
+1803.3	-44.6	2
+1805.3	-50.8	2.7
+1807.3	-50.7	3
+1809.3	-47.9	2.1
+1811.3	-53.5	2.3
+1813.3	-49.3	2
+1815.3	-44.9	NAN
+1817.3	-51.8	2
+1819.3	-46.2	2.1
+1821.3	-45.9	2
+1823.3	-46.1	2.2
+1825.3	-41.9	2.1
+1827.3	-50.7	2.1
+1829.3	-47.9	2.4
+1831.3	-51.6	2.1
+1833.3	-45.4	2.3
+1835.3	-54	2.2
+1837.3	-47.1	2.5
+1839.3	-52.1	2
+1841.3	-44.2	2.2
+1843.3	-57.2	2.1
+1845.3	-38.3	2.1
+1847.3	-45.3	2.1
+1849.3	-46.7	2
+1851.3	-43	2.3
+1853.3	-51.1	2
+1855.3	-50.5	2.2
+1857.3	-50.3	2.1
+1861.3	-51.3	1.9
+1863.3	-45.2	2
+1865.3	-58.4	2.2
+1867.3	-49.6	2.2
+1869.3	-51.5	2.2
+1871.3	-52.5	2
+1873.3	-53.5	1.9
+1875.3	-51	2.2
+1877.3	-44.9	2
+1879.3	-49.4	2.2
+1881.3	-43.6	NAN
+1883.3	-51.3	2.1
+1885.3	-51	2
+1887.3	-49	2.1
+1889.3	-49	2.1
+1891.3	-44.6	2.2
+1893.3	-43.7	NAN
+1895.3	-49.6	2
+1897.3	-48	2.1
+1899.3	-43.6	2.4
+1901.3	-46.2	2.4
+1903.3	-47.1	2.9
+1905.3	-53.2	2
+1907.3	-46.8	2
+1909.3	-55.8	2.1
+1911.3	-52	2
+1913.3	-50.4	2.6
+1915.3	-51.5	2.1
+1917.3	-53.7	2.2
+1919.3	-46.6	2.2
+1921.3	-50.2	2.2
+1923.3	-46.4	2.1
+1925.3	-53.3	2.1
+1927.3	-54.6	NAN
+1929.3	-52	2.2
+1931.3	-49.5	2.2
+1933.3	-47.5	2.2
+1935.3	-50.4	2.1
+1937.3	-53.8	NAN
+1939.3	-53.6	1.9
+1941.3	-44.1	2.1
+1943.3	-49.1	2.2
+1945.3	-54.1	NAN
+1947.3	-48.7	2.2
+1948.3	-49	NAN
+1949.3	-48.2	2.2
+1950.3	-52.2	2.1
+1951.3	-55.4	2.1
+1952.3	-56.3	NAN
+1953.3	-56.5	2.1
+1954.3	-52.1	2.2
+1955.3	-53	2.2
+1956.3	-52.5	NAN
+1957.3	-51.2	2.2
+1958.3	-44.2	2.1
+1959.3	-43	2.5
+1961.6	-13.7	2
+1962.6	-13.7	16.9
+1963.6	21	3
+1964.6	43	2.2
+1967.3	67.8	NAN
+1968.3	93.3	NAN
+1968.6	81.7	3.4
+1970.3	101.5	NAN
+1972.3	112.5	NAN
+1973.3	105.3	NAN
+1974.3	123.1	NAN
+1975.3	124.6	NAN
+1976.3	136.1	NAN
+1977.3	124	NAN
+1978.3	122.2	2.2
+1979.3	136.7	2.1
+1980.3	131.7	2.2
+1982.3	125.4	2.8
+1983.3	132.2	2.1
+1984.3	126.1	NAN
+1985.3	128.1	NAN
+1986.3	125.8	NAN
+1987.3	130.4	NAN
+1988.3	119.4	NAN
+1989.3	119.2	NAN
+1990.3	122	NAN
+1991.1	109	NAN

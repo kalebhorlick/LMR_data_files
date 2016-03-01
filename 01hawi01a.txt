@@ -1,0 +1,176 @@
+﻿# Hawaii Coral Radiocarbon Data 
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1905
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/east_pacific/kona2001.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2004-11-01
+#--------------------
+# Title
+#	Study_Name: Hawaii Coral Radiocarbon Data 
+#--------------------
+# Investigators
+#       Investigators: Druffel, E.R.M.; Griffin, S.; Guilderson, T.P.; Kashgarian, M.; Southon, J.; Schrag, D.P.  
+#--------------------
+# Description_and_Notes
+#	Description: 
+#--------------------
+# Publication 
+#       Authors: Druffel, E.R.M.; Griffin, S.; Guilderson, T.P.; Kashgarian, M.; Southon, J.; Schrag, D.P.
+#       Published_Date_or_Year: 2001     
+#       Published_Title: Changes of subtropical north pacific radiocarbon and correlation  with climate variability
+#       Journal_Name: Radiocarbon
+#       Volume: 43
+#       Edition: 
+#       Issue: 1
+#       Pages: 15-25 
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Druffel, E.R.M., S. Griffin, T.P. Guilderson,  M. Kashgarian, J. Southon, and D.P. Schrag. 2001. Changes of subtropical north pacific radiocarbon and correlation  with climate variability.  Radiocarbon v.43, No. 1, pp. 15-25.
+#       Abstract: 
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Keauhou Bay, Kona, Hawaii
+#       Location: Ocean>Pacific Ocean>Central Pacific Ocean>Hawaiian Islands
+#	Country: United States of America 
+#	Northernmost_Latitude: 19.52 
+# 	Southernmost_Latitude: 19.52 
+# 	Easternmost_Longitude: -155.97 
+# 	Westernmost_Longitude: -155.97
+# 	Elevation: -8 m
+#------------------
+# Data_Collection
+#	Collection_Name: 01hawi01a
+#	Earliest_Year: 1893
+#	Most_Recent_Year: 1966
+#	Time_Unit: y_ad
+#	Core_Length: 
+#	Notes: 
+#------------------
+# Species
+#	Species_Name: Porites lobata
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+#
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##d14C	delta 14 Carbon, Porites lobata, , permil VPDB, , Corals and Sclerosponges, , ,N
+##d14C_err	delta 14 Carbon error, Porites lobata, , permil VPDB, , Corals and Sclerosponges, , ,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN
+#
+age_AD	d14c	d14c_err
+1893.33	-48.5	2.6
+1894.29	-49.4	2.5
+1895.29	-46.4	2.9
+1895.29	-47.1	2.7
+1896.21	-46	2.8
+1897.25	-47.7	3.2
+1898.26	-41.9	2.7
+1899.09	-43.2	2.6
+1900.07	-41.4	2.8
+1901.21	-49.6	2.8
+1902.06	-47.5	3.1
+1902.73	-45.8	2.8
+1903.57	-40.1	2.8
+1904.33	-42.9	3.3
+1904.33	-44	2.4
+1905.21	-44.5	2.8
+1905.21	-43.3	2.5
+1906.18	-42.1	2.7
+1907.13	-49.2	2.3
+1908.32	-46.4	2.1
+1909.28	-49.4	2.8
+1910.23	-42.5	2.7
+1911.2	-42.9	3.1
+1911.2	-41	2.8
+1912.71	-44.9	2.7
+1913.18	-55	2.7
+1913.18	-55.8	2.5
+1914.15	-49.3	2.7
+1915.1	-40.4	2.3
+1916.34	-44.5	2.7
+1917.46	-42.5	2.6
+1918.24	-50.3	2.7
+1919.1	-40.3	2.2
+1919.1	-43.3	3
+1920.09	-46.1	2.6
+1921.19	-46.6	2.7
+1922.19	-48.1	2.6
+1922.98	-48.6	2.7
+1923.86	-52.2	2.3
+1925.26	-45.3	2.6
+1926.34	-45.4	2.7
+1927.17	-49.4	2.8
+1928.17	-51.6	2.7
+1929.3	-50.7	2.9
+1930.24	-51	2.6
+1931.23	-54	2.7
+1932.14	-46.5	2.8
+1933.06	-50.8	2.6
+1934.22	-49.3	2.1
+1934.22	-47.9	2.6
+1935.19	-49.1	2.8
+1936.17	-50.6	2.6
+1936.17	-49.2	2.2
+1937.5	-54.1	2.3
+1937.2	-49.5	2.2
+1938.2	-45	2.6
+1939.7	-51.6	2.5
+1939.47	-51.4	2.7
+1940.12	-52.7	3.7
+1940.12	-50	2.7
+1940.12	-53.4	2.6
+1941.1	-54.6	2.8
+1942.17	-50.4	2.6
+1943.15	-48.4	2.3
+1943.2	-49.3	2.8
+1944.18	-49.1	2.6
+1945.24	-51	2.7
+1946.22	-47.9	2.5
+1947.07	-48.9	2.7
+1948.05	-48.4	2.7
+1949.1	-52.3	2.6
+1950.1	-52.1	2.9
+1951.1	-50.8	2.4
+1951.9	-53.5	2.8
+1951.9	-53.3	2.7
+1958.01	-25.6	2.7
+1961.9	11	2.8
+1964.92	100.1	3
+1966.04	114.4	3.1

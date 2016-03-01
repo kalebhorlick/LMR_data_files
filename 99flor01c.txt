@@ -1,0 +1,232 @@
+﻿# Florida Bay Coral Isotope and Ba/Ca Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1914
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/florida-bay-1999.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Corals and Sclerosponges
+#--------------------
+# Contribution_Date
+#	Date: 2005-02-01
+#--------------------
+# Title
+#	Study_Name: Florida Bay Coral Isotope and Ba/Ca Data
+#--------------------
+# Investigators
+#       Investigators: Swart, P.K.; Healy, G.F.; Greer, L.; Lutz, M.; Saied, A.; Anderegg, D.; Dodge, R.E.; Rudnick, D.
+#--------------------
+# Description_and_Notes
+#	Description: 
+#--------------------
+# Publication 
+#       Authors: Swart, P.K.; Healy, G.F.; Greer, L.; Lutz, M.; Saied, A.; Anderegg, D.; Dodge, R.E.; Rudnick, D. 
+#       Published_Date_or_Year: 1999
+#       Published_Title: The use of proxy chemical records in coral skeletons to ascertain past environmental conditions in Florida Bay
+#       Journal_Name: Estuaries
+#       Volume: 
+#       Edition: 
+#       Issue: 
+#       Pages: 22:384-397
+#       DOI: 
+#       Online_Resource: 
+#       Full_Citation: Swart, P.K., G. Healy, L. Greer, M. Lutz, A. Saied, D. Anderegg, R.E. Dodge, and D. Rudnick. 1999. The use of proxy chemical records in coral skeletons to ascertain past environmental conditions in Florida Bay. Estuaries, 22:384-397.
+#       Abstract:  
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: 
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: Lignumvitae Basin, Florida Bay
+#       Location: North America>United States Of America>Florida
+#	Country: United States Of America 
+#	Northernmost_Latitude: 25.00
+# 	Southernmost_Latitude: 25.00
+# 	Easternmost_Longitude: -80.60
+# 	Westernmost_Longitude: -80.60
+# 	Elevation: -2 m
+#------------------
+# Data_Collection   
+#	Collection_Name: 99flor01c
+#	Earliest_Year: 1851
+#	Most_Recent_Year: 1986
+#	Time_Unit: y_ad
+#	Core_Length: 
+#	Notes: 
+#------------------
+# Species
+#	Species_Name: Solenastrea bournoni 
+#	Common_Name: 
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+# 
+#
+#
+#
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age, , ,years AD, , Corals and Sclerosponges, , ,N
+##Ba/Ca	Barium Calcium ratio, Solenastrea bournoni, , mmol/mol, , Corals and Sclerosponges, , ,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN
+#
+age	Ba/Ca
+1851	6.4682
+1852	4.4205
+1853	5.0205
+1854	4.0300
+1855	5.6400
+1856	4.2700
+1857	5.2200
+1858	7.8000
+1859	4.8500
+1860	5.4700
+1861	4.8200
+1862	4.6000
+1863	6.8000
+1864	4.0100
+1865	5.0400
+1866	4.0500
+1867	7.1800
+1868	5.0500
+1869	6.0000
+1870	4.8000
+1871	4.8200
+1872	4.4000
+1873	4.5200
+1874	5.4100
+1875	4.8700
+1876	5.1000
+1877	5.5200
+1878	6.6900
+1879	6.0900
+1880	6.3800
+1881	6.3100
+1882	5.5100
+1883	7.3000
+1884	5.7800
+1885	4.5500
+1886	4.0600
+1887	6.4000
+1888	5.6400
+1889	3.9200
+1890	13.2000
+1891	3.7100
+1892	5.3800
+1893	4.5800
+1894	4.0000
+1895	4.3700
+1896	5.5400
+1897	5.3000
+1898	5.2600
+1899	3.7200
+1900	5.4200
+1901	4.1300
+1902	3.6300
+1903	4.9000
+1904	3.5700
+1905	5.1800
+1906	6.6500
+1907	6.7100
+1908	7.2200
+1909	5.9500
+1910	6.2700
+1911	8.9900
+1912	6.9800
+1913	8.0900
+1914	5.1300
+1915	6.5900
+1916	9.3700
+1917	6.4000
+1918	6.5600
+1919	9.0200
+1920	7.8000
+1921	5.3000
+1922	5.2100
+1923	6.5600
+1924	9.5000
+1925	7.3600
+1926	7.6100
+1927	4.5500
+1928	5.9900
+1929	9.0000
+1930	3.3200
+1931	6.4000
+1932	3.3700
+1933	4.3400
+1934	5.1300
+1935	4.8800
+1936	5.2400
+1937	5.8600
+1938	7.0500
+1939	5.8400
+1940	6.1400
+1941	5.3900
+1942	3.7100
+1943	6.7500
+1944	5.1200
+1945	5.4300
+1946	3.8500
+1947	3.6500
+1948	3.4700
+1949	1.7100
+1950	3.9300
+1951	5.8300
+1952	3.5200
+1953	4.1400
+1954	4.6400
+1955	4.5000
+1956	4.7000
+1957	5.1900
+1958	3.6000
+1959	4.6900
+1960	3.7800
+1961	5.9100
+1962	5.6900
+1963	5.1900
+1964	5.3600
+1965	4.3000
+1966	4.0100
+1967	4.7400
+1968	6.9800
+1969	8.1200
+1970	5.1400
+1971	3.6100
+1972	5.3500
+1973	4.6700
+1974	3.9600
+1975	7.0500
+1976	6.2700
+1977	5.5800
+1978	4.4100
+1979	8.1800
+1980	4.0000
+1981	4.4000
+1982	3.7900
+1983	7.0400
+1984	4.8700
+1985	4.9500
+1986	7.4900
