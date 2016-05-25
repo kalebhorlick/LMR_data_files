@@ -95,7 +95,7 @@
 #	Most_Recent_Year: 1996
 #	Time_Unit: y_ad
 #	Core_Length: 3.5 m
-#	Notes: {"database":"PAGES1"}{"database":"PAGES2"} Core name - 2R, 8 samples per year
+#	Notes: {"database":"PAGES2"} Core name - 2R, 8 samples per year
 #------------------
 # Species
 #	Species_Name: Porites lutea
