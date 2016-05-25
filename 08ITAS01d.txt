@@ -1,0 +1,197 @@
+﻿# West Antarctic Ice Core 20th Century Stable Isotope Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http://ncdc.noaa.gov/paleo/study/6182
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/west-antarctic-iso2008.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Core
+#--------------------
+# Contribution_Date
+#	Date: 2008
+#--------------------
+# Title
+#	Study_Name: West Antarctic Ice Core 20th Century Stable Isotope Data 
+#--------------------
+# Investigators
+#       Investigators: Schneider, D.P.; Steig, E.J. 
+#--------------------
+# Description_and_Notes
+#	Description: Water stable isotope data from high-resolution ice cores from the West Antarctic Ice Sheet. The record is representative of West Antarctic surface temperature. 
+#--------------------
+# Publication 
+#       Authors: Schneider, D.P.; Steig, E.J.
+#       Published_Date_or_Year:  2008      
+#       Published_Title: Ice cores record significant 1940s Antarctic warmth related to tropical climate variability.
+#       Journal_Name: National Academy of Sciences
+#       Volume: 
+#       Edition: 
+#       Issue: 
+#       Pages: 
+#       DOI: 10.1073/pnas.0803627105
+#       Online_Resource: 
+#       Full_Citation: 
+#       Abstract: Although the 20th Century warming of global climate is well known, climate change in the high-latitude Southern Hemisphere (SH), especially in the first half of the century, remains poorly documented. We present a composite of water stable isotope data from high-resolution ice cores from the West Antarctic Ice Sheet. This record, representative of West Antarctic surface temperature, shows extreme positive anomalies in the 1936-45 decade that are significant in the context of the background 20th Century warming trend. We interpret these anomalies - previously undocumented in the high-latitude SH - as indicative of strong teleconnections in part driven by the major 1939-42 El Nino. These anomalies are coherent with tropical sea-surface temperature, mean SH air temperature, and North Pacific sea-level pressure, underscoring the sensitivity of West Antarctica's climate, and potentially its ice sheet, to large-scale changes in the global climate.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: U.S. National Science Foundation, Office of Polar Programs
+#       Grant: 
+#------------------
+# Site_Information 
+#       Site_Name: West Antarctic Ice Sheet
+#       Location: Antarctica
+#	Country:  
+#	Northernmost_Latitude: -78.12
+# 	Southernmost_Latitude: -78.12
+# 	Easternmost_Longitude: -95.65
+# 	Westernmost_Longitude: -95.65
+# 	Elevation: 1620 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: SchneiderWestAntITASE01-3
+#	Earliest_Year: 1900
+#	Most_Recent_Year: 2001
+#	Time_Unit: y_ad 
+#	Core_Length: 
+#	Notes: International Trans-Antarctic Scientific Expedition (ITASE) cores
+#------------------
+# Chronology: 
+# 
+#
+# 
+#
+#
+#
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##age	age, , ,years AD, , , , ,N
+##dD	raw annual delta Deuterium, , ,permil,annual,ice core, ,water stable isotope mass spec,N		
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: NAN 
+#
+age	dD
+2001	-255.286
+2000	-231.391
+1999	-244.56
+1998	-245.656
+1997	-248.272
+1996	-255.838
+1995	-243.198
+1994	-248.771
+1993	-248.593
+1992	-243.89
+1991	-250.731
+1990	-262.906
+1989	-263.612
+1988	-244.768
+1987	-252.933
+1986	-247.19
+1985	-260.861
+1984	-259.319
+1983	-244.644
+1982	-266.378
+1981	-254.392
+1980	-253.949
+1979	-245.059
+1978	-249.788
+1977	-250.9
+1976	-259.192
+1975	-260.708
+1974	-255.541
+1973	-256.825
+1972	-257.845
+1971	-268.629
+1970	-245.169
+1969	-265.013
+1968	-247.729
+1967	-249.513
+1966	-251.577
+1965	-254.44
+1964	-258.416
+1963	-258.891
+1962	-255.327
+1961	-249.749
+1960	-240.063
+1959	-259.092
+1958	-258.964
+1957	-262.626
+1956	-253.095
+1955	-256.234
+1954	-264.463
+1953	-255.583
+1952	-259.746
+1951	-258.646
+1950	-249.265
+1949	-250.391
+1948	-259.973
+1947	-257.87
+1946	-245.914
+1945	-242.694
+1944	-238.081
+1943	-272.303
+1942	-269.147
+1941	-241.431
+1940	-235.005
+1939	-252.562
+1938	-241.824
+1937	-257.314
+1936	-266.742
+1935	-252.982
+1934	-261.019
+1933	-250.622
+1932	-250.427
+1931	-254.967
+1930	-241.804
+1929	-261.552
+1928	-264.158
+1927	-242.366
+1926	-252.287
+1925	-242.914
+1924	-252.212
+1923	-257.302
+1922	-253.582
+1921	-245.033
+1920	-244.613
+1919	-254.823
+1918	-255.475
+1917	-256.532
+1916	-255.837
+1915	-255.566
+1914	-254.326
+1913	-264.048
+1912	-244.731
+1911	-255.772
+1910	-251.602
+1909	-253.61
+1908	-253.277
+1907	-258.316
+1906	-278.355
+1905	-277.763
+1904	-255.016
+1903	-259.989
+1902	-253.194
+1901	-252.701
+1900	-249.29
+1903	-259.989
+1902	-253.194
+1901	-252.701
+1900	-249.29
