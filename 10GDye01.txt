@@ -67,7 +67,7 @@
 #	Earliest_Year: 1
 #	Most_Recent_Year: 1978
 #	Time_Unit: y_ad
-#	Notes: {"database":"LMR_FM"}{"database":"PAGES1"}{"database":"PAGES2"}
+#	Notes: {"database":"LMR"}
 #
 # --------------------
 # Variables
