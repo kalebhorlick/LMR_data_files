@@ -1,0 +1,462 @@
+class EmptyError(Exception):
+    print Exception
+
+from netCDF4 import * 
+import matplotlib.patches as mpatches
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy import stats
+from numpy import *
+
+
+
+
+
+def ncdc_file_parser(filename):
+
+    '''This function inhales NCDC data descriptor files (2013 vintage or later),
+
+    of the form 'filename.txt', exports data and metadata to a Python ordered 
+
+    dictionary and a matlab structure (filename.mat), the metadata to RDF Turtle
+
+    file filename.ttl and the raw data to filename_data.csv . If primary chronological
+
+    information is provided in the file, it is exported to filename_chronology.txt    
+
+    '''
+
+    # import relevant modules
+
+    from scipy.io import savemat
+
+    import csv
+
+    import collections
+
+    import numpy as np
+
+    import io
+
+    
+
+    def colonReader(string, fCon, fCon_low, end):
+
+        '''This function seeks a specified string (or list of strings) within
+
+        the transcribed file fCon (lowercase version fCon_low) until a specified
+
+        character (typically end of the line) is found.
+
+        If a list of strings is provided, make sure they encompass all possibilities
+
+        '''
+
+        if isinstance(string, basestring):
+
+            lstr = string + ': ' # append the annoying stuff
+
+            Index = fCon_low.find(lstr)
+
+            Len = len(lstr)
+
+            if Index != -1:
+
+                endlIndex = fCon_low[Index:].find(end)
+
+                rstring = fCon[Index+Len:Index+endlIndex]  # returned string
+
+                if rstring[-1:] == '\r':  # strip the '\r' character if it appears
+
+                    rstring = rstring[:-1]
+
+                return rstring.strip()
+
+            else:
+
+                print "Error: property " + string + " not found"           
+
+                return ""
+
+        else:
+
+            num_str = len(string)
+
+            rstring = "" # initialize returned string
+
+            for k in range(0,num_str):  # loop over possible strings
+
+                lstr = string[k] + ': ' # append the annoying stuff  
+
+                Index = fCon_low.find(lstr)
+
+                Len = len(lstr)
+
+                if Index != -1:
+
+                    endlIndex = fCon_low[Index:].find(end)
+
+                    rstring = fCon[Index+Len:Index+endlIndex]
+
+                    if rstring[-1:] == '\r':  # strip the '\r' character if it appears
+
+                        rstring = rstring[:-1]
+
+                    
+
+            if rstring == "":
+
+                print "Error: property " + string[0] + " not found"           
+
+            else:
+
+                return rstring.strip()
+
+            
+
+    #### main function begins here   ###
+
+            
+
+    # define root string        
+
+    file_s   = filename.replace(" ", '_')  # strip all whitespaces
+
+    fileroot = '_'.join(file_s.split('.')[:-1])
+
+    # open the file and port content to a string object
+
+    
+
+    
+
+    
+
+    fin = open(filename,'r')
+
+    fCon = fin.read()
+
+    # TODO : strip all blank lines in text file (will save time later)
+
+    # http://stackoverflow.com/questions/2369440/how-to-delete-all-blank-lines-in-the-file-with-the-help-of-python
+
+    fCon_low = fCon.lower()
+
+    
+
+    d = {}
+
+    
+
+    # assign default metadata    
+
+    d['ElevationUnit'] = 'm'
+
+    d['TimeUnit'] = 'years BP'
+
+    # note: 8240/2030 ACII code for "permil"
+
+    
+
+    # extract metadata from file 
+
+    try:
+
+        d['Title']                = colonReader('study_name', fCon, fCon_low, '\n')
+
+        investigators             = colonReader('investigators', fCon, fCon_low, '\n')
+
+        d['Investigators']        =  investigators.replace(';',' and') # take out the ; so that turtle doesn't freak out.
+
+        d['PubDOI']               = colonReader('doi', fCon, fCon_low, '\n')
+
+        d['SiteName']             = colonReader('site_name', fCon, fCon_low, '\n')
+
+        str_lst = ['northernmost_latitude', 'northernmost latitude'] # documented instances of this field property
+
+        d['NorthernmostLatitude'] = str(colonReader(str_lst, fCon, fCon_low, '\n')) 
+        
+        str_lst = ['southernmost_latitude', 'southernmost latitude'] # documented instances of this field property
+
+        d['SouthernmostLatitude'] = str(colonReader(str_lst, fCon, fCon_low, '\n'))
+        
+        str_lst = ['easternmost_longitude', 'easternmost longitude'] # documented instances of this field property
+
+        d['EasternmostLongitude'] = str(colonReader(str_lst, fCon, fCon_low, '\n'))
+        
+        str_lst = ['westernmost_longitude', 'westernmost longitude'] # documented instances of this field property
+
+        d['WesternmostLongitude'] = str(colonReader(str_lst, fCon, fCon_low, '\n'))
+        
+        #str_lst = ['Elevation']
+        
+        #d['Elevation'] = float(colonReader(str_lst, fCon, fCon_low, '\n'))
+        
+        elev = colonReader('elevation', fCon, fCon_low, '\n')
+
+        if len(elev)>0:
+
+            elev_s = elev.split(' ')
+
+            d['Elevation']        = float(elev_s[0])            
+
+        else:   
+
+            d['Elevation']        = float('NAN')        
+
+        d['CollectionName']       = colonReader('collection_name', fCon, fCon_low, '\n')
+
+        d['EarliestYear']         = float(colonReader('earliest_year', fCon, fCon_low, '\n'))
+
+        d['MostRecentYear']       = float(colonReader('most_recent_year', fCon, fCon_low, '\n'))
+
+        str_lst                   = ['time unit', 'time_unit']
+        
+        d['TimeUnit']             = colonReader(str_lst, fCon, fCon_low, '\n')
+        
+        d['JSON']                 = colonReader('notes', fCon, fCon_low, '\n')
+    
+        d['Archive']                 = colonReader('archive', fCon, fCon_low, '\n')      
+        
+        d['Species']              = colonReader('species_name', fCon, fCon_low, '\n')
+        
+        d['OnlineResource']       = colonReader('online_resource', fCon, fCon_low, '\n')
+        
+    except EmptyError, e:
+
+        print e
+
+    
+
+    # dump chronology to a txt file
+
+#    try:
+#
+#        chron = colonReader('chronology', fCon, fCon_low, '#---')
+#
+#    except EmptyError, e:
+#
+#        print e
+#
+#    if chron != '':
+#
+#        fout1 = open(fileroot + "_chronology.txt", 'w')
+#
+#        fout1.write(chron)
+
+    
+
+    # extract data using csv module
+
+    # ==============================
+
+    sline = fCon.find('# Data:')
+
+    if sline == -1:
+
+        sline = fCon.find('# Data\n')    
+
+    fCon_lines2 = fCon[sline:].splitlines()
+
+    start_line_index = 0
+
+    for line in fCon_lines2:  # skip lines without actual data
+
+        if line:
+
+            if line[0]=='#' or line[0] == ' ':
+
+                start_line_index += 1
+
+    data_mat_str = fCon_lines2[start_line_index:]  
+
+    csv_r = csv.reader(data_mat_str, delimiter = '\t')
+
+    # clean up mpty rows using csv built-in functions
+
+    csv_io = io.BytesIO()
+
+    csv_w = csv.writer(csv_io)
+
+    for row in csv_r:
+
+        if row:
+
+            csv_w.writerow(row)
+
+    datal = csv_io.getvalue().splitlines()
+
+    
+
+    if datal[0][0] == '#': # if the first line is not data
+
+        datal = datal[1:] # skip the first line 
+
+    
+
+    # split along commas and replace empty values in column space  
+
+    for i in range(0,len(datal)):
+
+        lst = datal[i].split(',')
+
+        datal[i] = [(x if x else float('NaN')) for x in lst]   # substitute blanks with NaNs
+
+    #map(lambda x: float('NaN') if x=='' else float(x), datal[i])   # other clever solution using map
+
+    # credit : http://stackoverflow.com/questions/2606976/how-to-replace-empty-string-with-zero-in-comma-separated-string
+
+    #datal[0]=str(datal[0])  
+
+
+  
+#    csv_r = csv.reader(data_mat_str, delimiter = '\t')
+#
+#    out_csv = csv.writer(open(fileroot +'_data.csv','wb'))
+#
+#    out_csv.writerows(csv_r)    
+
+    
+    
+    # convert to numpy array 
+
+    data = np.asarray(datal)  
+
+    nc   = data.shape[1] # number of columns
+    
+    # export data array to a csv file
+
+  
+
+    # close csv file objects
+
+    
+
+    # extract  description of columns of the data matrix
+
+    # ===================================================
+    sn=[]
+    ln=[]
+    u_lst=[]
+    VarDesc = fCon[fCon.find('# Variables'):sline].splitlines()
+
+    nvar = 0 # counter for variable number
+    
+    for line in VarDesc:  # handle all the stupid NCDC convention changes ( this is absolutely ridiculous)
+
+    # (TODO: more clever/general exception handling)
+
+        
+        
+        if line and line[0] != '' and line[0] != ' ' and line[0:2] != '#-' and line[0:2] != '# ' and line != '#': 
+
+            print line            
+
+            
+            
+            nvar = nvar + 1
+
+            line2 = line.replace('\t',',') # clean up
+
+            sp_line = line2.split(',') # split line along commas
+
+            
+            
+            if len(sp_line) < 9:
+
+                continue
+
+            else:
+
+                
+                d['DataColumn' + format(nvar, '02') + '_ShortName']   = sp_line[0]
+
+                d['DataColumn' + format(nvar, '02') + '_LongName']    = sp_line[1]
+
+                d['DataColumn' + format(nvar, '02') + '_Material']    = sp_line[2]
+
+                d['DataColumn' + format(nvar, '02') + '_Uncertainty'] = sp_line[3]
+
+                d['DataColumn' + format(nvar, '02') + '_Units']       = sp_line[4]       
+                                
+                d['DataColumn' + format(nvar, '02') + '_Seasonality'] = sp_line[5]
+
+                d['DataColumn' + format(nvar, '02') + '_Archive']     = sp_line[6]
+
+                d['DataColumn' + format(nvar, '02') + '_Detail']      = sp_line[7]
+
+                d['DataColumn' + format(nvar, '02') + '_Method']      = sp_line[8]
+
+                d['DataColumn' + format(nvar, '02') + '_CharOrNum']   = sp_line[9]
+                
+                  
+        
+    #CRUDELY PULLING OUT VARIABLE INFORMATION        
+            lnn= str(sp_line[1])           
+            shn = str(sp_line[0])
+            ul = str(sp_line[4]) 
+            sn.append(shn)
+            ln.append(lnn)
+            u_lst.append(ul)            
+    
+    d['Units'] = u_lst
+    d['L_name'] = ln        
+    d['Sh_name'] = sn
+    
+    
+    print str(nvar) + ' variables identified in metadata'        
+
+    print str(nc) + ' columns in data matrix'
+    print nc   
+
+    # transform to an ordered dictionary 
+
+    od = collections.OrderedDict(sorted(d.items()))
+
+    
+
+##     export metadata to Turtle RDF format
+#
+##     ====================================
+#
+#    fttl = open(fileroot + '.ttl','w')
+#
+#    keys = od.keys()
+#
+#    # write opening definition
+#
+#    fttl.write(':'+ fileroot + ' a :PaleoGeoRecord ; \n')
+#
+#    # loop over keys, write in 
+#
+#    for key in keys[:-1]:
+#
+#        fttl.write('   :' + key + ' "' + str(od[key]) + '" ; \n')   
+#
+#    # append '.' after the last property
+#
+#    fttl.write('   :' + keys[-1] + ' "' + str(od[keys[-1]]) + '" .')
+#
+#    fttl.close()     
+
+   
+
+   # now add the data to the dictionary itself (TODO: add exception handling if nvar != nc)
+
+    for k in range(0,nvar):
+
+        od['DataColumn' + format(k+1, '02') + '_Values'] = data[:,k]
+
+          
+
+    # export data + metadata to .mat file  
+
+    # ====================================      
+
+    #savemat(fileroot+'.mat', od)   # add data in there too. 
+
+
+
+    print filename + ' export done.' 
+
+    return od
